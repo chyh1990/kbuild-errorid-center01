@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/btcoex.c:414 ath9k_hw_btcoex_set_concur_txprio() error: buffer overflow 'stomp_txprio' 4 <= 4
+
+2012-11-22 05:16:29 kbuild devel-kbuild-i386-2012-11-22-04-52:fd7da3c i386-allyesconfig fd7da3c

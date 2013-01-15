@@ -1,0 +1,4 @@
+include/uapi/linux/nl80211.h:3101:1: error: expected identifier before '}' token
+
+2012-10-17 22:14:42 snb mac80211-next:wip:1e503ff x86_64-randconfig-s093 1fe8945
+2012-10-17 22:14:55 snb x86_64 email notified

@@ -1,0 +1,3 @@
+drivers/staging/vt6656/main_usb.c:283:36: sparse: mixing different enum types
+
+2013-01-09 13:00:12 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

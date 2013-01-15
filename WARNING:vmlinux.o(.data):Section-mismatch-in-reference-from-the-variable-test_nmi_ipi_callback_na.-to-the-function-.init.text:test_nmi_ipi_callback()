@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.data+0x97c8): Section mismatch in reference from the variable test_nmi_ipi_callback_na.10604 to the function .init.text:test_nmi_ipi_callback()
+
+2012-09-08 04:29:55 bee wireless-testing:master:ce5fe84 i386-randconfig-b993 362b056

@@ -1,0 +1,4 @@
+security/integrity/ima/ima_audit.c:45:5: error: implicit declaration of function 'audit_get_sessionid' [-Werror=implicit-function-declaration]
+
+2012-09-26 20:57:41 snb next:akpm:dad0019 x86_64-randconfig-s001 f1e2629
+2012-09-26 20:59:02 snb x86_64 email notified

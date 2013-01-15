@@ -1,0 +1,6 @@
+tps80031.c:(.devexit.text+0x8f7): undefined reference to `i2c_unregister_device'
+
+2012-11-21 22:11:44 kbuild devel-kbuild-x86_64-2012-11-21-22-05:c964dc1 x86_64-allmodconfig c964dc1
+2012-11-21 22:43:42 kbuild mfd:for-next:d530875 x86_64-allmodconfig df9d857
+2012-11-21 22:54:56 kbuild mfd:for-next:dd39c98 x86_64-allmodconfig e5ce940
+2012-11-21 23:40:08 kbuild devel-kbuild-powerpc-2012-11-21-22-55:fbb21dd powerpc-allmodconfig fbb21dd

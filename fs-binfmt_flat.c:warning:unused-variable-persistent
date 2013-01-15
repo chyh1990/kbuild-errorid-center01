@@ -1,0 +1,3 @@
+fs/binfmt_flat.c:746:17: warning: unused variable 'persistent' [-Wunused-variable]
+
+2012-10-30 19:20:28 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-30-18-23:53fc16d h8300-defconfig 53fc16d

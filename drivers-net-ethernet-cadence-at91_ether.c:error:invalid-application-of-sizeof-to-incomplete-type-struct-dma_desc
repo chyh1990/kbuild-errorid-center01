@@ -1,0 +1,5 @@
+drivers/net/ethernet/cadence/at91_ether.c:158:16: error: invalid application of 'sizeof' to incomplete type 'struct dma_desc'
+
+2012-10-30 18:52:52 kbuild at91:net-next_macb_enhancement3:3269426 x86_64-allmodconfig 75eb5df
+2012-10-30 18:53:22 kbuild x86_64 email notified
+2012-10-30 19:48:22 snb devel-snb-arm-2012-10-30-19-14:8baa186 m68k-allmodconfig 8baa186

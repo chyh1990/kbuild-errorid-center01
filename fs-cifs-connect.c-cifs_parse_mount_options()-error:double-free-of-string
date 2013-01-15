@@ -1,0 +1,3 @@
+fs/cifs/connect.c:1903 cifs_parse_mount_options() error: double free of 'string'
+
+2012-12-12 04:57:20 kbuild devel-kbuild-i386-2012-12-12-03-33:b64a746 i386-allyesconfig b64a746

@@ -1,0 +1,3 @@
+warning: (PREEMPT && DEBUG_ATOMIC_SLEEP) selects PREEMPT_COUNT which has unmet direct dependencies (COLDFIRE)
+
+2013-01-09 12:50:35 snb next:master:0f7b07b m68k-allmodconfig 0f7b07b

@@ -1,0 +1,5 @@
+drivers/usb/host/ehci.h:663:3: error: implicit declaration of function 'readl' [-Werror=implicit-function-declaration]
+
+2012-11-02 00:28:14 kbuild devel-kbuild-powerpc-2012-11-02-00-20:8316dd4 powerpc-allmodconfig 8316dd4
+2012-11-02 00:29:22 lkp-mb01 devel-lkp-mb01-i386-2012-11-02-00-04:e6c85e7 i386-randconfig-m114 e6c85e7
+2012-11-02 14:31:05 bee next:akpm:210f491 i386-randconfig-b618 210f491

@@ -1,0 +1,4 @@
+fs/exec.c:1656 cn_printf() Error invalid range 4096 to -1
+
+2012-09-07 21:57:57 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b
+2012-09-07 21:58:09 kbuild i386 email notified

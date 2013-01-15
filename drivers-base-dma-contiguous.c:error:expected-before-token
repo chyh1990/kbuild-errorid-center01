@@ -1,0 +1,4 @@
+drivers/base/dma-contiguous.c:351:3: error: expected ';' before '}' token
+
+2012-09-04 15:31:48 kbuild next:akpm:d0d0486 i386-randconfig-k902 d17d463
+2012-09-05 14:20:38 kbuild next:akpm:1a80b3f i386-randconfig-k910 90b1a52

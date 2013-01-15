@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/sound/soc/codecs/wm8996.c:2569 wm8996_retune_mobile_pdata() error: potential NULL dereference 'wm8996->retune_mobile_texts'.
+
+2013-01-07 12:24:56 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

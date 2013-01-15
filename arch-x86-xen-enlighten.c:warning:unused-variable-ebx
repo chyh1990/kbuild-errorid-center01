@@ -1,0 +1,4 @@
+arch/x86/xen/enlighten.c:1560:16: warning: unused variable 'ebx' [-Wunused-variable]
+
+2012-11-02 23:14:41 bee xen:stable:for-linus-3.8:b3e40b7 x86_64-allyesconfig 9d02b43
+2012-11-02 23:15:01 bee x86_64 email notified

@@ -1,0 +1,8 @@
+net/ipv6/addrconf.c:503:11: error: 'struct ipv6_devconf' has no member named 'mc_forwarding'
+
+2012-12-05 02:48:58 lkp-mb01 net-next:master:193c1e4 i386-randconfig-m091 193c1e4
+2012-12-05 03:39:45 lkp-mb01 devel-lkp-mb01-s390-2012-12-05-03-04:0adccb0 parisc-b180_defconfig 0adccb0
+2012-12-05 04:26:19 bee devel-bee-i386-2012-12-05-02-52:4d3b607 i386-randconfig-b813 4d3b607
+2012-12-05 04:27:43 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-05-03-44:5f2fb96 sh-titan_defconfig 5f2fb96
+2012-12-05 04:52:53 bee devel-bee-x86_64-2012-12-05-02-49:cda6f2f x86_64-lkp cda6f2f
+2012-12-05 05:04:27 snb devel-snb-i386-2012-12-05-03-42:38848bc i386-defconfig 38848bc

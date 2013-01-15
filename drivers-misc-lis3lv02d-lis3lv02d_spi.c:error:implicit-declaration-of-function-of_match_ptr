@@ -1,0 +1,4 @@
+drivers/misc/lis3lv02d/lis3lv02d_spi.c:137:3: error: implicit declaration of function 'of_match_ptr' [-Werror=implicit-function-declaration]
+
+2012-09-16 12:15:34 snb next:akpm:c7fbd2a m68k-allmodconfig 8bac605
+2012-09-16 12:15:35 snb m68k email notified

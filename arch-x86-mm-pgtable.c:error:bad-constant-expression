@@ -1,0 +1,3 @@
+arch/x86/mm/pgtable.c:259:21: error: bad constant expression
+
+2012-09-07 22:41:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

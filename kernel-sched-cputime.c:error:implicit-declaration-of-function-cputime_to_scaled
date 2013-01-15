@@ -1,0 +1,4 @@
+kernel/sched/cputime.c:367:2: error: implicit declaration of function 'cputime_to_scaled' [-Werror=implicit-function-declaration]
+
+2012-11-04 01:29:34 bee dynticks:vtime:generic-v4:8519224 s390-allyesconfig 2ce6eca
+2012-11-04 01:29:58 bee s390 email notified

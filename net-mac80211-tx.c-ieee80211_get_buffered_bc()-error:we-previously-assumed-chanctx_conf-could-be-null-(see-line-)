@@ -1,0 +1,4 @@
+net/mac80211/tx.c:2753 ieee80211_get_buffered_bc() error: we previously assumed 'chanctx_conf' could be null (see line 2714)
+
+2012-10-19 22:05:55 kbuild mac80211-next:master:4e36459 i386-allyesconfig 4e36459
+2012-10-19 22:05:58 kbuild i386 email notified

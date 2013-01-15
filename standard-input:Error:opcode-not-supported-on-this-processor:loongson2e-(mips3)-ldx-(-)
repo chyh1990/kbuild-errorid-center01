@@ -1,0 +1,4 @@
+{standard input}:118: Error: opcode not supported on this processor: loongson2e (mips3) `ldx $2,$2($3)'
+
+2012-11-15 14:58:42 hive mips-sjhill:mti-next:e96eec9 mips-fuloong2e_defconfig e96eec9
+2012-11-15 15:43:34 hive mips-sjhill:mti-next:14a650d mips-fuloong2e_defconfig 14a650d

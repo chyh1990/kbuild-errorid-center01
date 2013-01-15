@@ -1,0 +1,3 @@
+drivers/platform/x86/intel_ips.c:288:23: sparse: symbol 'ips_ulv_limits' was not declared. Should it be static?
+
+2013-01-09 12:53:07 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

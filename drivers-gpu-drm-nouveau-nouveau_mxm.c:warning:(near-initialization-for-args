@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_mxm.c:532:5: warning: (near initialization for 'args[0].buffer.pointer') [-Wpointer-sign]
+
+2012-09-26 11:57:15 bee nouveau:drm-nouveau-fixes:79eee7a x86_64-allyesconfig c7ead11

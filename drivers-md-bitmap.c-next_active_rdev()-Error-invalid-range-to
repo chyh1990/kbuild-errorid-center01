@@ -1,0 +1,4 @@
+drivers/md/bitmap.c:171 next_active_rdev() Error invalid range 4096 to -1
+
+2012-09-12 16:30:27 kbuild md:for-next:4f75eef i386-allyesconfig 4f75eef
+2012-09-12 17:45:44 kbuild i386 email notified

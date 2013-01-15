@@ -1,0 +1,3 @@
+fs/ocfs2/dlm/dlmdomain.c:1222 dlm_match_nodes() error: we previously assumed 'local' could be null (see line 1218)
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

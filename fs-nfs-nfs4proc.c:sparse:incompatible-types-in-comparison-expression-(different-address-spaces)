@@ -1,0 +1,3 @@
+fs/nfs/nfs4proc.c:975:30: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 12:53:52 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

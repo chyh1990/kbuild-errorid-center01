@@ -1,0 +1,3 @@
+drivers/scsi/cxgbi/libcxgbi.c:778:33: sparse: bad assignment (-=) to restricted __wsum
+
+2013-01-09 12:50:02 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

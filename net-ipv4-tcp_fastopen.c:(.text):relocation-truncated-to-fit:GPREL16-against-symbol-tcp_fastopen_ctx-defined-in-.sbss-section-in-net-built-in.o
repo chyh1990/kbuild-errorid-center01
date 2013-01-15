@@ -1,0 +1,3 @@
+net/ipv4/tcp_fastopen.c:51:(.text+0x834cc): relocation truncated to fit: GPREL16 against symbol `tcp_fastopen_ctx' defined in .sbss section in net/built-in.o
+
+2012-09-06 14:58:16 lkp-mb01 can:led-trigger:eb389c9 alpha-defconfig 8336886

@@ -1,0 +1,4 @@
+drivers/platform/x86/asus-wmi.c:1421:12: error: invalid storage class for function 'parse_arg'
+
+2012-12-26 23:59:08 bee platform-drivers-x86:linux-next:de606e5 x86_64-allyesconfig 7783865
+2012-12-26 23:59:57 bee x86_64 email notified

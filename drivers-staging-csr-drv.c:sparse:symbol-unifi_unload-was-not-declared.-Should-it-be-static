@@ -1,0 +1,3 @@
+drivers/staging/csr/drv.c:2179:1: sparse: symbol 'unifi_unload' was not declared. Should it be static?
+
+2013-01-09 13:04:37 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/scsi/be2iscsi/be_main.c:4341:5: sparse: symbol 'beiscsi_iotask_v2' was not declared. Should it be static?
+
+2012-11-14 21:19:37 snb devel-snb-i386-2012-11-14-21-02:5191f88 i386-allmodconfig 5191f88

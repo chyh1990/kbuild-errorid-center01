@@ -1,0 +1,3 @@
+lib/rbtree.c:166 __rb_erase_color() error: we previously assumed 'other->rb_left' could be null (see line 155)
+
+2012-09-07 23:06:56 kbuild mac80211-next:wip:be3090b i386-allyesconfig be3090b

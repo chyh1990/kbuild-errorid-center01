@@ -1,0 +1,4 @@
+drivers/media/video/cpia2/cpia2_v4l.c:194:3-9: preceding lock on line 206
+
+2012-08-17 04:08:00 snb samsung:v4l-exynos-gsc:8ac9447 i386-allmodconfig d76ebb6
+2012-08-17 04:08:03 snb i386 email notified

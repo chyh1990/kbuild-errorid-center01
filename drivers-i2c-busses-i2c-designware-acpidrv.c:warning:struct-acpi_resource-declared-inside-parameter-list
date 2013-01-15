@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-designware-acpidrv.c:124:8: warning: 'struct acpi_resource' declared inside parameter list [enabled by default]
+
+2012-10-09 18:06:36 inn internal-ashishki:rtit-proto:ff40f57 m68k-allmodconfig 8699a27

@@ -1,0 +1,3 @@
+Makefile:668: No bfd.h/libbfd found, install binutils-dev[el]/zlib-static to gain symbol demangling
+
+2012-08-27 20:21:22 bee tip:perf:core:734e9a2 x86_64-allyesconfig fcf65bf

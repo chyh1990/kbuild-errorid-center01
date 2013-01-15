@@ -1,0 +1,3 @@
+drivers/input/keyboard/adp5589-keys.c:391:30: warning: (near initialization for 'kpad') [enabled by default]
+
+2012-10-16 10:54:16 bee stericsson:ske-keypad-redux:0d4af2a parisc-allyesconfig 113ce3e

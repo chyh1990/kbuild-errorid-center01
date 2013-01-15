@@ -1,0 +1,8 @@
+drivers/gpu/drm/i915/intel_ringbuffer.c:1405:24: error: 'I915_GEM_SCRATCH_INDEX' undeclared (first use in this function)
+
+2012-10-03 22:00:10 bee drm-intel:drm-intel-fixes:2cb47a9 x86_64-allyesconfig 307daa1
+2012-10-03 22:00:15 bee x86_64 email notified
+2012-10-03 22:05:51 kbuild drm-intel:drm-intel-nightly:203a6fa x86_64-allmodconfig 307daa1
+2012-10-03 22:34:14 bee drm-intel:drm-intel-nightly:559eb24 x86_64-allyesconfig 683ee58
+2012-10-03 22:36:46 bee drm-intel:drm-intel-fixes:9813bbf x86_64-allyesconfig c809959
+2012-10-03 22:46:50 kbuild drm-intel:drm-intel-nightly:3913a68 x86_64-allmodconfig 3913a68

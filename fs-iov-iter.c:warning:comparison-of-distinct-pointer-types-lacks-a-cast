@@ -1,0 +1,3 @@
+fs/iov-iter.c:112:10: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2013-01-05 06:10:16 lkp-mb01 shaggy:loop_2013_01_04:61698fc i386-randconfig-m113 61698fc

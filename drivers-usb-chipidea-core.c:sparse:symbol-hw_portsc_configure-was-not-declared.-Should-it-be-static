@@ -1,0 +1,3 @@
+drivers/usb/chipidea/core.c:219:6: sparse: symbol 'hw_portsc_configure' was not declared. Should it be static?
+
+2012-12-17 04:09:07 snb imx:work:efikasb:4de3051 i386-allmodconfig 4de3051

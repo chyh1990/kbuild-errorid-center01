@@ -1,0 +1,3 @@
+drivers/usb/serial/kl5kusb105.c:383:10: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-10-25 12:23:25 kbuild next:master:2253213 x86_64-allmodconfig 2253213

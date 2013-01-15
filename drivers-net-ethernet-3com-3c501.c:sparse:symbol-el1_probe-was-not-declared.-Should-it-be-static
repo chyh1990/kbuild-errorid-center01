@@ -1,0 +1,3 @@
+drivers/net/ethernet/3com/3c501.c:158:19: sparse: symbol 'el1_probe' was not declared. Should it be static?
+
+2013-01-09 13:03:45 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

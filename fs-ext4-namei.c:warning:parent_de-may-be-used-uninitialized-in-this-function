@@ -1,0 +1,3 @@
+fs/ext4/namei.c:3168:20: warning: 'parent_de' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-03 12:26:00 bee ext4:dev:b0c30cd i386-randconfig-x160 6785f7a

@@ -1,0 +1,3 @@
+drivers/usb/serial/ftdi_sio.c:2032:3: warning: pointer targets in passing argument 2 of 'tty_insert_flip_string_fixed_flag' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:27 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

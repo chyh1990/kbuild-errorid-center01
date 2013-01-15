@@ -1,0 +1,4 @@
+drivers/tty/vt/keyboard.c:1637:11-18: WARNING opportunity for memdep_user
+
+2012-09-21 15:55:58 snb arm-soc:for-next:d6c8110 i386-allmodconfig a73403d
+2012-09-21 15:59:22 snb i386 email notified

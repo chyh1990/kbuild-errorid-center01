@@ -1,0 +1,5 @@
+{standard input}:9993: Error: number of operands mismatch for `movq'
+
+2012-09-02 13:12:56 hive userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-h861 46c4bb1
+2012-09-21 13:44:06 snb nfs:testing:9dfaead x86_64-randconfig-s362 7071017
+2012-10-09 04:47:03 hive net:master:8634724 x86_64-randconfig-h004 8634724

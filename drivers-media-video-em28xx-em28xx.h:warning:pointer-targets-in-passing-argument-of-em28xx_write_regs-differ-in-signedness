@@ -1,0 +1,3 @@
+drivers/media/video/em28xx/em28xx.h:754:2: warning: pointer targets in passing argument 3 of 'em28xx_write_regs' differ in signedness [-Wpointer-sign]
+
+2012-09-27 07:41:09 bee media:v4l_for_linus:89de0f2 powerpc-allyesconfig 48f2adf

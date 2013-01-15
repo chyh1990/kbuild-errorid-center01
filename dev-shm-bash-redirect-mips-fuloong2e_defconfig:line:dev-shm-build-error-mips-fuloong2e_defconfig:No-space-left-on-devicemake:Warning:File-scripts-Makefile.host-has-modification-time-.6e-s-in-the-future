@@ -1,0 +1,3 @@
+/dev/shm/bash-redirect-mips-fuloong2e_defconfig: line 1: /dev/shm/build-error-mips-fuloong2e_defconfig/10257-10576-136: No space left on devicemake[3]: Warning: File `scripts/Makefile.host' has modification time 3.6e+08 s in the future
+
+2012-12-20 04:10:44 hive cgroup:blkcg-cfq-hierarchy:945010d mips-fuloong2e_defconfig 945010d

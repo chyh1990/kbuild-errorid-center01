@@ -1,0 +1,4 @@
+arch/x86/video/fbdev.c:36:26: error: 'IORESOURCE_ROM_SHADOW' undeclared (first use in this function)
+
+2012-09-17 17:26:38 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724
+2012-09-17 17:55:05 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac

@@ -1,0 +1,5 @@
+(.text+0xe9ad0): relocation truncated to fit: GPREL16 against symbol `hid_debug' defined in .sbss section in drivers/built-in.o
+
+2012-09-25 05:25:52 lkp-mb01 hid:picolcd:5ed84c3 alpha-defconfig 5ed84c3
+2012-09-29 06:08:04 lkp-mb01 kgdb:kgdb-next:08f9553 alpha-defconfig 08f9553
+2012-10-02 17:27:27 lkp-mb01 hid:picolcd:56fa944 alpha-defconfig 56fa944

@@ -1,0 +1,37 @@
+ERROR: "cfc_write_array_to_buffer" undefined!
+
+2013-01-03 04:25:06 lkp-mb01 linus:master:5439ca6 i386-randconfig-m094 5439ca6
+2013-01-03 08:22:21 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-07-56:dbe92a1 i386-randconfig-m094 dbe92a1
+2013-01-03 10:05:46 lkp-mb01 leds:fixes-for-3.8:c36f03f i386-randconfig-m094 c36f03f
+2013-01-03 11:23:00 lkp-mb01 linus:master:d1c3ed6 i386-randconfig-m094 d1c3ed6
+2013-01-03 12:08:34 lkp-mb01 next:akpm:611a74f i386-randconfig-m094 611a74f
+2013-01-03 12:16:27 lkp-mb01 next:master:3696068 i386-randconfig-m094 3696068
+2013-01-03 16:19:49 lkp-mb01 shawnguo:imx:cleanup:87071e5 i386-randconfig-m094 87071e5
+2013-01-03 17:59:32 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-17-41:6385e3d i386-randconfig-m094 6385e3d
+2013-01-03 18:21:46 lkp-mb01 hid:for-3.9:sony:e57a67d i386-randconfig-m094 e57a67d
+2013-01-03 18:41:48 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-18-23:ba12bc8 i386-randconfig-m094 ba12bc8
+2013-01-03 18:53:56 lkp-mb01 net-next:master:06a7fc4 i386-randconfig-m094 06a7fc4
+2013-01-03 19:09:01 lkp-mb01 davinci:master:45b4a86 i386-randconfig-m094 45b4a86
+2013-01-03 20:04:47 lkp-mb01 sound-unstable:master:c536269 i386-randconfig-m094 c536269
+2013-01-03 20:24:54 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-20-07:d530366 i386-randconfig-m094 d530366
+2013-01-03 20:44:31 lkp-mb01 mac80211-next:master:ba23d20 i386-randconfig-m094 ba23d20
+2013-01-03 21:05:23 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-20-47:febf586 i386-randconfig-m094 febf586
+2013-01-03 21:24:33 lkp-mb01 asoc:topic:fsi:fd974e5 i386-randconfig-m094 fd974e5
+2013-01-03 21:45:45 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-21-26:5eb0bb0 i386-randconfig-m094 5eb0bb0
+2013-01-03 21:52:12 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-21-47:13c25d3 i386-randconfig-m094 13c25d3
+2013-01-03 22:17:50 lkp-mb01 wireless-testing:master:c1fe4fd i386-randconfig-m094 c1fe4fd
+2013-01-03 22:43:52 lkp-mb01 nfs:devel:dbbabc6 i386-randconfig-m094 dbbabc6
+2013-01-03 22:47:19 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-22-45:8e3392a i386-randconfig-m094 8e3392a
+2013-01-03 23:03:39 lkp-mb01 regmap:for-next:231c50a i386-randconfig-m094 231c50a
+2013-01-03 23:25:09 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-23-06:e884d0d i386-randconfig-m094 e884d0d
+2013-01-03 23:45:46 lkp-mb01 iwlwifi:master:a4b9fba i386-randconfig-m094 a4b9fba
+2013-01-04 00:06:14 lkp-mb01 samsung:media_for_v3.9:984a503 i386-randconfig-m094 984a503
+2013-01-04 00:53:42 lkp-mb01 pinchartl-fbdev:pinmux-sh:932dd65 i386-randconfig-m094 932dd65
+2013-01-04 01:25:56 lkp-mb01 devel-lkp-mb01-i386-2013-01-04-01-05:529fc1d i386-randconfig-m094 529fc1d
+2013-01-04 01:45:02 lkp-mb01 arm-tegra:for-next:5e30b49 i386-randconfig-m094 5e30b49
+2013-01-04 02:23:34 lkp-mb01 leds:devel:c2c623e i386-randconfig-m094 c2c623e
+2013-01-04 02:42:42 lkp-mb01 calxeda:irqchip-v4:d990795 i386-randconfig-m094 d990795
+2013-01-04 03:04:29 lkp-mb01 leds:devel:c39955d i386-randconfig-m094 c39955d
+2013-01-04 03:14:57 lkp-mb01 pinchartl-fbdev:pinmux-pinctrl:d8f7238 i386-randconfig-m094 d8f7238
+2013-01-04 12:33:13 inn linus:master:5f73896 i386-randconfig-n342 5f73896
+2013-01-05 06:54:39 inn linus:master:5f243b9 i386-randconfig-n342 5f243b9

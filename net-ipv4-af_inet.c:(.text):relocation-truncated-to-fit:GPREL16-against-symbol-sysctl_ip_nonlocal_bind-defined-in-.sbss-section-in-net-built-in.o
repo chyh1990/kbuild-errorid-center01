@@ -1,0 +1,3 @@
+net/ipv4/af_inet.c:489:(.text+0x93d5c): relocation truncated to fit: GPREL16 against symbol `sysctl_ip_nonlocal_bind' defined in .sbss section in net/built-in.o
+
+2012-09-05 13:46:46 lkp-mb01 can:led-trigger:eb389c9 alpha-defconfig e6acb38

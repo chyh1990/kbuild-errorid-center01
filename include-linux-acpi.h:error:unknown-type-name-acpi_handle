@@ -1,0 +1,10 @@
+include/linux/acpi.h:551:49: error: unknown type name 'acpi_handle'
+
+2013-01-12 08:05:26 snb devel-snb-arm-2013-01-12-08-02:fc6b884 arm-at91_dt_defconfig fc6b884
+2013-01-12 08:24:25 lkp-mb01 devel-lkp-mb01-blackfin-2013-01-12-08-03:7a556a0 blackfin-BF526-EZBRD_defconfig 7a556a0
+2013-01-12 08:21:16 kbuild devel-kbuild-powerpc-2013-01-12-08-00:2763482 powerpc-allmodconfig 2763482
+2013-01-12 08:57:41 lkp-mb01 devel-lkp-mb01-s390-2013-01-12-08-03:4bb3942 alpha-defconfig 4bb3942
+2013-01-12 09:35:03 snb devel-snb-i386-2013-01-12-09-12:89ff1f5 i386-allnoconfig 89ff1f5
+2013-01-12 09:58:53 bee devel-bee-sparc64-2013-01-12-09-26:5ffa847 powerpc-chroma_defconfig 5ffa847
+2013-01-12 21:41:44 snb pm:linux-next:6da2315 arm-at91_dt_defconfig 6da2315
+2013-01-14 12:36:15 hive devel-hive-mips-2013-01-14-11-51:8021b86 mips-allmodconfig 8021b86

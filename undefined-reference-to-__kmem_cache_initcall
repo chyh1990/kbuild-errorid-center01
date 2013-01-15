@@ -1,0 +1,6 @@
+slab_common.c:(.init.text+0x12b8): undefined reference to `__kmem_cache_initcall'
+
+2012-09-11 15:45:37 hive glommer-memcg:kmemcg-slab:b20a4ab sh-allnoconfig dd5f38a
+2012-09-11 15:45:38 hive sh email notified
+2012-09-13 18:56:07 hive glommer-memcg:kmemcg-slab:a1fe65d sh-allnoconfig a1fe65d
+2012-09-17 22:09:26 snb glommer-memcg:kmemcg-slab:8c3300f x86_64-randconfig-s341 8c3300f

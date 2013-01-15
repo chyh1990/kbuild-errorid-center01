@@ -1,0 +1,4 @@
+drivers/i2c/busses/i2c-tegra.c:646:2: warning: initialization discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-19 23:30:11 snb arm-soc:next:drivers:25696b4 arm-tegra_defconfig 25696b4
+2012-09-19 23:49:53 snb arm email notified

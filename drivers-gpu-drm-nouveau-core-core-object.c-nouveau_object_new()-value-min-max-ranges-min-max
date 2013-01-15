@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/core/object.c:188 nouveau_object_new() value = min-36973,36974-max, ranges = min-max
+
+2012-09-19 00:36:21 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19

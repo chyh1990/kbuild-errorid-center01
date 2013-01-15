@@ -1,0 +1,3 @@
+sound/pci/pcxhr/pcxhr.c:705:32: warning: 'pipe' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-19 23:03:49 snb signal:for-dhowells:578e209 x86_64-randconfig-s351 578e209

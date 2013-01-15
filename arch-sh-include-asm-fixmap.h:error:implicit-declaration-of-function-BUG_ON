@@ -1,0 +1,19 @@
+arch/sh/include/asm/fixmap.h:133:2: error: implicit declaration of function 'BUG_ON' [-Werror=implicit-function-declaration]
+
+2012-07-23 20:12:50 hive sh /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:29bf20b 3de93c6af9127d746e0cc39084b94342129876f9
+2012-07-31 06:04:18 hive sh 5559b50acdcdcad7e362882d3261bf934c9436f6 /cc/kernel-tests/commit-list/nfsd:nfsd-next:2c142ba
+2012-08-01 04:59:38 hive sh b8edf3e5522735c8ce78b81845f7a1a2d4a08626 /cc/kernel-tests/commit-list/asoc:for-3.7:d89e75f
+2012-08-04 00:15:29 hive sh 9d40e5582c9c4cfb6977ba2a0ca9c2ed82c56f21 /cc/kernel-tests/commit-list/sound-unstable:master:c39e7b5
+2012-08-06 17:59:14 hive sh d3373a241bbf034a1ef43e6417e3d0029c8a8145 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:bcf9dcc
+2012-08-08 21:13:00 hive sh 54d63ca6605d5eb5d2ed52673b523f5781ead71b /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:2fedbff
+2012-08-08 21:36:37 hive sh 5ab3633d6907018b0b830a720e877c3884d679c3 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:0d8957c
+2012-08-09 09:50:54 hive sh 65bccb5c708bd9f00d24f041f4f7c45130359448 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:65bccb5
+2012-08-10 00:51:41 hive sh 0ff97ebf0804d2e519d578fcb4db03f104d2ca8c /cc/kernel-tests/commit-list/sound:topic:hda-probe-defer:97c6a3d
+2012-08-11 01:40:37 hive sh c96ea64ebbbe911becccb20dea1609017caad3c9 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:126e9be
+2012-08-12 05:53:46 hive sh b09e32cd9960a1529e295f25728d0e26d20bb577 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:b09e32c
+2012-08-12 18:13:38 hive sh 20d5a540e55a29daeef12706f9ee73baf5641c16 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next:20d5a54
+2012-08-13 17:13:09 hive sh db3842717a0b3ba06cba5c5a8a86c416321e3965 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:db38427
+2012-08-13 20:11:46 hive sh 15a80851c8166c05c6f600fede1719b29eb70737 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:15a8085
+2012-08-16 08:48:15 hive drm-intel:drm-intel-next-queued:3d21b86 sh-allnoconfig 2c650ee
+2012-08-16 16:49:00 hive drm-intel:drm-intel-next-queued:d667e8e sh-allnoconfig d320571
+2012-08-20 07:12:10 hive keithp:fdi-bc:1f8b3e3 sh-allnoconfig a2b3b8b

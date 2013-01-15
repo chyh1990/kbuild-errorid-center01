@@ -1,0 +1,3 @@
+drivers/acpi/power.c:74:2: error: unknown field 'name' specified in initializer
+
+2012-09-26 12:49:04 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

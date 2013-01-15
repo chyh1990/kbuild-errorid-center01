@@ -1,0 +1,11 @@
+drivers/gpio/gpiolib.c:1128:2: error: implicit declaration of function 'gpiochip_remove_pin_ranges' [-Werror=implicit-function-declaration]
+
+2012-11-06 23:26:52 bee pinctrl:devel:d505934 x86_64-allyesconfig eb7212a
+2012-11-06 23:27:07 bee x86_64 email notified
+2012-11-06 23:35:40 kbuild devel-kbuild-x86_64-2012-11-06-23-30:1c0d1df x86_64-allmodconfig 1c0d1df
+2012-11-06 23:41:39 bee pinctrl:for-next:7ac6f17 i386-randconfig-b631 7ac6f17
+2012-11-06 23:41:43 kbuild devel-kbuild-i386-2012-11-06-23-33:6db4b9b i386-allyesconfig 6db4b9b
+2012-11-06 23:58:59 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-06-23-31:c916c1f blackfin-BF526-EZBRD_defconfig c916c1f
+2012-11-07 01:19:45 kbuild pinctrl:devel:e8321df x86_64-allmodconfig eb7212a
+2012-11-08 22:10:35 bee pinctrl:devel:9ac13ac x86_64-allyesconfig cdf6c6c
+2012-11-12 04:13:10 kbuild pinctrl:default-grab:482f4c2 x86_64-allmodconfig cdf6c6c

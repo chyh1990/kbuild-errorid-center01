@@ -1,0 +1,3 @@
+security/keys/encrypted-keys/encrypted.c:393:3: warning: pointer targets in passing argument 1 of 'strcpy' differ in signedness [-Wpointer-sign]
+
+2012-09-26 17:26:39 bee modsign:modsign-post-KS:1576508 x86_64-randconfig-x072 088c826

@@ -1,0 +1,3 @@
+drivers/scsi/advansys.c:71:2: sparse: this driver is still not properly converted to the DMA API
+
+2013-01-09 13:07:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

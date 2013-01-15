@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_pm.c:703:24: warning: unused variable 'therm' [-Wunused-variable]
+
+2012-10-02 13:45:58 bee nouveau:master:2bbf8ae i386-randconfig-b106 2bbf8ae

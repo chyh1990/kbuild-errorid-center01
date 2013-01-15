@@ -1,0 +1,3 @@
+net/ipv6/syncookies.c:63:8: sparse: symbol 'ipv6_cookie_scratch' was not declared. Should it be static?
+
+2013-01-09 12:56:04 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

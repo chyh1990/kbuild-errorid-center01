@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfa_fcs_lport.c:1259:1: sparse: symbol 'bfa_fcport_get_loop_attr' was not declared. Should it be static?
+
+2012-10-11 13:05:55 snb next:master:1f3b59e i386-allmodconfig 1f3b59e

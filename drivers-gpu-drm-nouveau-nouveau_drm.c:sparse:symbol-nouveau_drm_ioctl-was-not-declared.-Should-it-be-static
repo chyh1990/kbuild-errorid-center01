@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nouveau_drm.c:628:6: sparse: symbol 'nouveau_drm_ioctl' was not declared. Should it be static?
+
+2012-09-12 14:57:10 snb drm:drm-opt-pwr:75c2c97 i386-allmodconfig 75c2c97
+2012-09-12 14:59:29 snb i386 email notified

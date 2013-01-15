@@ -1,0 +1,23 @@
+ERROR: "__ieee80211_suspend" [net/mac80211/mac80211.ko] undefined!
+
+2012-09-16 01:35:00 snb mac80211-next:wip:baf6f9b m68k-allmodconfig 9066871
+2012-09-17 23:43:25 snb mac80211-next:wip:76ab1fa m68k-allmodconfig 76ab1fa
+2012-09-18 21:28:18 snb mac80211-next:wip:0b7b537 m68k-allmodconfig 0b7b537
+2012-09-25 08:42:27 snb bluetooth:master:90e6274 m68k-allmodconfig 90e6274
+2012-10-02 00:00:57 snb bluetooth:master:bc8dce4 m68k-allmodconfig bc8dce4
+2012-10-02 01:22:48 snb bluetooth:master:dfee1eb m68k-allmodconfig dfee1eb
+2012-10-05 13:57:49 inn internal-bluetooth-hs:master:c89ce1b m68k-allmodconfig 3a6a0d8
+2012-10-05 13:57:49 inn internal-bluetooth-hs:master:c89ce1b m68k-allmodconfig 3a6a0d8 email notified
+2012-10-05 13:58:05 inn m68k email notified
+2012-10-05 21:24:06 inn internal-bluetooth-hs:master:1a0b6c5 x86_64-randconfig-i151 1082260
+2012-10-05 22:06:32 inn internal-bluetooth-hs:master:1521223 i386-randconfig-i157 8f2aab2
+2012-10-08 08:44:43 snb bluetooth:master:0b4558e m68k-allmodconfig 0b4558e
+2012-10-08 16:25:05 inn internal-bluetooth-hs:master:856f6a2 m68k-allmodconfig e600cce
+2012-10-10 21:49:07 inn internal-bluetooth-hs:master:e4e8af7 i386-randconfig-i027 23d3a86
+2012-10-11 14:50:46 snb bluetooth:master:5bcb809 m68k-allmodconfig 5bcb809
+2012-10-11 15:42:57 snb bluetooth:master:716e4ab m68k-allmodconfig 716e4ab
+2012-10-12 16:53:33 inn internal-bluetooth-hs:master:5c2fd6e m68k-allmodconfig 716e4ab
+2012-10-12 19:15:46 snb bluetooth:master:b699ec0 x86_64-randconfig-s042 90e6274
+2012-10-12 22:07:51 inn internal-bluetooth-hs:master:29c8ab0 m68k-allmodconfig 8bcde1f
+2012-10-16 18:16:24 inn internal-bluetooth-hs:master:d07233d m68k-allmodconfig b699ec0
+2012-10-20 01:28:38 inn internal-bluetooth-hs:master:ef3b3fe m68k-allmodconfig f706adf

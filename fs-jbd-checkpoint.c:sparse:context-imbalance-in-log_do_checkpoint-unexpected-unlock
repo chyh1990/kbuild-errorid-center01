@@ -1,0 +1,3 @@
+fs/jbd/checkpoint.c:439:20: sparse: context imbalance in 'log_do_checkpoint' - unexpected unlock
+
+2012-09-15 21:13:57 snb hle:hle35:combined:67c4f7b i386-allmodconfig 1d3d7f3

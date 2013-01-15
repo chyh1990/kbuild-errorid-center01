@@ -1,0 +1,7 @@
+kernel/context_tracking.c:59:3: error: implicit declaration of function 'vtime_user_enter' [-Werror=implicit-function-declaration]
+
+2012-12-21 11:40:06 kbuild dynticks:3.7-nohz1:46209cd x86_64-allmodconfig 1b63aea
+2012-12-23 08:00:31 kbuild dynticks:3.8-rc1-nohz1-pre-for-kbuild-test:1582892 x86_64-allmodconfig fe14892
+2012-12-23 10:56:21 hive devel-hive-x86_64-2012-12-23-10-34:1bfe627 x86_64-randconfig-h005 1bfe627
+2012-12-30 00:14:42 kbuild dynticks:3.8-rc1-nohz1:ce745b4 x86_64-allmodconfig 7e89da0
+2012-12-31 05:12:30 snb devel-snb-x86_64-2012-12-31-05-04:b022f65 x86_64-randconfig-s572 b022f65

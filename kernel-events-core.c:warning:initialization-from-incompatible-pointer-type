@@ -1,0 +1,3 @@
+kernel/events/core.c:1869:3: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-09-25 22:22:16 bee memcg:since-3.5:2f641f9 cris-allyesconfig 2f641f9

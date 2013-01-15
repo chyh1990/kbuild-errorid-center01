@@ -1,0 +1,4 @@
+kernel/sysctl.c:255:12: warning: 'min_sched_tunable_scaling' defined but not used [-Wunused-variable]
+
+2012-08-18 01:44:01 bee aa:schednuma2:fd95411 x86_64-randconfig-x691 43e83a5
+2012-08-18 01:44:01 bee x86_64 email notified

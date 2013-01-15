@@ -1,0 +1,4 @@
+drivers/leds/led-triggers.c:109:9: error: 'trigger' undeclared (first use in this function)
+
+2012-08-27 16:51:50 snb leds:for-next:eb28c03 i386-allmodconfig eb28c03
+2012-08-27 16:52:02 snb i386 email notified

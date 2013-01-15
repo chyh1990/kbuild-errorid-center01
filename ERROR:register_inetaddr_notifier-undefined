@@ -1,0 +1,14 @@
+ERROR: "register_inetaddr_notifier" [drivers/staging/csr/csr_wifi.ko] undefined!
+
+2012-08-05 17:42:41 hive x86_64 /dev/shm/linus:master:e7882d6 4cb38750d49010ae72e718d46605ac9ba5a851b4
+2012-08-05 17:42:58 hive x86_64 4cb38750d49010ae72e718d46605ac9ba5a851b4 /cc/kernel-tests/commit-list/linus:master:e7882d6
+2012-08-05 17:48:45 bee x86_64 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee /cc/kernel-tests/commit-list/signal:execve2:f8cdda8
+2012-08-06 04:17:34 bee i386 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee /cc/kernel-tests/commit-list/signal:execve2:73b578f
+2012-08-20 13:14:33 snb integrity:next-ima-appraisal:7eff089 x86_64-randconfig-s144 51b743f
+2012-08-20 13:20:53 snb integrity:next-audit-hashes:a4f6f56 x86_64-randconfig-s144 9bfcb21
+2012-08-20 13:26:50 snb samsung:charger-manager-for-next:7cab40e x86_64-randconfig-s144 d987569
+2012-08-20 13:29:08 snb samsung:extcon-for-next:59b30f7 x86_64-randconfig-s144 59b30f7
+2012-08-25 22:35:22 bee libata:upstream-fixes:d17d794 i386-randconfig-b893 d987569
+2012-08-25 22:38:25 bee l2-mtd:master:88b9e2c i386-randconfig-b893 2361f73
+2012-09-21 18:56:35 snb mmc:mmc-next:b9418b1 x86_64-randconfig-s361 7ae080c
+2012-10-20 00:16:40 inn internal-bluetooth-hs:master:ef3b3fe i386-randconfig-i105 f706adf

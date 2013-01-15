@@ -1,0 +1,3 @@
+drivers/net/can/mcp251x.c:941:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-09-19 00:03:56 snb usb:usb-next:3033bc8 i386-allmodconfig 2bcb132

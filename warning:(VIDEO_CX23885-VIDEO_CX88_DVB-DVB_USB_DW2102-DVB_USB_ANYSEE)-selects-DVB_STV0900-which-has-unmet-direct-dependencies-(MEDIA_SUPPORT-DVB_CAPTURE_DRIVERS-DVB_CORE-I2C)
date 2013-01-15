@@ -1,0 +1,3 @@
+warning: (VIDEO_CX23885 && VIDEO_CX88_DVB && DVB_USB_DW2102 && DVB_USB_ANYSEE) selects DVB_STV0900 which has unmet direct dependencies (MEDIA_SUPPORT && DVB_CAPTURE_DRIVERS && DVB_CORE && I2C)
+
+2012-09-19 12:38:00 bee asoc:for-next:7f0f58f i386-randconfig-b043 7f0f58f

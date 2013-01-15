@@ -1,0 +1,4 @@
+include/linux/user_namespace.h:70:6: error: 'flags' undeclared (first use in this function)
+
+2012-08-07 06:20:07 bee x86_64 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 7009ced73f927b12d46b1be4e6921921fcea4b42
+2012-08-07 06:20:08 bee x86_64 email notified

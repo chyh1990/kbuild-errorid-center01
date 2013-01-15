@@ -1,0 +1,4 @@
+(.init.text+0x3630): relocation truncated to fit: R_M32R_26_PCREL_RELA against undefined symbol `memcg_init_kmem_cache'
+
+2012-09-13 18:56:04 hive glommer-memcg:kmemcg-slab:a1fe65d m32r-mappi3.smp_defconfig a1fe65d
+2012-09-13 18:56:05 hive m32r email notified

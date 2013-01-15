@@ -1,0 +1,3 @@
+fs/ocfs2/dlm/dlmrecovery.c:1799 dlm_process_recovery_data() error: potential NULL dereference 'lock'.
+
+2013-01-09 13:28:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/csr/io.c:874 uf_read_proc() error: potential null dereference 'p'.  (kmalloc returns null)
+
+2013-01-09 13:26:36 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

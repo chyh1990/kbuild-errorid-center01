@@ -1,0 +1,3 @@
+arch/x86/kernel/microcode_intel.c:434:35: sparse: incorrect type in argument 2 (different address spaces)
+
+2013-01-09 13:15:50 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

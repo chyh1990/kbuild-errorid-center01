@@ -1,0 +1,3 @@
+drivers/media/video/m5mols/m5mols_core.c:589:18: warning: 'type' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-28 22:34:41 snb lpc32xx:master:3aedfab x86_64-randconfig-s171 900f351

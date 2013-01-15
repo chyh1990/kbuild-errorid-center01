@@ -1,0 +1,3 @@
+ipc/util.c:215:29: sparse: context imbalance in 'ipc_findkey_locked' - wrong count at exit
+
+2012-10-15 20:24:04 snb cr:crtools-v3.7-rc1:f327626 i386-allmodconfig f327626

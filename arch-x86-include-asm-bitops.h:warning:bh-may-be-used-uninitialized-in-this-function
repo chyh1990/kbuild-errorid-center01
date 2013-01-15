@@ -1,0 +1,3 @@
+arch/x86/include/asm/bitops.h:321:8: warning: 'bh' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:19 bee next:akpm:ef2dca2 x86_64-nfsroot ef2dca2

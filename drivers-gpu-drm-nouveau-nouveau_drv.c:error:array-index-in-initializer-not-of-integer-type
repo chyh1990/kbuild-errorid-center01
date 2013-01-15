@@ -1,0 +1,7 @@
+drivers/gpu/drm/nouveau/nouveau_drv.c:341:2: error: array index in initializer not of integer type
+
+2012-08-05 10:59:57 bee x86_64 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d 3d3c15c336a63d2dc81117a4d5ce0b2ff713490c
+2012-08-17 08:32:31 kbuild nouveau:master:b13ea66 x86_64-allmodconfig bac6e3b
+2012-08-17 12:22:10 kbuild nouveau:master:27291a4 x86_64-allmodconfig 92b3de9
+2012-08-20 14:25:59 kbuild nouveau:master:f9b495f x86_64-allmodconfig d39e0ef
+2012-08-21 07:17:31 kbuild nouveau:master:5e58179 x86_64-allmodconfig f425353

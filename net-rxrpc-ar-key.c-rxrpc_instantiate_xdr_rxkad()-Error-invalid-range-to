@@ -1,0 +1,3 @@
+net/rxrpc/ar-key.c:152 rxrpc_instantiate_xdr_rxkad() Error invalid range 4096 to -1
+
+2012-09-07 21:58:01 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

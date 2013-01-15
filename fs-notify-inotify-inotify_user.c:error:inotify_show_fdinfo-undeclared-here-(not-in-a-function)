@@ -1,0 +1,8 @@
+fs/notify/inotify/inotify_user.c:333:17: error: 'inotify_show_fdinfo' undeclared here (not in a function)
+
+2012-11-27 14:38:24 snb next:master:ce2931a x86_64-randconfig-s362 ce2931a
+2012-11-27 14:50:28 bee next:akpm:8c02459 i386-randconfig-b774 8c02459
+2012-11-27 18:10:25 bee cr:crtools-v3.7-rc7:cb80217 x86_64-randconfig-x696 fb5a2cf
+2012-11-28 15:17:10 snb next:master:c2b2c8c x86_64-randconfig-s362 c2b2c8c
+2012-11-28 15:43:27 snb next:akpm:bd3b426 x86_64-randconfig-s362 bd3b426
+2012-11-30 22:05:44 bee cr:crtools-v3.7-rc7:1783f65 x86_64-randconfig-x709 c71a8bc

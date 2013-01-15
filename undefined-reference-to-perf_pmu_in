@@ -1,0 +1,4 @@
+tools/perf/util/pmu.c:47: undefined reference to `perf_pmu_in'
+
+2012-08-09 00:48:22 bee x86_64 /cc/kernel-tests/commit-list/perf:perf:core:0076d54 73994dc158a24df4af77d0a76c9702f120f7a6ad
+2012-08-09 00:48:23 bee x86_64 email notified

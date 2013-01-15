@@ -1,0 +1,24 @@
+kernel/exit.c:608:19-20: ERROR: invalid reference to the index variable of the iterator on line 599
+
+2012-08-03 13:14:03 snb i386 /cc/kernel-tests/commit-list/acpi:next:9d0b01a 9d0b01a1bbb7a4ad23000240b67bca33c4235fcf
+2012-08-03 17:28:46 snb i386 430ceb738db083f07c7bc43d7fb631c02b798578 /cc/kernel-tests/commit-list/balbi-usb:master:430ceb7
+2012-08-04 00:04:09 snb i386 d30a0d839a5a282e43353fee53d5dc70db5eceda /cc/kernel-tests/commit-list/sound-unstable:master:c39e7b5
+2012-08-11 06:38:03 snb i386 c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:7f0bc6a
+2012-08-12 15:35:56 snb i386 fe56097b23b1303b894eefd91582e4a64247d03f /dev/shm/kvm:next:c48f149
+2012-08-12 18:39:51 snb i386 fa8a0170d1d251a241318e790ab01424f075fd42 /cc/kernel-tests/commit-list/drm-intel:drm-intel-testing:fa8a017
+2012-08-15 05:47:41 snb i386 d30a0d839a5a282e43353fee53d5dc70db5eceda /cc/kernel-tests/commit-list/sound:master:5fe80e0
+2012-08-15 09:43:34 snb i386 d30a0d839a5a282e43353fee53d5dc70db5eceda /cc/kernel-tests/commit-list/sound-unstable:master:9f14e7d
+2012-08-15 19:46:52 snb l2-mtd:master:4b5b917 i386-allmodconfig c8d1f9e
+2012-08-16 22:30:17 snb drm-intel:drm-intel-next-queued:65e0871 i386-allmodconfig 6f98466
+2012-08-17 17:09:19 snb drm-intel:drm-intel-next-queued:83358c8 i386-allmodconfig a22ddff
+2012-08-17 23:12:42 snb xen:linux-next:4281876 i386-allmodconfig df24fcb
+2012-08-18 20:02:21 snb aa:schednuma2:fd95411 i386-allmodconfig 3e198ba
+2012-08-20 02:08:00 snb vfs:master:6ecc22e i386-allmodconfig 6e84d78
+2012-08-20 13:34:48 snb integrity:next-audit-hashes:a4f6f56 i386-allmodconfig 51b743f
+2012-08-23 01:50:33 snb perf:perf:core:d45a3e0 i386-allmodconfig bcada3d
+2012-08-24 12:11:43 snb vfs:master:345788c i386-allmodconfig 345788c
+2012-08-26 04:51:04 snb userns:userns-always-map-user-v47:ec9c45e i386-allmodconfig 4787c1d
+2012-08-26 07:06:07 snb kbuild:for-next:bbd8adb i386-allmodconfig bbd8adb
+2012-08-29 16:50:26 snb omap-dss2:work:omap5-dt:a57dfde i386-allmodconfig 4d85f1c
+2012-09-02 21:42:48 snb hid:upstream:00315e4 i386-allmodconfig 66a61fc
+2012-09-05 14:54:29 snb input:next:caaa357 i386-allmodconfig e6c3401

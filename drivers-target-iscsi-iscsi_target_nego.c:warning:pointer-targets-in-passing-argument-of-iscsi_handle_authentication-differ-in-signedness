@@ -1,0 +1,3 @@
+drivers/target/iscsi/iscsi_target_nego.c:495:4: warning: pointer targets in passing argument 5 of 'iscsi_handle_authentication' differ in signedness [-Wpointer-sign]
+
+2012-09-26 14:12:47 bee block:for-3.7:core:62ac665 x86_64-allyesconfig b87570f

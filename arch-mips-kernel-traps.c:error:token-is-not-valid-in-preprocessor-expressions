@@ -1,0 +1,3 @@
+arch/mips/kernel/traps.c:1822:6: error: token "[" is not valid in preprocessor expressions
+
+2012-11-13 16:36:43 hive mips-sjhill:mti-next:bfba8d5 mips-allmodconfig bfba8d5

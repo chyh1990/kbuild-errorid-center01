@@ -1,0 +1,3 @@
+WARNING: arch/powerpc/sysdev/xics/built-in.o(.text+0x2644): Section mismatch in reference from the function .ics_rtas_init() to the function .init.text:.xics_register_ics()
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

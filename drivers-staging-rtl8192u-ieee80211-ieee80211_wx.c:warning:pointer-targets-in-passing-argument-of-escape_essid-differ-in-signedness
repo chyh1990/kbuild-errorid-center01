@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_wx.c:290:4: warning: pointer targets in passing argument 1 of 'escape_essid' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:40 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

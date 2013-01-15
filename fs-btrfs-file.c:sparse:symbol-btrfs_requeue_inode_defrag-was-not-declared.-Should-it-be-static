@@ -1,0 +1,3 @@
+fs/btrfs/file.c:196:6: sparse: symbol 'btrfs_requeue_inode_defrag' was not declared. Should it be static?
+
+2013-01-09 12:58:23 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

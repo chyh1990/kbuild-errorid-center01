@@ -1,0 +1,3 @@
+sound/soc/codecs/wm9081.c:434:1: warning: (near initialization for 'wm9081_eq_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:07:22 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

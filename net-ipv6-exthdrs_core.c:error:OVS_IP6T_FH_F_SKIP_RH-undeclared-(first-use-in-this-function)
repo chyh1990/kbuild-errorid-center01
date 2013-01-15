@@ -1,0 +1,12 @@
+net/ipv6/exthdrs_core.c:188:27: error: 'OVS_IP6T_FH_F_SKIP_RH' undeclared (first use in this function)
+
+2012-11-10 09:39:35 bee openvswitch:master:a5caca7 x86_64-allyesconfig a5caca7
+2012-11-10 09:39:41 bee x86_64 email notified
+2012-11-10 10:04:15 hive devel-hive-mips-2012-11-10-09-37:9aa2844 mips-allmodconfig 9aa2844
+2012-11-10 10:08:30 snb devel-snb-arm-2012-11-10-09-57:cb1fd6e arm-at91_dt_defconfig cb1fd6e
+2012-11-10 10:22:10 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-10-09-57:3b19f98 blackfin-BF526-EZBRD_defconfig 3b19f98
+2012-11-10 10:26:27 lkp-mb01 devel-lkp-mb01-s390-2012-11-10-10-01:a2e6414 alpha-defconfig a2e6414
+2012-11-10 10:26:36 snb devel-snb-i386-2012-11-10-09-56:fd45c17 i386-allmodconfig fd45c17
+2012-11-10 10:28:12 kbuild devel-kbuild-powerpc-2012-11-10-10-21:5a4db1d powerpc-allmodconfig 5a4db1d
+2012-11-10 10:30:43 kbuild devel-kbuild-i386-2012-11-10-10-20:1b943cc i386-allyesconfig 1b943cc
+2012-11-10 10:59:23 hive devel-hive-ia64-2012-11-10-10-44:6c4867b ia64-allmodconfig 6c4867b

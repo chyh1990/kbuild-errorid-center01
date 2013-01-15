@@ -1,0 +1,5 @@
+arch/x86/boot/compressed/../../../../lib/decompress_unlzo.c:34:39: fatal error: lzo/lzo1x_decompress_safe.c: No such file or directory
+
+2012-10-15 04:29:42 bee arm-soc:testing:defconfig-warnings:b8848fa i386-randconfig-b226 b8848fa
+2012-10-17 03:46:51 lkp-mb01 arm-soc:testing:defconfig-warnings:d8e8359 i386-randconfig-m012 d8e8359
+2012-10-17 04:12:25 snb arm-soc:test-merge-20121016:409750d x86_64-randconfig-s084 e451c35

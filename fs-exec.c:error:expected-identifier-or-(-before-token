@@ -1,0 +1,4 @@
+fs/exec.c:1712:1: error: expected identifier or '(' before '>>' token
+
+2012-10-10 00:33:32 bee signal:proposed-merge:e7f8028 x86_64-allyesconfig e7f8028
+2012-10-10 01:52:26 kbuild devel-kbuild-i386-2012-10-10-01-40:d4570eb i386-allyesconfig d4570eb

@@ -1,0 +1,3 @@
+sound/soc/codecs/wm_adsp.c:676:29: sparse: incorrect type in assignment (different modifiers)
+
+2013-01-09 02:47:28 snb devel-snb-i386-2013-01-09-02-18:d2ca6bc i386-allmodconfig d2ca6bc

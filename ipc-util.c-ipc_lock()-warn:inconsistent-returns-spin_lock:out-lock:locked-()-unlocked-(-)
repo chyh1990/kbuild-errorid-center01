@@ -1,0 +1,3 @@
+ipc/util.c:715 ipc_lock() warn: inconsistent returns spin_lock:&out->lock: locked (715) unlocked (701,712)
+
+2013-01-09 13:27:46 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

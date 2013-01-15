@@ -1,0 +1,3 @@
+security/integrity/ima/ima_crypto.c:109:1: warning: 'ima_calc_template_hash' uses dynamic stack allocation [enabled by default]
+
+2012-08-06 15:52:44 lkp-mb01 s390 /cc/kernel-tests/commit-list/digsig:next-ima-common:45f2aef d9dc07847eeda04c634e4d2709b3c1dba7d1697d

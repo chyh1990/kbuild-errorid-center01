@@ -1,0 +1,4 @@
+kernel/trace/trace_events.c:316:18: warning: 'dir' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-16 23:34:53 bee trace:rfc:multi-buffers-v7:11ac6db i386-randconfig-x054 aac8d09
+2012-11-16 23:35:08 bee i386 email notified

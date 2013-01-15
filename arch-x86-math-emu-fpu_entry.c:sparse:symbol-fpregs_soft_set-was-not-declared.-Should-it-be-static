@@ -1,0 +1,3 @@
+arch/x86/math-emu/fpu_entry.c:680:5: sparse: symbol 'fpregs_soft_set' was not declared. Should it be static?
+
+2013-01-09 13:16:35 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

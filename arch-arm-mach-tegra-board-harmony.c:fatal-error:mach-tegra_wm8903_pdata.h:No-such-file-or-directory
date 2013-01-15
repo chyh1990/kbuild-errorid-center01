@@ -1,0 +1,16 @@
+arch/arm/mach-tegra/board-harmony.c:38:37: fatal error: mach/tegra_wm8903_pdata.h: No such file or directory
+
+2012-09-20 10:24:57 snb asoc:for-next:7f0f58f arm-tegra_defconfig 7f0f58f
+2012-09-20 10:53:35 snb asoc:for-3.7:b306e84 arm-tegra_defconfig b306e84
+2012-09-20 15:09:01 snb shawnguo:imx:multi-platform-v2:e7b4b52 arm-tegra_defconfig e7b4b52
+2012-09-23 02:25:41 snb sound-unstable:master:b810190 arm-tegra_defconfig b810190
+2012-09-23 02:49:27 snb devel-snb-arm-2012-09-23-02-34:10f2ae1 arm-tegra_defconfig 10f2ae1
+2012-09-23 03:31:42 snb sound:master:6eb16ec arm-tegra_defconfig 6eb16ec
+2012-09-23 19:00:36 snb sound:topic:hda-ca0132-dsp:9e8e865 arm-tegra_defconfig 9e8e865
+2012-09-24 00:45:55 snb devel-snb-arm-2012-09-24-00-01:6e2b456 arm-tegra_defconfig 6e2b456
+2012-09-26 20:50:45 snb devel-snb-arm-2012-09-26-20-41:6bd0adb arm-tegra_defconfig 6bd0adb
+2012-09-27 03:27:33 snb asoc:for-next:a1327eb arm-tegra_defconfig a1327eb
+2012-09-27 04:42:45 snb devel-snb-arm-2012-09-27-04-16:1922b19 arm-tegra_defconfig 1922b19
+2012-09-28 02:01:40 snb devel-snb-arm-2012-09-28-01-42:4c8e245 arm-tegra_defconfig 4c8e245
+2012-09-30 06:57:38 snb asoc:for-3.7:9911f7f arm-tegra_defconfig 9911f7f
+2012-10-28 05:55:02 snb asoc:topic:adsp:2882fcb arm-tegra_defconfig 2882fcb

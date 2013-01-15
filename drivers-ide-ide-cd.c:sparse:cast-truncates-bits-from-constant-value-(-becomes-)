@@ -1,0 +1,3 @@
+drivers/ide/ide-cd.c:1046:52: sparse: cast truncates bits from constant value (110 becomes 10)
+
+2012-09-11 03:14:32 snb usb:usb-next:9c20890 i386-allmodconfig 9c20890

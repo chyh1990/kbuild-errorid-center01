@@ -1,0 +1,3 @@
+drivers/net/ethernet/amd/depca.c:570:12: warning: 'dev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-08-05 09:09:25 kbuild i386 /dev/shm/linus:master:e7882d6 4cb38750d49010ae72e718d46605ac9ba5a851b4

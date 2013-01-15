@@ -1,0 +1,3 @@
+drivers/hv/hv.c:168:2: warning: this decimal constant is unsigned only in ISO C90 [enabled by default]
+
+2012-07-22 19:23:58 kbuild i386 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 188fffe870cf206de4ea478ff49fd3ef648f146e

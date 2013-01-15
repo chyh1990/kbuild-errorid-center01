@@ -1,0 +1,10 @@
+kernel/trace/trace.h:180:2: error: 'NR_syscalls' undeclared here (not in a function)
+
+2012-08-15 12:44:55 bee trace:rfc:multi-buffers-v4:e712fa1 powerpc-chroma_defconfig 7c72fcf
+2012-08-15 12:44:56 bee powerpc email notified
+2012-11-16 23:38:27 bee trace:rfc:multi-buffers-v7:11ac6db parisc-allyesconfig ae00684
+2012-11-17 00:47:57 bee devel-bee-sparc64-2012-11-17-00-16:4fb08c3 powerpc-chroma_defconfig 4fb08c3
+2012-11-17 00:57:45 hive devel-hive-ia64-2012-11-17-00-09:293b004 ia64-allmodconfig 293b004
+2012-11-17 01:02:56 snb devel-snb-arm-2012-11-17-00-38:b73750d avr32-atngw100_defconfig b73750d
+2012-11-17 01:13:20 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-00-23:b34132a m32r-m32104ut_defconfig b34132a
+2012-11-17 01:23:30 lkp-mb01 devel-lkp-mb01-s390-2012-11-17-00-23:638ecae parisc-c3000_defconfig 638ecae

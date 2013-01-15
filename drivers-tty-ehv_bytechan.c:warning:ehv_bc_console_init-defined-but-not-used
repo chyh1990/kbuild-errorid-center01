@@ -1,0 +1,3 @@
+drivers/tty/ehv_bytechan.c:334:19: warning: 'ehv_bc_console_init' defined but not used [-Wunused-function]
+
+2012-10-15 20:26:39 kbuild arm-perf:irq:8160c8b powerpc-allmodconfig 8160c8b

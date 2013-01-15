@@ -1,0 +1,3 @@
+fs/jbd2/commit.c:357:1: warning: '__kunmap_atomic_deprecated' is deprecated (declared at include/linux/highmem.h:135) [-Wdeprecated-declarations]
+
+2012-07-22 14:34:43 bee powerpc /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

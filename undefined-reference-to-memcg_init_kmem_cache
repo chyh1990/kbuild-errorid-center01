@@ -1,0 +1,4 @@
+(.init.text+0x2a48): undefined reference to `memcg_init_kmem_cache'
+
+2012-09-13 18:55:50 hive glommer-memcg:kmemcg-slab:a1fe65d m32r-m32104ut_defconfig a1fe65d
+2012-09-13 18:56:03 hive m32r email notified

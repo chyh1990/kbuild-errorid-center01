@@ -1,0 +1,3 @@
+fs/namei.c:1436:11: warning: 'cookie' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 15:21:01 bee x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

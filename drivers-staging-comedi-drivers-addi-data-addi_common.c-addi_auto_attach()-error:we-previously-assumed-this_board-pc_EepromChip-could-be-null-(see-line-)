@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/addi-data/addi_common.c:176 addi_auto_attach() error: we previously assumed 'this_board->pc_EepromChip' could be null (see line 129)
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/csr/sme_wext.c:1465:9: warning: pointer targets in passing argument 5 of 'uf_iwe_stream_add_point' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:32 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

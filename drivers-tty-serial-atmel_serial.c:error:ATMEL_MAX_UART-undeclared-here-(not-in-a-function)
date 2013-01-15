@@ -1,0 +1,17 @@
+drivers/tty/serial/atmel_serial.c:161: error: 'ATMEL_MAX_UART' undeclared here (not in a function)
+
+2012-11-13 06:13:49 snb devel-snb-arm-2012-11-13-06-07:773987d avr32-atngw100_defconfig 773987d
+2012-11-13 06:45:33 snb devel-snb-arm-2012-11-13-06-18:aed24e7 avr32-atngw100_defconfig aed24e7
+2012-11-13 06:56:54 snb devel-snb-arm-2012-11-13-06-46:5d8e269 avr32-atngw100_defconfig 5d8e269
+2012-11-13 14:48:36 snb next:master:42b895a avr32-atngw100_defconfig 42b895a
+2012-11-13 14:50:30 snb next:akpm:61df919 avr32-atngw100_defconfig 61df919
+2012-11-13 18:06:58 snb devel-snb-arm-2012-11-13-17-52:53df025 avr32-atngw100_defconfig 53df025
+2012-11-13 21:10:11 snb arm-soc:for-next:c9cc10c avr32-atngw100_defconfig c9cc10c
+2012-11-14 13:50:00 snb next:master:ebdacea avr32-atngw100_defconfig ebdacea
+2012-11-14 13:53:16 snb next:akpm:b7c0f57 avr32-atngw100_defconfig b7c0f57
+2012-11-15 15:51:44 snb next:master:3805711 avr32-atngw100_defconfig 3805711
+2012-11-15 23:56:40 snb devel-snb-arm-2012-11-15-23-37:5db48e2 avr32-atngw100_defconfig 5db48e2
+2012-11-16 01:02:20 snb devel-snb-arm-2012-11-16-00-51:e5226ea avr32-atngw100_defconfig e5226ea
+2012-11-17 04:07:08 snb devel-snb-arm-2012-11-17-03-30:b021842 avr32-atngw100_defconfig b021842
+2012-11-20 15:52:21 snb arm-soc:for-next:e8d6239 avr32-atngw100_defconfig e8d6239
+2012-12-04 18:08:00 snb hzhuang1:testing:clkv1:dad178e avr32-atngw100_defconfig dad178e

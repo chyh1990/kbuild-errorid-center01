@@ -1,0 +1,3 @@
+drivers/media/usb/cpia2/cpia2_v4l.c:194:3-9: preceding lock on line 206
+
+2012-11-14 11:27:52 snb devel-snb-i386-2012-11-14-02-33:8bf79d9 i386-allmodconfig 8bf79d9

@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/ethernet/broadcom/bnx2x/bnx2x_init_ops.h:638 bnx2x_ilt_client_mem_op() warn: variable dereferenced before check 'ilt' (see line 636)
+
+2013-01-07 12:25:01 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

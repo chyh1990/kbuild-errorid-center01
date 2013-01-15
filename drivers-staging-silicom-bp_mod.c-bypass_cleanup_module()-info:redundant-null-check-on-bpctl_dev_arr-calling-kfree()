@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:7285 bypass_cleanup_module() info: redundant null check on bpctl_dev_arr calling kfree()
+
+2012-09-16 10:35:14 kbuild iio:wip:d6bd040 i386-allyesconfig d6bd040

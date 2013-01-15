@@ -1,0 +1,3 @@
+drivers/scsi/csiostor/csio_lnode.c:223 csio_hostname() error: snprintf() chops off the last chars of 'init_utsname()->nodename': 65 vs 64
+
+2013-01-09 13:26:18 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

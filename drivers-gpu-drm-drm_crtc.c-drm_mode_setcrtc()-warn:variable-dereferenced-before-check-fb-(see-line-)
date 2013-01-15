@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_crtc.c:1909 drm_mode_setcrtc() warn: variable dereferenced before check 'fb' (see line 1890)
+
+2012-09-07 22:41:36 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

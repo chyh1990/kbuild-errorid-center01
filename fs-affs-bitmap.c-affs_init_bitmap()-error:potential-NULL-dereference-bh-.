@@ -1,0 +1,3 @@
+fs/affs/bitmap.c:325 affs_init_bitmap() error: potential NULL dereference 'bh'.
+
+2013-01-09 13:26:34 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

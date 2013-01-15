@@ -1,0 +1,7 @@
+kernel/trace/trace_mmiotrace.c:366:7: error: incompatible types when assigning to type 'struct trace_array_cpu *' from type 'struct trace_array_cpu'
+
+2012-08-14 03:16:41 bee x86_64 /cc/kernel-tests/commit-list/trace:rfc:multi-buffers-v4:e712fa1 f46d90989f7d8a90193391899b9f5b6242527f0f
+2012-11-16 23:37:22 bee trace:rfc:multi-buffers-v7:11ac6db x86_64-allyesconfig cf0d511
+2012-11-17 00:18:08 kbuild devel-kbuild-i386-2012-11-17-00-06:4fb1645 i386-allyesconfig 4fb1645
+2012-11-17 00:22:36 bee devel-bee-x86_64-2012-11-16-23-49:4fc3512 x86_64-allyesdebian 4fc3512
+2012-11-17 01:08:41 snb devel-snb-i386-2012-11-17-00-41:e286e0e i386-allmodconfig e286e0e

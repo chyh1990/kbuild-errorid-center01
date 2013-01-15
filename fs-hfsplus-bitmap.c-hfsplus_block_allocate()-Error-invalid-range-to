@@ -1,0 +1,3 @@
+fs/hfsplus/bitmap.c:54 hfsplus_block_allocate() Error invalid range 2147483648 to 1
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

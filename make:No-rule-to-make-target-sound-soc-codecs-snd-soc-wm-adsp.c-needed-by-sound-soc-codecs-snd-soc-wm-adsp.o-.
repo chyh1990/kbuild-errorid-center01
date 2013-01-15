@@ -1,0 +1,8 @@
+make[4]: *** No rule to make target `sound/soc/codecs/snd-soc-wm-adsp.c', needed by `sound/soc/codecs/snd-soc-wm-adsp.o'.
+
+2012-10-28 04:35:44 kbuild asoc:topic:adsp:2882fcb x86_64-allmodconfig 2882fcb
+2012-10-28 04:35:47 kbuild x86_64 email notified
+2012-10-28 04:46:07 kbuild asoc:topic:wm2200:147fe64 x86_64-allmodconfig c837c81
+2012-10-28 04:56:11 kbuild asoc:for-next:5647fab x86_64-allmodconfig 1ae13d6
+2012-10-28 05:31:30 snb asoc:topic:arizona:b6df013 i386-allmodconfig b6df013
+2012-10-28 06:33:41 snb asoc:for-next:a22864e i386-allmodconfig a22864e

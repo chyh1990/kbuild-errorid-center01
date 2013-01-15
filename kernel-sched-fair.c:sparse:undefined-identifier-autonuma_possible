@@ -1,0 +1,3 @@
+kernel/sched/fair.c:3242:23: sparse: undefined identifier 'autonuma_possible'
+
+2012-09-12 13:23:29 snb aa:autonuma:5a2d5ac i386-allmodconfig 23915bb

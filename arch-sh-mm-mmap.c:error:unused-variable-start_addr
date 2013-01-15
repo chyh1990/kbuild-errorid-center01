@@ -1,0 +1,16 @@
+arch/sh/mm/mmap.c:38:16: error: unused variable 'start_addr' [-Werror=unused-variable]
+
+2012-11-09 13:45:30 lkp-mb01 next:master:75e0eba sh-sh7785lcr_32bit_defconfig 75e0eba
+2012-11-09 21:47:41 lkp-mb01 memcg:since-3.6:f37592d sh-sh7785lcr_32bit_defconfig f37592d
+2012-11-10 05:25:54 lkp-mb01 next:akpm:6703d59 sh-sh7785lcr_32bit_defconfig 6703d59
+2012-11-10 22:33:30 lkp-mb01 memcg:since-3.6:d12449b sh-sh7785lcr_32bit_defconfig d12449b
+2012-11-14 14:42:13 lkp-mb01 next:master:ebdacea sh-sh7785lcr_32bit_defconfig ebdacea
+2012-11-14 18:05:24 lkp-mb01 next:akpm:b7c0f57 sh-sh7785lcr_32bit_defconfig b7c0f57
+2012-11-15 16:14:20 lkp-mb01 next:master:3805711 sh-sh7785lcr_32bit_defconfig 3805711
+2012-11-16 22:26:38 lkp-mb01 glommer-memcg:die-cpuacct:664b655 sh-sh7785lcr_32bit_defconfig 664b655
+2012-11-17 01:43:22 lkp-mb01 glommer-memcg:die-cpuacct:feb0b5d sh-sh7785lcr_32bit_defconfig feb0b5d
+2012-11-21 15:31:48 lkp-mb01 glommer-memcg:die-cpuacct:cdeca51 sh-sh7785lcr_32bit_defconfig cdeca51
+2012-11-21 22:34:29 lkp-mb01 glommer-memcg:kmemcg-slab:82674f9 sh-sh7785lcr_32bit_defconfig 82674f9
+2012-11-22 01:04:35 lkp-mb01 glommer-memcg:kmemcg-slab:126ae19 sh-sh7785lcr_32bit_defconfig 126ae19
+2012-11-25 11:19:50 inn internal-ashishki:ci-watup:56c5627 sh-sh7785lcr_32bit_defconfig 6d6b785
+2012-12-04 17:02:55 lkp-mb01 hzhuang1:testing:clkv1:dad178e sh-sh7785lcr_32bit_defconfig dad178e

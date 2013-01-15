@@ -1,0 +1,3 @@
+warning: (HAVE_TEXT_POKE_SMP) selects STOP_MACHINE which has unmet direct dependencies (SMP && MODULE_UNLOAD || HOTPLUG_CPU)
+
+2013-01-09 12:24:16 bee char-misc:char-misc-next:627ca75 x86_64-randconfig-x907 627ca75

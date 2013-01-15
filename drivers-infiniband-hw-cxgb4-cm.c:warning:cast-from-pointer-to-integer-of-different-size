@@ -1,0 +1,3 @@
+drivers/infiniband/hw/cxgb4/cm.c:2941:596: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2013-01-09 13:26:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

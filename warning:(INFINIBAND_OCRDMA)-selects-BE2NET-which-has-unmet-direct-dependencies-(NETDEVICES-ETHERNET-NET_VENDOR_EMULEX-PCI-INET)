@@ -1,0 +1,3 @@
+warning: (INFINIBAND_OCRDMA) selects BE2NET which has unmet direct dependencies (NETDEVICES && ETHERNET && NET_VENDOR_EMULEX && PCI && INET)
+
+2012-09-13 22:07:17 bee josef-btrfs:master:b70f2f9 x86_64-randconfig-x958 155e36d

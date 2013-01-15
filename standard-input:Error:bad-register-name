@@ -1,0 +1,4 @@
+{standard input}:8930: Error: bad register name `%'
+
+2012-09-21 12:43:15 snb nfs:testing:9dfaead x86_64-randconfig-s365 e60f6ab
+2012-10-09 04:43:16 hive net:master:8634724 x86_64-randconfig-h001 8634724

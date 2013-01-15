@@ -1,0 +1,3 @@
+drivers/net/ethernet/qlogic/qlge/qlge_dbg.c:768 ql_core_dump() error: __builtin_memcpy() '"MPI Coredump"' too small (13 vs 16)
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

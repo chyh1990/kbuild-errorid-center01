@@ -1,0 +1,4 @@
+kernel/modsign-pubkey.c:46:2: error: implicit declaration of function 'IS_ERR' [-Werror=implicit-function-declaration]
+
+2012-08-16 09:20:34 bee modsign:modsign-rusty:9ed5e36 cris-allyesconfig aab12f2
+2012-08-16 09:20:36 bee cris email notified

@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/usb_ops_linux.c:457 r8712_usb_write_port() error: potential NULL dereference 'purb'.
+
+2013-01-09 13:26:27 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

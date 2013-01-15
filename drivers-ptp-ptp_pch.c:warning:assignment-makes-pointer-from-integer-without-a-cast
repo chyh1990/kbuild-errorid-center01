@@ -1,0 +1,3 @@
+drivers/ptp/ptp_pch.c:621:13: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-11-18 11:53:50 lkp-mb01 net-next:master:5082dfb s390-allmodconfig 5082dfb

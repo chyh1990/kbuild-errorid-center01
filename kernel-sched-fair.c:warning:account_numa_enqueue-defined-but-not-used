@@ -1,0 +1,3 @@
+kernel/sched/fair.c:969: warning: 'account_numa_enqueue' defined but not used
+
+2012-10-19 21:05:36 snb tip:numa:core:c1a3050 avr32-atngw100_defconfig c1a3050

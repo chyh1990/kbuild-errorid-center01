@@ -1,0 +1,3 @@
+drivers/dma/dmatest.c:704:1: error: expected declaration or statement at end of input
+
+2013-01-07 01:19:57 kbuild slave-dma:next:3c1eea5 x86_64-allmodconfig 3c1eea5

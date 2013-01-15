@@ -1,0 +1,17 @@
+arch/arm/include/generated/mach/io.h:1:27: fatal error: mach-tegra/io.h: No such file or directory
+
+2012-08-19 20:12:59 snb arm-platforms:timers-next:1d64ace arm-tegra_defconfig 1d64ace
+2012-08-19 21:33:01 snb arm-platforms:kvm-arm-v3.6-rc1-hyp-fixes-vgic-2:01f6f63 arm-tegra_defconfig 6d15463
+2012-08-19 22:16:39 snb arm-platforms:kvm-v11-base-vgic:150c7f9 arm-tegra_defconfig f0cb8ba
+2012-08-24 07:01:13 snb arm-platforms:kvm-arm-v3.6-rc3-timer:d6e735a arm-tegra_defconfig 8aba389
+2012-08-26 16:21:03 snb arm-platforms:timers-next:dcaf469 arm-tegra_defconfig dcaf469
+2012-09-06 02:25:46 snb arm-platforms:kvm-arm-v3.6-rc3-timer:24989e4 arm-tegra_defconfig 8aba389
+2012-09-12 03:28:47 snb arm-platforms:cp15-fixes:e5b3182 arm-tegra_defconfig e0d0bb2
+2012-09-12 03:57:32 snb arm-platforms:timers-next:437814c arm-tegra_defconfig 437814c
+2012-09-12 04:09:08 snb arm-platforms:kvm-arm-v3.6-rc3-timer:48e7211 arm-tegra_defconfig 5694841
+2012-09-12 04:22:50 snb arm-platforms:kvm-perf:01e7a5e arm-tegra_defconfig 01e7a5e
+2012-09-12 19:06:32 snb arm-platforms:kvm-perf:49a3cb3 arm-tegra_defconfig cdaa6a4
+2012-09-16 23:14:30 snb arm-platforms:vgic-fixes:6cdc3a6 arm-tegra_defconfig 6cdc3a6
+2012-09-16 23:43:28 snb arm-platforms:kvm-cleanup:b53e416 arm-tegra_defconfig b53e416
+2012-09-18 03:09:22 snb arm-platforms:kvm-cleanup:0a09ba7 arm-tegra_defconfig 0a09ba7
+2012-09-18 14:21:03 snb yinghai:for-x86-irq-base:f2c8edd arm-tegra_defconfig f2c8edd

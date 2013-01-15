@@ -1,0 +1,3 @@
+drivers/scsi/isci/remote_node_context.c:567:17: sparse: symbol 'sci_remote_node_context_suspend' redeclared with different type (originally declared at drivers/scsi/isci/remote_node_context.h:214) - incompatible argument 2 (different signedness)
+
+2012-07-23 21:34:15 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

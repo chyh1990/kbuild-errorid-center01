@@ -1,0 +1,3 @@
+sound/soc/codecs/cs42l51.c:205:2: warning: (near initialization for 'cs42l51_adcl_mux_controls.name') [-Wpointer-sign]
+
+2012-09-25 21:08:25 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

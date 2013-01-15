@@ -1,0 +1,9 @@
+sound/pci/ice1712/ice1712.h:501:2: error: implicit declaration of function 'outb' [-Werror=implicit-function-declaration]
+
+2012-10-17 16:31:42 kbuild devel-kbuild-powerpc-2012-10-17-16-08:6c32aac powerpc-allmodconfig 6c32aac
+2012-10-17 19:30:59 kbuild sound:master:50cd75b powerpc-allmodconfig 50cd75b
+2012-10-17 19:33:10 kbuild sound-unstable:master:e3a4e58 powerpc-allmodconfig e3a4e58
+2012-10-17 20:45:42 kbuild sound:master:c8da1c4 powerpc-allmodconfig c8da1c4
+2012-10-17 21:12:49 kbuild sound:master:de7833f powerpc-allmodconfig de7833f
+2012-10-17 21:13:01 kbuild sound:for-next:34a9318 powerpc-allmodconfig 34a9318
+2012-10-18 13:25:42 kbuild next:akpm:57a593b powerpc-allmodconfig 57a593b

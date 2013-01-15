@@ -1,0 +1,3 @@
+drivers/mfd/viperboard.c:78 vprbrd_probe() error: doing dma on the stack (buf)
+
+2012-11-20 06:05:46 kbuild devel-kbuild-i386-2012-11-20-04-41:bc69144 i386-allyesconfig bc69144

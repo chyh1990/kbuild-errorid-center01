@@ -1,0 +1,3 @@
+drivers/mtd/ubi/fastmap.c:1456 ubi_update_fastmap() error: we previously assumed 'tmp_e' could be null (see line 1440)
+
+2012-10-18 13:10:48 kbuild next:master:d646959 i386-allyesconfig d646959

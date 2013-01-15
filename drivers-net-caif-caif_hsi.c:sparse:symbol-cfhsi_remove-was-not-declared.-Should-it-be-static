@@ -1,0 +1,3 @@
+drivers/net/caif/caif_hsi.c:1377:5: sparse: symbol 'cfhsi_remove' was not declared. Should it be static?
+
+2012-09-10 15:24:45 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

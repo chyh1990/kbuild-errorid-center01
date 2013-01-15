@@ -1,0 +1,4 @@
+drivers/scsi/bfa/bfad.c:441:22-30: ERROR: vp_drv is NULL but dereferenced.
+
+2012-09-20 16:45:53 snb scsi:for-next:cea6340 i386-allmodconfig dbcdf5c
+2012-09-20 16:45:56 snb i386 email notified

@@ -1,0 +1,4 @@
+drivers/memory/of_memory.c:61: undefined reference to `lpddr2_jedec_min_tck'
+
+2012-09-05 11:49:31 kbuild driver-core:driver-core-next:e6b42eb i386-randconfig-k915 e6b42eb
+2012-09-05 14:20:51 kbuild next:akpm:1a80b3f i386-randconfig-k915 90b1a52

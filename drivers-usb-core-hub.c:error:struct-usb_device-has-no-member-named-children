@@ -1,0 +1,6 @@
+drivers/usb/core/hub.c:4708:35: error: 'struct usb_device' has no member named 'children'
+
+2012-12-05 08:57:31 bee xhci:warm-reset-next-2:d648bb6 cris-allyesconfig d648bb6
+2012-12-05 08:57:38 bee cris email notified
+2012-12-05 09:07:16 kbuild devel-kbuild-i386-2012-12-05-08-59:5be5e66 i386-allyesconfig 5be5e66
+2012-12-05 10:49:24 snb devel-snb-i386-2012-12-05-10-40:afc9b98 i386-allmodconfig afc9b98

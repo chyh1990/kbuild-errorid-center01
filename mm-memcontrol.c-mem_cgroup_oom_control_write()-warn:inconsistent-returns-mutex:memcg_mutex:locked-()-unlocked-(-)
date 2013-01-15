@@ -1,0 +1,3 @@
+mm/memcontrol.c:5691 mem_cgroup_oom_control_write() warn: inconsistent returns mutex:&memcg_mutex: locked (5685) unlocked (5676,5691)
+
+2013-01-11 00:48:16 kbuild devel-kbuild-i386-2013-01-11-00-03:c84bbdc i386-allyesconfig c84bbdc

@@ -1,0 +1,3 @@
+arch/x86/kernel/smpboot.c:1348:15: warning: unused variable 'timeout' [-Wunused-variable]
+
+2012-11-15 02:41:48 bee tip:x86:bsp-hotplug:69d1309 x86_64-allyesconfig 69d1309

@@ -1,0 +1,4 @@
+drivers/net/ethernet/chelsio/cxgb3/t3_hw.c:3231:5-52: duplicated argument to && or ||
+
+2012-08-21 10:20:34 snb pci:pci:jiang-pcie-cap:9e5fc87 i386-allmodconfig 51d4a17
+2012-08-21 10:20:35 snb i386 email notified

@@ -1,0 +1,4 @@
+drivers/tty/rocket.c:2104:2: error: implicit declaration of function 'request_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 18:14:30 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3
+2012-09-17 18:43:59 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

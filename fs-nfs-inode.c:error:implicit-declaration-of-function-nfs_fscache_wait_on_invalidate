@@ -1,0 +1,28 @@
+fs/nfs/inode.c:887:2: error: implicit declaration of function 'nfs_fscache_wait_on_invalidate' [-Werror=implicit-function-declaration]
+
+2012-12-21 07:49:01 lkp-mb01 devel-lkp-mb01-s390-2012-12-21-07-29:905e598 alpha-defconfig 905e598
+2012-12-21 07:46:43 kbuild devel-kbuild-powerpc-2012-12-21-07-26:e9c38c0 powerpc-defconfig e9c38c0
+2012-12-21 08:16:49 bee devel-bee-x86_64-2012-12-21-07-40:fa04049 x86_64-lkp fa04049
+2012-12-21 08:22:55 kbuild vfs:for-linus:3aab87e powerpc-defconfig 3aab87e
+2012-12-21 08:31:09 snb vfs:for-linus:b729d75 i386-defconfig b729d75
+2012-12-21 08:42:47 snb devel-snb-arm-2012-12-21-08-29:c68cced arm-at91_dt_defconfig c68cced
+2012-12-21 08:52:41 kbuild devel-kbuild-powerpc-2012-12-21-08-24:d646ea8 powerpc-defconfig d646ea8
+2012-12-21 08:59:36 bee devel-bee-sparc64-2012-12-21-07-54:116a838 powerpc-chroma_defconfig 116a838
+2012-12-21 09:23:49 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-21-08-45:1af5ae6 blackfin-BF526-EZBRD_defconfig 1af5ae6
+2012-12-21 09:22:40 bee devel-bee-i386-2012-12-21-07-57:ec7c33f i386-randconfig-b926 ec7c33f
+2012-12-21 09:51:50 bee devel-bee-i386-2012-12-21-09-24:17c4e10 i386-randconfig-b926 17c4e10
+2012-12-21 10:13:07 bee devel-bee-sparc64-2012-12-21-09-24:9cb3036 powerpc-chroma_defconfig 9cb3036
+2012-12-21 11:02:35 inn linus:master:1f0377f x86_64-lkp 1f0377f
+2012-12-21 12:16:50 lkp-mb01 devel-lkp-mb01-s390-2012-12-21-12-05:58f942d alpha-defconfig 58f942d
+2012-12-21 12:30:49 inn linus:master:96680d2 m32r-m32104ut_defconfig 96680d2
+2012-12-21 13:49:00 hive devel-hive-ia64-2012-12-21-13-23:d4f6288 ia64-defconfig d4f6288
+2012-12-21 13:48:02 inn linus:master:54e37b8 alpha-defconfig 54e37b8
+2012-12-21 14:42:38 kbuild hwmon:hwmon-staging:2647387 powerpc-defconfig 2647387
+2012-12-21 14:59:19 hive devel-hive-ia64-2012-12-21-14-42:c2e9f9a ia64-defconfig c2e9f9a
+2012-12-21 18:01:11 bee tip:master:a3b3b84 x86_64-lkp a3b3b84
+2012-12-21 18:16:54 hive devel-hive-ia64-2012-12-21-17-59:c8e3781 ia64-defconfig c8e3781
+2012-12-21 19:05:53 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-21-18-32:829227e blackfin-BF526-EZBRD_defconfig 829227e
+2012-12-21 19:09:42 lkp-mb01 devel-lkp-mb01-s390-2012-12-21-18-37:609e4e2 alpha-defconfig 609e4e2
+2012-12-21 23:59:51 snb devel-snb-i386-2012-12-21-23-32:39645b9 i386-defconfig 39645b9
+2012-12-22 00:02:59 lkp-mb01 devel-lkp-mb01-s390-2012-12-21-23-54:f2980d8 alpha-defconfig f2980d8
+2012-12-22 00:19:07 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-22-00-08:565c451 blackfin-BF526-EZBRD_defconfig 565c451

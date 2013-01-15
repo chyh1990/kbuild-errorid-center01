@@ -1,0 +1,4 @@
+drivers/gpu/drm/radeon/evergreen.c:437:3-20: code aligned with following code on line 438
+
+2012-08-15 22:34:38 snb drm:drm-fixes:2e26c73 i386-allmodconfig c8d15ed
+2012-08-15 22:34:40 snb i386 email notified

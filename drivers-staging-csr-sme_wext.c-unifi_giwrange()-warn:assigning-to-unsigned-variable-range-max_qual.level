@@ -1,0 +1,3 @@
+drivers/staging/csr/sme_wext.c:1088 unifi_giwrange() warn: assigning (-120) to unsigned variable 'range->max_qual.level'
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

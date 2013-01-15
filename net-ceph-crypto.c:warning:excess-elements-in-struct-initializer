@@ -1,0 +1,3 @@
+net/ceph/crypto.c:474:2: warning: excess elements in struct initializer [enabled by default]
+
+2012-11-07 12:16:04 lkp-mb01 linus:master:69a8ebf i386-randconfig-m153 69a8ebf

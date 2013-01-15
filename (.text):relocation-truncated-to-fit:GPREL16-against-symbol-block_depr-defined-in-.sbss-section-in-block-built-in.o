@@ -1,0 +1,15 @@
+(.text+0x11000): relocation truncated to fit: GPREL16 against symbol `block_depr' defined in .sbss section in block/built-in.o
+
+2012-09-20 11:20:28 inn internal-hle:hsw:pmu2:8a59aba alpha-defconfig 8a59aba
+2012-09-22 18:44:58 inn internal-hle:hsw:pmu2:9d5eb9d alpha-defconfig 9d5eb9d
+2012-09-23 00:18:07 inn internal-hle:hsw:pmu2:8d55f2a alpha-defconfig 8d55f2a
+2012-09-23 05:01:15 inn internal-hle:hsw:pmu2:5df5a7d alpha-defconfig 5df5a7d
+2012-09-28 13:43:04 inn internal-hle:hsw:pmu2:045eef6 alpha-defconfig 1784385
+2012-09-28 15:53:34 inn internal-hle:hsw:pmu2:9fa820c alpha-defconfig 63ba0c4
+2012-09-30 01:29:34 inn internal-hle:hsw:pmu3:7456089 alpha-defconfig 3e481d3
+2012-09-30 03:54:32 inn internal-hle:hsw:pmu3:38e7b29 alpha-defconfig 5d12a91
+2012-10-05 07:09:13 inn internal-hle:hsw:pmu3-36:d451886 alpha-defconfig fba21fa
+2012-10-06 13:24:17 inn internal-hle:hle36:combined:c8d7f79 alpha-defconfig dcd33db
+2012-10-06 13:24:17 inn internal-hle:hle36:combined:c8d7f79 alpha-defconfig dcd33db email notified
+2012-10-06 13:24:35 inn alpha email notified
+2012-10-09 07:19:02 inn internal-hle:hle36:combined:48b72d4 alpha-defconfig 0bd9ad5

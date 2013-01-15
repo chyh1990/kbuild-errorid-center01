@@ -1,0 +1,4 @@
+arch/powerpc/platforms/pseries/eeh_event.c:79:14: error: 'struct eeh_event' has no member named 'edev'
+
+2012-09-10 10:46:57 kbuild powerpc:next:4715fed powerpc-allmodconfig c533b46
+2012-09-10 14:29:08 kbuild powerpc:test:6b5e722 powerpc-allmodconfig 5b66352

@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/dib8000.c:2686 dib8000_tune() warn: variable dereferenced before check 'state' (see line 2683)
+
+2012-10-07 16:19:16 kbuild stable:linux-3.5.y:6a84d55 i386-allyesconfig 6a84d55

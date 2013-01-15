@@ -1,0 +1,3 @@
+drivers/target/target_core_pscsi.c:464:5: sparse: symbol 'pscsi_configure_device' was not declared. Should it be static?
+
+2012-10-10 05:36:29 snb target:queue:738b86a i386-allmodconfig 738b86a

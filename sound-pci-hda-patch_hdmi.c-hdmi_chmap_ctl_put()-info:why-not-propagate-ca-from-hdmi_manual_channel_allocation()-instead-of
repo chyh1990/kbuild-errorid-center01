@@ -1,0 +1,4 @@
+sound/pci/hda/patch_hdmi.c:1530 hdmi_chmap_ctl_put() info: why not propagate 'ca' from hdmi_manual_channel_allocation() instead of -22?
+
+2012-09-12 22:58:23 kbuild sound-unstable:topic:tlv-chmap:0afdb8f i386-allyesconfig 0afdb8f
+2012-09-12 23:27:17 kbuild i386 email notified

@@ -1,0 +1,4 @@
+ERROR: ".device_pm_lock" [drivers/base/firmware_class.ko] undefined!
+
+2012-08-17 18:08:38 kbuild driver-core:driver-core-next:9baf322 powerpc-allmodconfig 9baf322
+2012-08-17 18:38:31 kbuild powerpc email notified

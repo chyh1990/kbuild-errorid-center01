@@ -1,0 +1,3 @@
+include/trace/events/writeback.h:35:1: error: dereferencing pointer to incomplete type
+
+2013-01-10 08:15:21 snb devel-snb-x86_64-2013-01-10-07-43:46d8a05 x86_64-randconfig-s614 46d8a05

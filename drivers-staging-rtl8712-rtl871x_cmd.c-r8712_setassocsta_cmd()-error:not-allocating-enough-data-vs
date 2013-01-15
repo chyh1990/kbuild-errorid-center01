@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/rtl871x_cmd.c:828 r8712_setassocsta_cmd() error: not allocating enough data 8 vs 4
+
+2012-10-18 13:10:52 kbuild next:master:d646959 i386-allyesconfig d646959

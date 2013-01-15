@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/cinergyT2-core.c:55 cinergyt2_streaming_ctrl() error: doing dma on the stack (result)
+
+2012-09-12 11:56:45 kbuild security:next:a40695e i386-allyesconfig a40695e

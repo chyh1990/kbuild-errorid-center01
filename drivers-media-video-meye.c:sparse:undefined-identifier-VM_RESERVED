@@ -1,0 +1,3 @@
+drivers/media/video/meye.c:1650:26: sparse: undefined identifier 'VM_RESERVED'
+
+2012-10-15 17:28:52 snb glommer-memcg:kmemcg-slab:ff42632 i386-allmodconfig ff42632

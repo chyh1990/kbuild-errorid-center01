@@ -1,0 +1,3 @@
+drivers/watchdog/iTCO_vendor_support.c:321:3: warning: passing argument 1 of 'broken_bios_stop' from incompatible pointer type [enabled by default]
+
+2012-09-17 17:36:44 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0

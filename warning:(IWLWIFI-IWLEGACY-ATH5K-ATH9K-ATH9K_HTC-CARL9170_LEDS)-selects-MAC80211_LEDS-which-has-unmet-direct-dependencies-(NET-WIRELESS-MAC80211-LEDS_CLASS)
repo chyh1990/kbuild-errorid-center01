@@ -1,0 +1,3 @@
+warning: (IWLWIFI && IWLEGACY && ATH5K && ATH9K && ATH9K_HTC && CARL9170_LEDS) selects MAC80211_LEDS which has unmet direct dependencies (NET && WIRELESS && MAC80211 && LEDS_CLASS)
+
+2013-01-09 12:24:55 bee char-misc:char-misc-next:627ca75 cris-allyesconfig 627ca75

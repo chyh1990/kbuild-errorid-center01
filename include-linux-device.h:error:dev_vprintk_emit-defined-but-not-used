@@ -1,0 +1,15 @@
+include/linux/device.h:930:12: error: 'dev_vprintk_emit' defined but not used [-Werror=unused-function]
+
+2012-09-19 11:46:50 inn internal-wfg:0day:bd510f3 sh-allnoconfig bd510f3
+2012-09-19 19:32:46 lkp-mb01 driver-core:driver-core-next:666f355 sh-allnoconfig 666f355
+2012-09-19 19:59:00 lkp-mb01 next:akpm:7db5e9e sh-allnoconfig 7db5e9e
+2012-09-20 16:36:39 lkp-mb01 next:akpm:7e926d7 sh-allnoconfig 7e926d7
+2012-09-21 17:03:17 lkp-mb01 next:akpm:69921c3 sh-allnoconfig 69921c3
+2012-09-25 10:07:10 lkp-mb01 next:akpm:a9ee2e3 sh-allnoconfig a9ee2e3
+2012-09-26 14:02:52 lkp-mb01 next:akpm:e9cadb8 sh-allnoconfig e9cadb8
+2012-09-26 16:31:38 lkp-mb01 next:akpm:dad0019 sh-allnoconfig dad0019
+2012-09-27 04:39:53 lkp-mb01 driver-core:driver-core-next:1980a34 sh-allnoconfig 1980a34
+2012-10-02 12:11:50 snb shawnguo:for-3.8:41c54ad sh-allnoconfig 41c54ad
+2012-10-02 12:11:50 snb shawnguo:for-3.8:41c54ad sh-allnoconfig 41c54ad email notified
+2012-10-15 15:35:23 lkp-mb01 shawnguo:for-3.8:d905cd3 sh-allnoconfig d905cd3
+2012-10-15 16:54:51 lkp-mb01 shawnguo:imx:dt-for-3.8:23b91e9 sh-allnoconfig 23b91e9

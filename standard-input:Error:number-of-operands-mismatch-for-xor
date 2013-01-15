@@ -1,0 +1,4 @@
+{standard input}:442: Error: number of operands mismatch for `xor'
+
+2012-09-21 15:38:19 snb nfs:testing:9dfaead x86_64-randconfig-s363 6428dae
+2012-10-09 04:47:01 hive net:master:8634724 x86_64-randconfig-h003 8634724

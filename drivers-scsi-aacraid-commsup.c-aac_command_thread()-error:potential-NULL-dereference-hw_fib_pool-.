@@ -1,0 +1,3 @@
+drivers/scsi/aacraid/commsup.c:1792 aac_command_thread() error: potential NULL dereference 'hw_fib_pool'.
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

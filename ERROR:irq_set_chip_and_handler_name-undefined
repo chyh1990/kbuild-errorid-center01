@@ -1,0 +1,5 @@
+ERROR: "irq_set_chip_and_handler_name" undefined!
+
+2012-10-02 14:10:11 kbuild gpio:for-next:901acf5 x86_64-allmodconfig 71fde00
+2012-10-02 14:10:12 kbuild x86_64 email notified
+2012-10-12 13:38:15 bee renesas:next:ab48623 i386-randconfig-b192 ab48623

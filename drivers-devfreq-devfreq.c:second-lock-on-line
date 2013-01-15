@@ -1,0 +1,4 @@
+drivers/devfreq/devfreq.c:311:4-14: second lock on line 275
+
+2012-08-09 15:55:05 snb i386 /cc/kernel-tests/commit-list/wq:review-delayed_work-irqsafe:6ea0634 a6c0c32be6ec651731e1b0e726debf100cdd5f54
+2012-08-09 15:57:51 snb i386 email notified

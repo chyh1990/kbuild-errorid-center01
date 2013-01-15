@@ -1,0 +1,3 @@
+drivers/usb/gadget/pch_udc.c:2211 pch_udc_complete_receiver() warn: suspicious bitop condition
+
+2012-09-07 22:42:04 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

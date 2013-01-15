@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/therm/fan.c:137:29: sparse: constant 60000000000 is so big it is long long
+
+2012-09-27 23:46:05 snb nouveau:master:301e77f i386-allmodconfig 301e77f

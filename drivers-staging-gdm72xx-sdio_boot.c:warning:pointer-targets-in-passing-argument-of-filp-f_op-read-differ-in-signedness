@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/sdio_boot.c:85:6: warning: pointer targets in passing argument 2 of 'filp->f_op->read' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:14:18 bee staging:staging-next:9970eea m68k-allyesconfig 9970eea

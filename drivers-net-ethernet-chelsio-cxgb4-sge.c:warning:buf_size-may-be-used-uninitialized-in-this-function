@@ -1,0 +1,3 @@
+drivers/net/ethernet/chelsio/cxgb4/sge.c:454:2: warning: 'buf_size' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-22 02:48:10 bee m68k:m68k-queue:287e050 x86_64-randconfig-x298 7bc8553

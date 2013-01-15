@@ -1,0 +1,3 @@
+drivers/scsi/wd7000.c:857 alloc_scbs() warn: inconsistent returns spin_lock:host->host_lock: locked (817,857) unlocked (835)
+
+2013-01-09 13:27:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

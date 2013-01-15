@@ -1,0 +1,3 @@
+drivers/acpi/scan.c:102:17: error: 'ACPI_OST_SC_NON_SPECIFIC_FAILURE' undeclared (first use in this function)
+
+2012-09-26 12:49:03 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

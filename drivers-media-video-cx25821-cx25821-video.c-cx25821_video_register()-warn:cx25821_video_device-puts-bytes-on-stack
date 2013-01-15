@@ -1,0 +1,3 @@
+drivers/media/video/cx25821/cx25821-video.c:453 cx25821_video_register() warn: 'cx25821_video_device' puts 920 bytes on stack
+
+2012-09-12 11:57:47 kbuild security:next:a40695e i386-allyesconfig a40695e

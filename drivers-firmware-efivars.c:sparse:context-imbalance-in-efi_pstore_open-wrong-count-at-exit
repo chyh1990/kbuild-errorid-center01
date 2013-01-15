@@ -1,0 +1,3 @@
+drivers/firmware/efivars.c:1121:12: sparse: context imbalance in 'efi_pstore_open' - wrong count at exit
+
+2013-01-09 13:09:39 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

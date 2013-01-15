@@ -1,0 +1,3 @@
+drivers/gpio/gpiolib.c:2291:14: sparse: symbol 'gpio_block_fop_poll' was not declared. Should it be static?
+
+2012-12-20 17:36:26 snb lpc32xx:blockgpio:2fd6acd i386-allmodconfig 2fd6acd

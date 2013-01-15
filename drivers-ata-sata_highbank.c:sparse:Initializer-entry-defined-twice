@@ -1,0 +1,3 @@
+drivers/ata/sata_highbank.c:254:9: sparse: Initializer entry defined twice
+
+2013-01-09 13:19:48 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_sp.c:2628:51: sparse: Using plain integer as NULL pointer
+
+2013-01-09 12:55:48 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

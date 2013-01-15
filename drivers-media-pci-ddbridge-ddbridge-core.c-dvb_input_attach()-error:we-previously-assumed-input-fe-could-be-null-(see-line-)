@@ -1,0 +1,3 @@
+drivers/media/pci/ddbridge/ddbridge-core.c:886 dvb_input_attach() error: we previously assumed 'input->fe' could be null (see line 879)
+
+2013-01-09 13:27:47 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

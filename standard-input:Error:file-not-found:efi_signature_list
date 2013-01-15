@@ -1,0 +1,5 @@
+{standard input}:5: Error: file not found: efi_signature_list
+
+2012-12-13 07:22:11 bee modsign:modsign-post-KS:830c2df x86_64-allyesconfig 830c2df
+2012-12-13 07:22:34 bee x86_64 email notified
+2012-12-13 09:20:48 snb devel-snb-i386-2012-12-13-08-53:0b52799 i386-allmodconfig 0b52799

@@ -1,0 +1,6 @@
+mm/mmap.c:1271:15: error: 'MAP_HUGE_SHIFT' undeclared (first use in this function)
+
+2012-11-09 13:48:55 bee next:akpm:6703d59 powerpc-chroma_defconfig 6703d59
+2012-11-09 19:37:54 bee memcg:since-3.6:f37592d powerpc-chroma_defconfig f37592d
+2012-11-10 21:59:05 kbuild memcg:since-3.6:d12449b powerpc-allmodconfig d12449b
+2012-11-13 14:13:33 kbuild next:akpm:61df919 powerpc-allmodconfig 61df919

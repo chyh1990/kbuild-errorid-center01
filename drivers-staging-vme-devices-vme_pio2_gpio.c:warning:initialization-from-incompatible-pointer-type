@@ -1,0 +1,3 @@
+drivers/staging/vme/devices/vme_pio2_gpio.c:31:9: warning: initialization from incompatible pointer type [enabled by default]
+
+2013-01-09 12:49:14 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

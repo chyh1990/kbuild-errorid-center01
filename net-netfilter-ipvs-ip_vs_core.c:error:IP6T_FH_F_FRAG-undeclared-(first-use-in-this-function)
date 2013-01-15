@@ -1,0 +1,8 @@
+net/netfilter/ipvs/ip_vs_core.c:945:21: error: 'IP6T_FH_F_FRAG' undeclared (first use in this function)
+
+2012-11-14 00:39:38 lkp-mb01 devel-lkp-mb01-s390-2012-11-13-23-16:c9afcb3 s390-allmodconfig c9afcb3
+2012-11-14 08:33:30 bee devel-bee-x86_64-2012-11-14-08-28:6300a9a x86_64-allyesdebian 6300a9a
+2012-11-14 10:27:15 snb devel-snb-arm-2012-11-14-08-58:5cef0c7 m68k-allmodconfig 5cef0c7
+2012-11-29 04:19:21 kbuild devel-kbuild-x86_64-2012-11-29-04-13:96a5114 x86_64-allmodconfig 96a5114
+2012-11-29 05:09:13 bee devel-bee-i386-2012-11-29-04-13:40cb2c8 i386-randconfig-b785 40cb2c8
+2012-11-29 05:10:37 hive devel-hive-ia64-2012-11-29-04-18:b3ba8e5 ia64-allmodconfig b3ba8e5

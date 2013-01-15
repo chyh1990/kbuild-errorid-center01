@@ -1,0 +1,4 @@
+sound/drivers/mpu401/mpu401_uart.c:436:7-36: duplicated argument to && or ||
+
+2012-07-28 14:23:12 snb i386 /cc/kernel-tests/commit-list/sound:master:49d5dcc bc733d495267a23ef8660220d696c6e549ce30b3
+2012-07-28 14:23:14 snb i386 email notified

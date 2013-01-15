@@ -1,0 +1,3 @@
+drivers/dma/dmatest.c:701:1: error: invalid storage class for function '__exittest'
+
+2013-01-07 01:19:57 kbuild slave-dma:next:3c1eea5 x86_64-allmodconfig 3c1eea5

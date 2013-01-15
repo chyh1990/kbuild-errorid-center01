@@ -1,0 +1,3 @@
+drivers/video/matrox/matroxfb_accel.c:490:3: warning: pointer targets in passing argument 4 of 'matroxfb_1bpp_imageblit' differ in signedness [-Wpointer-sign]
+
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x070 a6df3fd

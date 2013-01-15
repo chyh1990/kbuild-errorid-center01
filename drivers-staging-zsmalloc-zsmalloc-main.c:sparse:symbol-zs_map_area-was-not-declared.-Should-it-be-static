@@ -1,0 +1,3 @@
+drivers/staging/zsmalloc/zsmalloc-main.c:247:8: sparse: symbol 'zs_map_area' was not declared. Should it be static?
+
+2013-01-09 13:05:54 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

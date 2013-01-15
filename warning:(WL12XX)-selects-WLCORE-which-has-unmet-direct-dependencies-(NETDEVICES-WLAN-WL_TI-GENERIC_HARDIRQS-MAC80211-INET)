@@ -1,0 +1,3 @@
+warning: (WL12XX) selects WLCORE which has unmet direct dependencies (NETDEVICES && WLAN && WL_TI && GENERIC_HARDIRQS && MAC80211 && INET)
+
+2012-09-06 19:31:17 kbuild xen:linux-next:5036eb0 i386-randconfig-k920 3c7dc7c

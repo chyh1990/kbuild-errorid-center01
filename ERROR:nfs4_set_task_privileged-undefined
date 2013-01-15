@@ -1,0 +1,5 @@
+ERROR: "nfs4_set_task_privileged" undefined!
+
+2012-11-02 05:55:46 kbuild devel-kbuild-x86_64-2012-11-02-05-54:e650166 x86_64-allmodconfig e650166
+2012-11-02 06:36:54 kbuild devel-kbuild-powerpc-2012-11-02-06-13:c3560c0 powerpc-allmodconfig c3560c0
+2012-11-02 07:03:01 lkp-mb01 devel-lkp-mb01-s390-2012-11-02-06-11:b2f95d5 s390-allmodconfig b2f95d5

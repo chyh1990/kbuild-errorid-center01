@@ -1,0 +1,3 @@
+drivers/scsi/gdth.c:1111:41: sparse: not an lvalue
+
+2012-10-30 11:47:21 snb pci:pci:misc:347593e i386-allmodconfig 347593e

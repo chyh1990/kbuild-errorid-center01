@@ -1,0 +1,4 @@
+drivers/regulator/tps6586x-regulator.c:392:2: warning: 'id' is used uninitialized in this function [-Wuninitialized]
+
+2012-11-15 13:34:22 bee regulator:topic:tps6586x:64e4816 x86_64-randconfig-x620 64e4816
+2012-11-15 13:34:28 bee x86_64 email notified

@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/subdev/mxm/nv50.c:187:1-59: code aligned with following code on line 188
+
+2012-08-27 13:09:51 snb nouveau:master:fc72098 i386-allmodconfig 505c59f
+2012-08-27 13:15:23 snb i386 email notified

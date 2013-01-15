@@ -1,0 +1,3 @@
+mm/memory.c:72:2: warning: #warning Unfortunate NUMA config, growing page-frame for last_nid. [-Wcpp]
+
+2012-09-28 16:21:18 snb tip:sched:numa:7eaffe9 i386-allmodconfig 7eaffe9

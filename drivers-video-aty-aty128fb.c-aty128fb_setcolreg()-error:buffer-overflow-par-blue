@@ -1,0 +1,3 @@
+drivers/video/aty/aty128fb.c:2285 aty128fb_setcolreg() error: buffer overflow 'par->blue' 32 <= 127
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

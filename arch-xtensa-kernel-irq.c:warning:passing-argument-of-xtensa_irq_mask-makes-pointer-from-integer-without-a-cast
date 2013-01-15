@@ -1,0 +1,3 @@
+arch/xtensa/kernel/irq.c:92:2: warning: passing argument 1 of 'xtensa_irq_mask' makes pointer from integer without a cast [enabled by default]
+
+2012-11-01 03:10:17 lkp-mb01 cgroup:review-cgroup-rmdir-updates:cb5d38f xtensa-common_defconfig cb5d38f

@@ -1,0 +1,3 @@
+drivers/infiniband/hw/ocrdma/ocrdma_hw.c:705 ocrdma_dispatch_ibevent() error: potential NULL dereference 'qp'.
+
+2013-01-09 13:27:21 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

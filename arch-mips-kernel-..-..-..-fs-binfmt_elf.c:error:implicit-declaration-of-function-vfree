@@ -1,0 +1,3 @@
+arch/mips/kernel/../../../fs/binfmt_elf.c:1437:5: error: implicit declaration of function 'vfree' [-Werror=implicit-function-declaration]
+
+2012-09-21 16:40:23 hive next:akpm:69921c3 mips-fuloong2e_defconfig 69921c3

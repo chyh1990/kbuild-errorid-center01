@@ -1,0 +1,7 @@
+drivers/pci/xen-pcifront.c:397:2: error: 'res' undeclared (first use in this function)
+
+2012-09-18 07:53:52 kbuild yinghai:master:f4e430c x86_64-allmodconfig f4e430c
+2012-09-18 11:40:07 kbuild x86_64 email notified
+2012-09-18 12:30:47 kbuild yinghai:for-pci-res-alloc:0ec2f31 x86_64-allmodconfig 0ec2f31
+2012-09-18 12:33:28 kbuild yinghai:for-pci-for-each-res-addon:e7b4a70 x86_64-allmodconfig e7b4a70
+2012-09-18 12:40:52 kbuild yinghai:for-pci-busn-alloc:217f93f x86_64-allmodconfig 217f93f

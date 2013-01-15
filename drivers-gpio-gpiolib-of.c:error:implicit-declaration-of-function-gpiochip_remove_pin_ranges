@@ -1,0 +1,6 @@
+drivers/gpio/gpiolib-of.c:280:2: error: implicit declaration of function 'gpiochip_remove_pin_ranges' [-Werror=implicit-function-declaration]
+
+2012-11-06 23:26:21 bee pinctrl:devel:d505934 i386-randconfig-x004 d0be470
+2012-11-06 23:26:35 bee i386 email notified
+2012-11-06 23:42:29 bee pinctrl:for-next:7ac6f17 i386-randconfig-b637 7ac6f17
+2012-11-08 22:10:07 bee pinctrl:devel:9ac13ac i386-randconfig-x010 5c998ab

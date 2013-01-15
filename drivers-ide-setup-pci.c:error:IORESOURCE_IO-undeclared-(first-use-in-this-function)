@@ -1,0 +1,5 @@
+drivers/ide/setup-pci.c:297:14: error: 'IORESOURCE_IO' undeclared (first use in this function)
+
+2012-09-17 17:36:37 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 17:53:55 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:43:29 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

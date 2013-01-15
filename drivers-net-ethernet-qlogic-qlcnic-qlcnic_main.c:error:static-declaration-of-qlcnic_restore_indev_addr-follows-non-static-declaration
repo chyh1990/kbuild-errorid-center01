@@ -1,0 +1,4 @@
+drivers/net/ethernet/qlogic/qlcnic/qlcnic_main.c:3303:1: error: static declaration of 'qlcnic_restore_indev_addr' follows non-static declaration
+
+2013-01-02 19:11:34 bee devel-bee-i386-2013-01-02-19-05:fc6faea i386-randconfig-b985 fc6faea
+2013-01-02 19:22:16 snb devel-snb-x86_64-2013-01-02-19-15:a3b8ecf x86_64-randconfig-s570 a3b8ecf

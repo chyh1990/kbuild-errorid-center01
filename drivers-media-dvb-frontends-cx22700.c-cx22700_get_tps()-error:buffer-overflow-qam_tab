@@ -1,0 +1,3 @@
+drivers/media/dvb-frontends/cx22700.c:211 cx22700_get_tps() error: buffer overflow 'qam_tab' 3 <= 3
+
+2013-01-09 13:28:10 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

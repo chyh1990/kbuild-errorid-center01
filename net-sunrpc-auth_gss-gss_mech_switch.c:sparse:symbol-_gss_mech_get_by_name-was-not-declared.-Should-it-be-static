@@ -1,0 +1,3 @@
+net/sunrpc/auth_gss/gss_mech_switch.c:143:21: sparse: symbol '_gss_mech_get_by_name' was not declared. Should it be static?
+
+2013-01-09 12:56:24 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

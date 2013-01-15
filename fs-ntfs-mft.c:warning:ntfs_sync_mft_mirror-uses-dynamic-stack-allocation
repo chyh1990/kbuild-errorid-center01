@@ -1,0 +1,3 @@
+fs/ntfs/mft.c:636:1: warning: 'ntfs_sync_mft_mirror' uses dynamic stack allocation [enabled by default]
+
+2013-01-09 12:49:09 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

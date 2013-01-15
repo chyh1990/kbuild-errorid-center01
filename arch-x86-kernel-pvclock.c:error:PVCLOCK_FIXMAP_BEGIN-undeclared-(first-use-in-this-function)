@@ -1,0 +1,6 @@
+arch/x86/kernel/pvclock.c:183:43: error: 'PVCLOCK_FIXMAP_BEGIN' undeclared (first use in this function)
+
+2012-11-27 10:05:57 hive devel-hive-x86_64-2012-11-27-09-57:87fca80 x86_64-randconfig-h341 87fca80
+2012-11-27 10:16:25 lkp-mb01 devel-lkp-mb01-i386-2012-11-27-10-02:dc39dee i386-randconfig-m044 dc39dee
+2012-11-27 10:16:59 bee devel-bee-i386-2012-11-27-10-08:b63ce2c i386-randconfig-b760 b63ce2c
+2012-11-27 10:55:09 snb kvm:queue:fc1ddea x86_64-randconfig-s351 d6cc633

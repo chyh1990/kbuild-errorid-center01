@@ -1,0 +1,3 @@
+drivers/block/rbd.c:754 bio_chain_clone() error: potential NULL dereference 'tail'.
+
+2012-09-07 22:41:45 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

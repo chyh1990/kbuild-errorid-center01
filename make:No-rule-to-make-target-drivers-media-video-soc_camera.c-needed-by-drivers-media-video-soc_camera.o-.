@@ -1,0 +1,6 @@
+make[4]: *** No rule to make target `drivers/media/video/soc_camera.c', needed by `drivers/media/video/soc_camera.o'.
+
+2012-08-16 20:08:44 kbuild samsung:v4l-fixes:9a6b6fa x86_64-allmodconfig 2a2d1cf
+2012-08-17 17:04:02 kbuild samsung:v4l-exynos-gsc:8ac9447 powerpc-allmodconfig 2a2d1cf
+2012-08-19 04:16:40 snb samsung:v4l-exynos-gsc:1a66670 m68k-allmodconfig 2a2d1cf
+2012-09-01 21:46:46 hive samsung:v4l-next:ef7af7e ia64-allmodconfig 2a2d1cf

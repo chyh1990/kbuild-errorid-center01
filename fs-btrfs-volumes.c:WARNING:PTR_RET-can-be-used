@@ -1,0 +1,3 @@
+fs/btrfs/volumes.c:2886:1-3: WARNING: PTR_RET can be used
+
+2012-09-07 12:23:03 snb drm-intel:drm-intel-nightly:0b59054 i386-allmodconfig 0b59054

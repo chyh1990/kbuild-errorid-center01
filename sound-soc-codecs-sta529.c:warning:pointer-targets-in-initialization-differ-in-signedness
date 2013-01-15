@@ -1,0 +1,3 @@
+sound/soc/codecs/sta529.c:146:2: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:05:49 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

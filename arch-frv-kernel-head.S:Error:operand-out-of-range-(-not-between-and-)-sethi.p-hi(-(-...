@@ -1,0 +1,3 @@
+arch/frv/kernel/head.S:52: Error: operand out of range (0xffffffff31ff not between 0 and 0xffff) `sethi.p %hi(~(0x80000000|0x40000000|0x08000000|0x0...'
+
+2012-10-30 19:20:24 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-30-18-23:53fc16d frv-defconfig 53fc16d

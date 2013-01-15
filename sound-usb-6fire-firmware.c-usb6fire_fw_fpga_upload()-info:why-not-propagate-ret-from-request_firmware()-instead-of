@@ -1,0 +1,3 @@
+sound/usb/6fire/firmware.c:298 usb6fire_fw_fpga_upload() info: why not propagate 'ret' from request_firmware() instead of -5?
+
+2012-09-12 11:58:02 kbuild security:next:a40695e i386-allyesconfig a40695e

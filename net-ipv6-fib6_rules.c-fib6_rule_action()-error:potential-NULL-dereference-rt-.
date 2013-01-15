@@ -1,0 +1,3 @@
+net/ipv6/fib6_rules.c:90 fib6_rule_action() error: potential NULL dereference 'rt'.
+
+2013-01-09 13:28:11 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

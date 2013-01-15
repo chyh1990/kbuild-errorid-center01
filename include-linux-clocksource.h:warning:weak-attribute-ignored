@@ -1,0 +1,3 @@
+include/linux/clocksource.h:287:15: warning: 'weak' attribute ignored
+
+2012-10-01 17:36:30 snb devel-snb-arm-2012-10-01-17-19:6180ed1 openrisc-or1ksim_defconfig 6180ed1

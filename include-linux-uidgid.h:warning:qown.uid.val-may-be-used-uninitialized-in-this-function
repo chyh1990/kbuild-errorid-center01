@@ -1,0 +1,4 @@
+include/linux/uidgid.h:55:2: warning: 'qown.uid.val' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-08-07 06:17:14 snb x86_64 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 e233b70202d63b3c55f68f777b53765bb7108ce3
+2012-08-07 06:17:15 snb x86_64 email notified

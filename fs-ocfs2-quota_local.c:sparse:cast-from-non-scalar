@@ -1,0 +1,3 @@
+fs/ocfs2/quota_local.c:884:25: sparse: cast from non-scalar
+
+2012-08-07 06:29:09 snb i386 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 14f09b1637a461b1c4aa909c664de586e6bfc332

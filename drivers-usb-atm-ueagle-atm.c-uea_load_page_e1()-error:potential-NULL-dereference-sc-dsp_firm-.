@@ -1,0 +1,3 @@
+drivers/usb/atm/ueagle-atm.c:964 uea_load_page_e1() error: potential NULL dereference 'sc->dsp_firm'.
+
+2013-01-09 13:28:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

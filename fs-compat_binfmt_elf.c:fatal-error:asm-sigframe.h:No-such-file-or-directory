@@ -1,0 +1,4 @@
+fs/compat_binfmt_elf.c:22:53: fatal error: asm/sigframe.h: No such file or directory
+
+2012-09-21 16:33:46 kbuild next:akpm:69921c3 powerpc-defconfig 69921c3
+2012-09-25 14:28:42 lkp-mb01 next:akpm:a9ee2e3 s390-allmodconfig a9ee2e3

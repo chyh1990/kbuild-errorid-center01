@@ -1,0 +1,3 @@
+crypto/asymmetric_keys/x509_cert_parser.c:55:1: warning: parameter names (without types) in function declaration [enabled by default]
+
+2012-10-30 23:36:04 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 637002a

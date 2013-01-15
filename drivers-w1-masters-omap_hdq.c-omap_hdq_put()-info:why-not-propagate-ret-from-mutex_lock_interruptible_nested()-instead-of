@@ -1,0 +1,3 @@
+drivers/w1/masters/omap_hdq.c:450 omap_hdq_put() info: why not propagate 'ret' from mutex_lock_interruptible_nested() instead of -4?
+
+2012-09-23 14:45:56 kbuild char-misc:char-misc-next:6592921 i386-allyesconfig 6592921

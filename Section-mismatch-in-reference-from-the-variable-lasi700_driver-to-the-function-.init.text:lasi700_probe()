@@ -1,0 +1,3 @@
+WARNING: drivers/scsi/built-in.o(.data+0x15b04): Section mismatch in reference from the variable lasi700_driver to the function .init.text:lasi700_probe()
+
+2012-09-26 22:32:16 bee kvm-ppc:kvm-ppc-next:d265f1e parisc-allyesconfig c3c9e53

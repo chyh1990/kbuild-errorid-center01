@@ -1,0 +1,8 @@
+include/linux/crypto.h:497:(.text+0x4e1e8): relocation truncated to fit: R_M32R_26_PCREL_RELA against undefined symbol `crypto_destroy_tfm'
+
+2012-09-04 02:10:44 hive can:led-trigger:eb389c9 m32r-opsput_defconfig 1046716
+2012-09-04 13:18:58 hive can:master:d7ceb47 m32r-opsput_defconfig d7ceb47
+2012-09-04 16:01:59 hive next:akpm:d0d0486 m32r-opsput_defconfig d17d463
+2012-09-06 03:20:01 hive can:master:aea8419 m32r-opsput_defconfig a621e03
+2012-09-06 16:43:10 hive can:master:f05e04d m32r-opsput_defconfig 11ad714
+2012-09-06 19:09:10 hive can:master:7b95241 m32r-opsput_defconfig ace1fe1

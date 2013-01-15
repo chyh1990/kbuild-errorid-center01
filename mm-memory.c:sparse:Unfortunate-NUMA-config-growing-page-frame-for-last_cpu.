@@ -1,0 +1,3 @@
+mm/memory.c:74:2: sparse: Unfortunate NUMA config, growing page-frame for last_cpu.
+
+2012-11-13 23:58:57 snb devel-snb-i386-2012-11-13-23-43:d164e37 i386-allmodconfig d164e37

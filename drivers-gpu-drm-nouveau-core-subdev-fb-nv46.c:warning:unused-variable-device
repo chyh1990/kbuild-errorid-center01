@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/fb/nv46.c:38:25: warning: unused variable 'device' [-Wunused-variable]
+
+2012-10-19 15:02:56 kbuild nouveau:master:dd329b4 x86_64-allmodconfig 248b209

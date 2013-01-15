@@ -1,0 +1,4 @@
+arch/x86/include/uapi/asm/swab.h:21:2: warning: 'addr[0]' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-08-14 21:30:57 snb x86_64 /cc/kernel-tests/commit-list/uapi:uapi-split:dddd552 eb93b6db32300d1baaff987d1525f6d0b3717680
+2012-08-14 21:38:41 snb x86_64 email notified

@@ -1,0 +1,4 @@
+(.init.text+0x20bb): undefined reference to `level2_ident_pgt'
+
+2012-12-16 13:30:37 kbuild yinghai:for-x86-boot:b086dd2 x86_64-allmodconfig 3ade102
+2012-12-20 12:50:41 kbuild yinghai:for-x86-boot-v8:c594186 x86_64-allmodconfig 950f019

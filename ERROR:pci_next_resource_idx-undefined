@@ -1,0 +1,29 @@
+ERROR: "pci_next_resource_idx" [drivers/pci/hotplug/pciehp.ko] undefined!
+
+2012-09-03 18:30:00 kbuild yinghai:for-pci-for-each-res-addon-v2:fad110b x86_64-allmodconfig a7c9187
+2012-09-15 11:39:03 kbuild yinghai:master:156b34a x86_64-allmodconfig 3f79a3b
+2012-09-15 14:13:40 kbuild yinghai:for-x86-irq:c0c1cc6 x86_64-allmodconfig 6130217
+2012-09-15 14:32:03 kbuild x86_64 email notified
+2012-09-15 22:12:58 snb yinghai:for-pci-for-each-res-addon:9fd94f5 i386-allmodconfig 9fd94f5
+2012-09-17 18:51:06 kbuild yinghai:master:ae5ca9a x86_64-allmodconfig ae5ca9a
+2012-09-17 18:58:42 kbuild yinghai:for-x86-irq-base:d0f7fab x86_64-allmodconfig d0f7fab
+2012-09-17 19:03:14 kbuild yinghai:for-pci-busn-alloc:a754729 x86_64-allmodconfig a754729
+2012-09-17 19:08:21 kbuild yinghai:for-iommu:0fcfe97 x86_64-allmodconfig 0fcfe97
+2012-09-17 19:16:31 kbuild yinghai:for-pci-for-each-res-addon:285e814 x86_64-allmodconfig 285e814
+2012-09-17 19:22:08 kbuild yinghai:for-pci-res-alloc:305c9ec x86_64-allmodconfig 305c9ec
+2012-09-17 19:32:43 kbuild yinghai:for-x86-irq:703185e x86_64-allmodconfig 703185e
+2012-09-18 04:54:16 snb yinghai:master:9468816 x86_64-randconfig-s342 9468816
+2012-09-18 05:00:52 kbuild yinghai:for-x86-irq-base:a3e5fcb x86_64-allmodconfig a3e5fcb
+2012-09-18 05:08:31 kbuild yinghai:for-x86-irq:bda3d83 x86_64-allmodconfig bda3d83
+2012-09-18 05:21:50 kbuild yinghai:for-pci-res-alloc:b6f5da3 x86_64-allmodconfig b6f5da3
+2012-09-18 05:26:31 kbuild yinghai:for-pci-busn-alloc:e2f62f8 x86_64-allmodconfig e2f62f8
+2012-09-18 05:29:50 snb yinghai:for-iommu:7b7a6b2 x86_64-randconfig-s342 7b7a6b2
+2012-09-18 05:33:32 snb yinghai:for-pci-for-each-res-addon:72420ac x86_64-randconfig-s342 72420ac
+2012-09-18 08:32:14 snb yinghai:master:f4e430c i386-allmodconfig f4e430c
+2012-09-18 08:58:28 snb yinghai:for-pci-busn-alloc:217f93f i386-allmodconfig 217f93f
+2012-09-18 09:28:44 snb yinghai:for-pci-for-each-res-addon:e7b4a70 i386-allmodconfig e7b4a70
+2012-09-18 10:16:12 snb yinghai:for-pci-res-alloc:0ec2f31 i386-allmodconfig 0ec2f31
+2012-09-18 13:44:48 kbuild yinghai:for-pci-busn-alloc:7f02874 x86_64-allmodconfig 7f02874
+2012-09-18 13:52:21 snb yinghai:master:483ac9c x86_64-randconfig-s342 483ac9c
+2012-09-18 13:56:51 kbuild yinghai:for-pci-for-each-res-addon:8f63fa4 x86_64-allmodconfig 8f63fa4
+2012-09-18 13:59:03 kbuild yinghai:for-pci-res-alloc:aa23edc x86_64-allmodconfig aa23edc

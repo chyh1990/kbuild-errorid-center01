@@ -1,0 +1,3 @@
+lib/bch.c:502:1: warning: 'solve_linear_system.isra.7.constprop.10' uses dynamic stack allocation [enabled by default]
+
+2012-12-14 09:25:07 inn linus:master:66cdd0c s390-allmodconfig 66cdd0c

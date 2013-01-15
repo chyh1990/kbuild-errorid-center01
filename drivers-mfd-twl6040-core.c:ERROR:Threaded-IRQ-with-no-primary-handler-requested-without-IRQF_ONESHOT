@@ -1,0 +1,3 @@
+drivers/mfd/twl6040-core.c:586:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-09-17 05:42:21 snb linus:master:73f8be2 i386-allmodconfig 73f8be2

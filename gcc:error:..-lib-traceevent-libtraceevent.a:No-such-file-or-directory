@@ -1,0 +1,3 @@
+gcc: error: ../lib/traceevent/libtraceevent.a: No such file or directory
+
+2012-08-12 02:15:30 bee x86_64 /cc/kernel-tests/commit-list/perf:perf:core:26d3302 71ad0f5e4e361c8bca864c7d09d14b64af6bc2fc

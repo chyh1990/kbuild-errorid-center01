@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7720.c:2044:2: warning: pointer targets in passing argument 4 of 'read_mos_reg' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:28 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

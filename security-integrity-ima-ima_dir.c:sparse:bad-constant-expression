@@ -1,0 +1,3 @@
+security/integrity/ima/ima_dir.c:60:47: sparse: bad constant expression
+
+2012-10-31 22:10:27 snb devel-snb-i386-2012-10-31-21-47:3e18805 i386-allmodconfig 3e18805

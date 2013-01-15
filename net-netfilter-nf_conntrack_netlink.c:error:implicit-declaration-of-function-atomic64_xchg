@@ -1,0 +1,5 @@
+net/netfilter/nf_conntrack_netlink.c:246:3: error: implicit declaration of function 'atomic64_xchg' [-Werror=implicit-function-declaration]
+
+2012-09-01 22:49:55 snb slave-dma:next:b5f1433 m68k-allmodconfig b707c65
+2012-09-01 22:55:07 snb asoc:for-next:ba846b3 m68k-allmodconfig c921928
+2012-09-20 10:26:12 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

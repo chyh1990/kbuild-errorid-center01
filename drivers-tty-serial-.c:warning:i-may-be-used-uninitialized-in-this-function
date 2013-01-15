@@ -1,0 +1,3 @@
+drivers/tty/serial/8250/8250.c:1746:18: warning: 'i' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:07 inn linus:master:974b335 x86_64-randconfig-n368 974b335

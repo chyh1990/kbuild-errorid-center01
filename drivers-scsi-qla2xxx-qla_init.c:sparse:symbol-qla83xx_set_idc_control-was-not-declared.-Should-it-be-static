@@ -1,0 +1,3 @@
+drivers/scsi/qla2xxx/qla_init.c:4022:1: sparse: symbol 'qla83xx_set_idc_control' was not declared. Should it be static?
+
+2012-09-16 01:10:45 snb scsi:for-next:71cfff4 i386-allmodconfig 23b36ce

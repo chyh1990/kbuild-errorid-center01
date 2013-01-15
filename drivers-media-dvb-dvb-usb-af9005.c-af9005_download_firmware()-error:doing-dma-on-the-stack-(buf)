@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/af9005.c:741 af9005_download_firmware() error: doing dma on the stack (buf)
+
+2012-09-12 11:58:55 kbuild security:next:a40695e i386-allyesconfig a40695e

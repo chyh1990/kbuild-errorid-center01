@@ -1,0 +1,3 @@
+warning: (VIDEO_EM28XX) selects VIDEO_MT9V011 which has unmet direct dependencies (MEDIA_SUPPORT && I2C && VIDEO_V4L2 && MEDIA_CAMERA_SUPPORT)
+
+2013-01-09 11:47:20 snb devel-snb-x86_64-2013-01-09-11-38:b362afb x86_64-randconfig-s618 b362afb

@@ -1,0 +1,3 @@
+include/acpi/acpi_drivers.h:95:53: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2012-09-26 12:47:57 bee thermal:next:5d8d708 um-allyesconfig f4a821c

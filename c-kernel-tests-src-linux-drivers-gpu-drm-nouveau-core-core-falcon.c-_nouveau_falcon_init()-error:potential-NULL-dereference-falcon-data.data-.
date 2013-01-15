@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/gpu/drm/nouveau/core/core/falcon.c:190 _nouveau_falcon_init() error: potential NULL dereference 'falcon->data.data'.
+
+2013-01-07 12:25:22 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

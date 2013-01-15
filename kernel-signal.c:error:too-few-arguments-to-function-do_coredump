@@ -1,0 +1,29 @@
+kernel/signal.c:2362:4: error: too few arguments to function 'do_coredump'
+
+2012-11-11 01:26:57 lkp-mb01 signal:untested:dea02d9 sh-allnoconfig dea02d9
+2012-11-11 04:25:38 lkp-mb01 signal:untested:5c81988 sh-allnoconfig 5c81988
+2012-11-17 11:41:54 bee signal:for-next:5e518be i386-randconfig-b700 5e518be
+2012-11-17 12:11:15 snb devel-snb-x86_64-2012-11-17-12-01:be17897 x86_64-randconfig-s292 be17897
+2012-11-17 12:11:21 bee signal:untested:088949f i386-randconfig-b700 088949f
+2012-11-17 12:27:25 bee signal:for-next:96255ea i386-randconfig-b700 96255ea
+2012-11-17 12:34:54 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-11-53:df2d8ef sh-allnoconfig df2d8ef
+2012-11-17 13:01:13 bee signal:untested:85c66bf i386-randconfig-b700 85c66bf
+2012-11-17 13:08:48 bee signal:for-next:c47497e i386-randconfig-b700 c47497e
+2012-11-17 13:23:09 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-12-37:cb861c9 sh-allnoconfig cb861c9
+2012-11-18 01:23:41 snb signal:untested:3b9dcd8 x86_64-randconfig-s292 c950ba0
+2012-11-18 02:21:58 lkp-mb01 devel-lkp-mb01-i386-2012-11-18-02-02:d1abb57 i386-randconfig-m033 d1abb57
+2012-11-18 02:29:11 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-18-02-02:aa6dc2d sh-allnoconfig aa6dc2d
+2012-11-18 12:47:39 bee signal:for-michal:a0f8504 i386-randconfig-b700 a0f8504
+2012-11-20 11:37:26 snb devel-snb-x86_64-2012-11-20-11-26:910caa3 x86_64-randconfig-s302 910caa3
+2012-11-20 11:41:51 hive devel-hive-x86_64-2012-11-20-11-30:f0f143d x86_64-randconfig-h291 f0f143d
+2012-11-20 11:48:40 bee signal:for-michal:6a9a88b i386-randconfig-b710 6a9a88b
+2012-11-20 11:55:19 bee signal:untested:0019a15 i386-randconfig-b710 0019a15
+2012-11-21 04:43:19 hive signal:master:c8377f5 x86_64-randconfig-h291 c8377f5
+2012-11-21 04:49:16 snb devel-snb-x86_64-2012-11-21-04-40:1ba6d49 x86_64-randconfig-s302 1ba6d49
+2012-11-21 05:33:01 bee signal:master:8038217 i386-randconfig-b710 8038217
+2012-11-21 05:53:37 snb devel-snb-x86_64-2012-11-21-05-35:6796d78 x86_64-randconfig-s302 6796d78
+2012-11-21 06:08:24 hive devel-hive-x86_64-2012-11-21-05-59:ec96315 x86_64-randconfig-h291 ec96315
+2012-11-21 08:00:52 bee signal:master:f4a94f2 i386-randconfig-b710 f4a94f2
+2012-11-21 16:31:33 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-21-15-43:6d7fe72 sh-allnoconfig 6d7fe72
+2012-11-26 22:40:41 snb next:master:d7ce984 x86_64-randconfig-s351 d7ce984
+2012-11-26 23:05:01 snb next:akpm:bf7daca x86_64-randconfig-s351 1b335bd

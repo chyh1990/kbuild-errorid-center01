@@ -1,0 +1,3 @@
+EXPORT_SYMBOL_GPL(blkdev_write_iter);
+
+2012-10-18 03:14:47 snb shaggy:loop_v3:d6e6003 i386-allmodconfig d6e6003

@@ -1,0 +1,6 @@
+drivers/xen/privcmd.c:181:6: error: too few arguments to function 'xen_remap_domain_mfn_range'
+
+2012-09-22 04:30:57 kbuild xen:linux-next-pvh:4bbc734 x86_64-allmodconfig 82efc1a
+2012-09-22 04:30:59 kbuild x86_64 email notified
+2012-09-22 04:51:09 bee xen:linux-next-pvh:7e6e6f5 x86_64-allyesdebian 82efc1a
+2012-09-27 00:49:35 snb xen:linux-next-pvh:40b4701 x86_64-randconfig-s002 96bd7e0

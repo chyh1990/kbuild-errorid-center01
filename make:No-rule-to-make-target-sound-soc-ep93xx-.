@@ -1,0 +1,4 @@
+make[1]: *** No rule to make target `sound/soc/ep93xx'.
+
+2012-08-29 01:32:44 bee asoc:for-next:03a5da2 x86_64-allyesconfig 0ed275e
+2012-08-29 01:32:45 bee x86_64 email notified

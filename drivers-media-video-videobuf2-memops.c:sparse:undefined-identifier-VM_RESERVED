@@ -1,0 +1,3 @@
+drivers/media/video/videobuf2-memops.c:166:52: sparse: undefined identifier 'VM_RESERVED'
+
+2012-10-13 00:29:51 snb glommer-memcg:kmemcg-stack:31b2d8e i386-allmodconfig 31b2d8e

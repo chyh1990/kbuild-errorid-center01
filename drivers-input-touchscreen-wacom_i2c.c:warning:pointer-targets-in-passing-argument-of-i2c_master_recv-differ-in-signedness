@@ -1,0 +1,3 @@
+drivers/input/touchscreen/wacom_i2c.c:103:5: warning: pointer targets in passing argument 2 of 'i2c_master_recv' differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:17 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

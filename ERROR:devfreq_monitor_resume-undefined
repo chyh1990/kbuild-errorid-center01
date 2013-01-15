@@ -1,0 +1,10 @@
+ERROR: "devfreq_monitor_resume" undefined!
+
+2012-11-28 07:00:25 snb devel-snb-arm-2012-11-28-06-39:051a3d8 m68k-allmodconfig 051a3d8
+2012-11-28 07:12:23 kbuild devel-kbuild-x86_64-2012-11-28-07-04:288428a x86_64-allmodconfig 288428a
+2012-11-28 07:44:56 lkp-mb01 devel-lkp-mb01-s390-2012-11-28-07-05:7958a39 s390-allmodconfig 7958a39
+2012-11-28 09:01:04 snb devel-snb-arm-2012-11-28-08-46:cf3f090 m68k-allmodconfig cf3f090
+2012-11-28 09:39:54 kbuild pm:pm-devfreq:92043ea x86_64-allmodconfig 92043ea
+2012-11-28 10:04:38 kbuild devel-kbuild-powerpc-2012-11-28-09-42:38211a1 powerpc-allmodconfig 38211a1
+2012-11-28 10:41:59 snb devel-snb-i386-2012-11-28-10-29:aeb7f46 i386-allmodconfig aeb7f46
+2012-11-28 19:06:59 bee devel-bee-i386-2012-11-28-17-04:fe8a5a3 i386-randconfig-b787 fe8a5a3

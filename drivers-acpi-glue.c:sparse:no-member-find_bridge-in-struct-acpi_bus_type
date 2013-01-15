@@ -1,0 +1,3 @@
+drivers/acpi/glue.c:82:24: sparse: no member 'find_bridge' in struct acpi_bus_type
+
+2012-09-28 08:08:21 snb yinghai:for-pci-next:31162ac i386-allmodconfig 31162ac

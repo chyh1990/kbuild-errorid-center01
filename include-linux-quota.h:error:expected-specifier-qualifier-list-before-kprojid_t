@@ -1,0 +1,3 @@
+include/linux/quota.h:66:3: error: expected specifier-qualifier-list before 'kprojid_t'
+
+2012-10-03 18:43:27 snb uapi:uapi-split:72541c7 openrisc-or1ksim_defconfig 72541c7

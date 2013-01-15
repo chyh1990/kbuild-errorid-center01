@@ -1,0 +1,4 @@
+drivers/tty/serial/sh-sci.c:533:2: warning: passing argument 1 of '__raw_readb' makes pointer from integer without a cast [enabled by default]
+
+2012-10-30 21:22:18 snb shawnguo:mxs:dt-for-3.8:16d4770 arm-marzen_defconfig 16d4770
+2012-10-30 21:22:20 snb arm email notified

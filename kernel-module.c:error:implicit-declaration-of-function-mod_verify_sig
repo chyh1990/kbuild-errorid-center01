@@ -1,0 +1,4 @@
+kernel/module.c:2457:4: error: implicit declaration of function 'mod_verify_sig' [-Werror=implicit-function-declaration]
+
+2012-09-22 22:35:42 kbuild modsign:modsign-post-KS:54b842c x86_64-allmodconfig f10b781
+2012-09-22 22:35:43 kbuild x86_64 email notified

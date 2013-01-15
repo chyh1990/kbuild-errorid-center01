@@ -1,0 +1,3 @@
+fs/jfs/namei.c:729 jfs_free_zero_link() Error invalid range 4096 to -1
+
+2012-09-07 22:41:39 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

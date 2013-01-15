@@ -1,0 +1,5 @@
+arch/x86/kvm/x86.c:931:38: error: 'struct clocksource' has no member named 'archdata'
+
+2012-11-27 10:16:59 bee devel-bee-i386-2012-11-27-10-08:b63ce2c i386-randconfig-b760 b63ce2c
+2012-11-27 10:31:33 kbuild devel-kbuild-i386-2012-11-27-10-18:379eafe i386-allyesconfig 379eafe
+2012-11-27 10:41:04 snb devel-snb-i386-2012-11-27-09-49:b191ebb i386-allmodconfig b191ebb

@@ -1,0 +1,3 @@
+drivers/usb/core/hub.c:1245:20: sparse: symbol 'usb_port_device_type' was not declared. Should it be static?
+
+2012-09-11 04:10:49 snb usb:usb-next:fa2a956 i386-allmodconfig fa2a956

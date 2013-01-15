@@ -1,0 +1,6 @@
+drivers/hid/hid-sensor-hub.c:599:3: error: too few arguments to function 'mfd_add_devices'
+
+2012-09-18 17:49:16 kbuild staging:staging-next:57991b6 powerpc-allmodconfig 57991b6
+2012-09-18 22:38:58 kbuild staging:staging-next:ba753e4 x86_64-allmodconfig ba753e4
+2012-09-19 23:40:28 snb staging:staging-next:5d06e3d i386-allmodconfig 5d06e3d
+2012-09-22 22:55:05 kbuild staging:staging-next:62fea8c x86_64-allmodconfig 62fea8c

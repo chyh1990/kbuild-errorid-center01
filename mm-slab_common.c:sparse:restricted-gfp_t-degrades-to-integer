@@ -1,0 +1,3 @@
+mm/slab_common.c:310:56: sparse: restricted gfp_t degrades to integer
+
+2012-09-28 18:00:19 snb glommer-memcg:slab-common:kmalloc:f957c1e i386-allmodconfig f957c1e

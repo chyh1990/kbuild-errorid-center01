@@ -1,0 +1,3 @@
+drivers/usb/core/usb-acpi.c:55:18: warning: unused variable 'pld' [-Wunused-variable]
+
+2012-09-21 13:21:01 kbuild acpi:release:abd4c92 x86_64-allmodconfig 8ede06a

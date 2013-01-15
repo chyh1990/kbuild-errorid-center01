@@ -1,0 +1,3 @@
+drivers/misc/si570.c:205:15: sparse: symbol 'si570_hs_div_values' was not declared. Should it be static?
+
+2012-12-11 17:43:55 snb microblaze:petalinux-v12.12:8c5e475 i386-allmodconfig 8c5e475

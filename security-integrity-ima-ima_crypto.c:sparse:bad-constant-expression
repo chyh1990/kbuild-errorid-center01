@@ -1,0 +1,4 @@
+security/integrity/ima/ima_crypto.c:50:47: sparse: bad constant expression
+
+2012-08-06 15:00:47 snb i386 /cc/kernel-tests/commit-list/digsig:next-ima-module:80a0d05 d9dc07847eeda04c634e4d2709b3c1dba7d1697d
+2012-08-06 15:00:48 snb i386 email notified

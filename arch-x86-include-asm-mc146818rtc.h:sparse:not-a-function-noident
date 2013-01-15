@@ -1,0 +1,3 @@
+arch/x86/include/asm/mc146818rtc.h:44:17: sparse: not a function <noident>
+
+2012-10-02 22:00:49 snb arm-soc:testing:defconfig-warnings:043906f i386-allmodconfig 043906f

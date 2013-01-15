@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_crtc.c:1012:5: sparse: symbol 'drm_mode_group_init' was not declared. Should it be static?
+
+2013-01-09 13:09:43 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

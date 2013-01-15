@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/dibusb-common.c:311 dibusb_dib3000mc_tuner_attach() error: doing dma on the stack (&desc)
+
+2013-01-09 13:27:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

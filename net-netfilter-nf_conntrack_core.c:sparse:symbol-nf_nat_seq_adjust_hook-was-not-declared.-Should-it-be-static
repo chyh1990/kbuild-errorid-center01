@@ -1,0 +1,3 @@
+net/netfilter/nf_conntrack_core.c:58:5: sparse: symbol 'nf_nat_seq_adjust_hook' was not declared. Should it be static?
+
+2013-01-09 13:06:36 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

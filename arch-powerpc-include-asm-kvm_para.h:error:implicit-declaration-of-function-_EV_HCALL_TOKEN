@@ -1,0 +1,3 @@
+arch/powerpc/include/asm/kvm_para.h:68:2: error: implicit declaration of function '_EV_HCALL_TOKEN' [-Werror=implicit-function-declaration]
+
+2012-10-31 20:18:37 bee kvm-ppc:for-queue:a13890a powerpc-chroma_defconfig a13890a

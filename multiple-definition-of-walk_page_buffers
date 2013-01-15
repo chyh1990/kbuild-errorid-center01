@@ -1,0 +1,5 @@
+(.text+0x10b24): multiple definition of `walk_page_buffers'
+
+2012-12-03 12:18:55 kbuild ext4:dev:b0c30cd i386-allyesconfig b0c30cd
+2012-12-03 13:15:54 bee ext4:dev:e9f49e4 x86_64-allyesdebian e9f49e4
+2012-12-04 15:17:19 bee next:akpm:d24c041 x86_64-allyesdebian d24c041

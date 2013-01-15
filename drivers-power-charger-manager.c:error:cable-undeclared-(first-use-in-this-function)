@@ -1,0 +1,7 @@
+drivers/power/charger-manager.c:1406:3: error: 'cable' undeclared (first use in this function)
+
+2012-08-20 11:15:51 bee samsung:charger-manager-for-next:7cab40e i386-randconfig-b840 309ea7d
+2012-08-20 23:03:38 kbuild samsung:charger-manager-for-next:cf94ae5 x86_64-allmodconfig 8972968
+2012-08-28 00:35:07 kbuild samsung:charger-manager-for-next:8c31cd6 i386-randconfig-k829 8c31cd6
+2012-08-29 11:06:09 kbuild samsung:charger-manager-for-next:d3bc1ff x86_64-allmodconfig d3bc1ff
+2012-08-30 11:04:15 kbuild samsung:charger-manager-for-next:38e5556 i386-randconfig-k850 38e5556

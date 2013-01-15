@@ -1,0 +1,4 @@
+objdump: 'drivers/block/xen-blkback/.tmp_xenbus.o': No such file
+
+2012-09-28 22:42:58 bee block:for-next:454832b x86_64-allyesconfig 232f1b5
+2012-09-28 23:06:55 bee x86_64 email notified

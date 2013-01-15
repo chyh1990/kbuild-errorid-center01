@@ -1,0 +1,4 @@
+arch/x86/kernel/signal.c:810:1: error: conflicting types for 'do_notify_resume'
+
+2012-10-17 12:29:31 bee signal:master:af2357b x86_64-allyesconfig d9d1954
+2012-10-17 12:29:37 bee x86_64 email notified

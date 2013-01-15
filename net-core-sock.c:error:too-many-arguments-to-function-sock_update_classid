@@ -1,0 +1,7 @@
+net/core/sock.c:1267:3: error: too many arguments to function 'sock_update_classid'
+
+2012-10-26 15:55:06 bee net-next:master:6a328d8 x86_64-lkp 6a328d8
+2012-10-26 16:00:42 bee net-next:master:e269ed2 i386-randconfig-b320 e269ed2
+2012-10-26 17:08:53 kbuild netdev-next:master:e269ed2 powerpc-defconfig e269ed2
+2012-10-26 19:57:27 bee netdev-next:master:fe654bd x86_64-lkp fe654bd
+2012-11-07 08:53:38 snb net-next:master:dea0924 x86_64-randconfig-s230 fd9a08a

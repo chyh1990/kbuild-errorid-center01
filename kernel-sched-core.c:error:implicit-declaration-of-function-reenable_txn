@@ -1,0 +1,12 @@
+kernel/sched/core.c:3463:2: error: implicit declaration of function 'reenable_txn' [-Werror=implicit-function-declaration]
+
+2012-09-17 12:56:20 inn hle:hle35:abort-fixes:8cccb0d x86_64-allmodconfig 8cccb0d
+2012-10-09 04:10:52 inn internal-hle:hle36:abort-fixes:6de17f2 x86_64-allmodconfig 4586497
+2012-10-09 05:34:10 inn internal-hle:hle35:abort-fixes:389d81c x86_64-allmodconfig 389d81c
+2012-10-09 05:46:58 inn internal-hle:hle35:abort-fixes:389d81c i386-alldefconfig 5c50580 email notified
+2012-10-09 05:47:04 inn i386 email notified
+2012-10-09 06:24:43 inn internal-hle:hle36:combined:48b72d4 i386-alldefconfig 4586497
+2012-10-21 09:45:09 inn internal-hle:hle37:abort-fixes:4ea2a40 x86_64-allmodconfig 4ea2a40
+2012-11-07 09:12:30 inn internal-hle:hle37:abort-fixes:09d29d5 i386-alldefconfig 8c70e78
+2012-11-09 07:37:40 inn internal-hle:hle37:abort-fixes:653b0b7 x86_64-allmodconfig 8c70e78
+2012-11-13 00:27:31 inn internal-hle:hle37:abort-fixes:e2ea321 x86_64-allmodconfig b1a32b5

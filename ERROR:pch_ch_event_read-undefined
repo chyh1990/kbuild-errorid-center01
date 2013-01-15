@@ -1,0 +1,3 @@
+ERROR: "pch_ch_event_read" [drivers/net/ethernet/oki-semi/pch_gbe/pch_gbe.ko] undefined!
+
+2012-12-04 11:40:43 hive hzhuang1:testing:clkv1:dad178e x86_64-randconfig-h394 dad178e

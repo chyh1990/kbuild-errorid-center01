@@ -1,0 +1,3 @@
+drivers/staging/wlags49_h2/wl_wext.c:3967:21: sparse: symbol 'wl_priv_args' was not declared. Should it be static?
+
+2013-01-09 13:01:36 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

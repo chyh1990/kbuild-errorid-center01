@@ -1,0 +1,4 @@
+mm/vmscan.c:1788:32: error: 'struct zone' has no member named 'compact_defer_shift'
+
+2012-09-07 15:44:32 kbuild next:akpm:d28e1f3 i386-randconfig-k925 038b615
+2012-10-05 13:07:30 snb glommer-memcg:kmemcg-stack:5ef6493 x86_64-randconfig-s041 a00aaa2

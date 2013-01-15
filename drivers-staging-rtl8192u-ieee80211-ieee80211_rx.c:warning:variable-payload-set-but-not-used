@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_rx.c:905:6: warning: variable 'payload' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 07:12:38 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

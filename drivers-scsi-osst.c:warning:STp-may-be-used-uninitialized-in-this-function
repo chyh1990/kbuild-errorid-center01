@@ -1,0 +1,3 @@
+drivers/scsi/osst.c:4612:2: warning: 'STp' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-29 12:01:53 kbuild i386 /cc/kernel-tests/commit-list/ceph:testing-rebased-v3.5:d76f7de d76f7de2432bda5c8642be0a714a1dc737a9f555

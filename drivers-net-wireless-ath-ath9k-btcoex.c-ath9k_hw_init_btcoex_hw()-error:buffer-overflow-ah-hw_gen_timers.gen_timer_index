@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/btcoex.c:94 ath9k_hw_init_btcoex_hw() error: buffer overflow 'ah->hw_gen_timers.gen_timer_index' 32 <= 2009813776
+
+2013-01-09 13:27:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

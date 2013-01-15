@@ -1,0 +1,4 @@
+arch/x86/kvm/vmx.c:2700:49: error: 'struct kvm_segment' has no member named 'ar_bytes'
+
+2012-08-28 08:21:02 bee kvm:queue:a81aba1 x86_64-allyesdebian 72fbefe
+2012-08-28 08:21:03 bee x86_64 email notified

@@ -1,0 +1,3 @@
+quota.c:(.text+0x14cd80): undefined reference to `qid_eq'
+
+2012-09-02 15:31:51 snb userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-s241 b7923ba

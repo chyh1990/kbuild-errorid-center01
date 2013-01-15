@@ -1,0 +1,3 @@
+drivers/staging/ft1000/ft1000-usb/ft1000_hw.c:1305 ft1000_receive_cmd() error: doing dma on the stack ((null))
+
+2012-09-12 11:58:52 kbuild security:next:a40695e i386-allyesconfig a40695e

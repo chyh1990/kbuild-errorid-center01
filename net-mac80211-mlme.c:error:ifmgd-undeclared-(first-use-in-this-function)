@@ -1,0 +1,4 @@
+net/mac80211/mlme.c:1868:3: error: 'ifmgd' undeclared (first use in this function)
+
+2012-11-26 19:54:42 kbuild mac80211-next:wip:49c36b6 x86_64-allmodconfig 0fa3467
+2012-11-26 19:55:59 kbuild x86_64 email notified

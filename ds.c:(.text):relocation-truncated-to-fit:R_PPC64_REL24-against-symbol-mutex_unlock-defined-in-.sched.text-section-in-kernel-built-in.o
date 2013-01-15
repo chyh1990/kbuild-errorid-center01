@@ -1,0 +1,3 @@
+ds.c:(.text+0x1ff8514): relocation truncated to fit: R_PPC64_REL24 against symbol `.mutex_unlock' defined in .sched.text section in kernel/built-in.o
+
+2012-09-27 23:14:27 bee slave-dma:next:fed2574 powerpc-allyesconfig fed2574

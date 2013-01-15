@@ -1,0 +1,3 @@
+drivers/edac/edac_mc_sysfs.c:862:1: sparse: symbol 'dev_attr_seconds_since_reset' was not declared. Should it be static?
+
+2013-01-09 13:12:41 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

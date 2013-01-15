@@ -1,0 +1,3 @@
+drivers/hwmon/ibmaem.c:388:24: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:22 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

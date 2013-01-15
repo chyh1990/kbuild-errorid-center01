@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:3571 brcmf_cfg80211_sched_scan_start() error: we previously assumed 'request' could be null (see line 3570)
+
+2012-10-18 17:39:37 kbuild mac80211-next:wip:f9c3238 i386-allyesconfig f9c3238

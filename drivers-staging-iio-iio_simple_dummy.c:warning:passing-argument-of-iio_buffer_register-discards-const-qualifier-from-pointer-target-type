@@ -1,0 +1,3 @@
+drivers/staging/iio/iio_simple_dummy.c:457:2: warning: passing argument 2 of 'iio_buffer_register' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-22 17:49:28 bee iio:togreg:f2f13a6 i386-randconfig-b064 f2f13a6

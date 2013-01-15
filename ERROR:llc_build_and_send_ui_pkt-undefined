@@ -1,0 +1,3 @@
+ERROR: "llc_build_and_send_ui_pkt" [net/llc/llc2.ko] undefined!
+
+2012-09-14 08:45:50 kbuild nfc:nfc-next:73fecc5 x86_64-allmodconfig 3255a18

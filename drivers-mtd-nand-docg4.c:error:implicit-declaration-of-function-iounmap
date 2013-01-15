@@ -1,0 +1,16 @@
+drivers/mtd/nand/docg4.c:1327:2: error: implicit declaration of function 'iounmap' [-Werror=implicit-function-declaration]
+
+2012-09-22 13:19:37 bee samsung:v4l-framedesc:6e5b54d um-allyesconfig 4ab7928
+2012-09-26 23:38:39 bee samsung:v4l-next:01882ac um-allyesconfig 4ab7928
+2012-09-26 23:38:39 bee samsung:v4l-next:01882ac um-allyesconfig 4ab7928 email notified
+2012-09-27 13:23:51 bee powerpc:next:7844663 um-allyesconfig b92a66a
+2012-09-27 15:57:59 bee thermal:thermal:2491502 um-allyesconfig ba55a0d
+2012-09-27 18:33:30 bee thermal:thermal:fb8792b um-allyesconfig fb8792b
+2012-09-27 18:40:46 bee thermal:thermal:b81ed51 um-allyesconfig b81ed51
+2012-09-27 19:23:11 bee arm-perf:irq:44a7333 um-allyesconfig 44a7333
+2012-10-03 00:20:04 bee ubi:linux-next:9276bf6 um-allyesconfig 08be617
+2012-10-03 00:38:24 bee ubi:linux-next:2d23729 um-allyesconfig d4a263e
+2012-10-03 19:05:08 bee ubi:linux-next:98726b9 um-allyesconfig 1c86574
+2012-10-03 20:12:35 bee ubi:linux-next:3f0fcdc um-allyesconfig 5638b33
+2012-10-03 21:40:29 bee ubi:linux-next:76ac66e um-allyesconfig a730665
+2012-11-23 04:53:42 bee logfs:master:3394661 um-allyesconfig 5b716ac

@@ -1,0 +1,3 @@
+include/linux/projid.h:84:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'from_kprojid'
+
+2012-10-03 18:43:26 snb uapi:uapi-split:72541c7 openrisc-or1ksim_defconfig 72541c7

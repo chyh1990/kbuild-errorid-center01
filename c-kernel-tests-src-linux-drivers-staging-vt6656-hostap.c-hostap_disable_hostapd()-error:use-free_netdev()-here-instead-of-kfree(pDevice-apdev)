@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/staging/vt6656/hostap.c:136 hostap_disable_hostapd() error: use free_netdev() here instead of kfree(pDevice->apdev)
+
+2013-01-07 12:25:30 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

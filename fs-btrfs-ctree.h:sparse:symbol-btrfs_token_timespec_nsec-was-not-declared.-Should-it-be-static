@@ -1,0 +1,3 @@
+fs/btrfs/ctree.h:1820:1: sparse: symbol 'btrfs_token_timespec_nsec' was not declared. Should it be static?
+
+2012-07-23 21:30:36 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

@@ -1,0 +1,3 @@
+drivers/scsi/dpt_i2o.c:183:29: warning: 'dptids' defined but not used [-Wunused-variable]
+
+2013-01-09 13:26:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

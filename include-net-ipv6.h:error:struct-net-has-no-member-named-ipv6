@@ -1,0 +1,4 @@
+include/net/ipv6.h:273:12: error: 'struct net' has no member named 'ipv6'
+
+2012-08-24 20:05:24 kbuild congwang:ipv6:f3e8112 i386-randconfig-k790 057c998
+2012-08-24 20:05:28 kbuild i386 email notified

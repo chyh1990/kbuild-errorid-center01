@@ -1,0 +1,4 @@
+drivers/scsi/mvumi.c:1504 mvumi_detach_devices() error: dereferencing freed memory 'mv_dev'
+
+2012-09-14 23:08:16 kbuild scsi:for-next:cef0af8 i386-allyesconfig cef0af8
+2012-09-15 02:49:08 kbuild i386 email notified

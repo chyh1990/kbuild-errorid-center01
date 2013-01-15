@@ -1,0 +1,6 @@
+drivers/acpi/acpica/psloop.c:881:2: error: implicit declaration of function 'ACPI_PREEMPTION_POINT' [-Werror=implicit-function-declaration]
+
+2012-11-01 05:07:15 lkp-mb01 devel-lkp-mb01-i386-2012-11-01-04-48:187ffa6 i386-randconfig-m112 187ffa6
+2012-11-01 05:25:27 hive devel-hive-x86_64-2012-11-01-05-13:8c0152a x86_64-randconfig-h191 8c0152a
+2012-11-01 05:34:20 snb devel-snb-x86_64-2012-11-01-05-25:849a29d x86_64-randconfig-s201 849a29d
+2012-11-01 05:43:32 bee devel-bee-i386-2012-11-01-05-12:de6c493 i386-randconfig-b601 de6c493

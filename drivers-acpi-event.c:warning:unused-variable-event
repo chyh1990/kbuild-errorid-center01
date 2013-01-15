@@ -1,0 +1,3 @@
+drivers/acpi/event.c:123:24: warning: unused variable 'event' [-Wunused-variable]
+
+2012-09-26 12:47:58 bee thermal:next:5d8d708 um-allyesconfig f4a821c

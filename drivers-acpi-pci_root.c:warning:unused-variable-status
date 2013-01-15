@@ -1,0 +1,3 @@
+drivers/acpi/pci_root.c:625:14: warning: unused variable 'status' [-Wunused-variable]
+
+2012-10-02 14:50:43 snb yinghai:for-pci-next:6689ac2 i386-alldefconfig 6689ac2

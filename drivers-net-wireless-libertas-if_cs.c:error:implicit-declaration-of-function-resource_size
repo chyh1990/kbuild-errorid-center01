@@ -1,0 +1,5 @@
+drivers/net/wireless/libertas/if_cs.c:883:5: error: implicit declaration of function 'resource_size' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:54:29 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:30:48 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf
+2012-09-17 18:59:27 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nouveau_compat.c:303:2: warning: passing argument 1 of 'nv_subdev((void *)pmc)->intr' from incompatible pointer type [enabled by default]
+
+2012-08-06 15:55:29 snb i386 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d ffcc1f852de8505f71bfb2cf6f388680b7d93f70
+2012-08-06 15:55:37 snb i386 email notified

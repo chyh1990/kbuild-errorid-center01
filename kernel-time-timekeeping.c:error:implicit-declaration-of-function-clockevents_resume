@@ -1,0 +1,4 @@
+kernel/time/timekeeping.c:736:2: error: implicit declaration of function 'clockevents_resume' [-Werror=implicit-function-declaration]
+
+2012-08-09 04:39:56 lkp-mb01 cris /cc/kernel-tests/commit-list/pm:linux-next:9ea3f70 a2c2042496a64a555ae383a90bc0ab17f37e92f4
+2012-08-09 04:39:56 lkp-mb01 cris email notified

@@ -1,0 +1,3 @@
+drivers/media/video/cx25821/cx25821-video-upstream.c:398 cx25821_vidups_handler() warn: can 'dev' even be NULL?
+
+2012-09-12 11:57:52 kbuild security:next:a40695e i386-allyesconfig a40695e

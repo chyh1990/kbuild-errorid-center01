@@ -1,0 +1,3 @@
+drivers/staging/iio/adc/ad7291.c:339:3: warning: pointer targets in passing argument 3 of 'ad7291_i2c_read' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:34 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

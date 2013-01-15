@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nv50_dac.c:284 nv50_dac_destroy() warn: variable dereferenced before check 'encoder' (see line 282)
+
+2012-09-10 10:49:09 kbuild drm:drm-opt-power:5d8ff0b i386-allyesconfig 5d8ff0b
+2012-09-10 11:19:28 kbuild i386 email notified

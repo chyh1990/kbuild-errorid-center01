@@ -1,0 +1,3 @@
+drivers/staging/ramster/zcache-main.c:2612:24: warning: 'zcache_shrinker' defined but not used [-Wunused-variable]
+
+2012-08-04 20:10:03 bee x86_64 /cc/kernel-tests/commit-list/regmap:for-next:906577b 40052ca0c243d101cfadd65936f60ef81df10b02

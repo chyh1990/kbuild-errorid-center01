@@ -1,0 +1,3 @@
+drivers/media/usb/cx231xx/cx231xx-video.c:1702 vidioc_s_register() error: doing dma on the stack (data)
+
+2013-01-09 13:28:10 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

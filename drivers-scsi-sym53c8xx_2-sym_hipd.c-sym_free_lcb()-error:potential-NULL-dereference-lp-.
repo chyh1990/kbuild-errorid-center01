@@ -1,0 +1,3 @@
+drivers/scsi/sym53c8xx_2/sym_hipd.c:5123 sym_free_lcb() error: potential NULL dereference 'lp'.
+
+2013-01-09 13:28:04 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

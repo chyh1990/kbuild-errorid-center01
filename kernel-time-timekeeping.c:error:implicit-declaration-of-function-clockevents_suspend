@@ -1,0 +1,5 @@
+kernel/time/timekeeping.c:795:2: error: implicit declaration of function 'clockevents_suspend' [-Werror=implicit-function-declaration]
+
+2012-08-09 04:39:56 lkp-mb01 cris /cc/kernel-tests/commit-list/pm:linux-next:9ea3f70 a2c2042496a64a555ae383a90bc0ab17f37e92f4
+2012-08-09 11:28:33 lkp-mb01 cris 3f918e53a7b7fd1bcc11351340b496211f71b619 /cc/kernel-tests/commit-list/next:master:3f918e5
+2012-08-09 11:57:40 lkp-mb01 cris 943a3eb9c5a91aa8ae9324a22e62902cfdac8825 /cc/kernel-tests/commit-list/next:akpm-base:943a3eb

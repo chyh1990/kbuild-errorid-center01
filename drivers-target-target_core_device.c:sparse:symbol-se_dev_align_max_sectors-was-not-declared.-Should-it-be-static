@@ -1,0 +1,3 @@
+drivers/target/target_core_device.c:825:5: sparse: symbol 'se_dev_align_max_sectors' was not declared. Should it be static?
+
+2012-09-10 15:22:46 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

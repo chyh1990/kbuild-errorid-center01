@@ -1,0 +1,3 @@
+warning: (LOCKDEP && FAULT_INJECTION_STACKTRACE_FILTER && LATENCYTOP && KMEMCHECK) selects FRAME_POINTER which has unmet direct dependencies (DEBUG_KERNEL && (CRIS || M68K || FRV || UML || AVR32 || SUPERH || BLACKFIN || MN10300) || ARCH_WANT_FRAME_POINTERS)
+
+2013-01-09 12:25:05 bee char-misc:char-misc-next:627ca75 parisc-allyesconfig 627ca75

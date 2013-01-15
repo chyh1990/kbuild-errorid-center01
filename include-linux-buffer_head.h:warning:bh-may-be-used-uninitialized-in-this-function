@@ -1,0 +1,3 @@
+include/linux/buffer_head.h:276:2: warning: 'bh' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-26 03:35:16 bee tty:tty-next:84fd7bd x86_64-randconfig-x330 84fd7bd

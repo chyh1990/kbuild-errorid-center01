@@ -1,0 +1,3 @@
+warning: (VIDEO_SAA7134_DVB && DVB_USB_M920X) selects DVB_TDA1004X which has unmet direct dependencies (MEDIA_SUPPORT && DVB_CAPTURE_DRIVERS && DVB_CORE && I2C)
+
+2012-09-19 14:37:16 snb infiniband:for-next:17e9ba4 x86_64-randconfig-s355 17e9ba4

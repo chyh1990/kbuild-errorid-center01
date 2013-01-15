@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/jr3_pci.c:706 jr3_pci_auto_attach() info: why not propagate 'result' from comedi_pci_enable() instead of -5?
+
+2012-11-02 04:44:23 kbuild staging:staging-next:abcdc99 i386-allyesconfig abcdc99

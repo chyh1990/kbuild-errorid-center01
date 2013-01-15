@@ -1,0 +1,19 @@
+arch/x86/um/../kernel/module.c:96:5: error: redefinition of 'apply_relocate_add'
+
+2012-07-26 14:12:55 snb um /cc/kernel-tests/commit-list/next:akpm:70145ce 3e4c96306f5a40763892204a4b71ab4bd8322b7c
+2012-07-27 13:14:11 snb um /cc/kernel-tests/commit-list/next:akpm:247109f 4a532ef2c1fcffa6205202eec3add3a1f5e146d5
+2012-07-28 19:16:35 snb um a7ec988440e9c8b0deaf769c79b4b3cfe45eb411 /cc/kernel-tests/commit-list/modsign:modsign:a7ec988
+2012-07-28 20:03:52 snb um ec83765447842089b3021a43e26d47dc2bb6d746 /cc/kernel-tests/commit-list/modsign:for-rusty:ec83765
+2012-07-30 13:54:37 snb um 0610b78f094f28c85c030149cd08e4b3c1584bf8 /cc/kernel-tests/commit-list/next:akpm:3000089
+2012-08-02 17:17:54 snb um f501ce130d7f57199424e9178cdedc8772192176 /cc/kernel-tests/commit-list/next:akpm:1fd9e08
+2012-08-06 20:33:22 snb um 26ab1397b6e51ffc72fb00ad012598eb2e135726 /cc/kernel-tests/commit-list/rusty:module:26ab139
+2012-08-07 14:13:52 snb um 3f843c6b24b21188840ae1817460a330c72aa2d0 /cc/kernel-tests/commit-list/next:master:3f843c6
+2012-08-07 15:13:45 snb um 95e57f51503a8252836492a47b012d42032d68d7 /cc/kernel-tests/commit-list/next:akpm-base:95e57f5
+2012-08-07 22:28:22 snb um 3bf8f5ee85025171ad4f902049e841318d2d4396 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b02f1c8
+2012-08-09 11:59:30 snb um 3f918e53a7b7fd1bcc11351340b496211f71b619 /cc/kernel-tests/commit-list/next:master:3f918e5
+2012-08-09 12:10:43 snb um 943a3eb9c5a91aa8ae9324a22e62902cfdac8825 /cc/kernel-tests/commit-list/next:akpm-base:943a3eb
+2012-08-13 03:10:29 snb um a118377d7c7f1afa7af5ba45f91ff286c1321cf2 /cc/kernel-tests/commit-list/next:akpm:203e014
+2012-08-13 13:17:46 snb um 5945a32b8e1579d262846b717746f0af04037c30 /cc/kernel-tests/commit-list/next:akpm:53b8c72
+2012-08-14 13:52:56 snb um bb355fe65f877c921d21b9c6b675628508ea41fd /cc/kernel-tests/commit-list/next:akpm:9c45dbb
+2012-08-16 14:00:27 snb next:akpm:d85532e um-defconfig ac6fab2
+2012-08-17 18:34:14 snb next:akpm:a96005b um-defconfig 57b36d5

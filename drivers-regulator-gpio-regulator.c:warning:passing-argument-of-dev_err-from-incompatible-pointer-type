@@ -1,0 +1,4 @@
+drivers/regulator/gpio-regulator.c:187:3: warning: passing argument 1 of 'dev_err' from incompatible pointer type [enabled by default]
+
+2012-11-14 19:53:18 bee regulator:topic:gpio:035c39b x86_64-allyesconfig 035c39b
+2012-11-14 19:53:25 bee x86_64 email notified

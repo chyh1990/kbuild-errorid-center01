@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/unioxx5.c:386 __unioxx5_subdev_init() warn: 'subdev_iobase' was not released on error
+
+2012-09-12 11:57:18 kbuild security:next:a40695e i386-allyesconfig a40695e

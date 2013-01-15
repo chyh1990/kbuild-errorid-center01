@@ -1,0 +1,8 @@
+tcp_fastopen.c:(.text+0x4fd7c): relocation truncated to fit: R_M32R_26_PCREL_RELA against undefined symbol `crypto_destroy_tfm'
+
+2012-09-04 02:10:43 hive can:led-trigger:eb389c9 m32r-mappi3.smp_defconfig 1046716
+2012-09-04 13:18:56 hive can:master:d7ceb47 m32r-mappi3.smp_defconfig d7ceb47
+2012-09-04 16:01:57 hive next:akpm:d0d0486 m32r-mappi3.smp_defconfig d17d463
+2012-09-06 03:20:00 hive can:master:aea8419 m32r-mappi3.smp_defconfig a621e03
+2012-09-06 16:43:06 hive can:master:f05e04d m32r-mappi3.smp_defconfig 11ad714
+2012-09-06 19:09:06 hive can:master:7b95241 m32r-mappi3.smp_defconfig ace1fe1

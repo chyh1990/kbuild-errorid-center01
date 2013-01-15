@@ -1,0 +1,3 @@
+WARNING: drivers/watchdog/ie6xx_wdt.o(.devinit.text+0x1db): Section mismatch in reference from the function ie6xx_wdt_probe() to the function .devexit.text:ie6xx_wdt_debugfs_exit()
+
+2012-07-22 15:03:32 kbuild x86_64 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

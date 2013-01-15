@@ -1,0 +1,3 @@
+drivers/staging/et131x/et131x.c:2356:11: warning: passing argument 2 of 'et131x_align_allocated_memory' from incompatible pointer type [enabled by default]
+
+2012-10-23 07:20:50 bee staging:staging-next:40991e4 i386-randconfig-b291 40991e4

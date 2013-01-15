@@ -1,0 +1,4 @@
+fair.c:(.text+0x5b96d): undefined reference to `task_group_charge'
+
+2012-11-16 22:02:08 kbuild glommer-memcg:die-cpuacct:feb0b5d x86_64-allmodconfig feb0b5d
+2012-11-16 22:02:15 kbuild x86_64 email notified

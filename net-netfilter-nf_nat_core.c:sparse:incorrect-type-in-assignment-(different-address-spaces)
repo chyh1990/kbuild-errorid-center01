@@ -1,0 +1,3 @@
+net/netfilter/nf_nat_core.c:560:25: sparse: incorrect type in assignment (different address spaces)
+
+2012-09-07 00:02:32 snb can:master:bbe660a i386-allmodconfig 798b2cb

@@ -1,0 +1,4 @@
+mm/rmap.c:59:23: fatal error: linux/rtm.h: No such file or directory
+
+2012-11-07 11:01:13 inn internal-hle:hle37:abort-fixes:09d29d5 i386-alldefconfig c8bc875
+2012-11-09 08:02:29 inn internal-hle:hle37:abort-fixes:653b0b7 x86_64-randconfig-i160 c8bc875

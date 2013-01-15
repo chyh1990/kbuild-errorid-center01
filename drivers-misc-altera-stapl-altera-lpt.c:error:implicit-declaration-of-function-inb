@@ -1,0 +1,6 @@
+drivers/misc/altera-stapl/altera-lpt.c:40:2: error: implicit declaration of function 'inb' [-Werror=implicit-function-declaration]
+
+2012-09-16 11:04:59 lkp-mb01 next:akpm:c7fbd2a s390-allmodconfig 01589bc
+2012-09-19 11:46:18 inn internal-wfg:0day:bd510f3 s390-allmodconfig bd510f3
+2012-09-28 21:17:49 lkp-mb01 calxeda:defconfig:0ac7be3 s390-allmodconfig 0ac7be3
+2012-10-15 16:56:10 lkp-mb01 shawnguo:for-3.8:d905cd3 s390-allmodconfig d905cd3

@@ -1,0 +1,3 @@
+drivers/scsi/3w-9xxx.c:425 twa_aen_queue_event() error: (tw_dev->error_index + 1) is never equal to 256 (wrong type 0 - 255).
+
+2012-09-07 22:41:16 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

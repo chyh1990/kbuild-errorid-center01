@@ -1,0 +1,3 @@
+security/keys/request_key.c:203:2: warning: passing argument 1 of 'complete_request_key' from incompatible pointer type [enabled by default]
+
+2012-09-26 06:15:04 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

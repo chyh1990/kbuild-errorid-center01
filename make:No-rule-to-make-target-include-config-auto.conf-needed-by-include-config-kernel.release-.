@@ -1,0 +1,33 @@
+make[1]: *** No rule to make target `include/config/auto.conf', needed by `include/config/kernel.release'.
+
+2012-08-04 04:43:13 kbuild i386 /cc/kernel-tests/commit-list/cifs:for-next:12f3f9b 12f3f9b7c80c4e58fa8a5a4c284b444302ed64b0
+2012-08-04 04:43:14 kbuild i386 email notified
+2012-09-21 16:55:49 snb memcg:since-3.5:d9ffa14 x86_64-randconfig-s362 d9ffa14
+2012-09-21 17:46:42 hive sound:topic:hda-ca0132-dsp:7c74513 ia64-allnoconfig 7c74513
+2012-09-21 22:31:17 bee block:for-next:1b6576c i386-randconfig-b051 1b6576c
+2012-09-21 23:12:21 bee konrad-mm:stable:for-linus-3.7:e3483a5 i386-randconfig-b053 e3483a5
+2012-09-21 23:48:56 bee mfd:for-next:e8aa34d i386-randconfig-b051 e8aa34d
+2012-09-22 01:16:40 hive kees:module-fd-syscall:bf8fe7e ia64-allnoconfig bf8fe7e
+2012-09-22 02:23:58 bee acpi:next:f97b65c i386-randconfig-b051 f97b65c
+2012-09-22 02:37:20 hive ath6kl:ath6kl-next:02d51eb ia64-defconfig 02d51eb
+2012-09-22 02:38:41 hive pci:next:168ae6a ia64-allnoconfig 168ae6a
+2012-09-22 02:54:37 hive memcg:since-3.5:51c6a68 ia64-alldefconfig 51c6a68
+2012-09-22 04:12:27 bee tip:tip:0533c89 i386-randconfig-b053 0533c89
+2012-09-22 04:13:10 bee tip:x86:smap:5e88353 i386-randconfig-b051 5e88353
+2012-09-22 04:47:33 hive pci:pci:taku-acpi-pci-host-bridge-v3:e3faec8 ia64-alldefconfig e3faec8
+2012-10-18 12:32:14 lkp-mb01 next:master:d646959 i386-randconfig-m001 d646959
+2012-10-18 12:33:01 lkp-mb01 thermal:next:6e77a58 i386-randconfig-m001 6e77a58
+2012-10-18 12:33:27 lkp-mb01 kees:uts-leak:45df3f0 i386-randconfig-m001 45df3f0
+2012-10-18 12:33:53 lkp-mb01 kees:module-fd-syscall:507b96a i386-randconfig-m001 507b96a
+2012-10-18 12:34:22 lkp-mb01 kees:linux-next:375e392 i386-randconfig-m001 375e392
+2012-10-18 12:34:41 lkp-mb01 kees:do_video_set_spu_palette:a2c3a5b i386-randconfig-m001 a2c3a5b
+2012-10-18 12:35:06 lkp-mb01 kees:cpio_replace_env:40c73ce i386-randconfig-m001 40c73ce
+2012-10-18 12:35:21 lkp-mb01 kees:binfmt_script:2c90b4d i386-randconfig-m001 2c90b4d
+2012-10-18 12:35:49 lkp-mb01 arm-soc:for-next:357dde5 i386-randconfig-m001 357dde5
+2012-10-18 12:36:02 lkp-mb01 arm-soc:fixes:b55a7a5 i386-randconfig-m001 b55a7a5
+2012-10-18 12:36:27 lkp-mb01 linus:master:43c422e i386-randconfig-m001 985c9e6
+2012-10-18 12:36:52 lkp-mb01 clk:for-next:205a8eb i386-randconfig-m001 205a8eb
+2012-10-18 12:37:25 lkp-mb01 omap:master:ee2dd3c i386-randconfig-m001 ee2dd3c
+2012-10-18 12:38:44 lkp-mb01 perf:perf:trace:39b8d33 i386-randconfig-m001 39b8d33
+2012-10-18 12:39:45 lkp-mb01 regmap:for-next:97f99c4 i386-randconfig-m001 97f99c4
+2012-10-18 12:40:08 lkp-mb01 shaggy:loop_v3:d6e6003 i386-randconfig-m001 d6e6003

@@ -1,0 +1,3 @@
+drivers/net/bonding/bond_alb.c:1110 alb_fasten_mac_swap() error: potential NULL dereference 'disabled_slave'.
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,5 @@
+ERROR: "of_regulator_match" [drivers/mfd/tps65217.ko] undefined!
+
+2012-10-25 15:57:07 bee input:next:a6e8c0a i386-randconfig-b315 a6e8c0a
+2012-10-25 16:55:40 bee input:for-linus:88fd449 i386-randconfig-b315 88fd449
+2012-12-14 15:27:10 bee nf-next:nf_tables8:41f34e0 i386-randconfig-b882 41f34e0

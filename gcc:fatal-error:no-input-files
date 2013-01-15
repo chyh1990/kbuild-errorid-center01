@@ -1,0 +1,11 @@
+gcc: fatal error: no input files
+
+2012-08-03 16:47:34 snb x86_64 /cc/kernel-tests/commit-list/sound-unstable:master:d9e8d77 e184edc6c1d08ef2df59384a57085ee1e5660eb5
+2012-08-03 16:54:51 snb x86_64 a2a89876eef6dc5324e3bfc27470914b0a87c2c6 /cc/kernel-tests/commit-list/cifs:for-next:a2a8987
+2012-08-03 16:55:06 snb x86_64 f3946fb6e50b750d34f445188fa6746d14596afa /cc/kernel-tests/commit-list/acpi:release:9d0b01a
+2012-08-03 17:01:42 snb x86_64 218492ab13821d6ba6dbbb2288f5a7026fe9fddd /cc/kernel-tests/commit-list/next:akpm:6a01508
+2012-08-03 20:36:02 kbuild x86_64 3bf8f5ee85025171ad4f902049e841318d2d4396 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:8472b84
+2012-08-06 18:44:35 kbuild x86_64 f00f979145756e39b5512d7d4e4050534d1c3d7f /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:bcf9dcc
+2012-11-07 07:15:16 inn internal-hle:hle37:combined:86d8d05 x86_64-randconfig-n085 d901184
+2013-01-09 17:09:05 kbuild next:akpm:ef2dca2 x86_64-allmodconfig ef2dca2
+2013-01-10 07:33:43 snb pci:next:e84813c x86_64-randconfig-s610 d1c3ed6

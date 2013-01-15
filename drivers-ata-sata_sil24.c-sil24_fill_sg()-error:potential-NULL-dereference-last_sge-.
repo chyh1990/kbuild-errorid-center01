@@ -1,0 +1,3 @@
+drivers/ata/sata_sil24.c:792 sil24_fill_sg() error: potential NULL dereference 'last_sge'.
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

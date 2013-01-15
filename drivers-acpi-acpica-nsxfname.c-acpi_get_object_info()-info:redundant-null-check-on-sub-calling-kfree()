@@ -1,0 +1,3 @@
+drivers/acpi/acpica/nsxfname.c:500 acpi_get_object_info() info: redundant null check on sub calling kfree()
+
+2012-11-01 07:07:15 kbuild devel-kbuild-i386-2012-11-01-06-24:7424a15 i386-allyesconfig 7424a15

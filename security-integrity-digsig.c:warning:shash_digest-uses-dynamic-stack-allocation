@@ -1,0 +1,4 @@
+security/integrity/digsig.c:74:1: warning: 'shash_digest' uses dynamic stack allocation [enabled by default]
+
+2012-09-13 22:34:32 bee digsig:working:ca88a6a s390-allyesconfig cd17715
+2012-09-13 22:41:02 bee s390 email notified

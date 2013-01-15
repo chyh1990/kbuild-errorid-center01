@@ -1,0 +1,4 @@
+fs/btrfs/backref.c:1637:2: error: implicit declaration of function 'vfree' [-Werror=implicit-function-declaration]
+
+2012-09-16 03:21:22 lkp-mb01 josef-btrfs:master:df147c5 s390-allmodconfig b17d706
+2012-09-16 03:21:24 lkp-mb01 s390 email notified

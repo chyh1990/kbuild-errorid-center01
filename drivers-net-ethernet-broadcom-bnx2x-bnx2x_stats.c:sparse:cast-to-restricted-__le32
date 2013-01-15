@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_stats.c:1014:17: sparse: cast to restricted __le32
+
+2013-01-09 12:55:47 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

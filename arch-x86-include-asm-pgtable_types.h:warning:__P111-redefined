@@ -1,0 +1,3 @@
+arch/x86/include/asm/pgtable_types.h:149:0: warning: "__P111" redefined [enabled by default]
+
+2012-09-26 06:43:17 bee usb:usb-next:655db79 um-allyesconfig 655db79

@@ -1,0 +1,3 @@
+drivers/staging/rts_pstor/sd.c:991 sd_check_spec() error: doing dma on the stack (buf)
+
+2012-09-11 23:55:53 kbuild balbi-usb:master:970b59c i386-allyesconfig 970b59c

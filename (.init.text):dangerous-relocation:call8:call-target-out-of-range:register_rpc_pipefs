@@ -1,0 +1,3 @@
+(.init.text+0x28b7): dangerous relocation: call8: call target out of range: register_rpc_pipefs
+
+2012-10-30 20:36:58 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-30-19-49:c821ba2 xtensa-common_defconfig c821ba2

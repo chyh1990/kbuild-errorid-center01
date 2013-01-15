@@ -1,0 +1,3 @@
+drivers/hwmon/w83627ehf.c:901 w83627ehf_update_device() error: buffer overflow 'data->temp_offset' 3 <= 8
+
+2012-09-07 22:42:05 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

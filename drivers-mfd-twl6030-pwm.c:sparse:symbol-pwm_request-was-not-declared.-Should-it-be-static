@@ -1,0 +1,3 @@
+drivers/mfd/twl6030-pwm.c:125:19: sparse: symbol 'pwm_request' was not declared. Should it be static?
+
+2012-09-17 15:05:57 snb arm-soc:msm:boards:33fcb13 i386-allmodconfig 33fcb13

@@ -1,0 +1,13 @@
+fs/nfs/netns.h:27:15: error: 'NFS4_MAX_MINOR_VERSION' undeclared here (not in a function)
+
+2012-10-02 06:52:38 bee nfs:testing:2afdfa5 x86_64-allyesconfig b3d19c5
+2012-10-02 06:52:39 bee x86_64 email notified
+2012-10-02 07:22:26 bee nfs:testing:9f62387 x86_64-allyesconfig 9f62387
+2012-10-02 07:39:53 bee nfs:devel:652758f x86_64-allyesconfig 652758f
+2012-10-02 07:56:17 bee nfs:testing:559eb17 x86_64-allyesconfig beb6cc9
+2012-10-02 08:09:15 kbuild nfs:testing:f9d640f i386-allyesconfig f9d640f
+2012-10-02 08:39:44 bee nfs:testing:f6948da x86_64-allyesconfig f6948da
+2012-10-02 08:50:09 bee nfs:testing:c6e4f2a x86_64-allyesconfig c6e4f2a
+2012-10-02 09:31:54 kbuild nfs:testing:adfb2e6 i386-allyesconfig adfb2e6
+2012-10-03 02:41:24 kbuild nfs:testing:fd48357 x86_64-allmodconfig ffe5a83
+2012-10-03 06:02:55 kbuild nfs:testing:ae2bb03 x86_64-allmodconfig 47b803c

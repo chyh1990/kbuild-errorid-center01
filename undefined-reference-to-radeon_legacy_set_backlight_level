@@ -1,0 +1,22 @@
+(.text+0x19c454): undefined reference to `radeon_legacy_set_backlight_level'
+
+2012-11-19 09:22:11 snb bluetooth:master:c1d5dc4 x86_64-randconfig-s300 c1d5dc4
+2012-11-19 10:28:46 snb renesas:next:fc8a692 x86_64-randconfig-s300 ddffeb8
+2012-11-19 11:04:41 snb renesas:boards3:d01f4b8 x86_64-randconfig-s300 d01f4b8
+2012-11-19 13:24:50 snb renesas:devel:of:2a19fff x86_64-randconfig-s300 23657c2
+2012-11-19 22:02:50 snb mac80211-next:master:f0dea9c x86_64-randconfig-s300 f0dea9c
+2012-11-19 22:16:31 snb iwlwifi-next:master:e09b58f x86_64-randconfig-s300 dbeca58
+2012-11-19 23:04:20 snb mac80211-next:master:90b9e44 x86_64-randconfig-s300 90b9e44
+2012-11-19 23:38:31 snb mac80211-next:master:b51dc2a x86_64-randconfig-s300 b5f9692
+2012-11-20 07:28:12 snb bluetooth:master:d1244ad x86_64-randconfig-s300 d1244ad
+2012-11-20 10:51:59 snb xfs:for-next:0e446be x86_64-randconfig-s300 bc02e86
+2012-11-20 14:36:48 snb asoc:topic:fsi:3449f5f x86_64-randconfig-s300 40f9118
+2012-11-20 17:58:13 snb mac80211-next:wip:5d9cbe7 x86_64-randconfig-s300 fe5f255
+2012-11-20 21:42:22 snb mmc:mmc-next:80efbf1 x86_64-randconfig-s300 80efbf1
+2012-11-21 00:12:37 snb samsung:vb2-dmabuf-for-3.8-origen:5d46cec x86_64-randconfig-s300 a88c7a8
+2012-11-21 02:16:18 snb bluetooth:master:fd45bf4 x86_64-randconfig-s300 fd45bf4
+2012-11-21 02:37:36 snb bluetooth:master:2b2fec4 x86_64-randconfig-s300 2b2fec4
+2012-11-21 02:43:55 snb wireless:master:400e020 x86_64-randconfig-s300 a485e82
+2012-11-21 03:45:24 snb wireless-next:master:e2ff049 x86_64-randconfig-s300 cb675f5
+2012-11-21 10:27:28 snb bluetooth:master:c6f95f6 x86_64-randconfig-s300 c6f95f6
+2012-11-21 10:57:00 snb xen:stable:for-linus-3.7:68fa965 x86_64-randconfig-s300 68fa965

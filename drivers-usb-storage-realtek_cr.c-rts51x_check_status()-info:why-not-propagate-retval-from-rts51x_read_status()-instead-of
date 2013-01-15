@@ -1,0 +1,3 @@
+drivers/usb/storage/realtek_cr.c:459 rts51x_check_status() info: why not propagate 'retval' from rts51x_read_status() instead of -5?
+
+2012-09-12 11:58:13 kbuild security:next:a40695e i386-allyesconfig a40695e

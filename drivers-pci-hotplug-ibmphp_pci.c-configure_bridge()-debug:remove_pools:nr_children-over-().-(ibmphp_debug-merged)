@@ -1,0 +1,3 @@
+drivers/pci/hotplug/ibmphp_pci.c:981 configure_bridge() debug: remove_pools: nr_children over 4000 (5831). (ibmphp_debug merged)
+
+2012-09-07 22:41:51 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

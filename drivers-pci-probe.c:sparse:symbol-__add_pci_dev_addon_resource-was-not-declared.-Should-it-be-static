@@ -1,0 +1,4 @@
+drivers/pci/probe.c:147:31: sparse: symbol '__add_pci_dev_addon_resource' was not declared. Should it be static?
+
+2012-09-15 14:19:49 snb yinghai:master:156b34a i386-allmodconfig 29c6de0
+2012-09-15 14:22:06 snb i386 email notified

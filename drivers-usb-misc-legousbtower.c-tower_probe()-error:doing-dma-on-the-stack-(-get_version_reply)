@@ -1,0 +1,3 @@
+drivers/usb/misc/legousbtower.c:975 tower_probe() error: doing dma on the stack (&get_version_reply)
+
+2013-01-09 13:27:01 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/rtc/rtc-twl.c:601:9: sparse: expected structure or union
+
+2012-12-22 06:46:09 snb devel-snb-i386-2012-12-22-06-13:64c6c09 i386-allmodconfig 64c6c09

@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/wireless/ipw2x00/ipw2200.c:9131 ipw_wx_set_essid() error: __builtin_memcpy() 'priv->essid' too small (32 vs 255)
+
+2013-01-07 12:24:52 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

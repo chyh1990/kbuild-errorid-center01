@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/hwmon/w83781d.c:405 store_temp_max_hyst() error: buffer overflow 'data->temp_max_hyst_add' 2 <= 2
+
+2013-01-07 12:25:08 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

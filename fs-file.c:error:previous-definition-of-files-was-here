@@ -1,0 +1,3 @@
+fs/file.c:604: error: previous definition of 'files' was here
+
+2012-08-20 01:55:52 snb vfs:master:6ecc22e avr32-atngw100_defconfig 3b9a699

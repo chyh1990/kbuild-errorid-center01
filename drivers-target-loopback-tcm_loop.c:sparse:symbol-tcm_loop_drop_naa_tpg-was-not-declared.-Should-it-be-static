@@ -1,0 +1,3 @@
+drivers/target/loopback/tcm_loop.c:1118:6: sparse: symbol 'tcm_loop_drop_naa_tpg' was not declared. Should it be static?
+
+2013-01-09 12:55:22 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

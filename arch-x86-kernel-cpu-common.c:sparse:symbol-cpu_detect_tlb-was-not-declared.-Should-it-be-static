@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/common.c:485:16: sparse: symbol 'cpu_detect_tlb' was not declared. Should it be static?
+
+2013-01-09 13:13:00 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

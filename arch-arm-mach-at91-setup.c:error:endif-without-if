@@ -1,0 +1,5 @@
+arch/arm/mach-at91/setup.c:96:2: error: #endif without #if
+
+2012-10-06 08:28:19 snb next:master:080aa9c arm-at91_dt_defconfig 080aa9c
+2012-10-06 18:07:28 snb next:akpm:2a89e3c arm-at91_dt_defconfig 2a89e3c
+2012-10-08 04:30:10 snb arm-soc:for-next4:7f1bfe5 arm-at91_dt_defconfig 7f1bfe5

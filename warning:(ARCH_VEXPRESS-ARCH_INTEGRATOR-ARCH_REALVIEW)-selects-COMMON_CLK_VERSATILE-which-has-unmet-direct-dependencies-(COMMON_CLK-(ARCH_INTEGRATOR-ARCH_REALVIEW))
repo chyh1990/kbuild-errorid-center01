@@ -1,0 +1,3 @@
+warning: (ARCH_VEXPRESS && ARCH_INTEGRATOR && ARCH_REALVIEW) selects COMMON_CLK_VERSATILE which has unmet direct dependencies (COMMON_CLK && (ARCH_INTEGRATOR || ARCH_REALVIEW))
+
+2012-10-17 00:37:52 snb devel-snb-arm-2012-10-17-00-34:e6d927c arm-prima2_defconfig e6d927c

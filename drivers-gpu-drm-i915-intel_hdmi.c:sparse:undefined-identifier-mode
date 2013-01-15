@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_hdmi.c:633:38: sparse: undefined identifier 'mode'
+
+2012-09-17 16:42:27 snb drm-intel:drm-intel-nightly:413f77b i386-allmodconfig 413f77b

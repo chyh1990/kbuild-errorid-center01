@@ -1,0 +1,4 @@
+arch/x86/include/asm/desc.h:359:3: error: implicit declaration of function 'BUG' [-Werror=implicit-function-declaration]
+
+2012-08-07 01:48:12 snb x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:5ab3633 5ab3633d6907018b0b830a720e877c3884d679c3
+2012-08-07 19:51:33 hive x86_64 da612d880fbc598ac0efcef579355fb90d4bca4e /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:da612d8

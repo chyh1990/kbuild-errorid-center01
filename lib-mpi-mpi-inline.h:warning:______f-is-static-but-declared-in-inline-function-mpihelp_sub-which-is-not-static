@@ -1,0 +1,3 @@
+lib/mpi/mpi-inline.h:113:2: warning: '______f' is static but declared in inline function 'mpihelp_sub' which is not static [enabled by default]
+
+2013-01-09 12:31:30 inn linus:master:974b335 x86_64-randconfig-i364 974b335

@@ -1,0 +1,3 @@
+drivers/net/tun.c:590:2: error: too many arguments to function 'sock_update_classid'
+
+2012-11-07 08:53:37 snb net-next:master:dea0924 x86_64-randconfig-s230 fd9a08a

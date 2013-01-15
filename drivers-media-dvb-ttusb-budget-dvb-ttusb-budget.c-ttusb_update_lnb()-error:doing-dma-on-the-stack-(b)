@@ -1,0 +1,3 @@
+drivers/media/dvb/ttusb-budget/dvb-ttusb-budget.c:506 ttusb_update_lnb() error: doing dma on the stack (b)
+
+2012-09-12 11:58:38 kbuild security:next:a40695e i386-allyesconfig a40695e

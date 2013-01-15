@@ -1,0 +1,3 @@
+sound/oss/pas2_card.c:338:5: warning: too many arguments for format [-Wformat-extra-args]
+
+2013-01-04 17:29:18 bee sound:for-linus:b56458b x86_64-allyesconfig b56458b

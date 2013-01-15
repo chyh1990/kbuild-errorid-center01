@@ -1,0 +1,3 @@
+drivers/thermal/thermal_sys.c:970 thermal_cooling_device_register() warn: variable dereferenced before check 'type' (see line 940)
+
+2012-10-19 01:59:40 kbuild tip:master:db7d985 i386-allyesconfig db7d985

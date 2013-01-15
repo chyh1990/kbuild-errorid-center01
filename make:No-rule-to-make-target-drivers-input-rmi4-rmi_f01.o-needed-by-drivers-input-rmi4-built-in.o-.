@@ -1,0 +1,4 @@
+make[4]: *** No rule to make target `drivers/input/rmi4/rmi_f01.o', needed by `drivers/input/rmi4/built-in.o'.
+
+2012-11-28 14:07:15 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 49c28c0
+2012-11-28 14:15:57 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+fs/ocfs2/cluster/tcp.c:558 o2net_set_nn_state() error: we previously assumed 'sc' could be null (see line 516)
+
+2013-01-09 13:28:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

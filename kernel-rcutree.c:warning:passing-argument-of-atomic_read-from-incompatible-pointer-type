@@ -1,0 +1,4 @@
+kernel/rcutree.c:2322:2: warning: passing argument 1 of 'atomic_read' from incompatible pointer type [enabled by default]
+
+2012-10-24 07:52:55 bee rcu:rcu:hotplug:f58f8af x86_64-allyesconfig 51588c3
+2012-10-24 07:53:08 bee x86_64 email notified

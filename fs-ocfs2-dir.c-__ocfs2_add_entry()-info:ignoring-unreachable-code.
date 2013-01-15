@@ -1,0 +1,3 @@
+fs/ocfs2/dir.c:1755 __ocfs2_add_entry() info: ignoring unreachable code.
+
+2012-09-07 22:41:58 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

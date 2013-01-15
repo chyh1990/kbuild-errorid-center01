@@ -1,0 +1,8 @@
+drivers/mfd/tps65910-irq.c:247:2: error: implicit declaration of function 'irq_set_irq_type' [-Werror=implicit-function-declaration]
+
+2012-12-15 10:33:12 bee devel-bee-x86-2012-12-15-09-27:aaba2fc s390-allyesconfig aaba2fc
+2012-12-16 07:53:08 bee devel-bee-x86-2012-12-16-05-40:5db8e81 s390-allyesconfig 5db8e81
+2012-12-17 05:10:14 bee omap:omap-for-v3.8:fixes-for-merge-window-v2:4055de1 s390-allyesconfig 2cb85a7
+2012-12-17 06:16:03 bee devel-bee-x86-2012-12-17-06-13:f769055 s390-allyesconfig f769055
+2012-12-17 06:33:38 bee devel-bee-x86-2012-12-17-06-29:d0410f1 s390-allyesconfig d0410f1
+2012-12-17 06:55:54 bee devel-bee-x86-2012-12-17-06-51:e1f134c s390-allyesconfig e1f134c

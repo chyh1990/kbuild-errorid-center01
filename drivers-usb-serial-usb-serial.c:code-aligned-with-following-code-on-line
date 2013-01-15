@@ -1,0 +1,4 @@
+drivers/usb/serial/usb-serial.c:1415:3-51: code aligned with following code on line 1416
+
+2012-09-18 23:28:21 snb usb:usb-next:3033bc8 i386-allmodconfig 3033bc8
+2012-09-19 04:27:55 snb i386 email notified

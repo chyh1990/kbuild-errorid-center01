@@ -1,0 +1,4 @@
+drivers/mfd/wm8994-irq.c:153:7: error: too few arguments to function 'regmap_add_irq_chip'
+
+2012-08-29 15:53:17 kbuild omap-dss2:work:omap5-dt:a57dfde i386-randconfig-k840 5bd8216
+2012-08-29 15:53:17 kbuild i386 email notified

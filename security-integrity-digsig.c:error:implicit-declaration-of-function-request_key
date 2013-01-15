@@ -1,0 +1,3 @@
+security/integrity/digsig.c:46:4: error: implicit declaration of function 'request_key' [-Werror=implicit-function-declaration]
+
+2012-09-20 07:05:30 snb digsig:working:c139ddd x86_64-randconfig-s365 c139ddd

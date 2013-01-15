@@ -1,0 +1,19 @@
+(.text+0x5e554): relocation truncated to fit: GPREL16 against symbol `platform_notify' defined in .sbss section in drivers/built-in.o
+
+2012-09-28 13:22:25 lkp-mb01 next:akpm:5ca573b alpha-defconfig 5ca573b
+2012-10-02 17:19:51 lkp-mb01 next:akpm:275c16c alpha-defconfig 275c16c
+2012-10-07 15:19:37 lkp-mb01 devel-lkp-mb01-s390-2012-10-07-14-41:c59be83 alpha-defconfig c59be83
+2012-10-08 16:19:16 lkp-mb01 linus:master:1929041 alpha-defconfig 1929041
+2012-10-09 03:38:05 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-02-34:d9860cc alpha-defconfig d9860cc
+2012-10-09 05:49:58 lkp-mb01 xhci:for-usb-linus-pending:1510a1a alpha-defconfig 1510a1a
+2012-10-09 07:58:13 lkp-mb01 kees:pK:adca87f alpha-defconfig adca87f
+2012-10-09 09:17:18 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-08-41:7d4ed3a alpha-defconfig 7d4ed3a
+2012-10-09 12:50:37 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-12-05:a83666a alpha-defconfig a83666a
+2012-10-09 14:14:06 lkp-mb01 net:master:66eef59 alpha-defconfig 66eef59
+2012-10-09 15:29:59 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-15-22:4f56498 alpha-defconfig 4f56498
+2012-10-10 03:34:22 lkp-mb01 arm-soc:for-next:ab3ee84 alpha-defconfig ab3ee84
+2012-10-10 03:38:40 lkp-mb01 arm-soc:fixes-for-rmk:8e7fc18 alpha-defconfig 8e7fc18
+2012-10-10 06:22:03 lkp-mb01 arm-soc:fixes:6bd5dbd alpha-defconfig 6bd5dbd
+2012-10-10 10:52:36 lkp-mb01 userns:for-next:f3d94c2 alpha-defconfig f3d94c2
+2012-10-28 09:56:22 lkp-mb01 kvm-ppc:kvm-ppc-next:4c3d168 alpha-defconfig 4c3d168
+2012-10-30 21:51:16 lkp-mb01 kvm-ppc:for-upstream:8b5869a alpha-defconfig 8b5869a

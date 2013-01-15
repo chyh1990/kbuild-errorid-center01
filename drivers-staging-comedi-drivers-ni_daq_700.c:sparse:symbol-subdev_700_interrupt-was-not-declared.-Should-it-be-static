@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_daq_700.c:135:6: sparse: symbol 'subdev_700_interrupt' was not declared. Should it be static?
+
+2012-09-17 15:05:08 snb arm-soc:msm:boards:33fcb13 i386-allmodconfig 33fcb13

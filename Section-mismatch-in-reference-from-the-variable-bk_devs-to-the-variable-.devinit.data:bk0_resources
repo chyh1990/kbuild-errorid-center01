@@ -1,0 +1,4 @@
+WARNING: drivers/built-in.o(.data+0x1e3c8): Section mismatch in reference from the variable bk_devs to the variable .devinit.data:bk0_resources
+
+2012-09-11 19:00:43 snb mfd:for-next:9235695 x86_64-randconfig-s295 a6ccdcd
+2012-09-11 19:00:43 snb x86_64 email notified

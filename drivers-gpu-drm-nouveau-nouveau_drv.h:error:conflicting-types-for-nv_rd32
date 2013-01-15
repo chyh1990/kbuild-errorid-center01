@@ -1,0 +1,7 @@
+drivers/gpu/drm/nouveau/nouveau_drv.h:1431:19: error: conflicting types for 'nv_rd32'
+
+2012-08-05 10:59:45 bee x86_64 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d 3d3c15c336a63d2dc81117a4d5ce0b2ff713490c
+2012-08-17 08:32:08 kbuild nouveau:master:b13ea66 x86_64-allmodconfig bac6e3b
+2012-08-27 10:29:42 kbuild nouveau:master:fc72098 x86_64-allmodconfig 4559028
+2012-09-06 10:11:11 lkp-mb01 nouveau:master:a9a7cc0 i386-randconfig-m011 19a4ea9
+2012-10-04 12:47:04 kbuild drm:drm-next-merged:a8d5415 x86_64-allmodconfig 9458029

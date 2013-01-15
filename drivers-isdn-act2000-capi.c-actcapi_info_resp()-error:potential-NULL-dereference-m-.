@@ -1,0 +1,3 @@
+drivers/isdn/act2000/capi.c:472 actcapi_info_resp() error: potential NULL dereference 'm'.
+
+2013-01-09 13:26:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/dt3000.c:889 dt3000_attach() warn: '(dev->private)->pci_dev->irq' was not released on error
+
+2012-09-13 01:34:07 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

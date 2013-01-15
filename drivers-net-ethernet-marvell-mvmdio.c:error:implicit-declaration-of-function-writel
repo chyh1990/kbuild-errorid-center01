@@ -1,0 +1,11 @@
+drivers/net/ethernet/marvell/mvmdio.c:89:2: error: implicit declaration of function 'writel' [-Werror=implicit-function-declaration]
+
+2012-11-19 14:51:34 bee arm-jcooper:mvebu:drivers:c662e80 s390-allyesconfig 6227194
+2012-11-19 17:35:41 bee arm-jcooper:mvebu:boards:fa8aa2d s390-allyesconfig 025da3c
+2012-11-22 16:10:01 bee arm-jcooper:mvebu:everything:4e76b1b s390-allyesconfig 4135c7d
+2012-11-22 18:15:16 lkp-mb01 devel-lkp-mb01-s390-2012-11-22-17-52:e7c2bc0 s390-allmodconfig e7c2bc0
+2012-11-24 12:51:56 bee arm-jcooper:mvebu:everything:56580bb s390-allyesconfig 56580bb
+2012-11-28 01:00:44 lkp-mb01 devel-lkp-mb01-s390-2012-11-28-00-27:baa453d s390-allmodconfig baa453d
+2012-11-28 18:08:08 bee devel-bee-x86-2012-11-28-17-03:8e212ff s390-allyesconfig 8e212ff
+2012-12-01 02:18:58 bee arm-soc:late:mvebu:5e5d899 s390-allyesconfig 0c0029c
+2012-12-08 10:46:45 lkp-mb01 arm-soc:for-next:47f4676 s390-allmodconfig 47f4676

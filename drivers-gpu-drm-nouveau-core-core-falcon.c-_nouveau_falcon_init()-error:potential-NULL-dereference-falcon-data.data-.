@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/core/falcon.c:190 _nouveau_falcon_init() error: potential NULL dereference 'falcon->data.data'.
+
+2013-01-09 13:28:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

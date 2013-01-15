@@ -1,0 +1,3 @@
+drivers/target/iscsi/iscsi_target_parameters.c:684 iscsi_update_param_value() warn: returning -1 instead of -ENOMEM is sloppy
+
+2012-09-13 01:35:51 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

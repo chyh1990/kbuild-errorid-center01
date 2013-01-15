@@ -1,0 +1,3 @@
+drivers/infiniband/hw/nes/nes_hw.c:3171:31: sparse: cast to restricted __be16
+
+2013-01-09 13:09:33 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

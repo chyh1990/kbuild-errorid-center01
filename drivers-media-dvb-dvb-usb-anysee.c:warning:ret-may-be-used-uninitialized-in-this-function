@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/anysee.c:930:2: warning: 'ret' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-21 21:55:16 snb mmc:mmc-next:b9418b1 x86_64-randconfig-s362 b9418b1

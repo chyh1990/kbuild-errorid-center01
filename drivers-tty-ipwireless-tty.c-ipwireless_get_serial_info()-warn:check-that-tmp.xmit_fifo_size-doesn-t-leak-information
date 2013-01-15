@@ -1,0 +1,3 @@
+drivers/tty/ipwireless/tty.c:284 ipwireless_get_serial_info() warn: check that 'tmp.xmit_fifo_size' doesn't leak information
+
+2013-01-09 13:27:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/ide/ide-cd_verbose.c:251:6: sparse: symbol 'ide_cd_log_error' was not declared. Should it be static?
+
+2013-01-09 12:53:59 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

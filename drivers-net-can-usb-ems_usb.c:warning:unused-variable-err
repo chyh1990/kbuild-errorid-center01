@@ -1,0 +1,3 @@
+drivers/net/can/usb/ems_usb.c:903:6: warning: unused variable 'err' [-Wunused-variable]
+
+2012-11-29 21:25:40 bee can:for-davem:31f0393 x86_64-allyesconfig 8c9a824

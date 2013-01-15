@@ -1,0 +1,6 @@
+drivers/media/platform/vino.c:54:21: fatal error: saa7191.h: No such file or directory
+
+2012-08-17 17:16:33 hive samsung:v4l-exynos-gsc:8ac9447 mips-allmodconfig 1f9b9d0
+2012-08-27 00:47:21 hive samsung:v4l-exynos-gsc:2315608 mips-allmodconfig 3c8c09b
+2012-08-27 07:42:13 hive samsung:v4l-next:ef7af7e mips-allmodconfig c4e8b01
+2012-09-05 23:43:17 hive samsung:v4l-next:14d7cae mips-allmodconfig 290939f

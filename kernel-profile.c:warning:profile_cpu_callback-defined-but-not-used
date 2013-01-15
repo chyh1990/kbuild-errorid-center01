@@ -1,0 +1,3 @@
+kernel/profile.c:355:22: warning: 'profile_cpu_callback' defined but not used [-Wunused-function]
+
+2012-10-16 05:07:30 hive devel-hive-x86_64-2012-10-16-04-56:efe2762 x86_64-randconfig-h072 efe2762

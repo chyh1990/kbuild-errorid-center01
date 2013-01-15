@@ -1,0 +1,3 @@
+(.text+0x23c10b): undefined reference to `vring_interrupt'
+
+2012-10-01 09:49:41 bee devel-bee-i386-2012-10-01-09-39:f38fcec i386-randconfig-b102 f38fcec

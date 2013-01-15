@@ -1,0 +1,3 @@
+drivers/mtd/nand/docg4.c:1272:10: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-09-22 13:19:37 bee samsung:v4l-framedesc:6e5b54d um-allyesconfig 4ab7928

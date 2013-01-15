@@ -1,0 +1,4 @@
+drivers/usb/chipidea/udc.c:672:2-8: preceding lock on line 670
+
+2012-09-17 07:01:19 snb linus:master:73f8be2 i386-allmodconfig 4bca55d
+2012-09-17 07:01:22 snb i386 email notified

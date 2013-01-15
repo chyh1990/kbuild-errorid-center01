@@ -1,0 +1,3 @@
+include/linux/netfilter/x_tables.h:538: error: expected declaration specifiers or '...' before 'nf_hookfn'
+
+2012-10-22 20:36:29 snb nf-next:master:bcc58c4 avr32-atstk1006_defconfig bcc58c4

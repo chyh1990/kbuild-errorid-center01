@@ -1,0 +1,3 @@
+kernel/futex.c:2638 exit_robust_list() warn: check for integer overflow 'futex_offset'
+
+2013-01-09 13:27:27 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+drivers/infiniband/core/cma.c:399:29-36: ERROR: invalid reference to the index variable of the iterator on line 379
+
+2012-09-19 14:53:53 snb infiniband:for-next:17e9ba4 i386-allmodconfig 17e9ba4
+2012-09-19 16:48:23 snb i386 email notified

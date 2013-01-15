@@ -1,0 +1,4 @@
+mm/memcontrol.c:542:12: sparse: symbol 'cache_types' was not declared. Should it be static?
+
+2012-09-10 18:44:24 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig f6f83ba
+2012-09-10 18:48:55 snb i386 email notified

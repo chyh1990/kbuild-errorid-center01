@@ -1,0 +1,4 @@
+mm/slab_common.c:250:6: error: conflicting types for 'print_slabinfo_header'
+
+2012-10-12 22:28:09 bee glommer-memcg:kmemcg-slab:f7dc2a4 cris-allyesconfig 0f901d8
+2012-10-12 22:28:17 bee cris email notified

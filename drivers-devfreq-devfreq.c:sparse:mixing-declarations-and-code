@@ -1,0 +1,3 @@
+drivers/devfreq/devfreq.c:494:1: sparse: mixing declarations and code
+
+2012-10-07 09:28:31 snb samsung:devfreq-for-next:6f2fe08 i386-allmodconfig 6f2fe08

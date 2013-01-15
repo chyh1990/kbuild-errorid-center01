@@ -1,0 +1,3 @@
+drivers/usb/gadget/f_uvc.c:119:35: sparse: incorrect type in initializer (different base types)
+
+2013-01-09 12:54:29 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

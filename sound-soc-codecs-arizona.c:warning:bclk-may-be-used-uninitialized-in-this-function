@@ -1,0 +1,3 @@
+sound/soc/codecs/arizona.c:579:21: warning: 'bclk' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 18:37:22 snb scsi:misc:3c9f8f0 x86_64-randconfig-s345 3c9f8f0

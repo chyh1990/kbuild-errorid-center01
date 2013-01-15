@@ -1,0 +1,3 @@
+WARNING: drivers/scsi/fcoe/libfcoe.o(.init.text+0x64): Section mismatch in reference from the function .init_module() to the function .exit.text:.fcoe_transport_exit()
+
+2012-09-09 03:57:46 kbuild hid:picolcd:02d9be1 powerpc-allmodconfig 02d9be1

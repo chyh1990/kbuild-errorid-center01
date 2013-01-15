@@ -1,0 +1,3 @@
+drivers/gpu/drm/vmwgfx/vmwgfx_execbuf.c:301:11: warning: variable 'cid_to_add' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 13:59:18 bee drm-intel:drm-intel-nightly:8101b08 x86_64-randconfig-x070 112c375

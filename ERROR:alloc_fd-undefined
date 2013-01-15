@@ -1,0 +1,4 @@
+ERROR: "alloc_fd" [fs/autofs4/autofs4.ko] undefined!
+
+2012-08-22 23:05:24 kbuild vfs:for-next:39deef7 i386-randconfig-k780 39deef7
+2012-08-22 23:14:02 kbuild i386 email notified

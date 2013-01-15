@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:3465 brcmf_cfg80211_sched_scan_start() info: why not propagate 'ret' from brcmf_dev_pno_config() instead of -22?
+
+2012-09-25 05:02:21 kbuild wireless-testing:master:c874e36 i386-allyesconfig c874e36

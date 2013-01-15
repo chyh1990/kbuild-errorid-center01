@@ -1,0 +1,4 @@
+fs/xfs/xfs_icache.c:1209:21: error: invalid operands to binary != (have 'kgid_t' and 'gid_t')
+
+2012-12-22 13:34:09 bee userns:userns-always-map-user-v80:9e75958 x86_64-allyesdebian 9e75958
+2012-12-23 10:54:50 hive devel-hive-x86_64-2012-12-23-10-34:1bfe627 x86_64-randconfig-h003 1bfe627

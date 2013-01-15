@@ -1,0 +1,3 @@
+kernel/sched/features.h:88:1: warning: left shift count >= width of type [enabled by default]
+
+2012-12-01 16:05:15 snb tip:master:a8669c8 i386-allmodconfig a8669c8

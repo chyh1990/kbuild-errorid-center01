@@ -1,0 +1,3 @@
+kernel/printk/printk.c:1064:0: warning: "PRINTK_LOG_LINE_MAX" redefined [enabled by default]
+
+2012-10-23 13:30:30 lkp-mb01 next:master:716e9bd sh-allnoconfig 716e9bd

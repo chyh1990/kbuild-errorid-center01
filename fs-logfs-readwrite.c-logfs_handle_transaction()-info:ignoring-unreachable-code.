@@ -1,0 +1,3 @@
+fs/logfs/readwrite.c:1147 logfs_handle_transaction() info: ignoring unreachable code.
+
+2012-09-07 22:41:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,3 @@
+drivers/net/wireless/zd1211rw/zd_usb.c:1313:25: warning: 'bulk_out_ep' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-28 03:44:29 lkp-mb01 devel-lkp-mb01-i386-2012-10-28-03-01:4baa920 i386-randconfig-m083 4baa920

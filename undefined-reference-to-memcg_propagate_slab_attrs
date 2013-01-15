@@ -1,0 +1,4 @@
+(.text+0x22602): undefined reference to `memcg_propagate_slab_attrs'
+
+2012-10-12 22:49:39 bee glommer-memcg:kmemcg-slab:f7dc2a4 i386-randconfig-b205 f7dc2a4
+2012-10-19 22:31:40 snb glommer-memcg:kmemcg-slab:17257f1 i386-alldefconfig 17257f1

@@ -1,0 +1,3 @@
+drivers/message/i2o/i2o_config.c:960:416: warning: 'user_msg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-19 20:51:45 snb pm:linux-next:55886c6 x86_64-randconfig-s351 55886c6

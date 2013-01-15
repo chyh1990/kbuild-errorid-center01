@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/gdm_wimax.c:741:3: warning: pointer targets in passing argument 1 of 'gdm_wimax_hci_get_tlv' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:32 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

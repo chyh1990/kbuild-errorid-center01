@@ -1,0 +1,4 @@
+fs/cifs/file.c:1385:9-13: ERROR: reference preceded by free on line 1378
+
+2012-09-07 02:30:27 snb cifs:for-next:b2ede58 i386-allmodconfig e2f2886
+2012-09-07 02:45:47 snb i386 email notified

@@ -1,0 +1,3 @@
+drivers/usb/early/ehci-dbgp.c:861:30: warning: 'bus' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:25 inn linus:master:974b335 x86_64-randconfig-i364 974b335

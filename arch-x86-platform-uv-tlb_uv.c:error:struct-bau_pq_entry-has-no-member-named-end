@@ -1,0 +1,4 @@
+arch/x86/platform/uv/tlb_uv.c:283:9: error: 'struct bau_pq_entry' has no member named 'end'
+
+2012-09-06 13:57:24 kbuild alexs:master:584be09 x86_64-allmodconfig bcc2abf
+2012-09-06 13:57:25 kbuild x86_64 email notified

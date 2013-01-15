@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.data+0x222fcc): Section mismatch in reference from the variable w1_gpio_driver to the function .init.text:w1_gpio_probe()
+
+2013-01-09 13:26:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

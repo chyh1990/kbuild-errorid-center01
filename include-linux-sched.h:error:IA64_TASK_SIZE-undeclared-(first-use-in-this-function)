@@ -1,0 +1,6 @@
+include/linux/sched.h:2517:21: error: 'IA64_TASK_SIZE' undeclared (first use in this function)
+
+2012-09-17 18:55:40 inn internal-hle:hle35:spinlock:7a1f51f ia64-allmodconfig 7a1f51f
+2012-09-17 18:57:13 inn internal-hle:hle35:combined:b92101e ia64-allmodconfig b92101e
+2012-09-17 18:58:32 inn internal-hle:hsw:pmu2:28bd72f ia64-allmodconfig 28bd72f
+2012-09-18 19:55:01 hive memcg:since-3.5:8497a71 ia64-allmodconfig 8497a71

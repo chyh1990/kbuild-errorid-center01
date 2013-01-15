@@ -1,0 +1,5 @@
+drivers/gpu/drm/udl/udl_gem.c:226:13: error: 'struct drm_gem_object' has no member named 'map_list'
+
+2012-12-19 07:31:47 kbuild drm:drm-vma-manager:e8278db x86_64-allmodconfig e8278db
+2012-12-19 08:24:04 kbuild drm:drm-vma-manager:584e34e x86_64-allmodconfig 77a187b
+2012-12-19 10:19:49 lkp-mb01 devel-lkp-mb01-s390-2012-12-19-08-18:38cc3d5 s390-allmodconfig 38cc3d5

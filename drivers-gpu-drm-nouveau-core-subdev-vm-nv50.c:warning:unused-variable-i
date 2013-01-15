@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/subdev/vm/nv50.c:155:6: warning: unused variable 'i' [-Wunused-variable]
+
+2012-08-06 16:05:05 snb i386 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d f52ec912f4fe530e61ca19ff637b6c9df51e59ae
+2012-08-06 16:05:11 snb i386 email notified

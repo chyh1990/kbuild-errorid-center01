@@ -1,0 +1,3 @@
+drivers/media/dvb-frontends/tda18271c2dd.c:142:22: sparse: bad constant expression
+
+2013-01-09 13:06:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

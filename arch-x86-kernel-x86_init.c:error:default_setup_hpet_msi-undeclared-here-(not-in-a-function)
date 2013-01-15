@@ -1,0 +1,4 @@
+arch/x86/kernel/x86_init.c:121:21: error: 'default_setup_hpet_msi' undeclared here (not in a function)
+
+2012-08-08 08:38:27 lkp-mb01 i386 /cc/kernel-tests/commit-list/iommu:ioapic-cleanups:25b140f b6f08581c1244fa2e6e11a7bd2ef36d5bb3498a3
+2012-08-08 08:38:28 lkp-mb01 i386 email notified

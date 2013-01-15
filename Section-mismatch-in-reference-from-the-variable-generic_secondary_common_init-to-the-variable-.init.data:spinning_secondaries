@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x90be): Section mismatch in reference from the variable generic_secondary_common_init to the variable .init.data:spinning_secondaries
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/scsi/advansys.c:71:2: warning: #warning this driver is still not properly converted to the DMA API [-Wcpp]
+
+2013-01-09 13:26:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

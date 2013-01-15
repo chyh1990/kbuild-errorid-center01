@@ -1,0 +1,4 @@
+drivers/platform/x86/samsung-laptop.c:1347:44-45: WARNING comparing pointer to 0
+
+2012-09-17 07:33:49 snb linus:master:73f8be2 i386-allmodconfig 9cb0ee8
+2012-09-17 07:33:50 snb i386 email notified

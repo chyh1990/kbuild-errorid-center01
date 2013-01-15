@@ -1,0 +1,3 @@
+WARNING: security/integrity/built-in.o(.text+0x1d8): Section mismatch in reference from the function integrity_inode_free() to the variable .init.data:ima_use_tcb
+
+2012-10-31 20:46:28 bee digsig:working:5f11cba xtensa-allyesconfig e7e711c

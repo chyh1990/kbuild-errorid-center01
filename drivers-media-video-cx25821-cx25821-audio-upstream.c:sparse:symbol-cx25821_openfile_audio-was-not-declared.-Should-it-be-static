@@ -1,0 +1,3 @@
+drivers/media/video/cx25821/cx25821-audio-upstream.c:354:5: sparse: symbol 'cx25821_openfile_audio' was not declared. Should it be static?
+
+2012-07-23 21:40:36 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

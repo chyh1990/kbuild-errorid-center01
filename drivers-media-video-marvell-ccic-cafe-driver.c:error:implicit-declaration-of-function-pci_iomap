@@ -1,0 +1,3 @@
+drivers/media/video/marvell-ccic/cafe-driver.c:499:2: error: implicit declaration of function 'pci_iomap' [-Werror=implicit-function-declaration]
+
+2012-11-23 04:53:43 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

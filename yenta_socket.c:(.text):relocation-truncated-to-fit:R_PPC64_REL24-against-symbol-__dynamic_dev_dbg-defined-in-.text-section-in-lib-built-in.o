@@ -1,0 +1,4 @@
+yenta_socket.c:(.text+0x1ffa60c): relocation truncated to fit: R_PPC64_REL24 against symbol `.__dynamic_dev_dbg' defined in .text section in lib/built-in.o
+
+2012-09-27 13:23:49 bee powerpc:next:7844663 powerpc-allyesconfig b92a66a
+2012-09-27 13:23:49 bee powerpc:next:7844663 powerpc-allyesconfig b92a66a email notified

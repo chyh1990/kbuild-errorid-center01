@@ -1,0 +1,3 @@
+drivers/net/ethernet/8390/e2100.c:324:2: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2012-09-26 04:07:23 bee m68k:m68k-queue:72a7119 m68k-allyesconfig d203e5d

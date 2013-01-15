@@ -1,0 +1,3 @@
+drivers/usb/gadget/net2280.c:485 write_fifo() error: potential NULL dereference 'buf'.
+
+2013-01-09 13:27:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

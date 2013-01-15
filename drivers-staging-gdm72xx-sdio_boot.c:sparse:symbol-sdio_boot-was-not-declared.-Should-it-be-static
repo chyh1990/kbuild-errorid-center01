@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/sdio_boot.c:129:5: sparse: symbol 'sdio_boot' was not declared. Should it be static?
+
+2012-09-03 10:44:50 snb drm:drm-next:65983bd i386-allmodconfig 93bb70e

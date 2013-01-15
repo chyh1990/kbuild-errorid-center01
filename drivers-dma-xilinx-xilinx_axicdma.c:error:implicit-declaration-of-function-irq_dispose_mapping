@@ -1,0 +1,4 @@
+drivers/dma/xilinx/xilinx_axicdma.c:850:2: error: implicit declaration of function 'irq_dispose_mapping' [-Werror=implicit-function-declaration]
+
+2012-12-11 17:40:55 snb microblaze:petalinux-v12.12:8c5e475 i386-allmodconfig 8c5e475
+2012-12-19 16:39:32 kbuild microblaze:xilinx:next:f9d9809 i386-allyesconfig f9d9809

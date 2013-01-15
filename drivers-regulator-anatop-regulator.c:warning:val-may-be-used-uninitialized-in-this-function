@@ -1,0 +1,3 @@
+drivers/regulator/anatop-regulator.c:78:13: warning: 'val' may be used uninitialized in this function [-Wuninitialized]
+
+2012-10-25 19:42:46 inn internal-alexs:master:adf16c8 i386-randconfig-n060 9be66f1

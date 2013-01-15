@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/mcheck/mce.c:1475:6: warning: left shift count >= width of type [enabled by default]
+
+2012-10-20 16:02:26 inn internal-rtd3:lpss:1535942 i386-allmodconfig d9c5115

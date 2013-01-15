@@ -1,0 +1,3 @@
+crypto/async_tx/async_pq.c:242:1: warning: 'async_gen_syndrome' uses dynamic stack allocation [enabled by default]
+
+2013-01-09 12:49:15 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

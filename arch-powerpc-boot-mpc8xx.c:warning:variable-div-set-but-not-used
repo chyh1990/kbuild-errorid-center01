@@ -1,0 +1,3 @@
+arch/powerpc/boot/mpc8xx.c:27:26: warning: variable 'div' set but not used [-Wunused-but-set-variable]
+
+2012-09-09 06:37:53 kbuild slab:vax:asm-generic:636c722 powerpc-allmodconfig a386bbe

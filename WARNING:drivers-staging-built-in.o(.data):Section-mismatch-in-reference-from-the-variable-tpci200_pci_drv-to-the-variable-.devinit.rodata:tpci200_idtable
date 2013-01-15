@@ -1,0 +1,3 @@
+WARNING: drivers/staging/built-in.o(.data+0x25088): Section mismatch in reference from the variable tpci200_pci_drv to the variable .devinit.rodata:tpci200_idtable
+
+2012-09-07 20:09:04 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

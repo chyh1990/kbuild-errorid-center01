@@ -1,0 +1,3 @@
+drivers/infiniband/ulp/srpt/ib_srpt.c:1832:6: warning: unused variable 'res' [-Wunused-variable]
+
+2012-11-28 17:59:21 kbuild target:for-next:66e9865 x86_64-allmodconfig 66e9865

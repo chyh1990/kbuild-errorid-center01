@@ -1,0 +1,3 @@
+drivers/scsi/qla2xxx/qla_gs.c:1667 qla2x00_fdmi_rpa() error: snprintf() chops off the last chars of '(((vha->host)->shost_data)->system_hostname)': 256 vs 32
+
+2013-01-09 13:26:35 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

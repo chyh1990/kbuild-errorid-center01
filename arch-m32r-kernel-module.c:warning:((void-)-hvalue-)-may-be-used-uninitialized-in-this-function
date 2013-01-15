@@ -1,0 +1,3 @@
+arch/m32r/kernel/module.c:127:8: warning: '*((void *)&hvalue+2)' may be used uninitialized in this function [-Wuninitialized]
+
+2012-07-22 14:37:06 hive m32r /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

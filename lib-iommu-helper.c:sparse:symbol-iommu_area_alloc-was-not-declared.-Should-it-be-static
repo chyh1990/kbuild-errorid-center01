@@ -1,0 +1,3 @@
+lib/iommu-helper.c:19:15: sparse: symbol 'iommu_area_alloc' was not declared. Should it be static?
+
+2013-01-09 13:01:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,4 @@
+arch/arm/include/asm/ptrace.h:260:35: error: 'THREAD_SIZE' undeclared (first use in this function)
+
+2012-09-08 03:12:44 snb signal:master:811a655 arm-allnoconfig 63840b3
+2012-09-08 03:12:46 snb arm email notified

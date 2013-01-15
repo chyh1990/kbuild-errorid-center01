@@ -1,0 +1,3 @@
+drivers/net/wireless/b43/phy_n.c:2792:6: sparse: symbol 'b43_nphy_set_rxantenna' was not declared. Should it be static?
+
+2013-01-09 13:01:52 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

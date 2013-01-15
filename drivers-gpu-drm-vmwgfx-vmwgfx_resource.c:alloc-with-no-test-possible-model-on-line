@@ -1,0 +1,4 @@
+drivers/gpu/drm/vmwgfx/vmwgfx_resource.c:1355:1-13: alloc with no test, possible model on line 1402
+
+2012-09-17 07:17:52 snb linus:master:73f8be2 i386-allmodconfig dd383af
+2012-09-17 07:17:58 snb i386 email notified

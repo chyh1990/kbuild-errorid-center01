@@ -1,0 +1,3 @@
+fs/ext2/inode.c:730 ext2_get_blocks() error: we previously assumed 'partial' could be null (see line 628)
+
+2013-01-09 13:27:32 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

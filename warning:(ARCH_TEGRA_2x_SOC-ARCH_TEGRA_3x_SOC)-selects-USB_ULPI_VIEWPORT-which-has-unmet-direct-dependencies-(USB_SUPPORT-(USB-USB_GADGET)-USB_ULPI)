@@ -1,0 +1,3 @@
+warning: (ARCH_TEGRA_2x_SOC && ARCH_TEGRA_3x_SOC) selects USB_ULPI_VIEWPORT which has unmet direct dependencies (USB_SUPPORT && (USB || USB_GADGET) && USB_ULPI)
+
+2012-09-03 10:16:26 snb drm:drm-next:65983bd arm-tegra_defconfig 93bb70e

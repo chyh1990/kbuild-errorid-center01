@@ -1,0 +1,4 @@
+drivers/scsi/qla2xxx/qla_os.c:3722:7-21: code aligned with following code on line 3723
+
+2012-09-19 11:01:49 inn internal-wfg:0day:bd510f3 i386-allmodconfig bd510f3
+2012-09-19 11:06:23 inn i386 email notified

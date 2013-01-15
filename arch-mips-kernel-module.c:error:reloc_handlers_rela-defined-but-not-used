@@ -1,0 +1,10 @@
+arch/mips/kernel/module.c:250:14: error: 'reloc_handlers_rela' defined but not used [-Werror=unused-variable]
+
+2012-08-02 13:56:03 hive mips /cc/kernel-tests/commit-list/next:akpm:1fd9e08 f501ce130d7f57199424e9178cdedc8772192176
+2012-08-08 19:35:29 hive mips 3bf8f5ee85025171ad4f902049e841318d2d4396 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b02f1c8
+2012-08-12 11:23:45 hive mips a118377d7c7f1afa7af5ba45f91ff286c1321cf2 /cc/kernel-tests/commit-list/next:akpm:203e014
+2012-08-13 12:01:45 hive mips 7ebe22dfa831a1dd5bb9703097b40408494d2f95 /cc/kernel-tests/commit-list/next:akpm:53b8c72
+2012-08-13 23:19:52 hive mips 26ab1397b6e51ffc72fb00ad012598eb2e135726 /cc/kernel-tests/commit-list/rusty:module:26ab139
+2012-08-16 10:50:10 hive modsign:modsign:7ac7095 mips-allmodconfig d569964
+2012-08-16 15:07:02 hive next:akpm:d85532e mips-allmodconfig ac6fab2
+2012-08-19 00:43:30 hive next:akpm:a96005b mips-allmodconfig 57b36d5

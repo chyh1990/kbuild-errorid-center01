@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/anysee.c:75 anysee_ctrl_msg() error: doing dma on the stack (buf)
+
+2012-09-12 11:56:34 kbuild security:next:a40695e i386-allyesconfig a40695e

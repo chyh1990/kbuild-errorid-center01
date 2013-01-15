@@ -1,0 +1,3 @@
+warning: (PPC) selects SPARSE_IRQ which has unmet direct dependencies (HAVE_GENERIC_HARDIRQS && (IRQ_DOMAIN && DEBUG_FS || MAY_HAVE_SPARSE_IRQ))
+
+2012-12-17 12:35:27 bee next:master:1cfc3a4 powerpc-linkstation_defconfig 1cfc3a4

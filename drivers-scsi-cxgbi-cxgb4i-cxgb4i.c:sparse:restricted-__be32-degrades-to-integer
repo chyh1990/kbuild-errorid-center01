@@ -1,0 +1,3 @@
+drivers/scsi/cxgbi/cxgb4i/cxgb4i.c:441:32: sparse: restricted __be32 degrades to integer
+
+2012-09-01 03:33:12 snb input:next:bd68dfe i386-allmodconfig bd68dfe

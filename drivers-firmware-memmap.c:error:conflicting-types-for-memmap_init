@@ -1,0 +1,5 @@
+drivers/firmware/memmap.c:240:19: error: conflicting types for 'memmap_init'
+
+2012-10-13 00:21:04 hive glommer-memcg:kmemcg-slab:f7dc2a4 ia64-allmodconfig f7dc2a4
+2012-10-16 14:58:32 hive glommer-memcg:kmemcg-slab:ff42632 ia64-allmodconfig ff42632
+2012-10-20 00:31:34 hive glommer-memcg:kmemcg-slab:17257f1 ia64-allmodconfig 17257f1

@@ -1,0 +1,4 @@
+drivers/regulator/palmas-regulator.c:743:2: error: implicit declaration of function 'of_find_node_by_name' [-Werror=implicit-function-declaration]
+
+2012-08-29 15:39:55 kbuild omap-dss2:work:omap5-dt:a57dfde i386-randconfig-k842 df9691b
+2012-08-29 15:39:55 kbuild i386 email notified

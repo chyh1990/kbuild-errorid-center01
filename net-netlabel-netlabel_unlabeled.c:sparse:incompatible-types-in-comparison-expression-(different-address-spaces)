@@ -1,0 +1,3 @@
+net/netlabel/netlabel_unlabeled.c:1479:25: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 13:06:55 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

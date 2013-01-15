@@ -1,0 +1,3 @@
+drivers/tty/serial/pch_uart.c:1667:7: warning: unused variable 'name' [-Wunused-variable]
+
+2013-01-09 12:32:08 inn linus:master:974b335 x86_64-randconfig-n369 974b335

@@ -1,0 +1,4 @@
+drivers/gpu/drm/gma500/cdv_intel_dp.c:1256 cdv_intel_dp_set_vswing_premph() info: ignoring unreachable code.
+
+2012-09-07 23:20:31 kbuild samsung:exynos-drm-next:2feedb8 i386-allyesconfig 2feedb8
+2012-09-07 23:44:48 kbuild i386 email notified

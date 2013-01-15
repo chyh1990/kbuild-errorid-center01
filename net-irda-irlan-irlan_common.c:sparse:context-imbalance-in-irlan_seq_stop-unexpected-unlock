@@ -1,0 +1,3 @@
+net/irda/irlan/irlan_common.c:1142:13: sparse: context imbalance in 'irlan_seq_stop' - unexpected unlock
+
+2012-11-07 19:22:21 snb devel-snb-i386-2012-11-07-17-31:ee9f891 i386-allmodconfig ee9f891

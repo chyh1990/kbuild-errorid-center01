@@ -1,0 +1,4 @@
+arch/sh/kernel/signal_32.c:249:2: error: implicit declaration of function 'sys_sigaltstack' [-Werror=implicit-function-declaration]
+
+2012-09-21 09:39:20 lkp-mb01 signal:master:d38625a sh-allnoconfig d38625a
+2012-09-21 09:59:43 lkp-mb01 sh email notified

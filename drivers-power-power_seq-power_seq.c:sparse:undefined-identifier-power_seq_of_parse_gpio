@@ -1,0 +1,3 @@
+drivers/power/power_seq/power_seq.c:371:28: sparse: undefined identifier 'power_seq_of_parse_gpio'
+
+2012-11-03 05:13:50 snb devel-snb-i386-2012-11-03-04-54:7e455ac i386-allmodconfig 7e455ac

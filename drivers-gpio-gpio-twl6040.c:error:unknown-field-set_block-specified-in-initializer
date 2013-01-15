@@ -1,0 +1,3 @@
+drivers/gpio/gpio-twl6040.c:111:2: error: unknown field 'set_block' specified in initializer
+
+2012-12-24 03:52:40 bee devel-bee-x86-2012-12-24-02-06:2144b92 m68k-allyesconfig 2144b92

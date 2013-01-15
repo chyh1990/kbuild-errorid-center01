@@ -1,0 +1,4 @@
+drivers/mfd/max8907.c:179:16: sparse: symbol 'max8907_pm_off' was not declared. Should it be static?
+
+2012-09-20 01:33:59 snb mfd:for-next:144c94c i386-allmodconfig 144c94c
+2012-09-20 04:20:27 snb i386 email notified

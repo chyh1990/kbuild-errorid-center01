@@ -1,0 +1,5 @@
+Fatal error: can't create drivers/pci/pci-sysfs.o: No such file or directory
+
+2012-08-06 19:12:35 kbuild x86_64 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e 92d6d09f4fa3b16c1f415a7d0a1a5c8e3d0cd5c8
+2012-09-22 22:21:33 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 a1a7e0a
+2012-09-22 22:21:33 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 a1a7e0a email notified

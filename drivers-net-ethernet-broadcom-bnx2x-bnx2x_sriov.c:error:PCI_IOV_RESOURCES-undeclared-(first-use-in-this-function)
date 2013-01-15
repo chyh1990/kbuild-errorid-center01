@@ -1,0 +1,7 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_sriov.c:1800:15: error: 'PCI_IOV_RESOURCES' undeclared (first use in this function)
+
+2013-01-02 18:57:15 bee net-next:master:8395be5 x86_64-randconfig-x879 8395be5
+2013-01-04 12:24:45 bee next:master:1d4849d i386-randconfig-b000 1d4849d
+2013-01-04 12:31:42 bee next:akpm:f7dca8a i386-randconfig-b000 f7dca8a
+2013-01-04 15:14:19 bee net-next:master:04e406d i386-randconfig-b000 04e406d
+2013-01-07 20:44:24 bee devel-bee-x86-2013-01-07-19-22:fa4d423 i386-randconfig-x322 fa4d423

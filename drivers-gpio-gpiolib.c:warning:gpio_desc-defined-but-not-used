@@ -1,0 +1,3 @@
+drivers/gpio/gpiolib.c:73:25: warning: 'gpio_desc' defined but not used [-Wunused-variable]
+
+2012-10-16 11:02:41 bee stericsson:ab8500-gpio:4a26919 parisc-allyesconfig 4a26919

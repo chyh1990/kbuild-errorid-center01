@@ -1,0 +1,3 @@
+ERROR# 1: /c/kernel-tests/kbuild-test.sh:65: notify_problems: grep -f $C_ROOT/build-warning-pattern "$@"
+
+2012-09-19 20:51:55 lkp-mb01 hid:wacom:8908dd8 m32r-mappi3.smp_defconfig 8908dd8

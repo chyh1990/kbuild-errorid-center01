@@ -1,0 +1,3 @@
+drivers/scsi/libsas/sas_expander.c:2174:1: fatal error: opening dependency file drivers/scsi/libsas/.sas_expander.o.d: No such file or directory
+
+2012-09-13 13:03:10 bee drm:drm-fixes:b655232 i386-randconfig-b008 5e1782d

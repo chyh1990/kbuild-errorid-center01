@@ -1,0 +1,3 @@
+drivers/scsi/ips.c:3280 ips_done() error: we previously assumed 'scb->scsi_cmd' could be null (see line 3239)
+
+2012-09-07 22:41:44 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,15 @@
+lib/atomic64.c:40:11: error: 'L1_CACHE_SHIFT' undeclared (first use in this function)
+
+2012-11-01 19:14:11 lkp-mb01 next:master:2b1279e h8300-defconfig 2b1279e
+2012-11-02 05:05:59 lkp-mb01 next:akpm:929d70b h8300-defconfig 929d70b
+2012-11-02 14:55:13 lkp-mb01 next:master:fc745a3 h8300-defconfig fc745a3
+2012-11-02 16:34:04 lkp-mb01 next:akpm:210f491 h8300-defconfig 210f491
+2012-11-03 06:05:16 lkp-mb01 ac100:for-next-thierry:f1f4e22 h8300-defconfig f1f4e22
+2012-11-05 14:52:08 lkp-mb01 next:master:124414e h8300-defconfig 124414e
+2012-11-05 15:39:37 lkp-mb01 next:akpm:1c24949 h8300-defconfig 1c24949
+2012-11-06 14:38:51 lkp-mb01 next:master:6f4f774 h8300-defconfig 6f4f774
+2012-11-06 14:44:50 lkp-mb01 next:akpm:5b53047 h8300-defconfig 5b53047
+2012-11-07 14:07:36 lkp-mb01 next:master:12b2c0c h8300-defconfig 12b2c0c
+2012-11-07 14:35:46 lkp-mb01 next:akpm:5c37733 h8300-defconfig 5c37733
+2012-11-08 14:06:03 lkp-mb01 next:master:50aa9ee h8300-defconfig 50aa9ee
+2012-11-08 15:32:39 lkp-mb01 next:akpm:db38463 h8300-defconfig db38463

@@ -1,0 +1,3 @@
+warning: (LEMOTE_FULOONG2E && LEMOTE_MACH2F) selects ARCH_SPARSEMEM_ENABLE which has unmet direct dependencies (CPU_CAVIUM_OCTEON)
+
+2012-09-09 16:28:31 hive wireless-testing:master:ce5fe84 mips-fuloong2e_defconfig 362b056

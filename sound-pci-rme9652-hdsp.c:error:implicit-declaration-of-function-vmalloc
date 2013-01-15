@@ -1,0 +1,3 @@
+sound/pci/rme9652/hdsp.c:5103:4: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-11-23 02:05:53 kbuild devel-kbuild-powerpc-2012-11-23-01-50:08ab200 powerpc-allmodconfig 08ab200

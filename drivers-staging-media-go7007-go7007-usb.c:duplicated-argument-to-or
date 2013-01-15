@@ -1,0 +1,3 @@
+drivers/staging/media/go7007/go7007-usb.c:591:6-63: duplicated argument to && or ||
+
+2012-11-14 11:27:45 snb devel-snb-i386-2012-11-14-02-33:8bf79d9 i386-allmodconfig 8bf79d9

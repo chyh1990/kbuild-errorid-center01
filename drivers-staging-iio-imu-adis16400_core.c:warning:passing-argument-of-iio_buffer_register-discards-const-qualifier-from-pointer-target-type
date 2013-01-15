@@ -1,0 +1,3 @@
+drivers/staging/iio/imu/adis16400_core.c:1171:7: warning: passing argument 2 of 'iio_buffer_register' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-24 11:01:58 snb time:fortglx:3.7:time:60b087f x86_64-randconfig-s007 606d06a

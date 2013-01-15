@@ -1,0 +1,6 @@
+drivers/pinctrl/pinctrl-nomadik.c:212:2: error: implicit declaration of function 'NOMADIK_GPIO_TO_IRQ' [-Werror=implicit-function-declaration]
+
+2012-10-20 18:17:10 snb pinctrl:nomadik-multiplatform:2e88a0f arm-imx_v6_v7_defconfig 2e88a0f
+2012-10-20 18:17:11 snb arm email notified
+2012-10-29 06:43:34 snb devel-snb-arm-2012-10-29-06-19:8f0abc8 arm-imx_v6_v7_defconfig 8f0abc8
+2013-01-07 18:03:54 snb devel-snb-arm-2013-01-07-18-02:cd10aa1 arm-marzen_defconfig cd10aa1

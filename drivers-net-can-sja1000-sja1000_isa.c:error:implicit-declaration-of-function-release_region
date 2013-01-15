@@ -1,0 +1,4 @@
+drivers/net/can/sja1000/sja1000_isa.c:221:3: error: implicit declaration of function 'release_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 18:30:29 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf
+2012-09-17 19:00:22 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

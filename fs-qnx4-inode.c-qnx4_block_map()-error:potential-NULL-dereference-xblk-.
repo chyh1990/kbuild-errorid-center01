@@ -1,0 +1,3 @@
+fs/qnx4/inode.c:109 qnx4_block_map() error: potential NULL dereference 'xblk'.
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

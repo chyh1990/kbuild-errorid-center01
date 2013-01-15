@@ -1,0 +1,4 @@
+drivers/mfd/palmas.c:392:49: error: 'struct palmas_platform_data' has no member named 'gpadc_pdata'
+
+2012-09-22 00:54:03 snb mfd:for-next:e8aa34d x86_64-randconfig-s364 4400217
+2012-09-22 00:54:05 snb x86_64 email notified

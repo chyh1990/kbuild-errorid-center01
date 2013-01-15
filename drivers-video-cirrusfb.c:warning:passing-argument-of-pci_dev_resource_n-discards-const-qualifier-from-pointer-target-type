@@ -1,0 +1,3 @@
+drivers/video/cirrusfb.c:1947:2: warning: passing argument 1 of 'pci_dev_resource_n' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-03 18:15:34 kbuild yinghai:for-pci-for-each-res-addon-v2:fad110b i386-randconfig-k897 a7c9187

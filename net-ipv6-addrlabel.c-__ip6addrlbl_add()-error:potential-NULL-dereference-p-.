@@ -1,0 +1,3 @@
+net/ipv6/addrlabel.c:285 __ip6addrlbl_add() error: potential NULL dereference 'p'.
+
+2013-01-09 13:27:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

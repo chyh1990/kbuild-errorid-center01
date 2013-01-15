@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/phy/phy_n.c:20697 wlc_phy_chanspec_radio2056_setup() error: potential NULL dereference 'regs_SYN_2056_ptr'.
+
+2013-01-09 13:26:17 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

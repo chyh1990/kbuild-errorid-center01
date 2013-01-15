@@ -1,0 +1,3 @@
+drivers/acpi/acpica/utmisc.c:754:4: warning: passing argument 2 of 'acpi_debug_print' makes integer from pointer without a cast [enabled by default]
+
+2012-11-01 05:07:15 lkp-mb01 devel-lkp-mb01-i386-2012-11-01-04-48:187ffa6 i386-randconfig-m112 187ffa6

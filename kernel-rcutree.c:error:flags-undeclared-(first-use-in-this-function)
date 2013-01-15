@@ -1,0 +1,6 @@
+kernel/rcutree.c:1131:41: error: 'flags' undeclared (first use in this function)
+
+2012-09-21 02:48:43 kbuild rcu:rcu:next:d58ab77 x86_64-allmodconfig 5521169
+2012-09-21 02:48:44 kbuild x86_64 email notified
+2012-09-21 02:57:36 bee rcu:next.2012.09.20a:d58ab77 x86_64-allyesconfig 5521169
+2012-09-21 03:44:29 snb rcu:dev.2012.09.20a:21fa7a3 x86_64-randconfig-s364 5521169

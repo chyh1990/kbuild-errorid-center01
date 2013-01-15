@@ -1,0 +1,4 @@
+kernel/rcutree_plugin.h:2282:41: error: 'GFP_NOIO' undeclared (first use in this function)
+
+2012-10-28 22:20:22 lkp-mb01 rcu:nocb.2012.10.23a:9e0be6b s390-allmodconfig 9e0be6b
+2012-10-28 22:20:23 lkp-mb01 s390 email notified

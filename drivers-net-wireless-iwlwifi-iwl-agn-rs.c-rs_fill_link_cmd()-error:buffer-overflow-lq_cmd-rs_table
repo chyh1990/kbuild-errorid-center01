@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/iwl-agn-rs.c:3051 rs_fill_link_cmd() error: buffer overflow 'lq_cmd->rs_table' 16 <= 16
+
+2012-09-07 22:42:15 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

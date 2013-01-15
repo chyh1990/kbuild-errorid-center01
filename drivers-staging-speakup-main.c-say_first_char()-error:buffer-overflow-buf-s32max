@@ -1,0 +1,3 @@
+drivers/staging/speakup/main.c:984 say_first_char() error: buffer overflow 'buf' 256 <= s32max
+
+2013-01-13 01:56:11 kbuild devel-kbuild-i386-2013-01-13-01-21:dcc4fce i386-allyesconfig dcc4fce

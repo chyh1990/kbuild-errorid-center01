@@ -1,0 +1,3 @@
+fs/pstore/platform.c:175:3: warning: passing argument 6 of 'psinfo->write' makes integer from pointer without a cast [enabled by default]
+
+2012-11-13 05:41:01 kbuild devel-kbuild-x86_64-2012-11-13-05-39:38bcf9f x86_64-allmodconfig 38bcf9f

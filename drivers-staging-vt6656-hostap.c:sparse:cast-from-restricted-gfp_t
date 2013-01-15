@@ -1,0 +1,3 @@
+drivers/staging/vt6656/hostap.c:705:42: sparse: cast from restricted gfp_t
+
+2013-01-09 13:00:27 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+include/linux/syscalls.h:377:43: warning: type defaults to 'int' in declaration of 'sigset_t'
+
+2012-10-01 17:36:14 snb devel-snb-arm-2012-10-01-17-19:6180ed1 openrisc-or1ksim_defconfig 6180ed1

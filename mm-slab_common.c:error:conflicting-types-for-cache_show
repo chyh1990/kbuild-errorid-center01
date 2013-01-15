@@ -1,0 +1,3 @@
+mm/slab_common.c:320:5: error: conflicting types for 'cache_show'
+
+2012-10-12 22:28:09 bee glommer-memcg:kmemcg-slab:f7dc2a4 cris-allyesconfig 0f901d8

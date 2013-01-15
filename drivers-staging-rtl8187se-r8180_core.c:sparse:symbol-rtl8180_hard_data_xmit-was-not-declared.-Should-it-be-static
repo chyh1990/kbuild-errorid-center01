@@ -1,0 +1,3 @@
+drivers/staging/rtl8187se/r8180_core.c:1553:6: sparse: symbol 'rtl8180_hard_data_xmit' was not declared. Should it be static?
+
+2013-01-09 12:52:08 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

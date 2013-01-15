@@ -1,0 +1,3 @@
+drivers/staging/bcm/CmHost.c:1298 DumpCmControlPacket() debug: remove_pools: nr_children over 4000 (8256). (psfCSType->cCPacketClassificationRule.u8ProtocolSourcePortRange s32min-s32max)
+
+2012-12-17 08:11:20 kbuild devel-kbuild-i386-2012-12-17-06-50:c12450b i386-allyesconfig c12450b

@@ -1,0 +1,5 @@
+drivers/pinctrl/pinctrl-nomadik.c:1707:2: error: unknown field 'get_function_name' specified in initializer
+
+2012-10-20 18:18:02 snb pinctrl:nomadik-multiplatform:2e88a0f arm-s3c2410_defconfig 2e88a0f
+2012-10-29 06:45:35 snb devel-snb-arm-2012-10-29-06-19:8f0abc8 arm-s3c2410_defconfig 8f0abc8
+2013-01-07 18:04:45 snb devel-snb-arm-2013-01-07-18-02:cd10aa1 arm-s3c2410_defconfig cd10aa1

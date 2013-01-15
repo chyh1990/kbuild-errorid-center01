@@ -1,0 +1,3 @@
+drivers/mfd/lpc_ich.c:199:21: sparse: symbol 'lpc_chipset_info' was not declared. Should it be static?
+
+2013-01-09 13:11:48 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

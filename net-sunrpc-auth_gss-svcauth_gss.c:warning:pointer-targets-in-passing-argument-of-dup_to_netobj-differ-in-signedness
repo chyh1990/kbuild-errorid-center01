@@ -1,0 +1,3 @@
+net/sunrpc/auth_gss/svcauth_gss.c:124:2: warning: pointer targets in passing argument 2 of 'dup_to_netobj' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:36:41 bee nfs:testing:f743c73 x86_64-allyesconfig a9c310a

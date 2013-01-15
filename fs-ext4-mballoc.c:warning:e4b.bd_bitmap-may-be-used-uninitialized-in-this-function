@@ -1,0 +1,3 @@
+fs/ext4/mballoc.c:1045:6: warning: 'e4b.bd_bitmap' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-19 23:13:40 inn internal-bluetooth-hs:master:ef3b3fe x86_64-randconfig-i109 f706adf

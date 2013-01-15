@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.meminit.text+0x1478): Section mismatch in reference from the function .free_area_init_core.isra.38() to the function .init.text:.set_pageblock_order()
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

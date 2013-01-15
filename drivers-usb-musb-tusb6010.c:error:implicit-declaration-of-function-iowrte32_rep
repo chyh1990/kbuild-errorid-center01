@@ -1,0 +1,7 @@
+drivers/usb/musb/tusb6010.c:202:5: error: implicit declaration of function 'iowrte32_rep' [-Werror=implicit-function-declaration]
+
+2012-11-07 02:44:01 bee arm-perf:io:a91b44d x86_64-allyesconfig 84cf772
+2012-11-07 02:44:19 bee x86_64 email notified
+2012-11-07 03:47:00 hive devel-hive-x86_64-2012-11-07-03-43:0711def x86_64-randconfig-h221 0711def
+2012-11-07 03:50:35 snb devel-snb-i386-2012-11-07-03-35:9a6ce59 i386-allmodconfig 9a6ce59
+2012-11-07 05:20:02 hive devel-hive-ia64-2012-11-07-04-56:cce0059 ia64-allmodconfig cce0059

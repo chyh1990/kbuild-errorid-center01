@@ -1,0 +1,3 @@
+drivers/hv/hv.c:168:9: warning: constant 2976579765 is so big it is long long
+
+2012-09-07 23:06:39 kbuild mac80211-next:wip:be3090b i386-allyesconfig be3090b

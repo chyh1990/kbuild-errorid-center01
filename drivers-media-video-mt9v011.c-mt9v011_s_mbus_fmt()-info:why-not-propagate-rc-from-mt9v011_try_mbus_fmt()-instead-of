@@ -1,0 +1,3 @@
+drivers/media/video/mt9v011.c:547 mt9v011_s_mbus_fmt() info: why not propagate 'rc' from mt9v011_try_mbus_fmt() instead of -22?
+
+2012-09-12 11:57:21 kbuild security:next:a40695e i386-allyesconfig a40695e

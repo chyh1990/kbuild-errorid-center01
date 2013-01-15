@@ -1,0 +1,3 @@
+drivers/scsi/mvsas/mv_64xx.c:283 mvs_64xx_init() error: we previously assumed 'mvi->pdev' could be null (see line 259)
+
+2013-01-09 13:26:24 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

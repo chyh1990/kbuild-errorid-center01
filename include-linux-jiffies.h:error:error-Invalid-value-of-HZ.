@@ -1,0 +1,3 @@
+include/linux/jiffies.h:39: error: #error Invalid value of HZ.
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

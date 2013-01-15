@@ -1,0 +1,18 @@
+(.text+0x718d0): relocation truncated to fit: GPREL16 against symbol `sysctl_tcp_workaround_signed_windows' defined in .sbss section in net/built-in.o
+
+2012-09-15 11:49:03 lkp-mb01 yinghai:master:156b34a alpha-defconfig 5326d4c
+2012-09-15 12:58:47 lkp-mb01 yinghai:for-x86-irq-base:835d595 alpha-defconfig a36437f
+2012-09-15 17:39:35 lkp-mb01 yinghai:for-x86-irq:c0c1cc6 alpha-defconfig b8dcf05
+2012-09-15 23:50:22 lkp-mb01 yinghai:for-pci-for-each-res-addon:9fd94f5 alpha-defconfig 3a1550b
+2012-09-18 09:23:01 lkp-mb01 yinghai:for-x86-irq-base:2900f85 alpha-defconfig 2900f85
+2012-09-18 09:37:21 lkp-mb01 yinghai:for-pci-for-each-res-addon:e7b4a70 alpha-defconfig e7b4a70
+2012-09-18 17:27:59 lkp-mb01 yinghai:for-x86-irq-base:f2c8edd alpha-defconfig f2c8edd
+2012-09-18 17:41:01 lkp-mb01 yinghai:for-x86-irq:687b7ca alpha-defconfig 687b7ca
+2012-09-20 11:15:34 lkp-mb01 yinghai:for-pci-for-each-res-addon:8f63fa4 alpha-defconfig 8f63fa4
+2012-09-20 11:26:43 lkp-mb01 yinghai:for-iommu:8a3281a alpha-defconfig 8a3281a
+2012-10-02 02:29:01 lkp-mb01 linus:master:08815bc alpha-defconfig 08815bc
+2012-10-02 02:48:25 lkp-mb01 linus:master:b3eda8d alpha-defconfig b3eda8d
+2012-10-02 03:16:12 lkp-mb01 linus:master:81f56e5 alpha-defconfig 81f56e5
+2012-10-02 03:27:13 lkp-mb01 tip:master:3d66e19 alpha-defconfig 3d66e19
+2012-10-02 04:24:13 lkp-mb01 tip:master:6a4fd66 alpha-defconfig 6a4fd66
+2012-10-02 15:17:24 lkp-mb01 tip:master:e029a27 alpha-defconfig e029a27

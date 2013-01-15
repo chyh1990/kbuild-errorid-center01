@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/tg3.c:5670:55: sparse: constant 0x7fffffffffffffff is so big it is long long
+
+2012-12-05 04:27:22 snb devel-snb-i386-2012-12-05-03-42:38848bc i386-allmodconfig 38848bc

@@ -1,0 +1,7 @@
+fs/hfsplus/ioctl.c:439:2: error: implicit declaration of function 'hfsplus_destroy_attr_entry' [-Werror=implicit-function-declaration]
+
+2012-09-26 23:12:32 snb next:akpm:dad0019 x86_64-randconfig-s007 910b5a6
+2012-09-28 05:43:18 snb next:akpm:5ca573b x86_64-randconfig-s007 d52cfc4
+2012-10-12 14:20:09 kbuild next:akpm:04b956f x86_64-allmodconfig 988dad2
+2012-10-15 14:21:29 snb next:akpm:a2d7564 x86_64-randconfig-s060 632149b
+2012-10-25 09:55:49 kbuild next:akpm:234b148 x86_64-allmodconfig 0b3ccec

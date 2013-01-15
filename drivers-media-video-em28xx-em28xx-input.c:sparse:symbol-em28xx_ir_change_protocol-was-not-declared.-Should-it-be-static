@@ -1,0 +1,3 @@
+drivers/media/video/em28xx/em28xx-input.c:348:5: sparse: symbol 'em28xx_ir_change_protocol' was not declared. Should it be static?
+
+2012-09-08 03:49:46 snb wireless-next:for-davem:d679c53 i386-allmodconfig 57eebdf

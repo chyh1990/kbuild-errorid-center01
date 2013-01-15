@@ -1,0 +1,3 @@
+arch/x86/boot/compressed/../../../../lib/zlib_inflate/inftrees.c:240 zlib_inflate_table() error: buffer overflow 'count' 16 <= 16
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

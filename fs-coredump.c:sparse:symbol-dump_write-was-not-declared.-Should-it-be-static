@@ -1,0 +1,3 @@
+fs/coredump.c:653:5: sparse: symbol 'dump_write' was not declared. Should it be static?
+
+2012-09-27 15:58:39 snb devel-snb-i386-2012-09-27-15-44:a7e4176 i386-allmodconfig a7e4176

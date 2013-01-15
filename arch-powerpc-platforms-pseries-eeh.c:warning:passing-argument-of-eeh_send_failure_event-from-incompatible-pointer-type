@@ -1,0 +1,3 @@
+arch/powerpc/platforms/pseries/eeh.c:489:2: warning: passing argument 1 of 'eeh_send_failure_event' from incompatible pointer type [enabled by default]
+
+2012-09-10 10:46:57 kbuild powerpc:next:4715fed powerpc-allmodconfig c533b46

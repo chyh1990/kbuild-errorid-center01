@@ -1,0 +1,3 @@
+drivers/mfd/wm831x-core.c:1754 wm831x_device_init() warn: variable dereferenced before check 'pdata' (see line 1629)
+
+2013-01-09 13:27:45 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

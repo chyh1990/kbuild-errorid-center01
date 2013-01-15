@@ -1,0 +1,3 @@
+include/trace/events/rcu.h:486:1: sparse: expression using sizeof bool
+
+2012-12-18 02:49:17 snb devel-snb-i386-2012-12-18-01-59:8d958eb i386-allmodconfig 8d958eb

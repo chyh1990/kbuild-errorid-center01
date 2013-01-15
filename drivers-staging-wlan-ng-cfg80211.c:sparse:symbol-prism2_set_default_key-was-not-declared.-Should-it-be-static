@@ -1,0 +1,3 @@
+drivers/staging/wlan-ng/cfg80211.c:277:5: sparse: symbol 'prism2_set_default_key' was not declared. Should it be static?
+
+2013-01-09 13:03:37 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

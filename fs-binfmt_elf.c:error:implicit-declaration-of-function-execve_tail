@@ -1,0 +1,4 @@
+fs/binfmt_elf.c:976:2: error: implicit declaration of function 'execve_tail' [-Werror=implicit-function-declaration]
+
+2012-09-07 05:57:33 bee signal:execve2:7204d47 s390-allyesconfig f5482c1
+2012-09-07 05:57:35 bee s390 email notified

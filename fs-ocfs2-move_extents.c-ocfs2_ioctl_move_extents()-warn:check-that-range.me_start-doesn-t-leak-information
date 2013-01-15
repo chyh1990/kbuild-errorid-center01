@@ -1,0 +1,3 @@
+fs/ocfs2/move_extents.c:1140 ocfs2_ioctl_move_extents() warn: check that 'range.me_start' doesn't leak information
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

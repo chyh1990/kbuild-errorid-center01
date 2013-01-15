@@ -1,0 +1,3 @@
+arch/x86/built-in.o:(.rodata+0xf28): undefined reference to `sys_unshare'
+
+2013-01-15 16:12:19 ant yuanhan:kfifo:b2e699c i386-randconfig-a003 c825f15

@@ -1,0 +1,3 @@
+drivers/power/max17040_battery.c:128:5: warning: variable 'lsb' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 11:54:00 bee samsung:charger-manager-for-next:9ea7889 x86_64-allyesconfig 9ea7889

@@ -1,0 +1,4 @@
+ERROR: "usb_cypress_load_firmware" [drivers/staging/media/go7007/s2250-loader.ko] undefined!
+
+2012-08-16 20:06:37 kbuild samsung:v4l-fixes:9a6b6fa x86_64-allmodconfig ec29a47
+2012-08-16 20:06:42 kbuild x86_64 email notified

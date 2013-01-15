@@ -1,0 +1,4 @@
+sound/pci/hda/patch_hdmi.c:722:25: error: 'per_pin' undeclared (first use in this function)
+
+2012-09-06 22:58:24 bee sound-unstable:topic:tlv-chmap:41b7f80 x86_64-allyesdebian 63d15b1
+2012-09-06 22:58:25 bee x86_64 email notified

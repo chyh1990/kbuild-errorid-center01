@@ -1,0 +1,3 @@
+drivers/mtd/cmdlinepart.c:192:4: warning: passing argument 1 of 'PTR_ERR' makes pointer from integer without a cast [enabled by default]
+
+2012-09-02 19:14:55 snb l2-mtd:master:aab3579 x86_64-randconfig-s241 aab3579

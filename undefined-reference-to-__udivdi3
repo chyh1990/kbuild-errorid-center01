@@ -1,0 +1,6 @@
+fc2580.c:(.text+0xed1ca0): undefined reference to `__udivdi3'
+
+2012-10-07 00:36:33 kbuild clk:defconfig:0ac7be3 i386-allyesconfig 0ac7be3
+2012-11-26 05:26:15 kbuild devel-kbuild-i386-2012-11-26-05-14:9a1f141 i386-allyesconfig 9a1f141
+2012-11-26 22:43:35 bee next:master:d7ce984 i386-randconfig-b761 d7ce984
+2012-11-26 23:13:41 bee next:akpm:bf7daca i386-randconfig-b761 bf7daca

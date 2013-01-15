@@ -1,0 +1,3 @@
+drivers/acpi/wakeup.c:37:4: warning: (near initialization for 'dev') [enabled by default]
+
+2012-09-26 12:48:04 bee thermal:next:5d8d708 um-allyesconfig f4a821c

@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/sctp/outqueue.c:852 sctp_outq_flush() error: potential NULL dereference 'packet'.
+
+2013-01-07 12:25:30 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

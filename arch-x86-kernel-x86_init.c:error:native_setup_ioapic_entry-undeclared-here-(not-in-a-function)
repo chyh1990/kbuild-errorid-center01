@@ -1,0 +1,4 @@
+arch/x86/kernel/x86_init.c:132:18: error: 'native_setup_ioapic_entry' undeclared here (not in a function)
+
+2012-08-08 00:54:10 bee i386 /cc/kernel-tests/commit-list/iommu:ioapic-cleanups:25b140f be8d362e81bbe4a612b3603db310f97319e67cb7
+2012-08-08 00:54:11 bee i386 email notified

@@ -1,0 +1,3 @@
+sound/soc/codecs/cs42l73.c:386:2: warning: (near initialization for 'hp_amp_ctl.name') [-Wpointer-sign]
+
+2012-09-25 21:08:17 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

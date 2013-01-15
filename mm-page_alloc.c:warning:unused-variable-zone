@@ -1,0 +1,3 @@
+mm/page_alloc.c:5825:15: warning: unused variable 'zone' [-Wunused-variable]
+
+2012-11-09 16:30:02 bee next:master:75e0eba i386-randconfig-b654 75e0eba

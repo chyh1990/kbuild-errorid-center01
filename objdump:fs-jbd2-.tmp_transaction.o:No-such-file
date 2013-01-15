@@ -1,0 +1,4 @@
+objdump: 'fs/jbd2/.tmp_transaction.o': No such file
+
+2012-09-29 07:27:06 bee ext4:dev:b2f1a8e x86_64-allyesconfig e864093
+2012-09-29 08:50:19 bee ext4:dev:9d73816 x86_64-allyesconfig 4d3de48

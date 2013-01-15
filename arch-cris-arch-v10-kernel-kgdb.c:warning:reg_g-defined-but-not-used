@@ -1,0 +1,3 @@
+arch/cris/arch-v10/kernel/kgdb.c:430:18: warning: 'reg_g' defined but not used [-Wunused-variable]
+
+2012-09-06 13:19:51 bee signal:master:4cc1d72 cris-allyesconfig fe6df54

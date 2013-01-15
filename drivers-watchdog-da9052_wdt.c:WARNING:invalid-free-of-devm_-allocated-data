@@ -1,0 +1,3 @@
+drivers/watchdog/da9052_wdt.c:59:1-6: WARNING: invalid free of devm_ allocated data
+
+2012-09-03 11:34:28 snb samsung:exynos-drm-fixes:01d7b20 i386-allmodconfig 350352d

@@ -1,0 +1,4 @@
+mm/mprotect.c:26:23: fatal error: linux/rtm.h: No such file or directory
+
+2012-11-09 08:41:07 inn internal-hle:hle37:abort-fixes:653b0b7 x86_64-randconfig-i160 ddc6df8
+2012-11-09 09:03:07 inn x86_64 email notified

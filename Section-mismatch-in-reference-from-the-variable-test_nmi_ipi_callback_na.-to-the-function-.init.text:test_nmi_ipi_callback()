@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.data+0x81a0): Section mismatch in reference from the variable test_nmi_ipi_callback_na.9568 to the function .init.text:test_nmi_ipi_callback()
+
+2012-09-08 16:12:22 lkp-mb01 wireless-testing:master:ce5fe84 i386-randconfig-m021 362b056

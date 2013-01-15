@@ -1,0 +1,3 @@
+include/linux/sched.h:2794:18: sparse: incorrect type in return expression (different address spaces)
+
+2012-10-11 00:27:36 snb aa:autonuma28:125bf54 i386-allmodconfig 125bf54

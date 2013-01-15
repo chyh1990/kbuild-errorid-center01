@@ -1,0 +1,4 @@
+mm/huge_memory.c:1153:3-9: preceding lock on line 1144
+
+2012-08-07 10:29:16 snb i386 /cc/kernel-tests/commit-list/aa:autonuma:f958aa1 92d97171438f39db59ef9cff52e1c27956e8881e
+2012-08-07 10:32:08 snb i386 email notified

@@ -1,0 +1,3 @@
+drivers/sfi/sfi_acpi.c:154:5: sparse: symbol 'sfi_acpi_table_parse' was not declared. Should it be static?
+
+2013-01-09 13:07:40 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

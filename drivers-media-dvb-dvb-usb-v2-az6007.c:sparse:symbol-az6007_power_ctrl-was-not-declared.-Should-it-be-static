@@ -1,0 +1,4 @@
+drivers/media/dvb/dvb-usb-v2/az6007.c:637:5: sparse: symbol 'az6007_power_ctrl' was not declared. Should it be static?
+
+2012-08-17 03:28:46 snb samsung:v4l-exynos-gsc:8ac9447 i386-allmodconfig 255d52f
+2012-08-17 03:32:41 snb i386 email notified

@@ -1,0 +1,3 @@
+arch/powerpc/platforms/85xx/p5040_ds.c:85:1: error: type defaults to 'int' in declaration of '__define_initcall' [-Werror=implicit-int]
+
+2012-10-24 13:23:48 bee next:akpm:234b148 powerpc-corenet64_smp_defconfig 38a0ee7

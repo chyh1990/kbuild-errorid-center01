@@ -1,0 +1,3 @@
+drivers/atm/horizon.c:743:16: warning: 'channel' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-10 00:35:48 snb perf:perf:core:2814eb0 x86_64-randconfig-s281 26198c2

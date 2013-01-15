@@ -1,0 +1,5 @@
+arch/sparc/kernel/sys_sparc_64.c:92:16: error: unused variable 'start_addr' [-Werror=unused-variable]
+
+2012-11-09 13:51:36 bee next:akpm:6703d59 sparc64-allnoconfig 6703d59
+2012-11-09 19:37:55 bee memcg:since-3.6:f37592d sparc64-allnoconfig f37592d
+2012-11-10 22:11:08 bee memcg:since-3.6:d12449b sparc64-allnoconfig d12449b

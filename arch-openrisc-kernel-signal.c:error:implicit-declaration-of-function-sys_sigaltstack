@@ -1,0 +1,6 @@
+arch/openrisc/kernel/signal.c:102:2: error: implicit declaration of function 'sys_sigaltstack'
+
+2012-09-23 07:22:37 snb devel-snb-arm-2012-09-23-07-07:fa59422 openrisc-or1ksim_defconfig fa59422
+2012-09-23 09:17:20 snb signal:master:5ed63bc openrisc-or1ksim_defconfig 5ed63bc
+2012-10-01 23:01:05 snb signal:master:3c33d2e openrisc-or1ksim_defconfig 3c33d2e
+2012-10-13 11:29:53 snb signal:master:4777474 openrisc-or1ksim_defconfig 4777474

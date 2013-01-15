@@ -1,0 +1,5 @@
+ERROR: "pci_find_bus_with" [drivers/pci/hotplug/shpchp.ko] undefined!
+
+2012-09-28 02:16:01 snb yinghai:for-pci-next:81742e5 i386-allmodconfig 81742e5
+2012-09-28 03:06:49 hive yinghai:for-pci-next:5d3ceac ia64-allmodconfig 5d3ceac
+2012-09-28 10:47:44 kbuild yinghai:for-pci-next:31162ac powerpc-allmodconfig 31162ac

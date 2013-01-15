@@ -1,0 +1,6 @@
+kernel/trace/trace_events.c:1671:42: error: dereferencing pointer to incomplete type
+
+2012-08-14 03:34:18 kbuild i386 /cc/kernel-tests/commit-list/trace:rfc:multi-buffers-v4:e712fa1 c09e363f27e235a60b0b8b11228779e74e0deee8
+2012-08-14 03:34:19 kbuild i386 email notified
+2012-11-16 23:34:47 bee trace:rfc:multi-buffers-v7:11ac6db x86_64-randconfig-x621 aac8d09
+2012-11-17 00:02:36 bee devel-bee-i386-2012-11-16-23-52:509ec3e i386-randconfig-b694 509ec3e

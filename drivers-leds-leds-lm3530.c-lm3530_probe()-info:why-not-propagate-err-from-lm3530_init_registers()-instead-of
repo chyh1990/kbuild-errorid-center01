@@ -1,0 +1,4 @@
+drivers/leds/leds-lm3530.c:432 lm3530_probe() info: why not propagate 'err' from lm3530_init_registers() instead of -19?
+
+2012-09-12 10:45:41 kbuild leds:for-next:2829515 i386-allyesconfig 2829515
+2012-09-12 11:40:59 kbuild i386 email notified

@@ -1,0 +1,3 @@
+arch/x86/include/asm/page_types.h:9:0: warning: "PAGE_SIZE" redefined [enabled by default]
+
+2012-09-26 06:43:16 bee usb:usb-next:655db79 um-allyesconfig 655db79

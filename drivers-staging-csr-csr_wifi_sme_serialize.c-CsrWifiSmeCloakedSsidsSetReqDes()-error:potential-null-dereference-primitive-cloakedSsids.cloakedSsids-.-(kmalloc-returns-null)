@@ -1,0 +1,3 @@
+drivers/staging/csr/csr_wifi_sme_serialize.c:1726 CsrWifiSmeCloakedSsidsSetReqDes() error: potential null dereference 'primitive->cloakedSsids.cloakedSsids'.  (kmalloc returns null)
+
+2013-01-09 13:27:23 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

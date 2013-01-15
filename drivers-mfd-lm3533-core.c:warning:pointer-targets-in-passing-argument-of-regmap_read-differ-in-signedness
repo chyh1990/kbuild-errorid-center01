@@ -1,0 +1,3 @@
+drivers/mfd/lm3533-core.c:92:2: warning: pointer targets in passing argument 3 of 'regmap_read' differ in signedness [-Wpointer-sign]
+
+2012-09-25 17:04:55 bee mfd:for-next:eebfdc1 x86_64-randconfig-x060 41569a1

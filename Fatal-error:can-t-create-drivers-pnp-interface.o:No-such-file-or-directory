@@ -1,0 +1,5 @@
+Fatal error: can't create drivers/pnp/interface.o: No such file or directory
+
+2012-09-13 13:00:38 bee drm:drm-fixes:b655232 i386-randconfig-b000 5e1782d
+2012-09-22 22:21:54 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 a1a7e0a
+2012-09-22 22:21:54 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 a1a7e0a email notified

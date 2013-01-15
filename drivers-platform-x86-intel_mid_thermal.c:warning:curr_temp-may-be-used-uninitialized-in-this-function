@@ -1,0 +1,3 @@
+drivers/platform/x86/intel_mid_thermal.c:218:30: warning: 'curr_temp' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-21 14:47:19 bee arm-soc:omap:cleanup-headers:0e70156 i386-randconfig-b051 0e70156

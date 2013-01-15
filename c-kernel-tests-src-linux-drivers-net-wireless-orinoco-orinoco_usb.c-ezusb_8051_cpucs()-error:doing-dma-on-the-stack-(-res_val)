@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/wireless/orinoco/orinoco_usb.c:796 ezusb_8051_cpucs() error: doing dma on the stack (&res_val)
+
+2013-01-07 12:24:58 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

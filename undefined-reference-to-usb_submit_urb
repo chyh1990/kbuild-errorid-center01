@@ -1,0 +1,4 @@
+gspca.c:(.text+0xef2e39): undefined reference to `usb_submit_urb'
+
+2012-08-21 14:23:52 bee next:akpm:f74c7e6 i386-randconfig-b860 b9b4bb1
+2012-08-24 03:58:29 kbuild samsung:v4l-next:ef7af7e i386-randconfig-k790 ef7af7e

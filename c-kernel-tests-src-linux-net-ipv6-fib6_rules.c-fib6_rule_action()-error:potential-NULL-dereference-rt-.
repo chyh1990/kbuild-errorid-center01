@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/ipv6/fib6_rules.c:90 fib6_rule_action() error: potential NULL dereference 'rt'.
+
+2013-01-07 12:25:22 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

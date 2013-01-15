@@ -1,0 +1,3 @@
+drivers/video/sh_mobile_lcdcfb.c:2605:33: error: 'struct display_entity' has no member named 'height'
+
+2012-11-22 17:31:03 bee pinchartl-fbdev:lcdc-panel:6a7290b sh-allyesconfig 0c20c2c

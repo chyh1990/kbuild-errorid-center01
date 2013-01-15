@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x2a86c): Section mismatch in reference from the function .early_setup_secondary() to the function .cpuinit.text:.early_init_mmu_secondary()
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

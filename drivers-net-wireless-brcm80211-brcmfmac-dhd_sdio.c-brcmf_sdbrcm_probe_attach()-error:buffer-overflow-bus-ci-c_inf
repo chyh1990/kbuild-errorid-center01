@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/dhd_sdio.c:3733 brcmf_sdbrcm_probe_attach() error: buffer overflow 'bus->ci->c_inf' 6 <= 6
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

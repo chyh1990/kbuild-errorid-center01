@@ -1,0 +1,3 @@
+fs/cifs/smb2ops.c:241:21: sparse: cast to restricted __le64
+
+2012-09-19 08:03:44 snb cifs:for-next:324b53b i386-allmodconfig 324b53b

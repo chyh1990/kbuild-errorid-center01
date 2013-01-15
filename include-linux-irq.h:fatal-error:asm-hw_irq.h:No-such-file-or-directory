@@ -1,0 +1,4 @@
+include/linux/irq.h:361:24: fatal error: asm/hw_irq.h: No such file or directory
+
+2012-10-14 15:57:39 lkp-mb01 parisc:for-next:07abad0 parisc-defconfig 07abad0
+2012-10-17 05:19:53 lkp-mb01 arm-soc:test-merge-20121016:409750d parisc-b180_defconfig 409750d

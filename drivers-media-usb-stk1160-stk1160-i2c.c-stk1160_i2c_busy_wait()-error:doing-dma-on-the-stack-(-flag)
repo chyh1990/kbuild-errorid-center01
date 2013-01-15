@@ -1,0 +1,3 @@
+drivers/media/usb/stk1160/stk1160-i2c.c:49 stk1160_i2c_busy_wait() error: doing dma on the stack (&flag)
+
+2013-01-09 13:27:30 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

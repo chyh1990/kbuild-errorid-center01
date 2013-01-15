@@ -1,0 +1,4 @@
+sound/soc/codecs/wm8741.c:546:33: error: 'i2c' undeclared (first use in this function)
+
+2012-09-10 18:32:15 kbuild asoc:for-next:1a52091 x86_64-allmodconfig d978055
+2012-09-11 09:45:01 snb asoc:for-next:bffb28a i386-allmodconfig d978055

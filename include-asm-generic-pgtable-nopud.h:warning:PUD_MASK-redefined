@@ -1,0 +1,3 @@
+include/asm-generic/pgtable-nopud.h:18:0: warning: "PUD_MASK" redefined [enabled by default]
+
+2012-09-26 06:43:18 bee usb:usb-next:655db79 um-allyesconfig 655db79

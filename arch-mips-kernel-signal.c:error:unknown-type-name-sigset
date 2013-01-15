@@ -1,0 +1,3 @@
+arch/mips/kernel/signal.c:250:1: error: unknown type name 'sigset'
+
+2012-11-29 14:14:53 hive devel-hive-mips-2012-11-29-13-49:c8aa6f2 mips-allmodconfig c8aa6f2

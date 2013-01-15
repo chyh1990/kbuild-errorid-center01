@@ -1,0 +1,3 @@
+drivers/mtd/nand/denali.c:446:1: warning: 'find_valid_banks' uses dynamic stack allocation [enabled by default]
+
+2012-12-14 09:25:07 inn linus:master:66cdd0c s390-allmodconfig 66cdd0c

@@ -1,0 +1,18 @@
+ipc/compat.c:399:13: error: 'compat_do_msg_fill' undeclared (first use in this function)
+
+2012-09-20 03:25:28 snb cr:crtools-3.6-rc5:0f5ec89 tile-tilegx_defconfig 0f5ec89
+2012-09-20 03:34:12 snb tile email notified
+2012-10-01 15:17:55 snb cr:crtools-3.6:5bdf2e4 tile-tilegx_defconfig 5bdf2e4
+2012-10-16 00:38:49 snb cr:crtools-v3.7-rc1:cbc3004 tile-tilegx_defconfig cbc3004
+2012-10-19 20:46:54 snb cr:crtools-v3.7-rc1:6e9e547 tile-tilegx_defconfig 6e9e547
+2012-10-25 05:52:18 snb cr:crtools-v3.7-rc1:3ab2040 tile-tilegx_defconfig 3ab2040
+2012-10-26 19:33:40 snb cr:crtools-v3.7-rc2:76c72fb tile-tilegx_defconfig 76c72fb
+2012-11-02 03:19:08 snb devel-snb-arm-2012-11-02-02-44:042235b tile-tilegx_defconfig 042235b
+2012-11-04 23:26:07 snb cr:crtools-v3.7-rc2:7568812 tile-tilegx_defconfig 7568812
+2012-11-05 23:00:26 snb cr:crtools-v3.7-rc2:63488c2 tile-tilegx_defconfig 63488c2
+2012-11-12 18:24:43 snb cr:crtools-v3.7-rc5:ad93155 tile-tilegx_defconfig ad93155
+2012-11-15 23:18:36 snb devel-snb-arm-2012-11-15-22-34:f42a7e0 tile-tilegx_defconfig f42a7e0
+2012-11-22 21:21:16 snb cr:crtools-v3.7-rc5:8bd86bd tile-tilegx_defconfig 8bd86bd
+2012-11-27 18:51:04 snb devel-snb-arm-2012-11-27-18-07:4fa2661 tile-tilegx_defconfig 4fa2661
+2012-11-28 03:12:00 snb cr:crtools-v3.7-rc7:eaf793c tile-tilegx_defconfig eaf793c
+2012-11-29 01:55:07 snb devel-snb-arm-2012-11-29-01-09:e13f01f tile-tilegx_defconfig e13f01f

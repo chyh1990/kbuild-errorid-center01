@@ -1,0 +1,3 @@
+sound/soc/codecs/wm_adsp.c:664:8: warning: assignment discards 'const' qualifier from pointer target type [enabled by default]
+
+2013-01-09 02:16:47 kbuild devel-kbuild-x86_64-2013-01-09-02-11:b2548dc x86_64-allmodconfig b2548dc

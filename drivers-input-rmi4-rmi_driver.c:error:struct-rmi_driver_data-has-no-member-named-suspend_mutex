@@ -1,0 +1,5 @@
+drivers/input/rmi4/rmi_driver.c:1547:3: error: 'struct rmi_driver_data' has no member named 'suspend_mutex'
+
+2012-11-28 14:37:48 snb input:synaptics-rmi4:0af2538 m68k-allmodconfig 0af2538
+2012-11-28 18:07:51 bee devel-bee-x86-2012-11-28-17-03:8e212ff cris-allyesconfig 8e212ff
+2012-11-28 19:06:56 bee devel-bee-i386-2012-11-28-17-04:fe8a5a3 i386-randconfig-b785 fe8a5a3

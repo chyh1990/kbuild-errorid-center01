@@ -1,0 +1,3 @@
+WARNING: arch/x86/built-in.o(.data+0x785c): Section mismatch in reference from the variable nmi_unk_cb_na.10579 to the function .init.text:nmi_unk_cb()
+
+2012-09-08 04:29:55 bee wireless-testing:master:ce5fe84 i386-randconfig-b993 362b056

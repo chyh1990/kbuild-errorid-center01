@@ -1,0 +1,3 @@
+drivers/staging/vt6655/rxtx.c:1593 s_cbFillTxBufHead() error: we previously assumed 'pTransmitKey' could be null (see line 1525)
+
+2013-01-09 13:26:59 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

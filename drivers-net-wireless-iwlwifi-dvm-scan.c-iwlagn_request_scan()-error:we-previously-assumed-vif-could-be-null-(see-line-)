@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/dvm/scan.c:716 iwlagn_request_scan() error: we previously assumed 'vif' could be null (see line 683)
+
+2013-01-09 13:27:17 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

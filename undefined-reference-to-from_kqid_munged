@@ -1,0 +1,3 @@
+fs/quota/netlink.c:63: undefined reference to `from_kqid_munged'
+
+2012-09-02 10:15:44 kbuild userns:userns-always-map-user-v52:3f025b0 i386-randconfig-k880 3a77452

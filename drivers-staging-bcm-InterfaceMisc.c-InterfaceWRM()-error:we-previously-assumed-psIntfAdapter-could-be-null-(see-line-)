@@ -1,0 +1,3 @@
+drivers/staging/bcm/InterfaceMisc.c:69 InterfaceWRM() error: we previously assumed 'psIntfAdapter' could be null (see line 68)
+
+2012-09-07 21:57:25 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

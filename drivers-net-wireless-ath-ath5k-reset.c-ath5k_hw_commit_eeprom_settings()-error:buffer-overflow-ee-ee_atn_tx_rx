@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath5k/reset.c:1060 ath5k_hw_commit_eeprom_settings() error: buffer overflow 'ee->ee_atn_tx_rx' 3 <= 255
+
+2013-01-09 13:26:32 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

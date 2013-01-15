@@ -1,0 +1,3 @@
+drivers/mtd/ubi/vmt.c:814:13: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 18:38:56 bee ubi:linux-next:55393ba x86_64-randconfig-x078 95e6fb0

@@ -1,0 +1,3 @@
+WARNING: mm/built-in.o(.meminit.text+0x1078): Section mismatch in reference from the function .free_area_init_core.isra.34() to the function .init.text:.set_pageblock_order()
+
+2012-10-14 13:20:31 bee aa:autonuma:9f6454b powerpc-allyesconfig 64d1e70

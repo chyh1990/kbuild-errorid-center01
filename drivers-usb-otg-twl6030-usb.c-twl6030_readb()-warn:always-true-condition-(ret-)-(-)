@@ -1,0 +1,3 @@
+drivers/usb/otg/twl6030-usb.c:132 twl6030_readb() warn: always true condition '(ret >= 0) => (0-255 >= 0)'
+
+2012-12-16 18:10:57 kbuild userns:userns-always-map-user-v77:f3032de i386-allyesconfig f3032de

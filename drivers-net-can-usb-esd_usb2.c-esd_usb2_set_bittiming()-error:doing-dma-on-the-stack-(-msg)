@@ -1,0 +1,3 @@
+drivers/net/can/usb/esd_usb2.c:923 esd_usb2_set_bittiming() error: doing dma on the stack (&msg)
+
+2013-01-09 13:26:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

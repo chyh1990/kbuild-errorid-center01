@@ -1,0 +1,4 @@
+drivers/watchdog/wafer5823wdt.c:269:3: error: implicit declaration of function 'request_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:36:03 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 17:53:53 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac

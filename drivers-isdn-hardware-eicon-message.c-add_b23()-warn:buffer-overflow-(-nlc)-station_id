@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/message.c:8415 add_b23() warn: buffer overflow '(&nlc[1])->station_id' 20 <= 20
+
+2013-01-09 13:28:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

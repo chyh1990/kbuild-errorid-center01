@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7840.c:2678:16: warning: unused variable 'flags' [-Wunused-variable]
+
+2012-11-01 01:45:53 bee stable:linux-3.6.y:d724b88 i386-randconfig-b604 d724b88

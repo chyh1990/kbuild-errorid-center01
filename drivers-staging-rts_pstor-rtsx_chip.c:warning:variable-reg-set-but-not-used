@@ -1,0 +1,3 @@
+drivers/staging/rts_pstor/rtsx_chip.c:1401:7: warning: variable 'reg' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 07:18:20 bee staging:staging-next:9970eea x86_64-randconfig-x065 9970eea

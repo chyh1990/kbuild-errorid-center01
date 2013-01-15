@@ -1,0 +1,3 @@
+mm/memory.c:970 copy_pte_range() warn: inconsistent returns spin_lock:__ptl: locked (965,970) unlocked (926)
+
+2013-01-09 13:27:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

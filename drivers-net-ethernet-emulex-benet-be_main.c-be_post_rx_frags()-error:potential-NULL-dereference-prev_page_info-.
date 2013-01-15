@@ -1,0 +1,3 @@
+drivers/net/ethernet/emulex/benet/be_main.c:1599 be_post_rx_frags() error: potential NULL dereference 'prev_page_info'.
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

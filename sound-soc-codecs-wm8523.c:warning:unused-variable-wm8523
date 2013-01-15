@@ -1,0 +1,4 @@
+sound/soc/codecs/wm8523.c:470:22: warning: unused variable 'wm8523' [-Wunused-variable]
+
+2012-09-10 17:57:22 kbuild asoc:for-next:caa631e x86_64-allmodconfig 719b0c5
+2012-09-10 17:57:23 kbuild x86_64 email notified

@@ -1,0 +1,25 @@
+drivers/irqchip/gic.c:399:2: error: 'handle_arch_irq' undeclared (first use in this function)
+
+2012-09-26 23:12:55 snb devel-snb-arm-2012-09-26-22-58:b2795e5 arm-imx_v6_v7_defconfig b2795e5
+2012-10-09 11:38:16 snb aarch64:soc-armv8-model:5553522 arm-imx_v6_v7_defconfig 5553522
+2012-10-11 01:54:15 snb devel-snb-arm-2012-10-11-01-36:80464bc arm-imx_v6_v7_defconfig 80464bc
+2012-10-16 22:12:43 snb aarch64:soc-armv8-model:b4a39f1 arm-imx_v6_v7_defconfig b4a39f1
+2012-10-22 18:41:27 snb aarch64:soc-armv8-model:bba01df arm-imx_v6_v7_defconfig bba01df
+2012-10-24 01:32:39 snb aarch64:soc-armv8-model:e78c554 arm-imx_v6_v7_defconfig e78c554
+2012-11-05 23:42:50 snb devel-snb-arm-2012-11-05-23-33:aef342b arm-imx_v6_v7_defconfig aef342b
+2012-11-09 01:05:25 snb devel-snb-arm-2012-11-09-00-48:936125b arm-imx_v6_v7_defconfig 936125b
+2012-11-10 01:20:45 snb devel-snb-arm-2012-11-10-01-09:358013f arm-imx_v6_v7_defconfig 358013f
+2012-11-14 02:37:38 snb devel-snb-arm-2012-11-14-02-29:18202f2 arm-imx_v6_v7_defconfig 18202f2
+2012-11-15 00:44:16 snb devel-snb-arm-2012-11-15-00-35:d4ceb58 arm-imx_v6_v7_defconfig d4ceb58
+2012-11-20 00:54:28 snb devel-snb-arm-2012-11-20-00-30:74a33e4 arm-imx_v6_v7_defconfig 74a33e4
+2012-11-23 01:48:11 snb devel-snb-arm-2012-11-23-01-29:3a840ac arm-imx_v6_v7_defconfig 3a840ac
+2012-11-24 02:55:56 snb aarch64:soc-armv8-model:214dc67 arm-imx_v6_v7_defconfig 214dc67
+2012-11-30 02:51:43 snb devel-snb-arm-2012-11-30-02-40:44327aa arm-imx_v6_v7_defconfig 44327aa
+2012-12-05 23:32:11 snb devel-snb-arm-2012-12-05-23-14:f98a895 arm-imx_v6_v7_defconfig f98a895
+2012-12-19 02:57:35 snb arm-platforms:kvm-arm64:soc-armv8-kvm:6269f18 arm-imx_v6_v7_defconfig 6269f18
+2012-12-20 10:38:57 snb arm-platforms:kvm-arm64:soc-armv8-kvm:cc4939b arm-imx_v6_v7_defconfig cc4939b
+2013-01-02 20:58:21 snb aarch64:soc-armv8-model:3349c32 arm-imx_v6_v7_defconfig 3349c32
+2013-01-08 00:56:36 snb devel-snb-arm-2013-01-08-00-46:fb972b5 arm-imx_v6_v7_defconfig fb972b5
+2013-01-11 16:06:03 snb devel-snb-arm-2013-01-11-15-46:06645b3 arm-imx_v6_v7_defconfig 06645b3
+2013-01-11 17:48:23 snb aarch64:soc-armv8-stable:d1ceb65 arm-imx_v6_v7_defconfig d1ceb65
+2013-01-11 19:23:13 snb aarch64:soc-armv8-model:7b19e7e arm-imx_v6_v7_defconfig 7b19e7e

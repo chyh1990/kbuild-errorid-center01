@@ -1,0 +1,4 @@
+mm/mprotect.c:26:23: error: linux/rtm.h: No such file or directory
+
+2012-11-09 20:44:21 inn internal-hle:hle37:abort-fixes:653b0b7 avr32-atngw100_defconfig ddc6df8
+2012-11-09 20:46:01 inn avr32 email notified

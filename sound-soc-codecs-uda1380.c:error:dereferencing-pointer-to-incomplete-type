@@ -1,0 +1,3 @@
+sound/soc/codecs/uda1380.c:536:45: error: dereferencing pointer to incomplete type
+
+2012-10-29 23:31:03 kbuild lpc32xx:work92105:dd23774 powerpc-allmodconfig dd23774

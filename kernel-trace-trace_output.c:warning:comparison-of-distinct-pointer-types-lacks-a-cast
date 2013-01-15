@@ -1,0 +1,4 @@
+kernel/trace/trace_output.c:632:28: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-11-02 21:43:53 bee trace:tip:perf:core:9b194e6 mips-allyesconfig 95b4871
+2012-11-02 21:44:09 bee mips email notified

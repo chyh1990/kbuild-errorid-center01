@@ -1,0 +1,3 @@
+drivers/staging/sep/sep_main.c:2911 sep_free_dma_tables_and_dcb() warn: variable dereferenced before check '*dma_ctx' (see line 2929)
+
+2013-01-09 13:26:24 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

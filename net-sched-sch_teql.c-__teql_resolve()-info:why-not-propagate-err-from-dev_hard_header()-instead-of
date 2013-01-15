@@ -1,0 +1,3 @@
+net/sched/sch_teql.c:253 __teql_resolve() info: why not propagate 'err' from dev_hard_header() instead of -22?
+
+2012-09-13 01:36:33 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

@@ -1,0 +1,28 @@
+net/batman-adv/gateway_client.c:238:15-24: ERROR: next_gw is NULL but dereferenced.
+
+2012-08-03 17:28:46 snb i386 /cc/kernel-tests/commit-list/balbi-usb:master:430ceb7 430ceb738db083f07c7bc43d7fb631c02b798578
+2012-08-07 01:55:51 snb i386 a2e6ab68703e2afcd8b4dad29680314bcb8cee31 /cc/kernel-tests/commit-list/batman:batman-adv:next:a2e6ab6
+2012-08-09 02:18:38 snb i386 f4ba394c1b02e7fc2179fda8d3941a5b3b65efb6 /dev/shm/linus:master:f4ba394
+2012-08-13 05:19:02 snb i386 f4ba394c1b02e7fc2179fda8d3941a5b3b65efb6 /cc/kernel-tests/commit-list/linus:master:21d2f8d
+2012-08-13 05:56:22 snb i386 f4ba394c1b02e7fc2179fda8d3941a5b3b65efb6 /cc/kernel-tests/commit-list/net:master:f57b07c
+2012-08-15 01:59:39 snb i386 44e89a34b20c0a4bc3b310dfff10dfd3bb7b59ab /cc/kernel-tests/commit-list/tip:auto-latest:e429426
+2012-08-17 13:37:27 snb samsung:exynos-drm-fixes:e9cab00 i386-allmodconfig 54af56f
+2012-08-20 13:34:48 snb integrity:next-audit-hashes:a4f6f56 i386-allmodconfig 51b743f
+2012-08-20 16:09:09 snb balbi-usb:master:36a25cf i386-allmodconfig 932f9e1
+2012-08-20 16:41:04 snb balbi-usb:master:60ec545 i386-allmodconfig 932f9e1
+2012-08-21 05:02:32 snb asoc:for-next:10e1e44 i386-allmodconfig dddf9ca
+2012-08-22 10:17:08 snb batman:batman-adv:next:b73f3b0 i386-allmodconfig da05c98
+2012-08-24 18:37:54 snb samsung:exynos-drm-fixes:42ce347 i386-allmodconfig 1b3adec
+2012-08-25 01:42:44 snb wireless-next:for-davem:f20b621 i386-allmodconfig e6e94e3
+2012-08-26 22:54:02 snb regmap:for-next:c7700f9 i386-allmodconfig c7700f9
+2012-08-28 08:44:56 snb kvm:queue:a81aba1 i386-allmodconfig c78aa4c
+2012-08-29 01:22:53 snb tip:perf:core:508dc4f i386-allmodconfig 508dc4f
+2012-08-31 02:11:07 snb regulator:for-next:80d1484 i386-allmodconfig 80d1484
+2012-08-31 15:32:52 snb slab:for-next:01ff108 i386-allmodconfig 01ff108
+2012-09-01 03:08:59 snb regulator:for-next:6250ed8 i386-allmodconfig 6250ed8
+2012-09-04 13:56:48 snb can:master:d7ceb47 i386-allmodconfig c67893d
+2012-09-05 09:26:20 snb wq:for-next:2b41383 i386-allmodconfig 2b41383
+2012-09-05 17:38:16 snb sound-unstable:master:3d12a6e i386-allmodconfig 14e4291
+2012-09-06 07:32:43 snb asoc:for-next:7642f29 i386-allmodconfig fc60043
+2012-09-06 10:08:08 snb usb:usb-next:f61870e i386-allmodconfig a7bdf7f
+2012-09-06 23:08:19 snb can:master:bbe660a i386-allmodconfig ace1fe1

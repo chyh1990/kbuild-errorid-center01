@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-designware-acpidrv.c:284:2: warning: (near initialization for 'i2c_designware_acpi_driver') [enabled by default]
+
+2012-10-09 18:06:36 inn internal-ashishki:rtit-proto:ff40f57 m68k-allmodconfig 8699a27

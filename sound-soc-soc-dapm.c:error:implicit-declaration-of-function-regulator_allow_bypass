@@ -1,0 +1,4 @@
+sound/soc/soc-dapm.c:1023:4: error: implicit declaration of function 'regulator_allow_bypass' [-Werror=implicit-function-declaration]
+
+2012-09-08 09:33:55 kbuild asoc:for-next:e8bb382 x86_64-allmodconfig 9ad4ba7
+2012-09-08 09:33:56 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+drivers/net/ethernet/xilinx/ll_temac_main.c:638:22: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2013-01-09 22:02:53 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

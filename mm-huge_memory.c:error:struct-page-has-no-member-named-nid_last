@@ -1,0 +1,4 @@
+mm/huge_memory.c:1369:12: error: 'struct page' has no member named 'nid_last'
+
+2012-08-18 01:45:29 bee aa:schednuma2:fd95411 x86_64-randconfig-x690 3eb4d9e
+2012-08-18 01:45:30 bee x86_64 email notified

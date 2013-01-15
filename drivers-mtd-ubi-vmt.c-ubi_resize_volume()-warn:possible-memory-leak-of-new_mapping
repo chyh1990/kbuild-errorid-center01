@@ -1,0 +1,3 @@
+drivers/mtd/ubi/vmt.c:571 ubi_resize_volume() warn: possible memory leak of 'new_mapping'
+
+2013-01-09 13:27:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

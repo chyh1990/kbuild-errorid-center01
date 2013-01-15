@@ -1,0 +1,4 @@
+fs/gfs2/rgrp.c:1462:17: warning: 'rs' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-08-06 17:45:56 kbuild x86_64 /cc/kernel-tests/commit-list/gfs2:master:4b0fbdd 4b0fbdd19431f6f57d7fdfa5a7f9f9c9b478ee9f
+2012-08-06 17:45:56 kbuild x86_64 email notified

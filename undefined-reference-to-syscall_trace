@@ -1,0 +1,4 @@
+(.text+0x11c): undefined reference to `syscall_trace'
+
+2012-09-08 04:07:37 snb signal:master:811a655 m68k-amiga_defconfig 098ece6
+2012-09-08 04:07:38 snb m68k email notified

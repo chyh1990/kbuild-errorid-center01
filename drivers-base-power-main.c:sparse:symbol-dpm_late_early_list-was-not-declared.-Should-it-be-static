@@ -1,0 +1,3 @@
+drivers/base/power/main.c:50:1: sparse: symbol 'dpm_late_early_list' was not declared. Should it be static?
+
+2012-09-10 15:24:34 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

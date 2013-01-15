@@ -1,0 +1,6 @@
+drivers/net/ethernet/intel/igb/igb.h:347:25: error: field 'hwtstamp_config' has incomplete type
+
+2012-09-21 19:44:20 bee can:master:a1161bc x86_64-allyesdebian 3c89f6d
+2012-09-21 19:44:20 bee can:master:a1161bc x86_64-allyesdebian 3c89f6d email notified
+2012-09-21 19:44:21 bee x86_64 email notified
+2012-09-24 17:45:18 bee can:master:c9d2ea9 i386-randconfig-b084 3c89f6d

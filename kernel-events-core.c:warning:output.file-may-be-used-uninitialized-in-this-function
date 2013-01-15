@@ -1,0 +1,3 @@
+kernel/events/core.c:3285:17: warning: 'output.file' may be used uninitialized in this function [-Wuninitialized]
+
+2012-09-21 20:48:08 bee vfs:for-next:319074e i386-randconfig-b051 319074e

@@ -1,0 +1,3 @@
+drivers/staging/ipack/carriers/tpci200.c:154:28: sparse: incompatible types in comparison expression (different address spaces)
+
+2012-10-21 00:25:56 snb staging:staging-next:2807dbe i386-allmodconfig 2807dbe

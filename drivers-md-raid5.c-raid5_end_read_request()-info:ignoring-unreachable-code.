@@ -1,0 +1,3 @@
+drivers/md/raid5.c:1709 raid5_end_read_request() info: ignoring unreachable code.
+
+2012-09-07 22:41:40 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

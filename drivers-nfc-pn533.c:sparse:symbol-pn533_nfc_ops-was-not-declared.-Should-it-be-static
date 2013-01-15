@@ -1,0 +1,3 @@
+drivers/nfc/pn533.c:1706:16: sparse: symbol 'pn533_nfc_ops' was not declared. Should it be static?
+
+2012-09-14 23:22:49 snb memcg:cleanups:memcg-sock-include:505b04e i386-allmodconfig 505b04e

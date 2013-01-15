@@ -1,0 +1,3 @@
+arch/parisc/kernel/entry.S:1701: Error: Invalid operands
+
+2012-11-01 03:59:52 lkp-mb01 devel-lkp-mb01-s390-2012-11-01-03-37:fd42ab4 parisc-allnoconfig fd42ab4

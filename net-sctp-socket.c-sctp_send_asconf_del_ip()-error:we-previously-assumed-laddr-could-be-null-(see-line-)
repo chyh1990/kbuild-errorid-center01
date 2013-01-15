@@ -1,0 +1,3 @@
+net/sctp/socket.c:821 sctp_send_asconf_del_ip() error: we previously assumed 'laddr' could be null (see line 785)
+
+2012-09-19 03:22:00 kbuild omap:tmp-merge:1aa6898 i386-allyesconfig 1aa6898

@@ -1,0 +1,3 @@
+drivers/net/ppp/ppp_generic.c:1037:25: sparse: symbol 'ppp_get_stats64' was not declared. Should it be static?
+
+2012-08-07 06:02:36 snb i386 /dev/shm/net-next:master:aae06bf aae06bf5f90403554f8d4ff83810a8281aef7f03

@@ -1,0 +1,3 @@
+sound/pci/hda/hda_proc.c:441:18: error: bad integer constant expression
+
+2012-09-07 22:42:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

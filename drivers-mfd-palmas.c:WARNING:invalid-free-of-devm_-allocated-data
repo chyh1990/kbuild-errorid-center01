@@ -1,0 +1,4 @@
+drivers/mfd/palmas.c:467:1-6: WARNING: invalid free of devm_ allocated data
+
+2012-09-17 05:42:21 snb linus:master:73f8be2 i386-allmodconfig 73f8be2
+2012-09-17 08:13:32 snb i386 email notified

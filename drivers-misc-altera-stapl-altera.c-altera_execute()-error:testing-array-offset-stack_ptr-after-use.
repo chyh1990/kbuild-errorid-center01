@@ -1,0 +1,3 @@
+drivers/misc/altera-stapl/altera.c:2104 altera_execute() error: testing array offset 'stack_ptr' after use.
+
+2013-01-09 13:26:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

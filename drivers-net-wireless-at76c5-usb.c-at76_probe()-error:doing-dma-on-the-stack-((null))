@@ -1,0 +1,3 @@
+drivers/net/wireless/at76c50x-usb.c:2421 at76_probe() error: doing dma on the stack ((null))
+
+2012-09-12 11:44:19 kbuild security:for-linus:83e7c8f i386-allyesconfig 83e7c8f

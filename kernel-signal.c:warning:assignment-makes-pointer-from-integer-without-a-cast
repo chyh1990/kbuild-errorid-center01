@@ -1,0 +1,3 @@
+kernel/signal.c:3127:3: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-11-21 06:13:55 hive devel-hive-mips-2012-11-21-05-49:15d8368 mips-allmodconfig 15d8368

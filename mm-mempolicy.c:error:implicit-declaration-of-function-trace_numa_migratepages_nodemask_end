@@ -1,0 +1,4 @@
+mm/mempolicy.c:1190:4: error: implicit declaration of function 'trace_numa_migratepages_nodemask_end' [-Werror=implicit-function-declaration]
+
+2012-10-05 07:56:51 hive aa:autonuma27:f3c62c0 ia64-allnoconfig f3c62c0
+2012-10-05 09:39:47 hive aa:autonuma:834b614 ia64-allnoconfig 834b614

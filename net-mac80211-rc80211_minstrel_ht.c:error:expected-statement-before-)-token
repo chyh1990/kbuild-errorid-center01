@@ -1,0 +1,3 @@
+net/mac80211/rc80211_minstrel_ht.c:422:42: error: expected statement before ')' token
+
+2012-11-14 21:19:29 bee mac80211-next:wip:bb32a7c x86_64-allyesdebian bb32a7c

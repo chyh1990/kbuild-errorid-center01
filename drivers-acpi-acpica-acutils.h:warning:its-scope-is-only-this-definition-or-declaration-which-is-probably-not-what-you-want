@@ -1,0 +1,3 @@
+drivers/acpi/acpica/acutils.h:359:14: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2013-01-11 15:04:33 bee drm:qxl-kms-test:317157f x86_64-lkp 317157f

@@ -1,0 +1,4 @@
+ld: cannot open linker script file security/keys/encrypted-keys/.tmp_encrypted.ver: No such file or directory
+
+2012-09-28 22:13:52 bee keys:security-next-keys:2aa81a3 x86_64-allyesconfig bf53083
+2012-09-28 22:13:57 bee x86_64 email notified

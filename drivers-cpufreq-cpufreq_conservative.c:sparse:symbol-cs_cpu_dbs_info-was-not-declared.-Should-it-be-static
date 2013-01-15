@@ -1,0 +1,3 @@
+drivers/cpufreq/cpufreq_conservative.c:35:8: sparse: symbol 'cs_cpu_dbs_info' was not declared. Should it be static?
+
+2013-01-09 13:02:26 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

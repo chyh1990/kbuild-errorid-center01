@@ -1,0 +1,3 @@
+drivers/staging/wlan-ng/hfa384x_usb.c:3619:35: sparse: restricted __be64 degrades to integer
+
+2012-08-30 22:39:07 snb rcu:rcu:next:17da987 i386-allmodconfig c763ab1

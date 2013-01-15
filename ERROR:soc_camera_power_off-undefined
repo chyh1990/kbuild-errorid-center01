@@ -1,0 +1,4 @@
+ERROR: "soc_camera_power_off" [drivers/media/i2c/soc_camera/tw9910.ko] undefined!
+
+2012-08-22 23:57:40 kbuild samsung:v4l-exynos-gsc:2315608 x86_64-allmodconfig fccea74
+2012-08-22 23:57:41 kbuild x86_64 email notified

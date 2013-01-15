@@ -1,0 +1,3 @@
+fs/xfs/xfs_file.c:1033:1: sparse: symbol 'xfs_find_get_desired_pgoff' was not declared. Should it be static?
+
+2012-08-29 03:52:48 snb xfs:master:b686d1f i386-allmodconfig d126d43

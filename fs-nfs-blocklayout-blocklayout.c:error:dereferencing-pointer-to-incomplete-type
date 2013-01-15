@@ -1,0 +1,7 @@
+fs/nfs/blocklayout/blocklayout.c:1061:46: error: dereferencing pointer to incomplete type
+
+2012-11-27 04:14:25 bee devel-bee-x86_64-2012-11-27-04-10:0367ded x86_64-allyesdebian 0367ded
+2012-11-27 04:17:20 kbuild devel-kbuild-x86_64-2012-11-27-04-09:cd4e8df x86_64-allmodconfig cd4e8df
+2012-11-27 04:37:38 kbuild devel-kbuild-i386-2012-11-27-04-32:fe0aa81 i386-allyesconfig fe0aa81
+2012-11-27 04:38:57 bee devel-bee-sparc64-2012-11-27-04-20:a5805f4 powerpc-chroma_defconfig a5805f4
+2012-11-27 04:56:17 hive devel-hive-ia64-2012-11-27-04-24:c0805b3 ia64-allmodconfig c0805b3

@@ -1,0 +1,3 @@
+fs/lockd/svc.c:625:1: warning: label 'err_sysctl' defined but not used [-Wunused-label]
+
+2013-01-09 12:32:06 inn linus:master:974b335 x86_64-randconfig-n365 974b335

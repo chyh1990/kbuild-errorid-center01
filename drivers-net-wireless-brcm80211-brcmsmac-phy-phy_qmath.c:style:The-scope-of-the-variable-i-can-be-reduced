@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/phy/phy_qmath.c:111: style: The scope of the variable 'i' can be reduced
+
+2012-10-26 14:28:12 kbuild next:master:8243aaf i386-allyesconfig 8243aaf

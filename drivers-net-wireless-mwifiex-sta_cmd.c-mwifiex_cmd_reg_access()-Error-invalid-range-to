@@ -1,0 +1,3 @@
+drivers/net/wireless/mwifiex/sta_cmd.c:796 mwifiex_cmd_reg_access() Error invalid range 4096 to -1
+
+2012-09-07 22:41:42 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,3 @@
+drivers/staging/bcm/Bcmchar.c:146:3: warning: format '%zd' expects argument of type 'signed size_t', but argument 3 has type 'ssize_t' [-Wformat]
+
+2012-09-26 21:47:20 bee kvm-ppc:kvm-ppc-next:d265f1e cris-allyesconfig c3c9e53

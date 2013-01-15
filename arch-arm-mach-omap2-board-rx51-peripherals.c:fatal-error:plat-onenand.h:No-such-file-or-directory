@@ -1,0 +1,4 @@
+arch/arm/mach-omap2/board-rx51-peripherals.c:37:26: fatal error: plat/onenand.h: No such file or directory
+
+2012-09-22 01:28:10 snb shawnguo:staging:imx-multiplatform:9608ece arm-omap2plus_defconfig 9608ece
+2012-09-22 01:28:53 snb arm email notified

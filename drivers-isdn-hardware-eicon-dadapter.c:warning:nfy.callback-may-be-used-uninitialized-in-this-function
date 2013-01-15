@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/dadapter.c:322:21: warning: 'nfy.callback' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-11 06:30:50 bee devel-bee-x86-2012-11-11-05-19:4a668c2 i386-randconfig-x035 4a668c2

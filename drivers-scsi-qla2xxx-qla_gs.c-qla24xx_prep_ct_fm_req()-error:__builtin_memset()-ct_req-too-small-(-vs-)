@@ -1,0 +1,3 @@
+drivers/scsi/qla2xxx/qla_gs.c:1843 qla24xx_prep_ct_fm_req() error: __builtin_memset() 'ct_req' too small (1228 vs 8208)
+
+2013-01-09 13:26:35 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

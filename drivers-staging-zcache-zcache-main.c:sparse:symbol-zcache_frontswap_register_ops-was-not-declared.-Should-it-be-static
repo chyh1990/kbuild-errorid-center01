@@ -1,0 +1,3 @@
+drivers/staging/zcache/zcache-main.c:1929:22: sparse: symbol 'zcache_frontswap_register_ops' was not declared. Should it be static?
+
+2012-09-17 15:05:38 snb arm-soc:msm:boards:33fcb13 i386-allmodconfig 33fcb13

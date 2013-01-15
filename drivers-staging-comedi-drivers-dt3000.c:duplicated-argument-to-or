@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/dt3000.c:602:36-37: duplicated argument to & or |
+
+2012-10-24 14:28:07 snb staging:staging-next:a17d23d i386-allmodconfig a17d23d

@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:163:4: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2012-08-10 21:18:24 kbuild i386 /cc/kernel-tests/commit-list/ashishki:rtit-dummy-linus:90a8d3c 1a3dc3241778d71bcd214023eb6f922b687b1927
+2012-08-10 21:18:26 kbuild i386 email notified

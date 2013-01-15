@@ -1,0 +1,3 @@
+include/linux/audit.h:676:1: error: no return statement in function returning non-void [-Werror=return-type]
+
+2012-10-11 15:14:48 bee vfs:for-next:713fdd1 powerpc-corenet64_smp_defconfig 713fdd1

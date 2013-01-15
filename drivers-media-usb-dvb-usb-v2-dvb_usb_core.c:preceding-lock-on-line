@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb-v2/dvb_usb_core.c:518:1-7: preceding lock on line 495
+
+2012-11-07 19:18:11 snb devel-snb-i386-2012-11-07-17-31:ee9f891 i386-allmodconfig ee9f891

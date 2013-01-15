@@ -1,0 +1,3 @@
+arch/powerpc/include/asm/tlbflush.h:170: error: Unsupported MMU type
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

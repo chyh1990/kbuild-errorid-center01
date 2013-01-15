@@ -1,0 +1,29 @@
+drivers/mfd/twl-core.c:49:22: fatal error: plat/cpu.h: No such file or directory
+
+2012-09-17 07:24:36 snb omap:tmp-merge:a742996 x86_64-randconfig-s331 7d7e1eb
+2012-09-17 07:24:37 snb x86_64 email notified
+2012-09-17 07:40:49 snb omap:cleanup-makefile-sparse:3c101c4 x86_64-randconfig-s331 f191f40
+2012-09-17 08:44:03 snb omap:testing-cleanup:e274bff x86_64-randconfig-s331 4045a8a
+2012-09-17 08:47:48 snb omap:testing-board:168d068 x86_64-randconfig-s331 f43c646
+2012-09-17 09:10:13 snb omap:master:49ff71e x86_64-randconfig-s331 2e48fda
+2012-09-17 11:36:57 snb arm-soc:next:cleanup:3a839ce x86_64-randconfig-s331 3a839ce
+2012-09-17 11:59:58 snb arm-soc:next:soc:f493663 x86_64-randconfig-s331 f493663
+2012-09-17 15:40:50 snb shawnguo:imx:multi-platform:c0ed45d x86_64-randconfig-s331 c0ed45d
+2012-09-17 20:40:19 lkp-mb01 next:akpm:a6a55d8 i386-randconfig-m111 a6a55d8
+2012-09-18 00:15:42 lkp-mb01 arm-soc:for-next:f15fb01 i386-randconfig-m111 f15fb01
+2012-09-20 06:46:35 bee omap-dt:for_3.7:dts_part2:983bf91 i386-randconfig-b042 983bf91
+2012-09-20 11:40:37 bee omap-dt:for_3.7:dts_part2:3414ab9 i386-randconfig-b052 3414ab9
+2012-09-21 07:01:22 snb arm-soc:next:dt:2843c7d x86_64-randconfig-s362 2843c7d
+2012-09-21 07:04:35 snb arm-soc:for-next:b5b1d87 x86_64-randconfig-s362 8e51036
+2012-09-22 05:18:07 bee arm-soc:next:dt:84bae6c i386-randconfig-b051 84bae6c
+2012-09-22 05:18:59 bee arm-soc:next:soc:3aec092 i386-randconfig-b051 3aec092
+2012-09-22 08:26:38 bee omap:devel-dt-arch-timer:0c9de3c i386-randconfig-b062 0c9de3c
+2012-09-22 08:29:07 snb omap:master:7a1794f x86_64-randconfig-s364 cb45373
+2012-09-23 14:09:54 snb arm-soc:next:dt:40169a7 x86_64-randconfig-s374 40169a7
+2012-09-24 11:29:33 bee omap:tmp-merge:1a8c8c7 i386-randconfig-b084 cb45373
+2012-09-24 13:04:04 snb omap:testing-board:0984f3f x86_64-randconfig-s005 0c9de3c
+2012-09-24 13:50:00 snb arm-soc:next:dt:db404e7 x86_64-randconfig-s005 db404e7
+2012-09-25 03:39:39 snb omap:devel-dt:ef8fe6f x86_64-randconfig-s005 3fe05bd
+2012-09-26 08:27:22 snb arm-soc:next:soc:8f91465 x86_64-randconfig-s005 3aec092
+2012-09-29 06:16:15 bee arm-soc:next:soc:28901c1 i386-randconfig-b084 8f91465
+2012-10-01 09:41:32 snb arm-soc:for-next:492e2fd x86_64-randconfig-s016 4b1ebb6

@@ -1,0 +1,3 @@
+drivers/net/ethernet/qlogic/qlcnic/qlcnic_hw.c:1551:19: sparse: incorrect type in return expression (different base types)
+
+2012-11-18 16:27:54 snb net-next:master:75fe83c i386-allmodconfig 75fe83c

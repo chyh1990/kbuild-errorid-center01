@@ -1,0 +1,4 @@
+include/linux/signal.h:261:2: error: unknown type name '__sigrestore_t'
+
+2013-01-09 13:23:38 lkp-mb01 next:akpm:ef2dca2 xtensa-iss_defconfig ef2dca2
+2013-01-10 23:37:23 lkp-mb01 next:master:62406ac xtensa-common_defconfig 62406ac

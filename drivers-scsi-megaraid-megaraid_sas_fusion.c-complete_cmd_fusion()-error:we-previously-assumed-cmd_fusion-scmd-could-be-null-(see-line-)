@@ -1,0 +1,3 @@
+drivers/scsi/megaraid/megaraid_sas_fusion.c:1756 complete_cmd_fusion() error: we previously assumed 'cmd_fusion->scmd' could be null (see line 1747)
+
+2013-01-09 13:26:42 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

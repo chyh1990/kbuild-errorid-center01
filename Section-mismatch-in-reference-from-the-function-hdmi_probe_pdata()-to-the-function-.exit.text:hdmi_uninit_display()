@@ -1,0 +1,3 @@
+WARNING: drivers/video/omap2/dss/omapdss.o(.init.text+0x4082): Section mismatch in reference from the function hdmi_probe_pdata() to the function .exit.text:hdmi_uninit_display.isra.10()
+
+2012-11-06 22:44:18 hive devel-hive-ia64-2012-11-06-22-18:29e9ada ia64-allmodconfig 29e9ada

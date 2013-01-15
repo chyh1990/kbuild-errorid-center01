@@ -1,0 +1,3 @@
+mm/slab.h:65:10: warning: 'struct file' declared inside parameter list [enabled by default]
+
+2012-09-27 23:47:55 lkp-mb01 glommer-memcg:slab-common:slabinfo:0521160 blackfin-BF533-EZKIT_defconfig 0521160

@@ -1,0 +1,3 @@
+drivers/usb/chipidea/core.c:544:25: sparse: undefined identifier 'of_get_usbphy_mode'
+
+2012-12-17 04:09:09 snb imx:work:efikasb:4de3051 i386-allmodconfig 4de3051

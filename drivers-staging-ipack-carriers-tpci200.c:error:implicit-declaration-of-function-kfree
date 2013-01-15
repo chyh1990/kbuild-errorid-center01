@@ -1,0 +1,5 @@
+drivers/staging/ipack/carriers/tpci200.c:190:2: error: implicit declaration of function 'kfree' [-Werror=implicit-function-declaration]
+
+2012-10-20 03:00:25 bee staging:staging-next:1bc7c1c parisc-allyesconfig 1bc7c1c
+2012-10-22 23:35:45 bee staging:staging-next:9e412a0 parisc-allyesconfig 9e412a0
+2012-10-23 02:50:47 bee staging:staging-next:558f758 parisc-allyesconfig 558f758

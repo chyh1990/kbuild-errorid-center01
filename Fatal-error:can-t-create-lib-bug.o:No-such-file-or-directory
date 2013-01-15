@@ -1,0 +1,3 @@
+Fatal error: can't create lib/bug.o: No such file or directory
+
+2012-08-06 19:11:16 kbuild x86_64 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e 92d6d09f4fa3b16c1f415a7d0a1a5c8e3d0cd5c8

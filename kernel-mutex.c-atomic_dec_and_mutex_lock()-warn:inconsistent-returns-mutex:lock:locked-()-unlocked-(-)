@@ -1,0 +1,3 @@
+kernel/mutex.c:496 atomic_dec_and_mutex_lock() warn: inconsistent returns mutex:lock: locked (496) unlocked (487,493)
+
+2013-01-09 13:27:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

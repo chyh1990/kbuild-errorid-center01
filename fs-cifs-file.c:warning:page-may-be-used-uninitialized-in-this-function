@@ -1,0 +1,4 @@
+fs/cifs/file.c:2576:10: warning: 'page' may be used uninitialized in this function [-Wuninitialized]
+
+2012-09-15 04:10:52 lkp-mb01 cifs:for-next:c246704 i386-randconfig-m082 d8b9dff
+2012-09-15 04:10:54 lkp-mb01 i386 email notified

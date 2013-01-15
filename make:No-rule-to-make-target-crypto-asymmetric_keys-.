@@ -1,0 +1,6 @@
+make[1]: *** No rule to make target `crypto/asymmetric_keys'.
+
+2012-09-22 21:47:11 bee remoteproc:for-next:ec4d02d x86_64-allyesconfig 8afd519
+2012-09-22 21:47:31 bee remoteproc:for-next:ec4d02d cris-allyesconfig 8afd519 email notified
+2012-09-22 21:49:25 bee x86_64 email notified
+2012-09-25 00:40:26 bee time:fortglx:3.7:time:650ea02 x86_64-allyesconfig 92bb1fc

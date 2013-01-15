@@ -1,0 +1,3 @@
+sound/soc/codecs/max98095.c:2017:2: warning: pointer targets in passing argument 2 of 'max98095_get_bq_channel' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:06:48 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

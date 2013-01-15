@@ -1,0 +1,3 @@
+drivers/media/video/gspca/stv06xx/stv06xx_pb0100.c:176 pb0100_probe() info: why not propagate 'err' from stv06xx_read_sensor() instead of -19?
+
+2012-09-12 11:57:28 kbuild security:next:a40695e i386-allyesconfig a40695e

@@ -1,0 +1,3 @@
+drivers/acpi/apei/ghes.c:796:11: warning: variable 'node_len' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 12:45:48 bee thermal:next:5d8d708 x86_64-allyesconfig f4a821c

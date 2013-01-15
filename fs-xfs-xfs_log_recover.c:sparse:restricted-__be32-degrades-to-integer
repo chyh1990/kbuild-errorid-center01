@@ -1,0 +1,3 @@
+fs/xfs/xfs_log_recover.c:3239:13: sparse: restricted __be32 degrades to integer
+
+2012-11-27 13:54:57 snb xfs:for-next:7c4cebe i386-allmodconfig 7c4cebe

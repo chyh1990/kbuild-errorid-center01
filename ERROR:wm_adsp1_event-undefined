@@ -1,0 +1,4 @@
+ERROR: "wm_adsp1_event" undefined!
+
+2012-10-27 03:44:07 kbuild asoc:for-next:4fca811 x86_64-allmodconfig b4d29d8
+2012-10-27 10:02:35 kbuild asoc:topic:wm2200:21ee496 x86_64-allmodconfig 21ee496

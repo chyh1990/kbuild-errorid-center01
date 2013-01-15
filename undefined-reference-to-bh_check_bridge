@@ -1,0 +1,4 @@
+(.text+0x17196): undefined reference to `bh_check_bridge'
+
+2012-10-13 08:25:57 kbuild pci:bug:kbz46481:54a2804 x86_64-allmodconfig 54a2804
+2012-10-13 08:25:57 kbuild x86_64 email notified

@@ -1,0 +1,7 @@
+drivers/gpu/drm/nouveau/core/subdev/instmem/base.c:111:4: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-08-07 17:22:44 kbuild powerpc /cc/kernel-tests/commit-list/nouveau:master:088fba1 d41b4528714f130028c30df6a5b7b96df77505eb
+2012-08-13 15:58:05 kbuild powerpc 637b333bb6131d1b197e5812c369df9c998cd2ec /cc/kernel-tests/commit-list/nouveau:master:872dcac
+2012-08-17 12:33:01 kbuild nouveau:master:27291a4 powerpc-allmodconfig e80687b
+2012-08-20 14:41:09 kbuild nouveau:master:f9b495f powerpc-allmodconfig ca57642
+2012-08-21 09:05:57 kbuild nouveau:master:5e58179 powerpc-allmodconfig e631442

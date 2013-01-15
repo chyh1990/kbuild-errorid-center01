@@ -1,0 +1,4 @@
+arch/s390/kernel/compat_linux.c:155:17: error: invalid operands to binary > (have 'kgid_t' and 'int')
+
+2012-08-11 15:01:20 lkp-mb01 s390 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b c86f389d599620a2a6998d49772d431b7e08c9ae
+2012-08-13 05:41:01 lkp-mb01 s390 e233b70202d63b3c55f68f777b53765bb7108ce3 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48

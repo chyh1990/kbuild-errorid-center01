@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-i801.c:1031:7: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-10-08 14:00:50 bee jdelvare-staging:i2c-for-linus:c415b30 parisc-allyesconfig 3ad7ea1

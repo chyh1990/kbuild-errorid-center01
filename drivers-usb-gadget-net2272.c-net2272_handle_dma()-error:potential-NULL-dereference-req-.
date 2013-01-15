@@ -1,0 +1,3 @@
+drivers/usb/gadget/net2272.c:1557 net2272_handle_dma() error: potential NULL dereference 'req'.
+
+2013-01-09 13:27:01 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

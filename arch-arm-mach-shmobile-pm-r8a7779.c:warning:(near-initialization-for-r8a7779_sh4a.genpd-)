@@ -1,0 +1,4 @@
+arch/arm/mach-shmobile/pm-r8a7779.c:203:2: warning: (near initialization for 'r8a7779_sh4a.genpd') [-Wmissing-braces]
+
+2012-08-10 01:03:43 snb arm /cc/kernel-tests/commit-list/pm:linux-next:d456fac 85b6dd851494d40ae48895454f836b21d07758cc
+2012-08-10 01:03:43 snb arm email notified

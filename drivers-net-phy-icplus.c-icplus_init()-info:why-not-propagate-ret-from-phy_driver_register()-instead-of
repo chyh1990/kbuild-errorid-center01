@@ -1,0 +1,3 @@
+drivers/net/phy/icplus.c:254 icplus_init() info: why not propagate 'ret' from phy_driver_register() instead of -19?
+
+2012-09-13 01:35:37 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

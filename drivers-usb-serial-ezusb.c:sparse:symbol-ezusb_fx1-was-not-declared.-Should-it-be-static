@@ -1,0 +1,3 @@
+drivers/usb/serial/ezusb.c:25:22: sparse: symbol 'ezusb_fx1' was not declared. Should it be static?
+
+2012-09-22 20:16:01 snb next:akpm:69921c3 i386-allmodconfig 69921c3

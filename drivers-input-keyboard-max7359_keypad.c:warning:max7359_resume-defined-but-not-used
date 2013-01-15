@@ -1,0 +1,3 @@
+drivers/input/keyboard/max7359_keypad.c:287:12: warning: 'max7359_resume' defined but not used [-Wunused-function]
+
+2012-10-15 22:04:47 hive balbi-usb:fixes:01b8daf x86_64-randconfig-h064 01b8daf

@@ -1,0 +1,3 @@
+fs/fat/nfs.c:105:1: sparse: symbol 'fat_encode_fh_nostale' was not declared. Should it be static?
+
+2012-11-05 14:26:45 snb next:master:124414e i386-allmodconfig 124414e

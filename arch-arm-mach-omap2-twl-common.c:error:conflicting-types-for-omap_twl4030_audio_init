@@ -1,0 +1,4 @@
+arch/arm/mach-omap2/twl-common.c:562:13: error: conflicting types for 'omap_twl4030_audio_init'
+
+2012-08-18 18:48:59 snb asoc:for-next:6664923 arm-omap2plus_defconfig 552d9dc
+2012-08-18 18:48:59 snb arm email notified

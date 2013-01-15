@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7720.c:1390:27: warning: 'status' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 14:03:42 bee yinghai:for-x86-irq-base:f2c8edd i386-randconfig-b031 f2c8edd

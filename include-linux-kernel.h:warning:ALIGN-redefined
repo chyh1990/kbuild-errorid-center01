@@ -1,0 +1,3 @@
+include/linux/kernel.h:44:0: warning: "ALIGN" redefined [enabled by default]
+
+2012-09-10 01:03:30 kbuild xen:linux-next:e09f4b3 powerpc-allmodconfig 3c7dc7c

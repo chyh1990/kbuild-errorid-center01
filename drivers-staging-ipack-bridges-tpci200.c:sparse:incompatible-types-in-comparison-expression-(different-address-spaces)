@@ -1,0 +1,3 @@
+drivers/staging/ipack/bridges/tpci200.c:152:28: sparse: incompatible types in comparison expression (different address spaces)
+
+2012-09-14 12:28:20 snb staging:staging-next:d42bb0f i386-allmodconfig d42bb0f

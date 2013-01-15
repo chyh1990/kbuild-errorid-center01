@@ -1,0 +1,3 @@
+drivers/staging/wlan-ng/prism2fw.c:984 writeimage() warn: 'rwritemsg' puts 4164 bytes on stack
+
+2012-09-14 07:39:48 kbuild xhci:3.5-plus-set-addr:d9c6e53 i386-allyesconfig d9c6e53

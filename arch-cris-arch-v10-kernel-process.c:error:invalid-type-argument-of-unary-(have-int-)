@@ -1,0 +1,3 @@
+arch/cris/arch-v10/kernel/process.c:117:15: error: invalid type argument of unary '*' (have 'int')
+
+2012-11-01 07:28:19 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-06-45:04c11ef cris-etrax-100lx_v2_defconfig 04c11ef

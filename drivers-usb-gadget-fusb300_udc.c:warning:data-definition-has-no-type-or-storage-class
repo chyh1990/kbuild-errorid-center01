@@ -1,0 +1,3 @@
+drivers/usb/gadget/fusb300_udc.c:1550:1: warning: data definition has no type or storage class [enabled by default]
+
+2013-01-10 20:55:44 lkp-mb01 devel-lkp-mb01-i386-2013-01-10-20-42:3f26684 i386-randconfig-m145 3f26684

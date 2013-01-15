@@ -1,0 +1,3 @@
+arch/x86/include/asm/bitops.h:65: Warning: end of file not at end of a line; newline inserted
+
+2012-09-02 13:12:56 hive userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-h861 46c4bb1

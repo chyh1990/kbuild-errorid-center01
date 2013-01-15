@@ -1,0 +1,5 @@
+drivers/gpio/gpiolib-of.c:244:11: error: too few arguments to function 'gpiochip_add_pin_range'
+
+2012-11-20 22:45:15 snb devel-snb-arm-2012-11-20-22-43:7abd6e8 arm-at91_dt_defconfig 7abd6e8
+2012-11-20 23:58:37 snb devel-snb-arm-2012-11-20-23-49:f446d0c arm-at91_dt_defconfig f446d0c
+2012-11-22 20:15:45 snb devel-snb-arm-2012-11-22-20-05:a49dd4d arm-at91_dt_defconfig a49dd4d

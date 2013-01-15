@@ -1,0 +1,15 @@
+drivers/video/omap2/vram.c:36:23: fatal error: plat/vram.h: No such file or directory
+
+2012-11-05 18:59:32 kbuild omap-dss2:master:a4ae0ba x86_64-allmodconfig 5028ea0
+2012-11-06 22:37:59 kbuild omap-dss2:master:14840b9 x86_64-allmodconfig 230edc0
+2012-11-06 22:44:17 hive devel-hive-ia64-2012-11-06-22-18:29e9ada ia64-allmodconfig 29e9ada
+2012-11-06 22:56:08 hive devel-hive-mips-2012-11-06-22-23:8762a90 mips-allmodconfig 8762a90
+2012-11-07 22:03:13 kbuild devel-kbuild-i386-2012-11-07-21-49:2044062 i386-allyesconfig 2044062
+2012-11-07 22:25:14 snb devel-snb-arm-2012-11-07-21-37:208667a m68k-allmodconfig 208667a
+2012-11-07 22:27:57 hive devel-hive-ia64-2012-11-07-21-51:506b8ff ia64-allmodconfig 506b8ff
+2012-11-07 22:45:34 hive devel-hive-mips-2012-11-07-21-53:3c944e9 mips-allmodconfig 3c944e9
+2012-11-07 23:18:28 kbuild devel-kbuild-powerpc-2012-11-07-22-38:17a3d50 powerpc-allmodconfig 17a3d50
+2012-11-07 23:22:43 kbuild devel-kbuild-x86_64-2012-11-07-23-17:d40621e x86_64-allmodconfig d40621e
+2012-11-14 17:45:17 kbuild omap-dss2:master:c909290 x86_64-allmodconfig 5b30b7f
+2012-11-15 02:32:07 hive devel-hive-mips-2012-11-15-01-42:9f65419 mips-allmodconfig 9f65419
+2012-11-22 22:28:56 kbuild omap-dss2:master:264236f x86_64-allmodconfig a915d4c

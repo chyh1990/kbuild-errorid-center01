@@ -1,0 +1,3 @@
+xattr.c:(.text+0x1ff2b): undefined reference to `posix_acl_fix_xattr_from_user'
+
+2012-08-23 10:56:45 kbuild userns:userns-always-map-user-v47:ec9c45e i386-randconfig-k786 0067dd0

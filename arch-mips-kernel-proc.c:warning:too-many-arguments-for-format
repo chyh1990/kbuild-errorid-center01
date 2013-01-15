@@ -1,0 +1,4 @@
+arch/mips/kernel/proc.c:75:3: warning: too many arguments for format [-Wformat-extra-args]
+
+2012-10-15 05:14:31 bee mips:upstream:35bafbe mips-allyesconfig ee80f7c
+2012-10-15 05:14:31 bee mips email notified

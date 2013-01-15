@@ -1,0 +1,3 @@
+lib/asn1_decoder.c:483:2: warning: 'errmsg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:48:34 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

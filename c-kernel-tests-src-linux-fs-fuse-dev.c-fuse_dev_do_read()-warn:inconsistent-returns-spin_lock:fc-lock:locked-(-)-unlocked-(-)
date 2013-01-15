@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/fuse/dev.c:1231 fuse_dev_do_read() warn: inconsistent returns spin_lock:&fc->lock: locked (1174,1179,1211,1216) unlocked (1227,1231)
+
+2013-01-07 12:25:16 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

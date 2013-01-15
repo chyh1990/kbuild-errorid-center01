@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/message/fusion/mptsas.c:1255 mptsas_taskmgmt_complete() error: we previously assumed 'pScsiTmReply' could be null (see line 1227)
+
+2013-01-07 12:25:20 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

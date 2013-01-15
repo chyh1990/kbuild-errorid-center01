@@ -1,0 +1,3 @@
+lib/gcd.c:6:15: sparse: symbol 'gcd' redeclared with different type (originally declared at include/linux/gcd.h:6) - different modifiers
+
+2013-01-09 13:02:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

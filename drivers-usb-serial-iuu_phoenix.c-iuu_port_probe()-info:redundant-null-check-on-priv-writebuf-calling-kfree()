@@ -1,0 +1,3 @@
+drivers/usb/serial/iuu_phoenix.c:109 iuu_port_probe() info: redundant null check on priv->writebuf calling kfree()
+
+2012-10-29 03:33:37 kbuild stable:linux-3.6.y:c32b33d i386-allyesconfig c32b33d

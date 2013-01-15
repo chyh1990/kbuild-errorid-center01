@@ -1,0 +1,3 @@
+drivers/scsi/53c700.c:972 process_script_interrupt() error: we previously assumed 'SCp' could be null (see line 963)
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

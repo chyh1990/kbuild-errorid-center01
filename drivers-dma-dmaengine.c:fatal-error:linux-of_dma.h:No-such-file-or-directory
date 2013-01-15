@@ -1,0 +1,4 @@
+drivers/dma/dmaengine.c:65:26: fatal error: linux/of_dma.h: No such file or directory
+
+2012-09-25 13:48:14 kbuild slave-dma:topic:dmaengine_dt:be2e772 x86_64-allmodconfig 528499a
+2012-09-25 13:48:15 kbuild x86_64 email notified

@@ -1,0 +1,4 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_main.c:1660:2-16: code aligned with following code on line 1662
+
+2012-08-11 05:04:07 snb i386 /cc/kernel-tests/commit-list/wireless:for-davem:039aafb 8eee694c3e667e6f0856d9c8525208058f9d42bf
+2012-08-11 05:04:08 snb i386 email notified

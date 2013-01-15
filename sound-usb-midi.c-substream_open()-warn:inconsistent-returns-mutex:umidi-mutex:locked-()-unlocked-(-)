@@ -1,0 +1,3 @@
+sound/usb/midi.c:1088 substream_open() warn: inconsistent returns mutex:&umidi->mutex: locked (1058) unlocked (1048,1088)
+
+2012-12-03 23:58:44 kbuild devel-kbuild-i386-2012-12-03-23-27:8625140 i386-allyesconfig 8625140

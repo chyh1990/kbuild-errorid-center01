@@ -1,0 +1,3 @@
+kernel/irq/irqdesc.c:248:2: warning: (near initialization for 'irq_desc') [enabled by default]
+
+2012-09-01 22:36:58 snb signal:for-next:fed65c8 m68k-allmodconfig 66105ba

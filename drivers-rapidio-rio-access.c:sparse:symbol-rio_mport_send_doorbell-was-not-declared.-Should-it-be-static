@@ -1,0 +1,3 @@
+drivers/rapidio/rio-access.c:163:5: sparse: symbol 'rio_mport_send_doorbell' was not declared. Should it be static?
+
+2013-01-09 13:06:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

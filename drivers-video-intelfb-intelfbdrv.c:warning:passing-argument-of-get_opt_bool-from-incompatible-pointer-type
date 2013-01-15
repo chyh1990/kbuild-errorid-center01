@@ -1,0 +1,3 @@
+drivers/video/intelfb/intelfbdrv.c:357:3: warning: passing argument 3 of 'get_opt_bool' from incompatible pointer type [enabled by default]
+
+2012-09-10 00:35:52 snb perf:perf:core:2814eb0 x86_64-randconfig-s282 26198c2

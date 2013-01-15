@@ -1,0 +1,3 @@
+drivers/dma/dmatest.c:244:21: error: invalid storage class for function 'min_odd'
+
+2013-01-07 01:19:57 kbuild slave-dma:next:3c1eea5 x86_64-allmodconfig 3c1eea5

@@ -1,0 +1,3 @@
+WARNING: net/ieee802154/6lowpan.o(.exit.text+0x12): Section mismatch in reference from the function cleanup_module() to the function .init.text:lowpan_netlink_fini()
+
+2012-09-03 23:13:10 kbuild can:led-trigger:eb389c9 x86_64-allmodconfig a2dc375

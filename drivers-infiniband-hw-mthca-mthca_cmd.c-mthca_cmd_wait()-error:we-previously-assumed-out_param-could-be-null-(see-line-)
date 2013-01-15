@@ -1,0 +1,3 @@
+drivers/infiniband/hw/mthca/mthca_cmd.c:454 mthca_cmd_wait() error: we previously assumed 'out_param' could be null (see line 432)
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

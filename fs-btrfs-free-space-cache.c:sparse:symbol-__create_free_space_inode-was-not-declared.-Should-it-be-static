@@ -1,0 +1,3 @@
+fs/btrfs/free-space-cache.c:122:5: sparse: symbol '__create_free_space_inode' was not declared. Should it be static?
+
+2013-01-09 12:58:12 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

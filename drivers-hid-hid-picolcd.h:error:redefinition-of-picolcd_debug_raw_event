@@ -1,0 +1,7 @@
+drivers/hid/hid-picolcd.h:167:20: error: redefinition of 'picolcd_debug_raw_event'
+
+2012-08-15 16:36:51 bee hid:for-next:ee04615 i386-randconfig-b802 fabdbf2
+2012-08-15 16:57:27 bee hid:for-next:9400231 i386-randconfig-b802 8fdde44
+2012-08-15 18:06:48 bee hid:for-next:26270a9 i386-randconfig-b802 26270a9
+2012-08-16 05:22:33 bee hid:for-next:ba19d77 i386-randconfig-b802 ba19d77
+2012-09-03 02:18:51 bee hid:for-next:1f3c57e i386-randconfig-b973 1f3c57e

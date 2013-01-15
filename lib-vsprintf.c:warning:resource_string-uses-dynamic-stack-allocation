@@ -1,0 +1,3 @@
+lib/vsprintf.c:655:1: warning: 'resource_string.isra.8' uses dynamic stack allocation [enabled by default]
+
+2012-07-30 13:19:06 bee s390 /cc/kernel-tests/commit-list/edac:master:c2078e4 73bcc49959e4e40911dd0dd634bf1b353827df66

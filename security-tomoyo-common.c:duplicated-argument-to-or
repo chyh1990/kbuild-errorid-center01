@@ -1,0 +1,3 @@
+security/tomoyo/common.c:603:8-26: duplicated argument to && or ||
+
+2012-08-06 12:38:41 snb i386 /dev/shm/tip:tools:kvm:0e442ef 6cccdbcdda06d5462ad75c440fb47ab47b662435

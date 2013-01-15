@@ -1,0 +1,4 @@
+kernel/sched/core.c:6460:1: error: 'SD_PREFER_LOCAL' undeclared (first use in this function)
+
+2012-08-15 02:23:08 snb tile /dev/shm/tip:auto-latest:e429426 e42942691c8262b7fe2a7b88577623082b988217
+2012-08-15 03:59:46 snb tile email notified

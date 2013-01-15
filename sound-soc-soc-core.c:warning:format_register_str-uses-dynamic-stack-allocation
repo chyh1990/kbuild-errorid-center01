@@ -1,0 +1,3 @@
+sound/soc/soc-core.c:122:1: warning: 'format_register_str' uses dynamic stack allocation [enabled by default]
+
+2012-12-14 09:25:07 inn linus:master:66cdd0c s390-allmodconfig 66cdd0c

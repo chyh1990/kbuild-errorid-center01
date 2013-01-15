@@ -1,0 +1,13 @@
+include/linux/iio/consumer.h:76:21: error: unknown type name 'u8'
+
+2012-10-14 16:48:06 lkp-mb01 devel-lkp-mb01-i386-2012-10-14-16-31:d0d636d i386-randconfig-m065 d0d636d
+2012-10-14 18:01:13 snb devel-snb-x86_64-2012-10-14-17-52:63451e7 x86_64-randconfig-s061 63451e7
+2012-10-20 03:29:18 snb iio:wip:6375205 i386-allmodconfig 6375205
+2012-10-31 19:05:34 snb iio:wip:334621a i386-allmodconfig 334621a
+2012-10-31 23:10:09 kbuild devel-kbuild-i386-2012-10-31-23-06:f40da41 i386-allyesconfig f40da41
+2012-11-02 19:27:38 snb iio:wip:b867c22 i386-allmodconfig b867c22
+2012-11-12 02:58:11 snb iio:togreg:168c9d9 i386-allmodconfig 168c9d9
+2012-11-12 04:12:50 kbuild devel-kbuild-i386-2012-11-12-03-50:8ad7272 i386-allyesconfig 8ad7272
+2012-11-12 10:51:48 snb staging:staging-next:045020e i386-allmodconfig 045020e
+2012-11-12 14:59:38 lkp-mb01 devel-lkp-mb01-i386-2012-11-12-14-38:37a3991 i386-randconfig-m013 37a3991
+2012-11-13 14:22:19 kbuild next:akpm:61df919 i386-allyesconfig 61df919

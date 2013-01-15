@@ -1,0 +1,3 @@
+net/netfilter/x_tables.c:742 xt_find_table_lock() warn: inconsistent returns mutex:&xt + af->mutex: locked (740) unlocked (736,742)
+
+2013-01-09 13:27:40 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

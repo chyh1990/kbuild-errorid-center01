@@ -1,0 +1,4 @@
+cpufreq.c:(.text+0x14dcd3): undefined reference to `cpufreq_frequency_table_update_policy_cpu'
+
+2013-01-12 21:41:27 kbuild pm:linux-next:6da2315 x86_64-allmodconfig 85b6538
+2013-01-14 10:54:23 hive devel-hive-x86_64-2013-01-14-10-18:b70d552 x86_64-randconfig-h004 b70d552

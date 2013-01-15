@@ -1,0 +1,3 @@
+WARNING: drivers/watchdog/nv_tco.o(.text+0x4c0): Section mismatch in reference from the function nv_tco_init() to the variable .devinit.rodata:tco_pci_tbl
+
+2012-11-29 04:40:12 kbuild devel-kbuild-x86_64-2012-11-29-04-31:6245273 x86_64-allmodconfig 6245273

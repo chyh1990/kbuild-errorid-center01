@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/media/usb/tm6000/tm6000-video.c:569 tm6000_alloc_urb_buffers() warn: buffer overflow 'dev->urb_dma' 4 <= 7
+
+2013-01-07 12:24:59 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

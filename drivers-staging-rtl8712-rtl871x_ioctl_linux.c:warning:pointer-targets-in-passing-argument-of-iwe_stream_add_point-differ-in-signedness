@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/rtl871x_ioctl_linux.c:194:10: warning: pointer targets in passing argument 5 of 'iwe_stream_add_point' differ in signedness [-Wpointer-sign]
+
+2012-09-27 01:57:18 bee staging:staging-next:67f2021 powerpc-allyesconfig 67f2021

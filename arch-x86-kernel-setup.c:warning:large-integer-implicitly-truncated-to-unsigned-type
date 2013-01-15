@@ -1,0 +1,3 @@
+arch/x86/kernel/setup.c:586:6: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+
+2012-12-16 13:51:18 bee yinghai:for-x86-boot:b086dd2 i386-randconfig-x230 f5cbf03

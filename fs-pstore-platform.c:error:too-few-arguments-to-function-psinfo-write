@@ -1,0 +1,11 @@
+fs/pstore/platform.c:175:3: error: too few arguments to function 'psinfo->write'
+
+2012-11-13 05:41:01 kbuild devel-kbuild-x86_64-2012-11-13-05-39:38bcf9f x86_64-allmodconfig 38bcf9f
+2012-11-13 05:43:45 hive devel-hive-x86_64-2012-11-13-05-40:8eb3c1d x86_64-randconfig-h252 8eb3c1d
+2012-11-13 05:43:32 bee ia64:next:16e4591 i386-randconfig-b662 16e4591
+2012-11-13 05:51:02 kbuild devel-kbuild-powerpc-2012-11-13-05-39:904dae6 powerpc-allmodconfig 904dae6
+2012-11-13 05:54:22 snb devel-snb-i386-2012-11-13-05-46:da456bc i386-allmodconfig da456bc
+2012-11-13 06:05:59 snb devel-snb-arm-2012-11-13-05-39:070d2bc m68k-allmodconfig 070d2bc
+2012-11-13 06:06:35 hive devel-hive-ia64-2012-11-13-05-43:a6ed243 ia64-allmodconfig a6ed243
+2012-11-13 06:15:41 kbuild devel-kbuild-i386-2012-11-13-06-07:862f4b8 i386-allyesconfig 862f4b8
+2012-11-13 06:31:41 hive devel-hive-mips-2012-11-13-05-40:4546106 mips-allmodconfig 4546106

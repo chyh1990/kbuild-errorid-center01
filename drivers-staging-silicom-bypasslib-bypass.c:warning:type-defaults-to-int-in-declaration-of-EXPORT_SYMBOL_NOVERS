@@ -1,0 +1,3 @@
+drivers/staging/silicom/bypasslib/bypass.c:483:1: warning: type defaults to 'int' in declaration of 'EXPORT_SYMBOL_NOVERS' [-Wimplicit-int]
+
+2012-11-08 12:28:03 snb pci:next:1800377 i386-allmodconfig 1800377

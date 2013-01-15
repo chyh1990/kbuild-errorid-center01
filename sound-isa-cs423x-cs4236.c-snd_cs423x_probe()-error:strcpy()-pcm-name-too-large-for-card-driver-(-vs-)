@@ -1,0 +1,3 @@
+sound/isa/cs423x/cs4236.c:422 snd_cs423x_probe() error: strcpy() 'pcm->name' too large for 'card->driver' (80 vs 16)
+
+2013-01-09 13:28:04 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

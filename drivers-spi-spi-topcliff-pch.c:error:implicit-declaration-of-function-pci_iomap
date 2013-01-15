@@ -1,0 +1,3 @@
+drivers/spi/spi-topcliff-pch.c:1429:2: error: implicit declaration of function 'pci_iomap' [-Werror=implicit-function-declaration]
+
+2012-11-29 01:25:48 bee slave-dma:topic:dmaengine_dt:d4397a4 xtensa-allyesconfig d4397a4

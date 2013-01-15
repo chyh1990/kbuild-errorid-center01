@@ -1,0 +1,4 @@
+fs/nfs/nfs4state.c:129:10: error: 'nfs_callback_tcpport6' undeclared (first use in this function)
+
+2012-10-02 06:55:38 bee nfs:testing:2afdfa5 x86_64-allyesconfig 05f4c35
+2012-10-02 09:27:16 bee nfs:testing:c6e4f2a x86_64-allyesconfig 05f4c35

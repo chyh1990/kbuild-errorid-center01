@@ -1,0 +1,3 @@
+fs/proc/vmcore.c:549:4: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-11-27 17:26:46 hive next:master:ce2931a mips-allmodconfig ce2931a

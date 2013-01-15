@@ -1,0 +1,4 @@
+net/wanrouter/wanmain.c:439:8-15: WARNING opportunity for memdep_user
+
+2012-08-13 15:31:06 snb i386 /cc/kernel-tests/commit-list/stable:linux-3.5.y:cbd3c20 a4631a7743f79abd92433e8b3da0cfb77d8c3b15
+2012-08-13 15:31:09 snb i386 email notified

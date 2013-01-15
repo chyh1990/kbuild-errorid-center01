@@ -1,0 +1,3 @@
+fs/configfs/symlink.c:313:1: fatal error: closing dependency file fs/configfs/.symlink.o.d: No space left on device
+
+2012-09-24 11:27:54 snb time:fortglx:3.7:time:60b087f x86_64-randconfig-s001 60b087f

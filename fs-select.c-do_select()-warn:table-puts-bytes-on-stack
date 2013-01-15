@@ -1,0 +1,3 @@
+fs/select.c:398 do_select() warn: 'table' puts 604 bytes on stack
+
+2013-01-09 13:26:13 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

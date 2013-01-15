@@ -1,0 +1,4 @@
+drivers/scsi/qla2xxx/qla_os.c:3825:1: sparse: symbol 'qla83xx_check_nic_core_fw_alive' was not declared. Should it be static?
+
+2012-09-16 01:10:44 snb scsi:for-next:71cfff4 i386-allmodconfig 23b36ce
+2012-09-16 01:13:31 snb i386 email notified

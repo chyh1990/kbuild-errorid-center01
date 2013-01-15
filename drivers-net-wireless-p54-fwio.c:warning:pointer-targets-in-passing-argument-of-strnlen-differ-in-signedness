@@ -1,0 +1,3 @@
+drivers/net/wireless/p54/fwio.c:80:4: warning: pointer targets in passing argument 1 of 'strnlen' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:28 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

@@ -1,0 +1,5 @@
+arch/powerpc/mm/mem.c:588:2: error: 'pp' undeclared (first use in this function)
+
+2012-09-24 16:16:06 bee wfg:0day:43978bc powerpc-chroma_defconfig 43978bc
+2012-09-30 10:14:36 kbuild wfg:0day:eff3b5c powerpc-allmodconfig eff3b5c
+2012-09-30 19:14:30 kbuild wfg:0day:e736ac7 powerpc-allmodconfig e736ac7

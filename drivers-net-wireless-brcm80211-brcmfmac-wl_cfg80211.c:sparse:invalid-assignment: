@@ -1,0 +1,4 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:732:42: sparse: invalid assignment: |=
+
+2012-09-14 22:37:18 snb iwlwifi:master:99f314c i386-allmodconfig e756af5
+2012-09-14 22:37:19 snb i386 email notified

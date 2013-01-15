@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/clock/nva3.c:77 nva3_clock_ctor() Error invalid range 4096 to -1
+
+2012-09-19 00:36:21 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19

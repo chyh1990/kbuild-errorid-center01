@@ -1,0 +1,3 @@
+drivers/staging/ramster/zbud.c:337:51: sparse: incorrect type in argument 4 (different type sizes)
+
+2013-01-09 13:20:07 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+net/ipv6/inet6_hashtables.c:92:21: sparse: restricted __portpair degrades to integer
+
+2012-12-02 01:47:03 snb net-next:master:577b981 i386-allmodconfig 577b981

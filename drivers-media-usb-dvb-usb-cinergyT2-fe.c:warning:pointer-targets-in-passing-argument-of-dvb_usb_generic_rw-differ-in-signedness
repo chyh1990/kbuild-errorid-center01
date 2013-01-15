@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/cinergyT2-fe.c:185:5: warning: pointer targets in passing argument 2 of 'dvb_usb_generic_rw' differ in signedness [-Wpointer-sign]
+
+2012-09-26 23:19:07 bee samsung:v4l-next:01882ac x86_64-allyesconfig 24e527a

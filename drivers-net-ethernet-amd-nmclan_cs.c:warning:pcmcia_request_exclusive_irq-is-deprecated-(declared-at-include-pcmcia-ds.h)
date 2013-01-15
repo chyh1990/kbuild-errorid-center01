@@ -1,0 +1,3 @@
+drivers/net/ethernet/amd/nmclan_cs.c:625:3: warning: 'pcmcia_request_exclusive_irq' is deprecated (declared at include/pcmcia/ds.h:201) [-Wdeprecated-declarations]
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/pcl818.c:1953 pcl818_detach() error: we previously assumed 'dev->private' could be null (see line 1929)
+
+2012-09-07 22:41:20 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

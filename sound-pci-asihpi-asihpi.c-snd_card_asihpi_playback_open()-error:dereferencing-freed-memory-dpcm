@@ -1,0 +1,3 @@
+sound/pci/asihpi/asihpi.c:1001 snd_card_asihpi_playback_open() error: dereferencing freed memory 'dpcm'
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

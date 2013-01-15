@@ -1,0 +1,4 @@
+fixdep: error opening depfile: scripts/kconfig/.zconf.tab.o.d: No such file or directory
+
+2012-08-06 19:01:26 lkp-mb01 blackfin /cc/kernel-tests/commit-list/nfs:linux-next:ddb6105 3dd4765fce04c0b4af1e0bc4c0b10f906f95fabc
+2012-08-06 19:01:29 lkp-mb01 i386 b6c59e68cc5e3c36bdb072c3d22d387e4ee47c18 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48

@@ -1,0 +1,29 @@
+drivers/staging/ipack/bridges/tpci200.c:717:2: error: implicit declaration of function 'kzalloc' [-Werror=implicit-function-declaration]
+
+2012-09-26 22:32:12 bee kvm-ppc:kvm-ppc-next:d265f1e parisc-allyesconfig c3c9e53
+2012-09-27 13:05:44 bee powerpc:next:7844663 parisc-allyesconfig b92a66a
+2012-09-27 13:05:44 bee powerpc:next:7844663 parisc-allyesconfig b92a66a email notified
+2012-09-27 15:57:51 bee thermal:thermal:2491502 parisc-allyesconfig ba55a0d
+2012-09-27 17:48:11 bee thermal:thermal:fb8792b parisc-allyesconfig fb8792b
+2012-09-27 18:40:44 bee thermal:thermal:b81ed51 parisc-allyesconfig b81ed51
+2012-09-27 19:23:04 bee arm-perf:irq:44a7333 parisc-allyesconfig 44a7333
+2012-09-27 21:17:24 bee arm-perf:misc-patches:3da6c03 parisc-allyesconfig 3da6c03
+2012-09-27 22:33:12 bee m68knommu:for-next:a255172 parisc-allyesconfig 944c3d8
+2012-09-27 23:14:26 bee slave-dma:next:fed2574 parisc-allyesconfig fed2574
+2012-09-28 15:21:13 bee tip:x86:mm:fd0f586 parisc-allyesconfig fd0f586
+2012-09-28 17:35:28 bee pinctrl:for-next:2fe3954 parisc-allyesconfig 7d66ce7
+2012-09-28 19:30:58 bee firewire:for-next:4d50c44 parisc-allyesconfig 35202f7
+2012-09-28 20:47:21 bee mmc:mmc-next:0f59ede parisc-allyesconfig e919fd2
+2012-10-16 13:44:40 bee asoc:topic:atmel:0d6976d parisc-allyesconfig aea3919
+2012-11-09 15:33:40 bee random:dev:ec8f02d parisc-allyesconfig ddffeb8
+2012-11-13 11:06:23 bee renesas:next:adb5641 parisc-allyesconfig ddffeb8
+2012-11-13 11:53:53 bee renesas:soc4:94091c6 parisc-allyesconfig 94091c6
+2012-11-15 16:06:40 bee slab:for-next:f1d58d7 parisc-allyesconfig ddffeb8
+2012-11-19 14:09:41 bee renesas:devel:of:2a19fff parisc-allyesconfig ddffeb8
+2012-11-23 04:53:28 bee logfs:master:3394661 parisc-allyesconfig 5b716ac
+2012-11-26 12:12:40 bee mmc:mmc-next:1678258 parisc-allyesconfig ddffeb8
+2012-11-27 11:50:57 bee renesas:devel:of:9fcbfcf parisc-allyesconfig ddffeb8
+2012-11-27 12:48:05 bee renesas:next:8827b86 parisc-allyesconfig 8827b86
+2012-11-28 23:36:50 bee iwlwifi-next:master:b4991f3 parisc-allyesconfig ddffeb8
+2012-12-02 23:34:46 bee regulator:topic:tps516312:dbc7051 parisc-allyesconfig ddffeb8
+2012-12-03 09:36:26 bee mmc:mmc-next:21b765a parisc-allyesconfig ddffeb8

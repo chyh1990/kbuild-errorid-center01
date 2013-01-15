@@ -1,0 +1,3 @@
+drivers/video/matrox/matroxfb_base.c:1976 matroxfb_register_device() error: we previously assumed 'drv' could be null (see line 1977)
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

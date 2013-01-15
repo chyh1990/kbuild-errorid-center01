@@ -1,0 +1,4 @@
+drivers/mmc/card/block.c:338:14-21: WARNING opportunity for memdep_user
+
+2012-08-29 21:13:55 snb mmc:mmc-next:147bbb1 i386-allmodconfig 96c1bbe
+2012-08-29 21:36:55 snb i386 email notified

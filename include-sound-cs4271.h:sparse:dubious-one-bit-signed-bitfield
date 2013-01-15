@@ -1,0 +1,3 @@
+include/sound/cs4271.h:22:31: sparse: dubious one-bit signed bitfield
+
+2012-10-06 15:46:47 snb asoc:topic:cs4271:d24f734 i386-allmodconfig d24f734

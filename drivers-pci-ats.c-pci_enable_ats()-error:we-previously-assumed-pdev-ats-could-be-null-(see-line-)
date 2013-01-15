@@ -1,0 +1,3 @@
+drivers/pci/ats.c:77 pci_enable_ats() error: we previously assumed 'pdev->ats' could be null (see line 71)
+
+2013-01-09 13:27:31 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

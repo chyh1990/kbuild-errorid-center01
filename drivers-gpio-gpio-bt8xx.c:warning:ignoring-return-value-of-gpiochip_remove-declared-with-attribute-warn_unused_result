@@ -1,0 +1,3 @@
+drivers/gpio/gpio-bt8xx.c:244:17: warning: ignoring return value of 'gpiochip_remove', declared with attribute warn_unused_result [-Wunused-result]
+
+2013-01-09 12:32:07 inn linus:master:974b335 x86_64-randconfig-n367 974b335

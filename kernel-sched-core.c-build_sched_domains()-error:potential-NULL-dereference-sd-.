@@ -1,0 +1,3 @@
+kernel/sched/core.c:6467 build_sched_domains() error: potential NULL dereference 'sd'.
+
+2013-01-09 13:27:49 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

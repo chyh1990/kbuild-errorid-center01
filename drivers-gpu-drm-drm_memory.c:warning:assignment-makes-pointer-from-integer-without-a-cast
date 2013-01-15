@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_memory.c:129:15: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-11-11 06:43:53 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c

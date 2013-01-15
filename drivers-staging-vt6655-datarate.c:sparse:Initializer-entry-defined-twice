@@ -1,0 +1,3 @@
+drivers/staging/vt6655/datarate.c:320:32: sparse: Initializer entry defined twice
+
+2013-01-09 12:59:31 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

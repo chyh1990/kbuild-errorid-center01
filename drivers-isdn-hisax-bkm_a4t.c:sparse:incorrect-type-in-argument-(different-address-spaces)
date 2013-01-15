@@ -1,0 +1,3 @@
+drivers/isdn/hisax/bkm_a4t.c:292:26: sparse: incorrect type in argument 1 (different address spaces)
+
+2013-01-09 13:11:35 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

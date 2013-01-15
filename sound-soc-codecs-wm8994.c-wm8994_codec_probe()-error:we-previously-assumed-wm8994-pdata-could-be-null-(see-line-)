@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8994.c:3747 wm8994_codec_probe() error: we previously assumed 'wm8994->pdata' could be null (see line 3732)
+
+2012-09-07 22:41:28 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

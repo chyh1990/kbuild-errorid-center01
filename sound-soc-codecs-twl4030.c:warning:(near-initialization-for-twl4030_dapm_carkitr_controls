@@ -1,0 +1,3 @@
+sound/soc/codecs/twl4030.c:500:2: warning: (near initialization for 'twl4030_dapm_carkitr_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:05:29 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

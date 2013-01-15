@@ -1,0 +1,3 @@
+net/sctp/sm_make_chunk.c:135:5: sparse: symbol 'sctp_init_cause_fixed' was not declared. Should it be static?
+
+2012-09-10 15:22:04 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

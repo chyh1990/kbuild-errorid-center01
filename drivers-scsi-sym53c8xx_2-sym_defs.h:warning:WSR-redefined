@@ -1,0 +1,3 @@
+drivers/scsi/sym53c8xx_2/sym_defs.h:109:0: warning: "WSR" redefined [enabled by default]
+
+2012-10-30 17:58:56 bee davinci:v3.8:defconfig:cb5a410 xtensa-allyesconfig cb5a410

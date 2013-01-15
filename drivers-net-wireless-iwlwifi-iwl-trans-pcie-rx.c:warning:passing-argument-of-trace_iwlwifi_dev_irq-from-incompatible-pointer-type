@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/iwl-trans-pcie-rx.c:893:2: warning: passing argument 1 of 'trace_iwlwifi_dev_irq' from incompatible pointer type [enabled by default]
+
+2012-10-20 16:02:38 inn internal-rtd3:lpss:1535942 i386-randconfig-n034 d9c5115

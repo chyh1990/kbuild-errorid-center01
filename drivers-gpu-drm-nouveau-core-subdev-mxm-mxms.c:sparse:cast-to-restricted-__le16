@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/mxm/mxms.c:187:30: sparse: cast to restricted __le16
+
+2013-01-09 13:06:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

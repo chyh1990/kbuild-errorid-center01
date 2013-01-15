@@ -1,0 +1,3 @@
+warning: (DVB_USB_PCTV452E) selects TTPCI_EEPROM which has unmet direct dependencies (MEDIA_SUPPORT && MEDIA_PCI_SUPPORT && MEDIA_DIGITAL_TV_SUPPORT && I2C)
+
+2013-01-09 12:25:13 bee char-misc:char-misc-next:627ca75 sh-allyesconfig 627ca75

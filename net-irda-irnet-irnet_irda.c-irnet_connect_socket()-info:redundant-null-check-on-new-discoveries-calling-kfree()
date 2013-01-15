@@ -1,0 +1,3 @@
+net/irda/irnet/irnet_irda.c:879 irnet_connect_socket() info: redundant null check on new->discoveries calling kfree()
+
+2012-09-11 23:43:22 kbuild sound-unstable:master:784eee3 i386-allyesconfig 432c641

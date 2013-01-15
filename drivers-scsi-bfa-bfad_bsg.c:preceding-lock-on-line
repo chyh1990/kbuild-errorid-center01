@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfad_bsg.c:2242:2-8: preceding lock on line 2239
+
+2012-11-14 11:27:51 snb devel-snb-i386-2012-11-14-02-33:8bf79d9 i386-allmodconfig 8bf79d9

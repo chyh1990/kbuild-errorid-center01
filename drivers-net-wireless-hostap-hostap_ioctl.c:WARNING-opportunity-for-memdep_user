@@ -1,0 +1,3 @@
+drivers/net/wireless/hostap/hostap_ioctl.c:3044:9-16: WARNING opportunity for memdep_user
+
+2012-09-22 02:37:59 snb ath6kl:master:a47347b i386-allmodconfig a47347b

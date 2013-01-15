@@ -1,0 +1,3 @@
+fs/pstore/platform.c:150 pstore_dump() error: double unlock 'spin_lock:&psinfo->buf_lock'
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/net/ethernet/via/via-rhine.c:1069:2: error: implicit declaration of function 'pci_iounmap' [-Werror=implicit-function-declaration]
+
+2012-11-23 04:53:46 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

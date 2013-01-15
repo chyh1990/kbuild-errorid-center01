@@ -1,0 +1,7 @@
+ERROR: "ptp_clock_event" [drivers/net/ethernet/sfc/sfc.ko] undefined!
+
+2012-11-02 04:26:29 lkp-mb01 net-next:master:b77bc20 i386-randconfig-m122 b77bc20
+2012-11-02 15:12:03 lkp-mb01 next:master:fc745a3 i386-randconfig-m122 fc745a3
+2012-11-02 15:49:20 lkp-mb01 next:akpm:210f491 i386-randconfig-m122 210f491
+2012-11-03 05:29:23 lkp-mb01 batman:batman-adv:next:5159f02 i386-randconfig-m122 5159f02
+2012-11-03 08:33:45 lkp-mb01 net-next:master:202975b i386-randconfig-m122 202975b

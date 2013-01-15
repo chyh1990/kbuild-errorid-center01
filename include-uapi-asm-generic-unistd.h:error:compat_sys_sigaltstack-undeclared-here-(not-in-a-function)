@@ -1,0 +1,3 @@
+include/uapi/asm-generic/unistd.h:399:1: error: 'compat_sys_sigaltstack' undeclared here (not in a function)
+
+2012-12-23 12:16:56 snb signal:master:8fb00aa tile-tilegx_defconfig 8fb00aa

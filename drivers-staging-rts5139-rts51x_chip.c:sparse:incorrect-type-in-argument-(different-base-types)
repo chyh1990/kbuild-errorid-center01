@@ -1,0 +1,3 @@
+drivers/staging/rts5139/rts51x_chip.c:517:39: sparse: incorrect type in argument 5 (different base types)
+
+2013-01-09 12:54:53 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

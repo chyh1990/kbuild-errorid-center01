@@ -1,0 +1,3 @@
+fs/jbd2/journal.c:128:6: sparse: symbol 'jbd2_superblock_csum_set' was not declared. Should it be static?
+
+2012-11-11 12:06:11 snb ext4:dev:dffe9d8 i386-allmodconfig dffe9d8

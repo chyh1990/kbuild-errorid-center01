@@ -1,0 +1,4 @@
+/usr/local/gcc-4.6.3-nolibc/cris-linux/bin/cris-linux-objdump: 'kernel/sched/.tmp_fair.o': No such file
+
+2012-09-29 04:48:04 bee aa:autonuma:c6047ec cris-allyesconfig 23fae39
+2012-09-29 04:48:42 bee cris email notified

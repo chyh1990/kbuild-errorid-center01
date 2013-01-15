@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/gsc_hpdi.c:128:5: sparse: symbol 'pcb_revision' was not declared. Should it be static?
+
+2012-07-23 21:18:27 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

@@ -1,0 +1,3 @@
+drivers/staging/bcm/CmHost.c:1326:2: warning: pointer targets in passing argument 3 of 'wrm' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:43 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

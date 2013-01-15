@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/iwl-debugfs.c:506 iwl_dbgfs_qos_read() warn: 'buf' puts 512 bytes on stack
+
+2012-09-13 01:35:59 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:3686 get_bp_prod_caps() value = min-254,255-max, ranges = min-max
+
+2012-09-16 10:35:14 kbuild iio:wip:d6bd040 i386-allyesconfig d6bd040

@@ -1,0 +1,3 @@
+drivers/scsi/dpt_i2o.c:2725 adpt_i2o_reparse_lct() warn: variable dereferenced before check 'pDev->pScsi_dev' (see line 2722)
+
+2013-01-09 13:26:57 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

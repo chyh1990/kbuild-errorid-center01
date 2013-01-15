@@ -1,0 +1,29 @@
+arch/avr32/kernel/entry-avr32b.S:232: Error: undefined symbol `_TIF_BREAKPOINT' in operation
+
+2012-07-26 14:12:52 snb avr32 /cc/kernel-tests/commit-list/next:akpm:70145ce 3e4c96306f5a40763892204a4b71ab4bd8322b7c
+2012-07-27 13:12:04 snb avr32 /cc/kernel-tests/commit-list/next:akpm:247109f 4a532ef2c1fcffa6205202eec3add3a1f5e146d5
+2012-07-30 13:52:21 snb avr32 0610b78f094f28c85c030149cd08e4b3c1584bf8 /cc/kernel-tests/commit-list/next:akpm:3000089
+2012-08-02 16:59:59 snb avr32 f501ce130d7f57199424e9178cdedc8772192176 /cc/kernel-tests/commit-list/next:akpm:1fd9e08
+2012-08-07 13:34:30 snb avr32 3f843c6b24b21188840ae1817460a330c72aa2d0 /cc/kernel-tests/commit-list/next:master:3f843c6
+2012-08-07 14:33:11 snb avr32 95e57f51503a8252836492a47b012d42032d68d7 /cc/kernel-tests/commit-list/next:akpm-base:95e57f5
+2012-08-07 22:22:05 snb avr32 3bf8f5ee85025171ad4f902049e841318d2d4396 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b02f1c8
+2012-08-09 11:58:57 snb avr32 3f918e53a7b7fd1bcc11351340b496211f71b619 /cc/kernel-tests/commit-list/next:master:3f918e5
+2012-08-09 12:08:47 snb avr32 943a3eb9c5a91aa8ae9324a22e62902cfdac8825 /cc/kernel-tests/commit-list/next:akpm-base:943a3eb
+2012-08-13 03:10:24 snb avr32 a118377d7c7f1afa7af5ba45f91ff286c1321cf2 /cc/kernel-tests/commit-list/next:akpm:203e014
+2012-08-13 13:16:22 snb avr32 5945a32b8e1579d262846b717746f0af04037c30 /cc/kernel-tests/commit-list/next:akpm:53b8c72
+2012-08-14 13:29:54 snb avr32 bb355fe65f877c921d21b9c6b675628508ea41fd /cc/kernel-tests/commit-list/next:akpm:9c45dbb
+2012-08-16 13:56:56 snb next:akpm:d85532e avr32-atngw100_defconfig ac6fab2
+2012-08-17 18:29:14 snb next:akpm:a96005b avr32-atngw100_defconfig 57b36d5
+2012-08-22 15:18:56 snb next:akpm:a9667f5 avr32-atngw100_defconfig 91db051
+2012-08-26 00:53:57 snb next:akpm:2be3ef9 avr32-atngw100_defconfig 9627cc8
+2012-09-01 23:35:46 snb signal:for-next:fed65c8 avr32-atngw100_defconfig fed65c8
+2012-09-07 15:39:23 snb next:akpm:d28e1f3 avr32-atngw100_defconfig 4d0e8b7
+2012-09-08 03:57:26 snb signal:master:811a655 avr32-atngw100_defconfig 69235a8
+2012-09-08 20:57:45 snb signal:master:aad206f avr32-atngw100_defconfig 0e151d9
+2012-09-09 01:24:38 snb signal:master:b33f90c avr32-atngw100_defconfig 6a893cc
+2012-09-09 03:02:20 snb signal:for-next:196ea2e avr32-atngw100_defconfig 196ea2e
+2012-09-16 07:53:53 snb next:akpm:c7fbd2a avr32-atngw100_defconfig 52b0f2e
+2012-09-16 19:38:33 snb signal:master:8106a04 avr32-atngw100_defconfig 8106a04
+2012-09-18 03:27:07 snb next:akpm:a6a55d8 avr32-atngw100_defconfig a6a55d8
+2012-09-19 11:10:27 inn internal-wfg:0day:bd510f3 avr32-atngw100_defconfig bd510f3
+2012-09-20 12:17:30 snb next:akpm:7db5e9e avr32-atngw100_defconfig 7db5e9e

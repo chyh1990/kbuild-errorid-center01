@@ -1,0 +1,3 @@
+fs/xfs/xfs_trans_buf.c:776:1: fatal error: opening dependency file fs/xfs/.xfs_trans_buf.o.d: No such file or directory
+
+2012-09-13 13:03:09 bee drm:drm-fixes:b655232 i386-randconfig-b008 5e1782d

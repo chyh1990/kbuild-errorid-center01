@@ -1,0 +1,3 @@
+kernel/sched/numa.c:517:6: sparse: symbol 'sched_autonuma_dump_mm' was not declared. Should it be static?
+
+2012-08-07 14:21:30 snb i386 /cc/kernel-tests/commit-list/aa:autonuma:f958aa1 80043529f332516b83d382d93143c1645561e114

@@ -1,0 +1,3 @@
+fs/exofs/ore_raid.c:83:26: sparse: bad constant expression
+
+2013-01-09 12:49:22 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

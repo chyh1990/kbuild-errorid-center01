@@ -1,0 +1,3 @@
+drivers/nfc/pn533.c:597 pn533_send_cmd_frame_async() warn: inconsistent returns sem:&dev->cmd_lock: locked (594) unlocked (587,597)
+
+2012-09-14 07:40:54 kbuild xhci:3.5-plus-set-addr:d9c6e53 i386-allyesconfig d9c6e53

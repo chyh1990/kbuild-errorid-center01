@@ -1,0 +1,3 @@
+drivers/irqchip/percpu-mux.c:39:42: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2012-11-21 19:37:30 bee arm-perf:irq:a39b766 s390-allyesconfig a39b766

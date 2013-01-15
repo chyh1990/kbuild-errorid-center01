@@ -1,0 +1,4 @@
+drivers/video/xylon/xylonfb/platform/../core/xylonfb.c:742:3: error: implicit declaration of function 'dma_alloc_writecombine' [-Werror=implicit-function-declaration]
+
+2012-12-11 16:52:39 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690
+2012-12-19 16:39:32 kbuild microblaze:xilinx:next:f9d9809 i386-allyesconfig f9d9809

@@ -1,0 +1,3 @@
+drivers/base/power/qos.c:648 dev_pm_qos_expose_flags() error: we previously assumed 'dev->power.qos' could be null (see line 636)
+
+2013-01-09 13:27:47 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

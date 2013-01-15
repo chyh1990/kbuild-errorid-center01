@@ -1,0 +1,3 @@
+drivers/pci/hotplug/cpci_hotplug_core.c:709:1: sparse: symbol 'cpci_hotplug_init' was not declared. Should it be static?
+
+2013-01-09 13:03:49 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

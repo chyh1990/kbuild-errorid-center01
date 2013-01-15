@@ -1,0 +1,3 @@
+drivers/target/iscsi/iscsi_target_tq.c:69 iscsi_get_ts_from_inactive_list() info: ignoring unreachable code.
+
+2012-09-07 21:57:51 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

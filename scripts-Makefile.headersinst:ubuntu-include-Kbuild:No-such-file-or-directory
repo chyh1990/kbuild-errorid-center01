@@ -1,0 +1,4 @@
+scripts/Makefile.headersinst:18: ubuntu/include/Kbuild: No such file or directory
+
+2012-09-29 18:38:10 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig 27756fd
+2012-09-29 18:38:11 kbuild x86_64 email notified

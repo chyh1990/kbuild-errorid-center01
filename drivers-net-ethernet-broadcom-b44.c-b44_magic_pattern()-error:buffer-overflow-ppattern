@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/b44.c:1501 b44_magic_pattern() error: buffer overflow 'ppattern' 128 <= 158
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

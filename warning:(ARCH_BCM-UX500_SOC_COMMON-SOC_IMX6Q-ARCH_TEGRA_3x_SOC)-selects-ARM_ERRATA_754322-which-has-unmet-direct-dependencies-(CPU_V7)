@@ -1,0 +1,3 @@
+warning: (ARCH_BCM && UX500_SOC_COMMON && SOC_IMX6Q && ARCH_TEGRA_3x_SOC) selects ARM_ERRATA_754322 which has unmet direct dependencies (CPU_V7)
+
+2013-01-07 18:02:57 snb devel-snb-arm-2013-01-07-18-02:cd10aa1 arm-allnoconfig cd10aa1

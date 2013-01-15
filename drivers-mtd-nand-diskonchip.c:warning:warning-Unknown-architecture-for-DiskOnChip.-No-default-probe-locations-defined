@@ -1,0 +1,3 @@
+drivers/mtd/nand/diskonchip.c:57:2: warning: #warning Unknown architecture for DiskOnChip. No default probe locations defined [-Wcpp]
+
+2012-07-24 19:39:51 bee sparc /cc/kernel-tests/commit-list/acpi:next:2eb119f f197ac13f6eeb351b31250b9ab7d0da17434ea36

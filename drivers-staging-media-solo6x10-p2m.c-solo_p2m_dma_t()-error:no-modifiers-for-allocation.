@@ -1,0 +1,3 @@
+drivers/staging/media/solo6x10/p2m.c:53 solo_p2m_dma_t() error: no modifiers for allocation.
+
+2013-01-09 13:26:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+fs/notify/fanotify/fanotify.c:207:32: warning: 'marks_ignored_mask' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-22 22:40:01 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s371 8afd519

@@ -1,0 +1,3 @@
+block/genhd.c:1089 disk_expand_part_tbl() error: we previously assumed 'old_ptbl' could be null (see line 1069)
+
+2013-01-09 13:27:17 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+net/batman-adv/vis.c:414:22: sparse: cast to restricted __be32
+
+2012-09-01 03:31:15 snb input:next:bd68dfe i386-allmodconfig bd68dfe

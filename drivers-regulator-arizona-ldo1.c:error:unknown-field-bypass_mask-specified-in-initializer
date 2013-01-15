@@ -1,0 +1,3 @@
+drivers/regulator/arizona-ldo1.c:55:2: error: unknown field 'bypass_mask' specified in initializer
+
+2012-08-29 02:25:31 kbuild regulator:for-next:2476106 x86_64-allmodconfig 980daf5

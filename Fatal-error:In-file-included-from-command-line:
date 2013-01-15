@@ -1,0 +1,5 @@
+Fatal error: In file included from <command-line>:0:0:
+
+2012-07-23 21:23:39 lkp-mb01 parisc /cc/kernel-tests/commit-list/hwmon:hwmon-staging:e9f7bcd e9f7bcd235a21355731e0ee829b9b99d488a1e0f
+2012-07-23 21:23:39 lkp-mb01 parisc /cc/kernel-tests/commit-list/next:akpm:2c57d1e 2304a5d3a40c74deb7fa3fa6380912b9330b706a
+2012-08-06 18:49:53 bee x86_64 92d6d09f4fa3b16c1f415a7d0a1a5c8e3d0cd5c8 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e

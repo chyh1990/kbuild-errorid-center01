@@ -1,0 +1,3 @@
+include/linux/mtd/cfi.h:361:26: sparse: restricted __le32 degrades to integer
+
+2012-08-30 22:38:41 snb rcu:rcu:next:17da987 i386-allmodconfig c763ab1

@@ -1,0 +1,3 @@
+drivers/md/persistent-data/dm-btree.c:355:28: warning: 'rkey' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 13:54:31 bee yinghai:master:483ac9c i386-randconfig-b034 483ac9c

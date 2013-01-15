@@ -1,0 +1,3 @@
+sound/soc/codecs/wm0010.c:665 wm0010_boot() warn: possible memory leak of 'img'
+
+2012-09-08 11:52:15 kbuild asoc:for-next:1c5ccd2 i386-allyesconfig 1c5ccd2

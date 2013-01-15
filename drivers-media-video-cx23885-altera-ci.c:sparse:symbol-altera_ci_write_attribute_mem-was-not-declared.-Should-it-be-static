@@ -1,0 +1,3 @@
+drivers/media/video/cx23885/altera-ci.c:307:5: sparse: symbol 'altera_ci_write_attribute_mem' was not declared. Should it be static?
+
+2012-07-23 21:35:19 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

@@ -1,0 +1,4 @@
+drivers/block/rbd.c:856:18: warning: 'tail' may be used uninitialized in this function [-Wuninitialized]
+
+2012-10-19 08:27:30 snb wq:for-next:e65120f m68k-allmodconfig e65120f
+2012-10-19 08:27:33 snb m68k email notified

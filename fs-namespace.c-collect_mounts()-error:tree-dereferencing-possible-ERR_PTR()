@@ -1,0 +1,3 @@
+fs/namespace.c:1316 collect_mounts() error: 'tree' dereferencing possible ERR_PTR()
+
+2012-09-13 01:36:32 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

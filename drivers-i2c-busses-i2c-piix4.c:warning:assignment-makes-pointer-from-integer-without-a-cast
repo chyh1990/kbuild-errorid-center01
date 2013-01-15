@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-piix4.c:551:7: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-09-25 23:05:31 bee samsung:v4l-next:fa54a52 parisc-allyesconfig 1cd2c27

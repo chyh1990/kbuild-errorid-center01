@@ -1,0 +1,3 @@
+drivers/staging/cxt1e1/comet_tables.c:368:13: sparse: symbol 'TWV_E1_75Ohm' was not declared. Should it be static?
+
+2013-01-09 13:05:51 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

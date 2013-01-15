@@ -1,0 +1,3 @@
+warning: (COMPAT) selects COMPAT_BINFMT_ELF which has unmet direct dependencies (COMPAT && BINFMT_ELF)
+
+2013-01-09 13:21:08 bee next:akpm:ef2dca2 sparc64-allnoconfig ef2dca2

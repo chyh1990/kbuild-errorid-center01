@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/ieee80211.h:745:3: warning: '______f' is static but declared in inline function 'ieee80211_is_empty_essid' which is not static [enabled by default]
+
+2012-07-22 14:52:33 kbuild i386 /cc/kernel-tests/commit-list/tip:x86:boot:bd448d4 9f4e4392cbf72d731a489a3217fe810820b8ba96

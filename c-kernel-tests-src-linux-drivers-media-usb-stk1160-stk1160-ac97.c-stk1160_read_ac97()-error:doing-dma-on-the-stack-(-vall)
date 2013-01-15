@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/media/usb/stk1160/stk1160-ac97.c:67 stk1160_read_ac97() error: doing dma on the stack (&vall)
+
+2013-01-07 12:25:20 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

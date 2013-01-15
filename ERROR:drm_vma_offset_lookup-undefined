@@ -1,0 +1,4 @@
+ERROR: "drm_vma_offset_lookup" [drivers/gpu/drm/drm.ko] undefined!
+
+2012-12-19 08:28:56 snb drm:drm-vma-manager:584e34e x86_64-randconfig-s503 1d903d4
+2012-12-19 09:13:49 snb drm:drm-vma-manager:6447f04 x86_64-randconfig-s504 965528a

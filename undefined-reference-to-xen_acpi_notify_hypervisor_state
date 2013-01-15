@@ -1,0 +1,5 @@
+(.init.text+0x97d): undefined reference to `xen_acpi_notify_hypervisor_state'
+
+2012-10-01 21:32:14 kbuild xen:stable:for-linus-3.7:ae1659e x86_64-allmodconfig 77bfb47
+2012-10-01 21:32:15 kbuild x86_64 email notified
+2012-10-01 21:41:24 kbuild xen:linux-next:aafef47 x86_64-allmodconfig aafef47

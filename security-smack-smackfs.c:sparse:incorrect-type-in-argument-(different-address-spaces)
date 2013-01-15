@@ -1,0 +1,3 @@
+security/smack/smackfs.c:1586:52: sparse: incorrect type in argument 1 (different address spaces)
+
+2012-12-01 11:26:28 snb devel-snb-i386-2012-12-01-10-22:0d4fde0 i386-allmodconfig 0d4fde0

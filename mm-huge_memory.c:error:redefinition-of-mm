@@ -1,0 +1,5 @@
+mm/huge_memory.c:2675:20: error: redefinition of 'mm'
+
+2012-11-27 16:00:02 kbuild next:akpm:8c02459 x86_64-allmodconfig b395043
+2012-11-27 16:06:12 kbuild x86_64 email notified
+2012-11-28 15:10:06 kbuild next:akpm:bd3b426 x86_64-allmodconfig f24b072

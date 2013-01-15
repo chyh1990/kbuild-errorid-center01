@@ -1,0 +1,3 @@
+drivers/scsi/be2iscsi/be_main.c:4386:6: sparse: symbol 'beiscsi_hba_attrs_init' was not declared. Should it be static?
+
+2012-09-15 23:46:27 snb scsi:for-next:71cfff4 i386-allmodconfig 99bc5d5

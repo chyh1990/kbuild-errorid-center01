@@ -1,0 +1,6 @@
+include/linux/mutex.h:130:2: error: implicit declaration of function '_elide_abort' [-Werror=implicit-function-declaration]
+
+2012-10-06 10:06:47 inn internal-hle:hle36:combined:c8d7f79 x86_64-allmodconfig 2d7ad18
+2012-10-06 10:06:47 inn x86_64 email notified
+2012-10-21 15:49:24 inn internal-hle:hle37:spinlock:ffe5748 x86_64-allmodconfig 5239c49
+2012-10-24 10:03:47 inn internal-hle:hle37:spinlock:f9ae3ae i386-alldefconfig 5239c49

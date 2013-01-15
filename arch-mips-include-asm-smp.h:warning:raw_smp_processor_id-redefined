@@ -1,0 +1,3 @@
+arch/mips/include/asm/smp.h:26:0: warning: "raw_smp_processor_id" redefined [enabled by default]
+
+2012-09-27 09:32:21 bee s390:features:c397031 mips-allyesconfig 382b736

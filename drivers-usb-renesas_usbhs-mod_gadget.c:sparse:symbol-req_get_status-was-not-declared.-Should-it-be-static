@@ -1,0 +1,3 @@
+drivers/usb/renesas_usbhs/mod_gadget.c:375:28: sparse: symbol 'req_get_status' was not declared. Should it be static?
+
+2013-01-09 13:17:19 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,12 @@
+ERROR: "allnodes" undefined!
+
+2012-11-27 08:39:46 bee char-misc:char-misc-next:70e78c4 i386-randconfig-b765 70e78c4
+2012-11-27 08:55:30 lkp-mb01 devel-lkp-mb01-i386-2012-11-27-08-37:7e26430 i386-randconfig-m045 7e26430
+2012-11-27 23:15:40 kbuild char-misc:char-misc-next:962b686 powerpc-allmodconfig 962b686
+2012-11-28 15:41:52 kbuild next:master:c2b2c8c powerpc-allmodconfig c2b2c8c
+2012-11-28 20:01:13 kbuild next:akpm:bd3b426 powerpc-allmodconfig bd3b426
+2012-11-29 17:48:29 bee next:master:a283d97 i386-randconfig-b784 a283d97
+2012-11-29 18:12:40 bee next:akpm:dc9e382 i386-randconfig-b784 dc9e382
+2012-11-30 15:30:52 bee next:master:85924a0 i386-randconfig-b784 85924a0
+2012-11-30 15:54:41 bee next:akpm:cfb65da i386-randconfig-b784 cfb65da
+2012-12-01 09:35:36 inn internal-ashishki:ci-watup:7a4d9f0 powerpc-allmodconfig a283d97

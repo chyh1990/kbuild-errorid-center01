@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/dtt200u.c:84 dtt200u_rc_query() error: doing dma on the stack (key)
+
+2013-01-09 13:27:11 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

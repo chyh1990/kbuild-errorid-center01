@@ -1,0 +1,4 @@
+arch/powerpc/platforms/cell/spufs/coredump.c:138:2: error: 'file' undeclared (first use in this function)
+
+2012-08-22 12:29:41 kbuild vfs:master:4742c0e powerpc-allmodconfig 4742c0e
+2012-08-22 12:29:41 kbuild powerpc email notified

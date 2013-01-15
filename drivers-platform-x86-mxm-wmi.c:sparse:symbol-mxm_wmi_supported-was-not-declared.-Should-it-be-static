@@ -1,0 +1,3 @@
+drivers/platform/x86/mxm-wmi.c:93:6: sparse: symbol 'mxm_wmi_supported' was not declared. Should it be static?
+
+2013-01-09 12:53:10 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

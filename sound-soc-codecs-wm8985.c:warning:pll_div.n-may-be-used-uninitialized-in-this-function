@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8985.c:849:9: warning: 'pll_div.n' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:08 inn linus:master:974b335 x86_64-randconfig-n369 974b335

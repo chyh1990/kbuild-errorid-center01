@@ -1,0 +1,4 @@
+kernel/signal.c:1851:3-9: preceding lock on line 1849
+
+2012-09-06 14:31:10 snb signal:master:4cc1d72 i386-allmodconfig dea192b
+2012-09-06 14:31:29 snb i386 email notified

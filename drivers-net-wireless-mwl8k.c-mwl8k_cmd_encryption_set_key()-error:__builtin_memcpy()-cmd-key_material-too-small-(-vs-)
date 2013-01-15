@@ -1,0 +1,3 @@
+drivers/net/wireless/mwl8k.c:4131 mwl8k_cmd_encryption_set_key() error: __builtin_memcpy() 'cmd->key_material' too small (16 vs 32)
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

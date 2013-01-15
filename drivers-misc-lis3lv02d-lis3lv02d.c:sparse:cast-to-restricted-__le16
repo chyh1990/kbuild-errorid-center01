@@ -1,0 +1,3 @@
+drivers/misc/lis3lv02d/lis3lv02d.c:195:52: sparse: cast to restricted __le16
+
+2013-01-09 12:48:46 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

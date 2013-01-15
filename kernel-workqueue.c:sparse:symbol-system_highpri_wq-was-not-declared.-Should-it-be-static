@@ -1,0 +1,3 @@
+kernel/workqueue.c:271:25: sparse: symbol 'system_highpri_wq' was not declared. Should it be static?
+
+2013-01-09 13:14:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

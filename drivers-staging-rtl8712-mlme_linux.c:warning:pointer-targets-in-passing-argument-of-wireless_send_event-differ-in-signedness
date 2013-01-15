@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/mlme_linux.c:167:3: warning: pointer targets in passing argument 4 of 'wireless_send_event' differ in signedness [-Wpointer-sign]
+
+2012-09-27 01:57:18 bee staging:staging-next:67f2021 powerpc-allyesconfig 67f2021

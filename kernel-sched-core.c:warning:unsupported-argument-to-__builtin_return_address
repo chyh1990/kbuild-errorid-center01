@@ -1,0 +1,3 @@
+kernel/sched/core.c:3103:10: warning: unsupported argument to '__builtin_return_address' [enabled by default]
+
+2012-07-28 15:03:09 hive ia64 /cc/kernel-tests/commit-list/pci:next:63b96f7 8d20e2cfeb4a098a4dd0bd637c5ea93aa9e84983

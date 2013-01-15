@@ -1,0 +1,3 @@
+drivers/hid/hid-hyperv.c:307:5: warning: pointer targets in passing argument 3 of 'hid_input_report' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:50:17 bee hid:upstream:4cc9834 x86_64-allyesconfig 4cc9834

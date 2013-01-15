@@ -1,0 +1,4 @@
+Makefile:774: target `arch/arm/mach-spear13xx' given more than once in the same rule.
+
+2012-09-02 00:34:11 snb clk:multi-plat:087b236 arm-spear13xx_defconfig 087b236
+2012-09-02 00:34:11 snb arm email notified

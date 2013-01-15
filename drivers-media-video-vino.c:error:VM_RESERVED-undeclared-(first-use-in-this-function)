@@ -1,0 +1,6 @@
+drivers/media/video/vino.c:3953:35: error: 'VM_RESERVED' undeclared (first use in this function)
+
+2012-10-13 00:31:33 hive glommer-memcg:kmemcg-stack:31b2d8e mips-allmodconfig 31b2d8e
+2012-10-15 18:10:10 hive glommer-memcg:kmemcg-slab:ff42632 mips-allmodconfig ff42632
+2012-10-16 19:15:17 hive glommer-memcg:kmemcg-stack:191f40c mips-allmodconfig 191f40c
+2012-10-28 23:30:33 hive glommer-memcg:tmp-cache-free:c98470c mips-allmodconfig c98470c

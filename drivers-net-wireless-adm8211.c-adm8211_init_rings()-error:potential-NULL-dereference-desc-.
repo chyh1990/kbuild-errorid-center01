@@ -1,0 +1,3 @@
+drivers/net/wireless/adm8211.c:1441 adm8211_init_rings() error: potential NULL dereference 'desc'.
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

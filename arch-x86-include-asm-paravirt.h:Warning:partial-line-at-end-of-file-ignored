@@ -1,0 +1,3 @@
+arch/x86/include/asm/paravirt.h:381: Warning: partial line at end of file ignored
+
+2012-09-21 15:18:32 snb nfs:testing:9dfaead x86_64-randconfig-s363 0d79f9b

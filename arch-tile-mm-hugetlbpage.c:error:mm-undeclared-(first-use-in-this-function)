@@ -1,0 +1,6 @@
+arch/tile/mm/hugetlbpage.c:256:20: error: 'mm' undeclared (first use in this function)
+
+2012-11-09 13:36:07 snb next:master:75e0eba tile-tilegx_defconfig 75e0eba
+2012-11-09 17:51:36 snb next:akpm:6703d59 tile-tilegx_defconfig 6703d59
+2012-11-09 20:08:21 snb memcg:since-3.6:f37592d tile-tilegx_defconfig f37592d
+2012-11-10 22:25:46 snb memcg:since-3.6:d12449b tile-tilegx_defconfig d12449b

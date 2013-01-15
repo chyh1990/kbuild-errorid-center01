@@ -1,0 +1,3 @@
+drivers/ptp/ptp_pch.c:633 pch_probe() warn: 'chip->regs' was not released on error
+
+2012-10-18 13:10:38 kbuild next:master:d646959 i386-allyesconfig d646959

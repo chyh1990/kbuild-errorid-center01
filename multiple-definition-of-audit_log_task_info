@@ -1,0 +1,11 @@
+auditsc.c:(.text+0x1849): multiple definition of `audit_log_task_info'
+
+2012-12-12 16:05:54 snb devel-snb-x86_64-2012-12-12-15-50:9b48b76 x86_64-randconfig-s451 9b48b76
+2012-12-12 16:05:50 bee devel-bee-x86_64-2012-12-12-15-50:dd45af5 x86_64-allyesdebian dd45af5
+2012-12-12 16:13:50 lkp-mb01 devel-lkp-mb01-i386-2012-12-12-15-51:bad7d43 i386-randconfig-m012 bad7d43
+2012-12-12 16:16:22 bee devel-bee-i386-2012-12-12-15-50:a18dc2e i386-randconfig-b877 a18dc2e
+2012-12-12 16:17:54 bee devel-bee-sparc64-2012-12-12-15-50:4932e2b powerpc-chroma_defconfig 4932e2b
+2012-12-12 16:33:02 kbuild devel-kbuild-i386-2012-12-12-16-19:be1e7bf i386-allyesconfig be1e7bf
+2012-12-12 16:44:04 lkp-mb01 devel-lkp-mb01-s390-2012-12-12-15-51:2e57f5a s390-allmodconfig 2e57f5a
+2012-12-12 19:32:19 kbuild devel-kbuild-powerpc-2012-12-12-17-23:0b30a2a powerpc-allmodconfig 0b30a2a
+2012-12-13 00:59:19 kbuild devel-kbuild-x86_64-2012-12-13-00-46:198668c x86_64-allmodconfig 198668c

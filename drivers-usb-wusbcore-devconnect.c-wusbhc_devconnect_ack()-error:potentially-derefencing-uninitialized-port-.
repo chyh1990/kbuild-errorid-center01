@@ -1,0 +1,3 @@
+drivers/usb/wusbcore/devconnect.c:353 wusbhc_devconnect_ack() error: potentially derefencing uninitialized 'port'.
+
+2012-09-07 22:42:01 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

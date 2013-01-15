@@ -1,0 +1,4 @@
+drivers/gpu/drm/gma500/cdv_intel_dp.c:1557:27: error: 'struct drm_display_info' has no member named 'raw_edid'
+
+2012-08-24 08:07:58 kbuild drm:drm-next:3228503 x86_64-allmodconfig 451023d
+2012-08-24 08:07:58 kbuild x86_64 email notified

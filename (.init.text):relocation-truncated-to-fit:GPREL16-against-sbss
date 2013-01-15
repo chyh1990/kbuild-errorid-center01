@@ -1,0 +1,4 @@
+(.init.text+0x40bc): relocation truncated to fit: GPREL16 against `.sbss'
+
+2012-10-24 19:04:19 inn internal-alexs:master:85977f6 alpha-defconfig ec0f127
+2012-10-25 22:01:26 inn internal-alexs:master:adf16c8 alpha-defconfig bb3b8f9

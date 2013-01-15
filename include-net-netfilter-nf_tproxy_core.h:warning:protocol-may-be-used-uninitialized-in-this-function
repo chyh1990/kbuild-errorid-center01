@@ -1,0 +1,3 @@
+include/net/netfilter/nf_tproxy_core.h:75:2: warning: 'protocol' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 15:21:05 bee x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

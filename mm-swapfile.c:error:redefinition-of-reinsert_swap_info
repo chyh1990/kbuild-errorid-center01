@@ -1,0 +1,3 @@
+mm/swapfile.c:1501:13: error: redefinition of 'reinsert_swap_info'
+
+2012-12-13 15:17:03 kbuild next:akpm:41633b2 x86_64-allmodconfig 3d3a33f

@@ -1,0 +1,4 @@
+include/linux/mm.h:1538:2: error: implicit declaration of function 'pgprot_modify' [-Werror=implicit-function-declaration]
+
+2012-08-18 01:39:00 bee aa:schednuma2:fd95411 cris-allyesconfig c69043f
+2012-08-18 01:39:05 bee cris email notified

@@ -1,0 +1,3 @@
+kernel/sched/rt.c:948:26: error: 'struct rt_rq' has no member named 'tg'
+
+2012-11-19 19:33:56 bee glommer-memcg:die-cpuacct:706be1f x86_64-randconfig-x640 9f0024c

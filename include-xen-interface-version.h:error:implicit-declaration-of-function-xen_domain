@@ -1,0 +1,3 @@
+include/xen/interface/version.h:72:2: error: implicit declaration of function 'xen_domain' [-Werror=implicit-function-declaration]
+
+2012-11-29 05:36:51 bee xen:stable:for-linus-3.8:394b40f x86_64-randconfig-x701 92e3229

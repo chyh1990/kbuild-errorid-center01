@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb-v2/af9015.c:426:38: sparse: cast to restricted __le32
+
+2012-09-09 14:26:11 snb next:akpm:d28e1f3 i386-allmodconfig 313e0e8

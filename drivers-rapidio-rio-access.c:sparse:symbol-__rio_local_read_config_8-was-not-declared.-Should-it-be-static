@@ -1,0 +1,3 @@
+drivers/rapidio/rio-access.c:79:1: sparse: symbol '__rio_local_read_config_8' was not declared. Should it be static?
+
+2013-01-09 13:05:55 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

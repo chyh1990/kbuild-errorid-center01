@@ -1,0 +1,3 @@
+drivers/media/video/tm6000/tm6000-input.c:326 __tm6000_ir_int_start() warn: variable dereferenced before check 'ir' (see line 322)
+
+2012-09-07 22:42:04 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

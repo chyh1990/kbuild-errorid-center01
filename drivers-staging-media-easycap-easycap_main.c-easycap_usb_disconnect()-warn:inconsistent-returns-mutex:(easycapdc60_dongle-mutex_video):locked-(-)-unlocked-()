@@ -1,0 +1,3 @@
+drivers/staging/media/easycap/easycap_main.c:4194 easycap_usb_disconnect() warn: inconsistent returns mutex:&(easycapdc60_dongle[kd]->mutex_video): locked (4042,4047,4055,4060,4097,4107,4133,4163,4170,4194) unlocked (4179)
+
+2012-09-12 11:57:26 kbuild security:next:a40695e i386-allyesconfig a40695e

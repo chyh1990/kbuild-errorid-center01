@@ -1,0 +1,4 @@
+sound/soc/soc-core.c:1817:6: warning: unused variable 'ret' [-Wunused-variable]
+
+2012-08-10 02:58:35 lkp-mb01 i386 /cc/kernel-tests/commit-list/asoc:for-next:cd1d5e1 28d528c8dbab5c6b3cf2fc4f0e91470a9a63dbc0
+2012-08-10 02:58:36 lkp-mb01 i386 email notified

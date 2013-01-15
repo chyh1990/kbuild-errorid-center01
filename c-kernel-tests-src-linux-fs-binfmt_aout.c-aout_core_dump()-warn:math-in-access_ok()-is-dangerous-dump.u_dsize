@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/binfmt_aout.c:82 aout_core_dump() warn: math in access_ok() is dangerous 'dump.u_dsize << 12'
+
+2013-01-07 12:25:28 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

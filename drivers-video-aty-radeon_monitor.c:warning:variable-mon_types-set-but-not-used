@@ -1,0 +1,3 @@
+drivers/video/aty/radeon_monitor.c:490:8: warning: variable 'mon_types' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x070 a6df3fd

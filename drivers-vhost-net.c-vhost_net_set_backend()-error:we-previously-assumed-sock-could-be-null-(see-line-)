@@ -1,0 +1,3 @@
+drivers/vhost/net.c:863 vhost_net_set_backend() error: we previously assumed 'sock' could be null (see line 825)
+
+2013-01-09 13:28:01 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

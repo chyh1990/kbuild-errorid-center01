@@ -1,0 +1,3 @@
+drivers/target/target_core_transport.c:582:29: sparse: no member 'set_fabric_sense_len' in struct target_core_fabric_ops
+
+2012-09-18 07:59:53 snb target:for-next:0b79bb0 i386-allmodconfig 0b79bb0

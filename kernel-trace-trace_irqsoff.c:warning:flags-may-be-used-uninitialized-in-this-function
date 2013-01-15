@@ -1,0 +1,3 @@
+kernel/trace/trace_irqsoff.c:149:16: warning: 'flags' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:10:22 lkp-mb01 devel-lkp-mb01-i386-2013-01-09-11-54:6b913ee i386-randconfig-m134 6b913ee

@@ -1,0 +1,3 @@
+drivers/media/dvb-frontends/cxd2820r_c.c:309:6: warning: 'ret' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 11:47:17 snb devel-snb-x86_64-2013-01-09-11-38:b362afb x86_64-randconfig-s614 b362afb

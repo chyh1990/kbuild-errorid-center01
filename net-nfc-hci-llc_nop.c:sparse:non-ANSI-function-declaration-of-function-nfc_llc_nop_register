@@ -1,0 +1,4 @@
+net/nfc/hci/llc_nop.c:97:26: sparse: non-ANSI function declaration of function 'nfc_llc_nop_register'
+
+2012-09-14 09:44:07 snb nfc:nfc-next:73fecc5 i386-allmodconfig 9b15181
+2012-09-14 09:44:09 snb i386 email notified

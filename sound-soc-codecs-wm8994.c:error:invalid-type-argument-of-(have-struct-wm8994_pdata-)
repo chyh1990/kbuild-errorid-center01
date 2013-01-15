@@ -1,0 +1,4 @@
+sound/soc/codecs/wm8994.c:3470:29: error: invalid type argument of '->' (have 'struct wm8994_pdata')
+
+2012-11-23 23:07:22 kbuild devel-kbuild-i386-2012-11-23-23-01:de9b6e4 i386-allyesconfig de9b6e4
+2012-11-23 23:19:29 snb devel-snb-i386-2012-11-23-22-55:088be59 i386-allmodconfig 088be59

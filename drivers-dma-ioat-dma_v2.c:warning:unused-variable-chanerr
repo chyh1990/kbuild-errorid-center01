@@ -1,0 +1,3 @@
+drivers/dma/ioat/dma_v2.c:558:7: warning: unused variable 'chanerr' [-Wunused-variable]
+
+2012-09-16 21:22:06 inn alexs:master:ce9d293 i386-randconfig-i003 ce9d293

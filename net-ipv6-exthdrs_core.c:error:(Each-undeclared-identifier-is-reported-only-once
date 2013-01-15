@@ -1,0 +1,3 @@
+net/ipv6/exthdrs_core.c:188: error: (Each undeclared identifier is reported only once
+
+2012-11-10 10:18:40 snb devel-snb-arm-2012-11-10-09-57:cb1fd6e avr32-atngw100_defconfig cb1fd6e

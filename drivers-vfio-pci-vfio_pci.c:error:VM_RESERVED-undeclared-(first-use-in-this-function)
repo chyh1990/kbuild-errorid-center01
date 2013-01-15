@@ -1,0 +1,13 @@
+drivers/vfio/pci/vfio_pci.c:464:28: error: 'VM_RESERVED' undeclared (first use in this function)
+
+2012-10-05 07:03:11 kbuild glommer-memcg:kmemcg-stack:5ef6493 x86_64-allmodconfig aa011e4
+2012-10-05 07:04:04 kbuild x86_64 email notified
+2012-10-09 16:30:35 kbuild linus:master:9e2d865 x86_64-allmodconfig 9e2d865
+2012-10-10 06:22:35 snb ext3:for_testing:6c29c50 i386-allmodconfig 6c29c50
+2012-10-11 00:00:11 kbuild aarch64:soc-armv8-model:a72f0b9 i386-allyesconfig a72f0b9
+2012-10-11 02:05:45 kbuild xen:stable:for-linus-3.7-uapi:3245103 x86_64-allmodconfig 3245103
+2012-10-11 02:06:08 kbuild xen:linux-next:38480dc x86_64-allmodconfig d6e2fa2
+2012-10-11 03:51:43 hive ext3:for_linus:6c29c50 ia64-allmodconfig 6c29c50
+2012-10-12 12:09:27 kbuild tip:x86:uapi:8d2c63c x86_64-allmodconfig 8d2c63c
+2012-10-12 14:05:39 kbuild next:akpm:04b956f x86_64-allmodconfig f4c9c0e
+2012-10-12 21:36:35 kbuild xen:linux-next:79fef7a x86_64-allmodconfig 79fef7a

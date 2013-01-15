@@ -1,0 +1,9 @@
+drivers/input/mouse/gpio_mouse.c:147:4: error: implicit declaration of function 'gpio_free' [-Werror=implicit-function-declaration]
+
+2012-10-31 15:49:11 bee hid:for-3.7:upstream-fixes:9d935b9 xtensa-allyesconfig 9d935b9
+2012-10-31 17:55:20 bee hid:for-3.7:upstream-fixes:8d80da9 xtensa-allyesconfig 8d80da9
+2012-11-01 18:41:55 bee hid:for-3.7:upstream-fixes:df0cfd6 xtensa-allyesconfig df0cfd6
+2012-11-11 06:43:51 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-12 22:55:52 bee hid:for-3.7:upstream-fixes:6b90466 xtensa-allyesconfig 6b90466
+2012-11-19 11:30:01 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c
+2012-11-23 06:55:25 bee hid:for-3.7:upstream-fixes:b8a8f51 xtensa-allyesconfig b8a8f51

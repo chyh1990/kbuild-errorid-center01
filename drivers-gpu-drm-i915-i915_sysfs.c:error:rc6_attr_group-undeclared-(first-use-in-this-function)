@@ -1,0 +1,5 @@
+drivers/gpu/drm/i915/i915_sysfs.c:413:49: error: 'rc6_attr_group' undeclared (first use in this function)
+
+2012-09-19 05:33:21 bee drm-intel:drm-intel-nightly:f0db8c3 i386-randconfig-b034 f0db8c3
+2012-09-19 06:00:03 bee i386 email notified
+2012-09-23 17:08:46 snb next:akpm:69921c3 x86_64-randconfig-s371 1b63dd5

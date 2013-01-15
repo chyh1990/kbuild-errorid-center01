@@ -1,0 +1,3 @@
+drivers/tty/serial/ifx6x60.c:516:2: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
+
+2012-11-16 09:00:53 bee tty:tty-next:e8823f1 i386-randconfig-b691 e8823f1

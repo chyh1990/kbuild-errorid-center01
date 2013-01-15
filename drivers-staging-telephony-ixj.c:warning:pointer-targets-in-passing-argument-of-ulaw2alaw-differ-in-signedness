@@ -1,0 +1,3 @@
+drivers/staging/telephony/ixj.c:2788:3: warning: pointer targets in passing argument 1 of 'ulaw2alaw' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:42 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

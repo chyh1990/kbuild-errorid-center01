@@ -1,0 +1,7 @@
+drivers/staging/ipack/devices/ipoctal.c:614:22: error: invalid type argument of '->' (have 'struct ktermios')
+
+2012-07-28 03:37:29 lkp-mb01 s390 /cc/kernel-tests/commit-list/tty:tty-next:d155255 d155255a344c417acad74156654295a2964e6b81
+2012-08-11 06:37:57 snb i386 c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:7f0bc6a
+2012-08-15 06:23:05 bee i386 c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:640de63
+2012-08-17 03:11:16 kbuild tty:tty-next:88ed2a6 i386-randconfig-k724 c87985a
+2012-08-17 04:01:06 hive tty:tty-next:63d4869 x86_64-randconfig-h714 c87985a

@@ -1,0 +1,3 @@
+kernel/trace/trace_events.c:124:6: sparse: symbol 'trace_destroy_fields' was not declared. Should it be static?
+
+2013-01-09 12:57:49 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

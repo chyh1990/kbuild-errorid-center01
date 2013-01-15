@@ -1,0 +1,3 @@
+drivers/pci/pci-sysfs.c:504:25: sparse: symbol 'max_vfs_attr' was not declared. Should it be static?
+
+2012-10-07 02:02:13 snb yinghai:for-pci-sysfs-sriov:86b0a8c i386-allmodconfig 86b0a8c

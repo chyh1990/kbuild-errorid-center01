@@ -1,0 +1,23 @@
+include/linux/dmaengine.h:659: error: (Each undeclared identifier is reported only once
+
+2012-09-23 02:25:44 snb sound-unstable:master:b810190 avr32-atngw100_defconfig b810190
+2012-09-23 02:49:29 snb devel-snb-arm-2012-09-23-02-34:10f2ae1 avr32-atngw100_defconfig 10f2ae1
+2012-09-23 03:31:45 snb sound:master:6eb16ec avr32-atngw100_defconfig 6eb16ec
+2012-09-23 07:39:06 snb asoc:for-3.7:a89be93 avr32-atngw100_defconfig a89be93
+2012-09-23 19:00:37 snb sound:topic:hda-ca0132-dsp:9e8e865 avr32-atngw100_defconfig 9e8e865
+2012-09-24 00:45:56 snb devel-snb-arm-2012-09-24-00-01:6e2b456 avr32-atngw100_defconfig 6e2b456
+2012-09-26 20:50:48 snb devel-snb-arm-2012-09-26-20-41:6bd0adb avr32-atngw100_defconfig 6bd0adb
+2012-09-27 03:27:36 snb asoc:for-next:a1327eb avr32-atngw100_defconfig a1327eb
+2012-09-27 04:42:48 snb devel-snb-arm-2012-09-27-04-16:1922b19 avr32-atngw100_defconfig 1922b19
+2012-09-28 02:01:53 snb devel-snb-arm-2012-09-28-01-42:4c8e245 avr32-atngw100_defconfig 4c8e245
+2012-09-30 06:57:40 snb asoc:for-3.7:9911f7f avr32-atngw100_defconfig 9911f7f
+2012-10-05 13:38:11 snb asoc:topic:cs4271:d24f734 avr32-atngw100_defconfig d24f734
+2012-10-05 16:37:18 snb asoc:topic:fsi:1aaf67a avr32-atngw100_defconfig 1aaf67a
+2012-10-05 19:15:06 snb asoc:topic:twl6040:07ac229 avr32-atngw100_defconfig 07ac229
+2012-10-05 22:12:32 snb asoc:topic:samsung:f9818c8 avr32-atngw100_defconfig f9818c8
+2012-10-06 04:35:19 snb asoc:topic:wm2200:6e87bad avr32-atngw100_defconfig 6e87bad
+2012-10-10 10:01:48 snb asoc:for-3.7:961a7ae avr32-atngw100_defconfig 961a7ae
+2012-10-10 23:42:06 snb asoc:topic:wm8994:777a837 avr32-atngw100_defconfig 777a837
+2012-10-11 15:56:38 snb asoc:topic:wm8994:5797fab avr32-atngw100_defconfig 5797fab
+2012-10-17 18:59:06 snb asoc:for-3.7:9233ef6 avr32-atngw100_defconfig 9233ef6
+2012-10-28 05:55:03 snb asoc:topic:adsp:2882fcb avr32-atngw100_defconfig 2882fcb

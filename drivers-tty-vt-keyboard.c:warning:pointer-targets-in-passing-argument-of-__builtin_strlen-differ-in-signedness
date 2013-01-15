@@ -1,0 +1,3 @@
+drivers/tty/vt/keyboard.c:1968:3: warning: pointer targets in passing argument 1 of '__builtin_strlen' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:39:24 bee tty:tty-next:4dac211 m68k-allyesconfig 4dac211

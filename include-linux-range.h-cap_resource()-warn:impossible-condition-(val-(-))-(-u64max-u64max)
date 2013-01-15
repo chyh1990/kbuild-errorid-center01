@@ -1,0 +1,3 @@
+include/linux/range.h:25 cap_resource() warn: impossible condition '(val > (~0)) => (0-u64max > u64max)'
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+./kbuild-test.sh: notify_problems, line 65
+
+2012-09-19 20:51:45 lkp-mb01 hid:wacom:8908dd8 m32r-mappi3.smp_defconfig 8908dd8

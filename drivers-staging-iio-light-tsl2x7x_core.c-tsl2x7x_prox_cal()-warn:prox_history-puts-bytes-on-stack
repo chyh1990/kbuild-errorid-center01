@@ -1,0 +1,3 @@
+drivers/staging/iio/light/tsl2x7x_core.c:918 tsl2x7x_prox_cal() warn: 'prox_history' puts 804 bytes on stack
+
+2013-01-09 13:27:30 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+drivers/input/touchscreen/bu21013_ts.c:510:2: error: assignment of member 'irq' in read-only object
+
+2012-11-01 00:25:58 snb ux500:dt-snowball:b78d8db x86_64-randconfig-s201 5f476b4
+2012-11-01 00:26:40 snb x86_64 email notified

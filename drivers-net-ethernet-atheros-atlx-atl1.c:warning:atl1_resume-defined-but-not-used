@@ -1,0 +1,3 @@
+drivers/net/ethernet/atheros/atlx/atl1.c:2861:12: warning: 'atl1_resume' defined but not used [-Wunused-function]
+
+2012-10-15 23:50:04 hive arm-perf:hugetlb:devel:17aea8e ia64-allmodconfig 17aea8e

@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/perf_event_intel.c:136:2: error: 'HSW_INTX_CHECKPOINTED' undeclared here (not in a function)
+
+2012-08-20 10:51:49 kbuild hle:hle35:combined:9b6be44 i386-randconfig-k750 e5dc7dd

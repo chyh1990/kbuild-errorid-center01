@@ -1,0 +1,4 @@
+drivers/irqchip/percpu-mux.c:46:2: error: implicit declaration of function 'irq_data_get_irq_chip_data' [-Werror=implicit-function-declaration]
+
+2012-11-21 19:37:30 bee arm-perf:irq:a39b766 s390-allyesconfig a39b766
+2012-11-21 20:24:31 lkp-mb01 devel-lkp-mb01-s390-2012-11-21-19-36:71dcc5b s390-allmodconfig 71dcc5b

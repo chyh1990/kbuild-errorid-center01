@@ -1,0 +1,5 @@
+pd6729.c:(.text+0x1ffa654): relocation truncated to fit: R_PPC64_REL24 against symbol `_savegpr0_23' defined in .text.save.restore section in arch/powerpc/lib/built-in.o
+
+2012-09-28 20:47:22 bee mmc:mmc-next:0f59ede powerpc-allyesconfig e919fd2
+2012-09-28 20:47:22 bee mmc:mmc-next:0f59ede powerpc-allyesconfig e919fd2 email notified
+2012-09-28 20:52:34 bee powerpc email notified

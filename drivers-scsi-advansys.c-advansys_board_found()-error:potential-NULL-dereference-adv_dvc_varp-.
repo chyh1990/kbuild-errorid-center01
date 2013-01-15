@@ -1,0 +1,3 @@
+drivers/scsi/advansys.c:12067 advansys_board_found() error: potential NULL dereference 'adv_dvc_varp'.
+
+2013-01-09 13:26:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

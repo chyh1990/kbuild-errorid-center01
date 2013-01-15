@@ -1,0 +1,3 @@
+drivers/char/tpm/tpm_stm_st33_i2c.c:848 tpm_st33_i2c_pm_resume() warn: should this be a bitwise op?
+
+2012-12-06 02:43:53 kbuild tpmdd:tpmdd-12-05-12:bf0b5c2 i386-allyesconfig bf0b5c2

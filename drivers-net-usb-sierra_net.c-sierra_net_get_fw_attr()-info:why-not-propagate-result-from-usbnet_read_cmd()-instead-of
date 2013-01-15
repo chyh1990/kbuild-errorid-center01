@@ -1,0 +1,3 @@
+drivers/net/usb/sierra_net.c:647 sierra_net_get_fw_attr() info: why not propagate 'result' from usbnet_read_cmd() instead of -5?
+
+2012-10-30 21:05:13 kbuild netdev-next:master:ac61d51 i386-allyesconfig ac61d51

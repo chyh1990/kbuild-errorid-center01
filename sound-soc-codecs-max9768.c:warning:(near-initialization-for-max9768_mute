@@ -1,0 +1,3 @@
+sound/soc/codecs/max9768.c:118:2: warning: (near initialization for 'max9768_mute[0].name') [-Wpointer-sign]
+
+2012-09-25 21:07:40 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

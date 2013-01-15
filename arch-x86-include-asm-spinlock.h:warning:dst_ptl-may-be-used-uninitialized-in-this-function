@@ -1,0 +1,3 @@
+arch/x86/include/asm/spinlock.h:93:23: warning: 'dst_ptl' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 17:14:53 bee yinghai:for-pci-root-bus-hotplug-part2:b25f70f i386-randconfig-b035 b25f70f

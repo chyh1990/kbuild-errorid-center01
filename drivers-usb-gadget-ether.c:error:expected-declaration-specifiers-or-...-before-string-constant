@@ -1,0 +1,5 @@
+drivers/usb/gadget/ether.c:377:20: error: expected declaration specifiers or '...' before string constant
+
+2012-09-10 21:53:20 snb balbi-usb:gadget:7a7322b x86_64-randconfig-s284 721e2e9
+2012-09-10 21:57:41 snb balbi-usb:gadget:ed9cbda x86_64-randconfig-s284 ed9cbda
+2012-09-10 22:06:22 snb balbi-usb:master:d9c8890 x86_64-randconfig-s284 ad8775e

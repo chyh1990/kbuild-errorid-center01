@@ -1,0 +1,4 @@
+kernel/sched/fair.c:4277:6: error: 'struct sd_lb_stats' has no member named 'min_load_per_task'
+
+2012-12-02 00:12:08 bee alexs:master:5a17a70 x86_64-allyesconfig cf7a963
+2012-12-02 00:34:41 bee alexs:master:5b10f7c powerpc-chroma_defconfig 5b10f7c

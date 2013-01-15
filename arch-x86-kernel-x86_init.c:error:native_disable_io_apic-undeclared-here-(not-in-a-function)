@@ -1,0 +1,4 @@
+arch/x86/kernel/x86_init.c:127:14: error: 'native_disable_io_apic' undeclared here (not in a function)
+
+2012-08-08 00:27:14 bee i386 /cc/kernel-tests/commit-list/iommu:ioapic-cleanups:25b140f 4bdad0620f415dc86f64773af3dea6bead46be92
+2012-08-08 00:27:15 bee i386 email notified

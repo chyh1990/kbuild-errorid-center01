@@ -1,0 +1,3 @@
+drivers/cpuidle/cpuidle.c:370 __cpuidle_register_device() warn: variable dereferenced before check 'dev' (see line 367)
+
+2012-09-07 22:41:56 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

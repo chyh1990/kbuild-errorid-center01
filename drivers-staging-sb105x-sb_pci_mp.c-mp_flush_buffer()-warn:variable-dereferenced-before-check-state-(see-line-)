@@ -1,0 +1,3 @@
+drivers/staging/sb105x/sb_pci_mp.c:695 mp_flush_buffer() warn: variable dereferenced before check 'state' (see line 692)
+
+2012-11-17 00:02:05 kbuild devel-kbuild-i386-2012-11-16-23-17:b134b58 i386-allyesconfig b134b58

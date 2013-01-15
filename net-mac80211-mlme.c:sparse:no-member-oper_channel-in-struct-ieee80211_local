@@ -1,0 +1,3 @@
+net/mac80211/mlme.c:2612:57: sparse: no member 'oper_channel' in struct ieee80211_local
+
+2012-09-11 16:50:06 snb mac80211-next:wip:cd81c8b i386-allmodconfig 109be82

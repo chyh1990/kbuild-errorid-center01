@@ -1,0 +1,4 @@
+mm/page_alloc.c:622:2: error: implicit declaration of function 'autonuma_migrate_page_remove' [-Werror=implicit-function-declaration]
+
+2012-09-30 16:18:10 kbuild aa:autonuma:f710de9 x86_64-allmodconfig 166b317
+2012-09-30 16:39:13 kbuild x86_64 email notified

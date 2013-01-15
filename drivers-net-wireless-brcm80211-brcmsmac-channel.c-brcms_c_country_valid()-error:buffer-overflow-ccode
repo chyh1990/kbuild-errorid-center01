@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/channel.c:187 brcms_c_country_valid() error: buffer overflow 'ccode' 2 <= 2
+
+2013-01-09 13:28:01 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

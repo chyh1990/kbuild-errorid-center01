@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_dcb.c:2175 bnx2x_dcbnl_get_numtcs() warn: assigning (-22) to unsigned variable 'rval'
+
+2013-01-09 13:27:32 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

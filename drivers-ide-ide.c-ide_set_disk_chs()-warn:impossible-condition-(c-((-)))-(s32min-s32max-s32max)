@@ -1,0 +1,3 @@
+drivers/ide/ide.c:263 ide_set_disk_chs() warn: impossible condition '(c > ((~0 >> 1))) => (s32min-s32max > s32max)'
+
+2013-01-09 13:27:18 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

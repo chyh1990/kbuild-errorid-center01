@@ -1,0 +1,4 @@
+drivers/target/target_core_transport.c:582:22: error: 'struct target_core_fabric_ops' has no member named 'set_fabric_sense_len'
+
+2012-09-18 07:39:53 kbuild target:for-next:0b79bb0 x86_64-allmodconfig 0b79bb0
+2012-09-18 07:44:56 kbuild x86_64 email notified

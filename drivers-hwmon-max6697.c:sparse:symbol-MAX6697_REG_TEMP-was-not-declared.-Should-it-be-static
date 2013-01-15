@@ -1,0 +1,3 @@
+drivers/hwmon/max6697.c:36:10: sparse: symbol 'MAX6697_REG_TEMP' was not declared. Should it be static?
+
+2012-12-14 02:15:23 snb devel-snb-i386-2012-12-14-01-34:a2891b0 i386-allmodconfig a2891b0

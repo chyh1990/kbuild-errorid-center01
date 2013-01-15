@@ -1,0 +1,4 @@
+mm/migrate.c:1628:2: error: incompatible type for argument 3 of 'update_mmu_cache_pmd'
+
+2012-12-10 18:47:52 kbuild next:akpm:92146c5 x86_64-allmodconfig baa5d67
+2012-12-18 11:18:49 kbuild next:akpm:0abb864 x86_64-allmodconfig 0abb864

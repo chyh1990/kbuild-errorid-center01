@@ -1,0 +1,3 @@
+fs/file.c:26:1: warning: empty declaration
+
+2012-10-03 18:55:08 snb uapi:uapi-split:72541c7 openrisc-or1ksim_defconfig 72541c7

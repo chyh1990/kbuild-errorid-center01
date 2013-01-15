@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/bnx2x/bnx2x_sriov.c:1803:3: warning: right shift count >= width of type [enabled by default]
+
+2013-01-02 18:57:47 bee net-next:master:8395be5 parisc-allyesconfig 8395be5

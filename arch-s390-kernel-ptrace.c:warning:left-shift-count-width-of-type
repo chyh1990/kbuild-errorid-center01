@@ -1,0 +1,3 @@
+arch/s390/kernel/ptrace.c:63:4: warning: left shift count >= width of type [enabled by default]
+
+2012-09-12 18:02:08 lkp-mb01 next:akpm:637f21d s390-allnoconfig 0cadcf6

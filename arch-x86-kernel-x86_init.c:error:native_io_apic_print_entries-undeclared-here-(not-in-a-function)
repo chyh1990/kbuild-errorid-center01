@@ -1,0 +1,4 @@
+arch/x86/kernel/x86_init.c:128:20: error: 'native_io_apic_print_entries' undeclared here (not in a function)
+
+2012-08-08 00:31:18 bee i386 /cc/kernel-tests/commit-list/iommu:ioapic-cleanups:25b140f ad977cc10d21dc26de5344670095bff061352af2
+2012-08-08 00:31:19 bee i386 email notified

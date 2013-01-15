@@ -1,0 +1,8 @@
+fs/xfs/xfs_log_recover.c:1019:4: error: implicit declaration of function 'xlog_assign_atomic_lsn' [-Werror=implicit-function-declaration]
+
+2012-07-28 06:28:51 bee xtensa /cc/kernel-tests/commit-list/nfsd:nfsd-next:96d6d59 3b6e2723f32de42028617f2c99b244ccd72cd959
+2012-07-30 09:56:44 bee xtensa 800179c9b8a1e796e441674776d11cd4c05d61d7 /cc/kernel-tests/commit-list/vfs:for-linus:bf88489
+2012-07-30 13:19:18 bee xtensa 73bcc49959e4e40911dd0dd634bf1b353827df66 /cc/kernel-tests/commit-list/edac:master:c2078e4
+2012-09-01 22:49:56 snb slave-dma:next:b5f1433 m68k-allmodconfig b707c65
+2012-09-01 22:55:05 snb asoc:for-next:ba846b3 m68k-allmodconfig c921928
+2012-09-20 10:26:09 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

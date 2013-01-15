@@ -1,0 +1,3 @@
+fs/cifs/file.c:708:1: sparse: symbol 'cifs_find_fid_lock_conflict' was not declared. Should it be static?
+
+2012-09-15 05:11:24 snb cifs:for-next:c246704 i386-allmodconfig 2485496

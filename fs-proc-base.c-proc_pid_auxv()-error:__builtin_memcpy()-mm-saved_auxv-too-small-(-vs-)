@@ -1,0 +1,3 @@
+fs/proc/base.c:250 proc_pid_auxv() error: __builtin_memcpy() 'mm->saved_auxv' too small (176 vs 4096)
+
+2013-01-09 13:27:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

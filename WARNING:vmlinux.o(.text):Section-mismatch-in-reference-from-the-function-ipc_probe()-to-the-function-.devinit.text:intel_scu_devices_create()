@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x7a26d3): Section mismatch in reference from the function ipc_probe() to the function .devinit.text:intel_scu_devices_create()
+
+2012-07-22 15:03:49 kbuild i386 /cc/kernel-tests/commit-list/tip:x86:boot:bd448d4 e605a425975b073aafebbb2c09d3ae266be2fd3e

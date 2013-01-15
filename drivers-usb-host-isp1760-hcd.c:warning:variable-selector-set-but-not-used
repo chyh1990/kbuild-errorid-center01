@@ -1,0 +1,3 @@
+drivers/usb/host/isp1760-hcd.c:1845:11: warning: variable 'selector' set but not used [-Wunused-but-set-variable]
+
+2012-09-25 23:03:19 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

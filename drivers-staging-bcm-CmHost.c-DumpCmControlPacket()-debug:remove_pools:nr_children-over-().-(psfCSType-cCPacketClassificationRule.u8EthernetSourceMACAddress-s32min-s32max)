@@ -1,0 +1,3 @@
+drivers/staging/bcm/CmHost.c:1281 DumpCmControlPacket() debug: remove_pools: nr_children over 4000 (8255). (psfCSType->cCPacketClassificationRule.u8EthernetSourceMACAddress s32min-s32max)
+
+2012-12-19 09:58:32 kbuild drm:drm-vma-manager:f6085a3 i386-allyesconfig f6085a3

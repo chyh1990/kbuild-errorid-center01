@@ -1,0 +1,3 @@
+mm/mlock.c:440 do_mlock_pages() error: potential NULL dereference 'vma'.
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

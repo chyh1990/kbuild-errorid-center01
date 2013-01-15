@@ -1,0 +1,4 @@
+/usr/local/gcc-4.6.3-nolibc/hppa-linux/bin/hppa-linux-objdump: 'kernel/sched/.tmp_core.o': No such file
+
+2012-09-29 02:53:48 bee aa:autonuma:49e1bcb parisc-allyesconfig f35d785
+2012-09-29 05:31:29 bee aa:autonuma:c6047ec parisc-allyesconfig 55734cc

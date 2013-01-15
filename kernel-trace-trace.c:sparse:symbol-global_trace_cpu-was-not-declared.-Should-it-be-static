@@ -1,0 +1,3 @@
+kernel/trace/trace.c:191:8: sparse: symbol 'global_trace_cpu' was not declared. Should it be static?
+
+2013-01-09 12:57:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

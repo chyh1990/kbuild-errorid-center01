@@ -1,0 +1,3 @@
+drivers/tty/serial/pmac_zilog.c:940:4: warning: pointer targets in passing argument 4 of 'request_irq' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:39:24 bee tty:tty-next:4dac211 m68k-allyesconfig 4dac211

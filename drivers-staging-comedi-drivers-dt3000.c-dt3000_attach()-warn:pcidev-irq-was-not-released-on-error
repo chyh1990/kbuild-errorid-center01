@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/dt3000.c:841 dt3000_attach() warn: 'pcidev->irq' was not released on error
+
+2012-09-12 11:57:16 kbuild security:next:a40695e i386-allyesconfig a40695e

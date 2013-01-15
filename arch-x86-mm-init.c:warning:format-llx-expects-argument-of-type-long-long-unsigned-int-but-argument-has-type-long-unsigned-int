@@ -1,0 +1,3 @@
+arch/x86/mm/init.c:301:3: warning: format '%llx' expects argument of type 'long long unsigned int', but argument 3 has type 'long unsigned int' [-Wformat]
+
+2012-10-06 16:55:44 bee yinghai:for-x86-mm:09a914b i386-randconfig-b130 09a914b

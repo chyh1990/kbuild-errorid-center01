@@ -1,0 +1,3 @@
+net/wireless/reg.c:2196:37: warning: unused variable 'rdev' [-Wunused-variable]
+
+2012-09-17 23:31:15 kbuild mac80211-next:wip:76ab1fa x86_64-allmodconfig 76ab1fa

@@ -1,0 +1,4 @@
+ld: cannot open linker script file kernel/sched/.tmp_core.ver: No such file or directory
+
+2012-09-28 21:58:49 bee dynticks:rcu:idle-for-v3.7-take4:b0e7841 x86_64-allyesconfig ebbce75
+2012-09-29 03:14:07 bee aa:autonuma:c6047ec x86_64-allyesconfig d9fb49e

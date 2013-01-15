@@ -1,0 +1,3 @@
+drivers/gpu/drm/ttm/ttm_bo.c:94:7: warning: pointer targets in passing argument 2 of 'ttm_mem_type_from_flags' differ in signedness [-Wpointer-sign]
+
+2012-09-26 13:59:18 bee drm-intel:drm-intel-nightly:8101b08 x86_64-randconfig-x070 112c375

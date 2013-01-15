@@ -1,0 +1,3 @@
+drivers/staging/media/go7007/s2250-board.c:539 s2250_log_status() info: ignoring unreachable code.
+
+2012-09-07 22:41:56 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

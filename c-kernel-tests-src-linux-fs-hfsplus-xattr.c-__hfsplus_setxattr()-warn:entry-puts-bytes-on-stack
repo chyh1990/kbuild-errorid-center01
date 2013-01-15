@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/hfsplus/xattr.c:83 __hfsplus_setxattr() warn: 'entry' puts 520 bytes on stack
+
+2013-01-07 12:25:18 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

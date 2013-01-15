@@ -1,0 +1,13 @@
+olpc-xo1-sci.c:(.text+0x21f26): undefined reference to `input_event'
+
+2012-11-19 04:58:04 bee devel-bee-x86-2012-11-19-03-44:a7afa63 i386-randconfig-x077 a7afa63
+2012-11-19 07:48:22 bee devel-bee-x86-2012-11-19-06-38:d3175dd i386-randconfig-x077 d3175dd
+2012-11-19 08:55:21 bee devel-bee-x86-2012-11-19-07-50:7735085 i386-randconfig-x077 7735085
+2012-11-19 10:09:34 bee devel-bee-x86-2012-11-19-09-05:788cb39 i386-randconfig-x077 788cb39
+2012-11-19 11:18:30 bee devel-bee-x86-2012-11-19-10-11:711e5e4 i386-randconfig-x077 711e5e4
+2012-11-19 11:27:44 bee m68k:m68k-v3.6:9f9e7e5 i386-randconfig-x077 a0d271c
+2012-11-20 23:23:50 bee devel-bee-x86-2012-11-20-22-16:1cfb85c i386-randconfig-x077 1cfb85c
+2012-11-21 14:40:50 bee devel-bee-x86-2012-11-21-13-17:7507ebb i386-randconfig-x080 7507ebb
+2012-11-22 06:17:32 bee arm-soc:sunxi:soc2:67bea88 i386-randconfig-x080 404525d
+2012-12-08 03:47:23 bee pci:next:3d69db1 i386-randconfig-x199 3d69db1
+2012-12-09 13:21:44 bee cifs:for-next:1f63068 i386-randconfig-x199 faa65f0

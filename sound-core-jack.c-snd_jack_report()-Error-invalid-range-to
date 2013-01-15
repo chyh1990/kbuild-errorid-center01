@@ -1,0 +1,3 @@
+sound/core/jack.c:224 snd_jack_report() Error invalid range 16384 to 512
+
+2012-09-07 22:41:27 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,4 @@
+arch/x86/include/asm/mutex.h:4:27: fatal error: asm/rtm-mutex.h: No such file or directory
+
+2012-08-20 09:45:43 kbuild hle:hle35:combined:9b6be44 i386-randconfig-k750 9d6c8a8
+2012-08-20 09:45:43 kbuild i386 email notified

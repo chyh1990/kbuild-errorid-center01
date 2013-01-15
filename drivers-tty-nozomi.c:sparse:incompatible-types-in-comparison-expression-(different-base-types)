@@ -1,0 +1,3 @@
+drivers/tty/nozomi.c:797:16: sparse: incompatible types in comparison expression (different base types)
+
+2012-10-25 13:33:15 snb next:master:2253213 i386-allmodconfig 2253213

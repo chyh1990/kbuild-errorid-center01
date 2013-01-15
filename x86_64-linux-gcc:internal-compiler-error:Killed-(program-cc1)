@@ -1,0 +1,6 @@
+x86_64-linux-gcc: internal compiler error: Killed (program cc1)
+
+2012-09-02 13:12:56 hive userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-h861 46c4bb1
+2012-09-30 17:50:43 hive aa:autonuma:3495549 x86_64-randconfig-h001 3495549
+2012-10-01 05:58:34 hive tip:perf:core:1d787d3 x86_64-randconfig-h002 1d787d3
+2012-10-09 04:43:16 hive net:master:8634724 x86_64-randconfig-h001 8634724

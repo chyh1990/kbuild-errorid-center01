@@ -1,0 +1,3 @@
+drivers/usb/gadget/f_midi.c:926:12: sparse: symbol 'f_midi_bind_config' was not declared. Should it be static?
+
+2013-01-09 12:54:29 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

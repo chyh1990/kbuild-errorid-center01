@@ -1,0 +1,3 @@
+arch/powerpc/kernel/pci_64.c:215:20: warning: unused variable 'ln' [-Wunused-variable]
+
+2012-09-26 10:10:43 kbuild devel-kbuild-powerpc-2012-09-26-09-56:0def34c powerpc-allmodconfig 0def34c

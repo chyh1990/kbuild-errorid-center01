@@ -1,0 +1,4 @@
+arch/tile/kernel/compat.c:116:2: error: implicit declaration of function 'do_msgsnd' [-Werror=implicit-function-declaration]
+
+2012-09-19 20:09:12 snb cr:crtools-3.6-rc5:36cd026 tile-tilegx_defconfig 36cd026
+2012-09-19 20:19:05 snb tile email notified

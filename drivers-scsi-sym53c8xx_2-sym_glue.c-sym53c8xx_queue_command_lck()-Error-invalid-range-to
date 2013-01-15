@@ -1,0 +1,3 @@
+drivers/scsi/sym53c8xx_2/sym_glue.c:512 sym53c8xx_queue_command_lck() Error invalid range 4096 to -1
+
+2012-09-07 22:41:43 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

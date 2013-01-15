@@ -1,0 +1,4 @@
+mm/mmap.c:2159: error: implicit declaration of function 'reenable_txn'
+
+2012-11-09 20:40:21 inn internal-hle:hle37:abort-fixes:653b0b7 avr32-atngw100_defconfig f00b5bc
+2012-11-13 00:37:26 inn internal-hle:hle37:abort-fixes:e2ea321 x86_64-randconfig-i000 a240c6c

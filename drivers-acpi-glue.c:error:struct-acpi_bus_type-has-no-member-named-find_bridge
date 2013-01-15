@@ -1,0 +1,7 @@
+drivers/acpi/glue.c:82:10: error: 'struct acpi_bus_type' has no member named 'find_bridge'
+
+2012-09-28 07:33:19 bee yinghai:for-pci-next:31162ac x86_64-allyesdebian 31162ac
+2012-09-28 08:06:34 bee yinghai:for-pci-kill-pci-root-buses:e7ef88f x86_64-allyesdebian e7ef88f
+2012-09-28 09:11:58 snb devel-snb-i386-2012-09-28-09-03:170cc43 i386-alldefconfig 170cc43
+2012-09-28 09:53:58 kbuild devel-kbuild-i386-2012-09-28-09-48:4371181 i386-allyesconfig 4371181
+2012-09-28 10:43:32 hive devel-hive-ia64-2012-09-28-10-26:1c929d2 ia64-alldefconfig 1c929d2

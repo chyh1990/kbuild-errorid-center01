@@ -1,0 +1,3 @@
+lib/bcd.c:4:10: sparse: symbol 'bcd2bin' redeclared with different type (originally declared at include/linux/bcd.h:6) - different modifiers
+
+2012-07-23 21:31:52 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

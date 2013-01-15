@@ -1,0 +1,3 @@
+drivers/net/usb/kaweth.c:695 kaweth_open() info: why not propagate 'res' from usb_autopm_get_interface() instead of -5?
+
+2012-09-15 13:58:30 kbuild yinghai:for-x86-irq-base:835d595 i386-allyesconfig 835d595

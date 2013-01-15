@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_proc.c:76:31: warning: 'proc_getdir' defined but not used [-Wunused-function]
+
+2012-10-16 05:20:43 kbuild linus:master:dd8e8c4 x86_64-allmodconfig dd8e8c4

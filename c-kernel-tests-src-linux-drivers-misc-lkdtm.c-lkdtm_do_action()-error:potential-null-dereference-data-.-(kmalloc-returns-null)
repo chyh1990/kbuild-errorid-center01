@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/misc/lkdtm.c:320 lkdtm_do_action() error: potential null dereference 'data'.  (kmalloc returns null)
+
+2013-01-07 12:24:59 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

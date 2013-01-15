@@ -1,0 +1,3 @@
+net/wireless/reg.c:352:9: warning: unused variable 'r' [-Wunused-variable]
+
+2012-12-04 07:57:03 kbuild mac80211-next:wip:e23bfd4 x86_64-allmodconfig e1a2060

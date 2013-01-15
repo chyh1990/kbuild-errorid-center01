@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x2c790): Section mismatch in reference from the function .early_setup_secondary() to the function .cpuinit.text:.early_init_mmu_secondary()
+
+2012-07-22 17:04:21 kbuild powerpc /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

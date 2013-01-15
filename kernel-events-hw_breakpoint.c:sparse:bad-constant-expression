@@ -1,0 +1,3 @@
+kernel/events/hw_breakpoint.c:59:8: sparse: bad constant expression
+
+2012-11-06 06:24:46 snb devel-snb-i386-2012-11-06-06-03:38fd87e i386-allmodconfig 38fd87e

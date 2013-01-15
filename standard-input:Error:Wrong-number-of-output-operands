@@ -1,0 +1,6 @@
+{standard input}:11157: Error: Wrong number of output operands
+
+2012-09-20 21:40:16 hive nfs:testing:1ee9e30 ia64-allnoconfig 1ee9e30
+2012-09-21 03:54:34 hive rcu:next.2012.09.20a:d58ab77 ia64-allnoconfig d58ab77
+2012-10-09 05:01:41 hive devel-hive-ia64-2012-10-09-02-53:2afa71a ia64-allmodconfig 2afa71a
+2013-01-11 17:18:54 hive renesas:next:8a15713 ia64-allnoconfig 8a15713

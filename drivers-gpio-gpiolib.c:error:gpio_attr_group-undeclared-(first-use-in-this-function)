@@ -1,0 +1,5 @@
+drivers/gpio/gpiolib.c:785:43: error: 'gpio_attr_group' undeclared (first use in this function)
+
+2012-12-24 00:27:35 kbuild lpc32xx:blockgpio:38921aa x86_64-allmodconfig a89af06
+2012-12-24 00:28:37 kbuild x86_64 email notified
+2012-12-24 00:32:44 kbuild devel-kbuild-i386-2012-12-24-00-28:efa6407 i386-allyesconfig efa6407

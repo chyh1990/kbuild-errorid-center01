@@ -1,0 +1,3 @@
+drivers/platform/x86/wmi.c:144 wmi_parse_hexbyte() info: why not propagate 'value' from hex_to_bin() instead of -1?
+
+2012-09-11 23:43:14 kbuild sound-unstable:master:784eee3 i386-allyesconfig 432c641

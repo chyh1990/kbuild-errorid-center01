@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7720.c:1540:7: warning: variable 'mask' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 06:42:27 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

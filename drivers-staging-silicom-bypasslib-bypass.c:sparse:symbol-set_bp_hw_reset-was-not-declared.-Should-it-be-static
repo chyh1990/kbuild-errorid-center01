@@ -1,0 +1,3 @@
+drivers/staging/silicom/bypasslib/bypass.c:423:5: sparse: symbol 'set_bp_hw_reset' was not declared. Should it be static?
+
+2013-01-09 12:58:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

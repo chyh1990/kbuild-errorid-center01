@@ -1,0 +1,3 @@
+kernel/sched/fair.c:4211:12: sparse: no member 'min_util' in struct sd_lb_stats
+
+2012-12-02 00:36:12 snb alexs:master:5a17a70 i386-allmodconfig 5a17a70

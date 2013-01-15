@@ -1,0 +1,3 @@
+drivers/edac/sb_edac.c:1419:2: warning: pointer targets in passing argument 1 of 'find_first_bit' differ in signedness [-Wpointer-sign]
+
+2012-09-25 18:47:44 bee edac:linux_next:cfe5031 x86_64-allyesconfig cfe5031

@@ -1,0 +1,3 @@
+kernel/rcutree_plugin.h:2398 rcu_nocb_wait_gp() error: double unlock 'spin_lock:&rnp_root->lock'
+
+2012-11-17 04:11:21 kbuild devel-kbuild-i386-2012-11-17-02-45:b49da56 i386-allyesconfig b49da56

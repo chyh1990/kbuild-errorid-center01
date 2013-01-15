@@ -1,0 +1,3 @@
+net/wireless/nl80211.c:1503:3-9: preceding lock on line 1493
+
+2012-07-28 07:42:26 snb i386 /cc/kernel-tests/commit-list/mac80211-next:wip:ede063a 103ec6a3805e32cddd01d03e99380758b928348a

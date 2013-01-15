@@ -1,0 +1,3 @@
+include/linux/trace_clock.h:15:20: error: storage class specified for parameter 'trace_clock_local'
+
+2012-10-03 18:43:11 snb uapi:uapi-split:72541c7 openrisc-or1ksim_defconfig 72541c7

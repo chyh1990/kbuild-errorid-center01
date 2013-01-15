@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/perf_event_intel_uncore.c:52:9: warning: 'config' is used uninitialized in this function [-Wuninitialized]
+
+2012-07-22 15:17:31 bee x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

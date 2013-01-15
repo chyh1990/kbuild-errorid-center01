@@ -1,0 +1,4 @@
+drivers/tty/synclink.c:1988:2-75: code aligned with following code on line 1989
+
+2012-08-14 09:19:38 snb i386 /cc/kernel-tests/commit-list/tty:tty-next:a342ca1 8a3ad1047593f1f6f431140f7dd9748423c51cd1
+2012-08-14 09:19:40 snb i386 email notified

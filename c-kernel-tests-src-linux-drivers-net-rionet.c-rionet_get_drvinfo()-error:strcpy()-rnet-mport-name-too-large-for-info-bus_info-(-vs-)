@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/rionet.c:416 rionet_get_drvinfo() error: strcpy() 'rnet->mport->name' too large for 'info->bus_info' (40 vs 32)
+
+2013-01-07 12:24:52 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

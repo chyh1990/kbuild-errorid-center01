@@ -1,0 +1,3 @@
+sound/pci/mixart/mixart_mixer.c:868 mixart_pcm_vol_put() error: buffer overflow 'chip->digital_playback_volume' 8 <= 8
+
+2012-09-07 22:41:57 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

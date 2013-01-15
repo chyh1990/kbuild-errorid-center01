@@ -1,0 +1,4 @@
+drivers/target/iscsi/iscsi_target_login.c:1130:16-26: ERROR: reference preceded by free on line 1122
+
+2012-07-25 12:47:31 snb i386 /cc/kernel-tests/commit-list/linus:master:bdc0077 cb47c1831fa406c964468b259f2082c16cc3f757
+2012-08-27 17:33:28 snb target:master:13b5533 i386-allmodconfig 13b5533

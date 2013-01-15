@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/subdev/ibus/nve0.c:105 nve0_ibus_ctor() Error invalid range 4096 to -1
+
+2012-09-19 00:36:22 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19
+2012-09-19 02:35:25 kbuild i386 email notified

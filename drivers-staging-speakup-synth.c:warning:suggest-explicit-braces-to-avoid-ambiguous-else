@@ -1,0 +1,3 @@
+drivers/staging/speakup/synth.c:142:6: warning: suggest explicit braces to avoid ambiguous 'else' [-Wparentheses]
+
+2012-09-26 07:12:55 bee staging:staging-next:9970eea cris-allyesconfig 9970eea

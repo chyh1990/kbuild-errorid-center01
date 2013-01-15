@@ -1,0 +1,3 @@
+fs/xfs/xfs_icache.c:1213:13: sparse: undefined identifier 'xfs_get_projid'
+
+2012-12-22 14:20:59 snb userns:userns-always-map-user-v80:9e75958 i386-allmodconfig 9e75958

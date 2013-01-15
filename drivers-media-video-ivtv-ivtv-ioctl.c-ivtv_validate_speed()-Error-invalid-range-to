@@ -1,0 +1,3 @@
+drivers/media/video/ivtv/ivtv-ioctl.c:241 ivtv_validate_speed() Error invalid range 16 to -16
+
+2012-09-12 11:57:28 kbuild security:next:a40695e i386-allyesconfig a40695e

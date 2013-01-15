@@ -1,0 +1,4 @@
+kernel/context_tracking.c:99:3: error: implicit declaration of function 'vtime_account_user' [-Werror=implicit-function-declaration]
+
+2012-12-21 10:59:04 kbuild dynticks:3.7-nohz1:46209cd x86_64-allmodconfig 50ca494
+2012-12-21 11:16:50 kbuild x86_64 email notified

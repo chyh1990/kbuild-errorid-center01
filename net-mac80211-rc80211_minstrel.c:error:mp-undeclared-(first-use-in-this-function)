@@ -1,0 +1,4 @@
+net/mac80211/rc80211_minstrel.c:185:152: error: 'mp' undeclared (first use in this function)
+
+2012-11-16 03:08:31 bee mac80211-next:wip:92059f7 x86_64-allyesdebian 92059f7
+2012-11-16 04:02:03 snb devel-snb-i386-2012-11-16-03-26:4841d93 i386-allmodconfig 4841d93

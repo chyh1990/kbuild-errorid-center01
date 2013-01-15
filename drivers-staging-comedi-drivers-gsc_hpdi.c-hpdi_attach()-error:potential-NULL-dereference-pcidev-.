@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/gsc_hpdi.c:590 hpdi_attach() error: potential NULL dereference 'pcidev'.
+
+2012-09-07 22:42:05 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,3 @@
+drivers/usb/gadget/mv_udc_core.c:1504:41: sparse: incorrect type in assignment (different base types)
+
+2013-01-09 12:54:35 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

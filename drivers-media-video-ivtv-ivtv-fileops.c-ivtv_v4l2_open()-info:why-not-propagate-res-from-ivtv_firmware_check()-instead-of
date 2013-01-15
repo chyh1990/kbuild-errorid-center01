@@ -1,0 +1,3 @@
+drivers/media/video/ivtv/ivtv-fileops.c:950 ivtv_v4l2_open() info: why not propagate 'res' from ivtv_firmware_check() instead of -5?
+
+2012-09-12 11:58:46 kbuild security:next:a40695e i386-allyesconfig a40695e

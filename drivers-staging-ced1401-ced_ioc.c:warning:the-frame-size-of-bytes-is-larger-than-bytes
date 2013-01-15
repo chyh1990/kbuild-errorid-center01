@@ -1,0 +1,3 @@
+drivers/staging/ced1401/ced_ioc.c:931:1: warning: the frame size of 4144 bytes is larger than 2048 bytes [-Wframe-larger-than=]
+
+2012-09-18 22:38:58 kbuild staging:staging-next:ba753e4 x86_64-allmodconfig ba753e4

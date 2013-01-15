@@ -1,0 +1,15 @@
+(.text+0x31662): undefined reference to `smp_call_function_many'
+
+2012-10-20 00:54:14 inn internal-bluetooth-hs:master:ef3b3fe blackfin-BF561-EZKIT-SMP_defconfig f706adf
+2012-10-21 00:34:17 lkp-mb01 perf:perf:core:5e321f2 blackfin-BF561-EZKIT-SMP_defconfig 5e321f2
+2012-10-22 15:40:41 lkp-mb01 ext4:dev:6f064c6 blackfin-BF561-EZKIT-SMP_defconfig 6f064c6
+2012-10-23 07:14:11 lkp-mb01 ext4:dev:5de35e8 blackfin-BF561-EZKIT-SMP_defconfig 5de35e8
+2012-10-23 15:06:14 lkp-mb01 input:next:e4b2900 blackfin-BF561-EZKIT-SMP_defconfig e4b2900
+2012-10-28 02:58:17 lkp-mb01 yinghai:for-pci-next-2:907bff3 blackfin-BF561-EZKIT-SMP_defconfig 907bff3
+2012-10-28 02:59:43 lkp-mb01 yinghai:for-pci-split-pci-root-hp-2:525e7ff blackfin-BF561-EZKIT-SMP_defconfig 525e7ff
+2012-10-29 00:49:47 lkp-mb01 pinchartl-fbdev:lcdc-panel:342669d blackfin-BF561-EZKIT-SMP_defconfig 342669d
+2012-10-29 06:35:04 lkp-mb01 pinchartl-fbdev:lcdc-panel:1ea4ede blackfin-BF561-EZKIT-SMP_defconfig 1ea4ede
+2012-10-29 07:07:08 lkp-mb01 pinchartl-fbdev:lcdc-next:cf15989 blackfin-BF561-EZKIT-SMP_defconfig cf15989
+2012-10-30 14:01:19 lkp-mb01 block:for-3.7:drivers:a13c29d blackfin-BF561-EZKIT-SMP_defconfig a13c29d
+2012-11-06 10:36:51 lkp-mb01 drdb:for-jens:f4a03fd blackfin-BF561-EZKIT-SMP_defconfig f4a03fd
+2012-11-06 19:49:08 lkp-mb01 jikos-block:floppy:ab7da26 blackfin-BF561-EZKIT-SMP_defconfig ab7da26

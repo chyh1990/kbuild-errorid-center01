@@ -1,0 +1,3 @@
+sound/soc/codecs/ml26124.c:129:2: warning: (near initialization for 'ml26124_output_mixer_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:06:42 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

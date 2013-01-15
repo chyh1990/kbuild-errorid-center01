@@ -1,0 +1,3 @@
+drivers/scsi/scsi_lib.c:468:6: sparse: symbol 'scsi_requeue_run_queue' was not declared. Should it be static?
+
+2013-01-09 13:08:23 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

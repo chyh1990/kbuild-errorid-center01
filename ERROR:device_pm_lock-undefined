@@ -1,0 +1,6 @@
+ERROR: "device_pm_lock" [drivers/base/firmware_class.ko] undefined!
+
+2012-08-17 05:02:52 kbuild driver-core:driver-core-next:b47a81d x86_64-allmodconfig b47a81d
+2012-08-17 05:12:37 snb driver-core:driver-core-next:1508d81 x86_64-randconfig-s114 1508d81
+2012-08-17 05:18:50 kbuild driver-core:driver-core-next:9baf322 i386-randconfig-k722 9baf322
+2012-08-17 05:51:17 kbuild x86_64 email notified

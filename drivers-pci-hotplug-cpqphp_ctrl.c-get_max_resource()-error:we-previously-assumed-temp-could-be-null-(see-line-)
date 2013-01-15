@@ -1,0 +1,3 @@
+drivers/pci/hotplug/cpqphp_ctrl.c:712 get_max_resource() error: we previously assumed 'temp' could be null (see line 708)
+
+2012-09-07 22:41:45 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

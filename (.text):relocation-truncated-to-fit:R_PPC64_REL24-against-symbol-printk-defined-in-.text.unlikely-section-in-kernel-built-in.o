@@ -1,0 +1,6 @@
+(.text+0x1ff9494): relocation truncated to fit: R_PPC64_REL24 against symbol `.printk' defined in .text.unlikely section in kernel/built-in.o
+
+2012-09-27 15:57:55 bee thermal:thermal:2491502 powerpc-allyesconfig ba55a0d
+2012-09-27 16:32:27 bee thermal:thermal:2491502 powerpc-allyesconfig ba55a0d email notified
+2012-09-27 18:33:23 bee thermal:thermal:fb8792b powerpc-allyesconfig fb8792b
+2012-09-27 18:40:45 bee thermal:thermal:b81ed51 powerpc-allyesconfig b81ed51

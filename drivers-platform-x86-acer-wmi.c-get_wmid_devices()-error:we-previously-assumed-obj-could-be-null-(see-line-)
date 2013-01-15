@@ -1,0 +1,3 @@
+drivers/platform/x86/acer-wmi.c:1826 get_wmid_devices() error: we previously assumed 'obj' could be null (see line 1822)
+
+2012-09-07 22:41:47 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

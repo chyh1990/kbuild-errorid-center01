@@ -1,0 +1,3 @@
+drivers/net/ethernet/smsc/atari_91C111.c:2402:12: error: 'smc_drv_probe' undeclared here (not in a function)
+
+2013-01-11 11:55:10 snb devel-snb-arm-2013-01-11-11-40:f09abcf m68k-multi_defconfig f09abcf

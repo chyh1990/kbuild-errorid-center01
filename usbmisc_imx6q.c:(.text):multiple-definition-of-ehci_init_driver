@@ -1,0 +1,3 @@
+usbmisc_imx6q.c:(.text+0xa30): multiple definition of `ehci_init_driver'
+
+2012-11-02 00:49:46 snb devel-snb-arm-2012-11-02-00-29:ec7dbf8 arm-imx_v6_v7_defconfig ec7dbf8

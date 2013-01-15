@@ -1,0 +1,3 @@
+drivers/char/tpm/tpm_atmel.c:225:3: warning: 'base' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:29 inn linus:master:974b335 x86_64-randconfig-i364 974b335

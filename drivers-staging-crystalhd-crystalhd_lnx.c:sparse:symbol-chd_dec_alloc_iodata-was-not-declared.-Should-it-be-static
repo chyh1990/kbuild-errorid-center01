@@ -1,0 +1,3 @@
+drivers/staging/crystalhd/crystalhd_lnx.c:78:29: sparse: symbol 'chd_dec_alloc_iodata' was not declared. Should it be static?
+
+2013-01-09 13:01:33 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/edac/mce_amd.c:608 decode_mc4_mce() error: buffer overflow 'mc4_mce_desc' 19 <= 28
+
+2013-01-09 13:26:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

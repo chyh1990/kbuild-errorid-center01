@@ -1,0 +1,5 @@
+arch/x86/xen/mmu.c:2213:10: error: 'struct x86_init_ops' has no member named 'mapping'
+
+2012-11-29 06:18:57 hive devel-hive-x86_64-2012-11-29-06-08:112244d x86_64-randconfig-h352 112244d
+2012-11-29 07:27:35 kbuild devel-kbuild-x86_64-2012-11-29-07-15:7b32430 x86_64-allmodconfig 7b32430
+2013-01-12 12:30:42 bee devel-bee-x86_64-2013-01-12-12-19:62ff1a0 x86_64-allyesdebian 62ff1a0

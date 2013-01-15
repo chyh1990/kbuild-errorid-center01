@@ -1,0 +1,10 @@
+ERROR: ".of_reconfig_notifier_register" undefined!
+
+2012-11-15 16:41:01 kbuild next:master:3805711 powerpc-allmodconfig 3805711
+2012-11-27 01:03:03 kbuild next:master:d7ce984 powerpc-allmodconfig d7ce984
+2012-11-27 14:45:56 kbuild next:master:ce2931a powerpc-allmodconfig ce2931a
+2012-11-27 14:49:47 kbuild next:akpm:8c02459 powerpc-allmodconfig 8c02459
+2012-11-28 15:41:52 kbuild next:master:c2b2c8c powerpc-allmodconfig c2b2c8c
+2012-11-28 20:01:13 kbuild next:akpm:bd3b426 powerpc-allmodconfig bd3b426
+2012-12-01 09:35:36 inn internal-ashishki:ci-watup:7a4d9f0 powerpc-allmodconfig a283d97
+2012-12-04 11:22:37 kbuild hzhuang1:testing:clkv1:dad178e powerpc-allmodconfig dad178e

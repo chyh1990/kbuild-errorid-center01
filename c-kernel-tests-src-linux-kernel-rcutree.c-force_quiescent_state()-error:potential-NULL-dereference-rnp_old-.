@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/kernel/rcutree.c:2225 force_quiescent_state() error: potential NULL dereference 'rnp_old'.
+
+2013-01-07 12:25:26 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

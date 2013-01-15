@@ -1,0 +1,3 @@
+net/sunrpc/auth_gss/gss_krb5_seal.c:82 setup_token() Error invalid range 4096 to -1
+
+2012-09-15 14:00:29 kbuild yinghai:for-x86-irq-base:835d595 i386-allyesconfig 835d595

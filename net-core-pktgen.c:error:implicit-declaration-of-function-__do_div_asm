@@ -1,0 +1,15 @@
+net/core/pktgen.c:682:2: error: implicit declaration of function '__do_div_asm' [-Werror=implicit-function-declaration]
+
+2012-08-19 16:00:38 snb arm-soc:testing:defconfig-warnings:e25dc79 m68k-allmodconfig 9867493
+2012-08-23 00:53:18 snb arm-soc:testing:defconfig-warnings:74c41fb m68k-allmodconfig 74c41fb
+2012-08-26 16:00:47 snb arm-soc:testing:defconfig-warnings:365d15a m68k-allmodconfig 365d15a
+2012-10-02 21:59:15 lkp-mb01 arm-soc:testing:defconfig-warnings:043906f s390-allmodconfig 043906f
+2012-10-02 22:04:37 lkp-mb01 arm-soc:testing:defconfig-warnings:db0488a s390-allmodconfig db0488a
+2012-10-02 22:07:10 lkp-mb01 arm-soc:testing:defconfig-warnings:a921325 s390-allmodconfig a921325
+2012-10-04 06:34:20 lkp-mb01 devel-lkp-mb01-s390-2012-10-04-06-24:cbb3a3a s390-allmodconfig cbb3a3a
+2012-10-04 06:40:23 hive arm-soc:testing:defconfig-warnings:fe9fe0f mips-allmodconfig fe9fe0f
+2012-10-04 09:19:01 bee devel-bee-i386-2012-10-04-08-59:09e70b4 i386-randconfig-b111 09e70b4
+2012-10-04 09:48:27 hive devel-hive-ia64-2012-10-04-09-07:7f9b360 ia64-allmodconfig 7f9b360
+2012-10-15 04:05:04 bee arm-soc:testing:defconfig-warnings:b8848fa i386-randconfig-b220 b8848fa
+2012-10-17 03:35:12 hive arm-soc:testing:defconfig-warnings:d8e8359 x86_64-randconfig-h071 d8e8359
+2012-10-17 04:12:15 snb arm-soc:test-merge-20121016:409750d x86_64-randconfig-s080 e451c35

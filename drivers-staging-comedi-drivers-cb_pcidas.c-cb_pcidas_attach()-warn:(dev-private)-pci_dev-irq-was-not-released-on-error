@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/cb_pcidas.c:622 cb_pcidas_attach() warn: '(dev->private)->pci_dev->irq' was not released on error
+
+2012-09-13 01:34:18 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

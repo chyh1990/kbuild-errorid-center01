@@ -1,0 +1,5 @@
+ERROR: "__udivdi3" undefined!
+
+2012-09-29 17:54:01 snb calxeda:defconfig:0ac7be3 i386-allmodconfig 0ac7be3
+2012-11-26 05:27:25 snb devel-snb-i386-2012-11-26-05-02:f6b1b32 i386-allmodconfig f6b1b32
+2012-11-26 06:18:38 lkp-mb01 mmc:mmc-next:b1dc46e i386-randconfig-m034 b1dc46e

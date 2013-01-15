@@ -1,0 +1,4 @@
+fs/nfsd/nfsxdr.c:240:2-11: code aligned with following code on line 242
+
+2012-08-26 01:08:54 snb userns:userns-always-map-user-v47:ec9c45e i386-allmodconfig 3c663a8
+2012-08-26 01:20:56 snb i386 email notified

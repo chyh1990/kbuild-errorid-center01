@@ -1,0 +1,3 @@
+drivers/video/sstfb.c:360:2: warning: pointer targets in passing argument 2 of 'sst_calc_pll' differ in signedness [-Wpointer-sign]
+
+2012-09-26 18:19:12 bee omap-dss2:master:e84dc1c x86_64-randconfig-x070 a6df3fd

@@ -1,0 +1,3 @@
+<stdin>:1133:2: warning: #warning syscall utimensat not implemented [-Wcpp]
+
+2013-01-09 13:22:42 lkp-mb01 next:akpm:ef2dca2 h8300-defconfig ef2dca2

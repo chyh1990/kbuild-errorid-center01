@@ -1,0 +1,11 @@
+drivers/media/video/videobuf-dma-sg.c:585:35: error: 'VM_RESERVED' undeclared (first use in this function)
+
+2012-10-05 07:03:11 kbuild glommer-memcg:kmemcg-stack:5ef6493 x86_64-allmodconfig aa011e4
+2012-10-05 07:56:27 kbuild glommer-memcg:kmemcg-stack:5ef6493 x86_64-allmodconfig 64c6685 email notified
+2012-10-05 07:56:38 kbuild x86_64 email notified
+2012-10-12 22:04:11 kbuild glommer-memcg:kmemcg-stack:31b2d8e x86_64-allmodconfig 8fbf58b
+2012-10-12 22:20:05 kbuild glommer-memcg:kmemcg-slab:f7dc2a4 x86_64-allmodconfig daa71e3
+2012-10-15 17:19:57 kbuild glommer-memcg:kmemcg-slab:ff42632 x86_64-allmodconfig 5c93916
+2012-10-16 18:40:20 kbuild glommer-memcg:kmemcg-stack:191f40c x86_64-allmodconfig ab54132
+2012-10-19 22:32:12 kbuild glommer-memcg:kmemcg-slab:17257f1 i386-allyesconfig 17257f1
+2012-10-23 19:29:59 kbuild glommer-memcg:tmp-cache-free:c98470c x86_64-allmodconfig 830dd7d

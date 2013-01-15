@@ -1,0 +1,3 @@
+drivers/usb/serial/io_edgeport.c:3155:6: warning: unused variable 'i' [-Wunused-variable]
+
+2012-10-29 02:25:44 bee stable:linux-3.6.y:c32b33d x86_64-allyesdebian c32b33d

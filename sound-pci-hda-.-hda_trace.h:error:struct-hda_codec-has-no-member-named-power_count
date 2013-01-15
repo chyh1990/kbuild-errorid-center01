@@ -1,0 +1,4 @@
+sound/pci/hda/./hda_trace.h:90:1: error: 'struct hda_codec' has no member named 'power_count'
+
+2012-08-20 23:50:54 kbuild sound:master:b968780 i386-randconfig-k767 b968780
+2012-08-20 23:51:31 kbuild i386 email notified

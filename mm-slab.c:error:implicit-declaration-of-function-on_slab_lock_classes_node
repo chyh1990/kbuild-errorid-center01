@@ -1,0 +1,3 @@
+mm/slab.c:1426:4: error: implicit declaration of function 'on_slab_lock_classes_node' [-Werror=implicit-function-declaration]
+
+2012-10-30 10:05:02 bee glommer-memcg:kmemcg-slab:d0437f8 powerpc-gamecube_defconfig d0437f8

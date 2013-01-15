@@ -1,0 +1,3 @@
+drivers/gpu/drm/gma500/backlight.c:29:13: warning: 'do_gma_backlight_set' defined but not used [-Wunused-function]
+
+2012-10-15 20:41:58 snb arm-perf:hugetlb:common:1523983 i386-allmodconfig 1523983

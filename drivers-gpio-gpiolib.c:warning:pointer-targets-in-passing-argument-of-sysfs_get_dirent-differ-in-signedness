@@ -1,0 +1,3 @@
+drivers/gpio/gpiolib.c:368:3: warning: pointer targets in passing argument 3 of 'sysfs_get_dirent' differ in signedness [-Wpointer-sign]
+
+2012-09-25 17:03:57 bee mfd:for-next:eebfdc1 x86_64-allyesconfig 41569a1

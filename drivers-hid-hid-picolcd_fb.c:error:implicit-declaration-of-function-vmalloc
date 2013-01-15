@@ -1,0 +1,10 @@
+drivers/hid/hid-picolcd_fb.c:570:2: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-08-15 16:40:21 kbuild hid:picolcd:efdbb10 powerpc-allmodconfig fabdbf2
+2012-08-15 16:46:59 kbuild hid:for-next:9400231 powerpc-allmodconfig 758646e
+2012-08-15 18:47:16 snb hid:for-next:26270a9 m68k-allmodconfig 26270a9
+2012-08-16 06:10:13 kbuild hid:for-next:ba19d77 powerpc-allmodconfig ba19d77
+2012-08-16 14:00:20 snb next:akpm:d85532e m68k-allmodconfig ac6fab2
+2012-08-16 19:36:49 hive hid:picolcd:d1c60a0 mips-allmodconfig fabdbf2
+2012-08-18 21:11:43 snb hid:for-next:86476aa m68k-allmodconfig ba19d77
+2012-09-05 19:17:55 hive hid:picolcd:eb9001c ia64-allmodconfig fabdbf2

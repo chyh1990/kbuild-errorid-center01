@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_pcimio.c:1664 pcimio_attach() warn: 'dev->irq' was not released on error
+
+2012-09-12 11:57:31 kbuild security:next:a40695e i386-allyesconfig a40695e

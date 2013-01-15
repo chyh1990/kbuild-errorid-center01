@@ -1,0 +1,3 @@
+drivers/tty/vt/vt.c:4060:2: warning: pointer targets in passing argument 2 of 'strncpy_from_user' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:33:00 bee tty:tty-next:4dac211 x86_64-allyesconfig 4dac211

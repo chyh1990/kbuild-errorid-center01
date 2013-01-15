@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:168:3: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2012-10-09 17:03:37 inn internal-ashishki:rtit-proto:ff40f57 i386-alldefconfig 6bd0bd6
+2012-10-09 17:03:38 inn i386 email notified

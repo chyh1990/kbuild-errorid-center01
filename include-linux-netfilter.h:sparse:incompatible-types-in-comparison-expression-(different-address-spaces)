@@ -1,0 +1,3 @@
+include/linux/netfilter.h:285:20: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 12:49:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

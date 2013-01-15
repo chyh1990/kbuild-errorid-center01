@@ -1,0 +1,3 @@
+kernel/events/core.c:201:26: warning: function 'perf_pmu_name' with external linkage has definition
+
+2012-09-07 21:58:01 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_ddi.c:675:21: warning: unused variable 'intel_crtc' [-Wunused-variable]
+
+2012-10-16 03:31:03 bee drm-intel:drm-intel-next-queued:861b675 x86_64-randconfig-x244 686279d

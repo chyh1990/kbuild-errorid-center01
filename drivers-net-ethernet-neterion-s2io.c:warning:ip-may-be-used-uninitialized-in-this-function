@@ -1,0 +1,3 @@
+drivers/net/ethernet/neterion/s2io.c:8320:19: warning: 'ip' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:06:03 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b036 d0aa742

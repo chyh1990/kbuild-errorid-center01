@@ -1,0 +1,4 @@
+ERROR: ".ata_dev_set_feature" [drivers/ata/libahci.ko] undefined!
+
+2012-09-13 14:49:01 kbuild libata:upstream:633de4c powerpc-allmodconfig 65fe1f0
+2012-09-13 14:49:02 kbuild powerpc email notified

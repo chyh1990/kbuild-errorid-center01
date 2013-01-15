@@ -1,0 +1,9 @@
+fs/ext4/xattr.h:422:12: error: two or more data types in declaration specifiers
+
+2012-12-03 12:35:17 lkp-mb01 ext4:dev:b0c30cd i386-randconfig-m085 b0c30cd
+2012-12-03 13:31:49 lkp-mb01 devel-lkp-mb01-i386-2012-12-03-13-13:d35a977 i386-randconfig-m085 d35a977
+2012-12-03 13:38:06 snb ext4:dev:e9f49e4 avr32-atngw100_defconfig e9f49e4
+2012-12-04 15:16:39 bee next:master:176f674 i386-randconfig-b810 176f674
+2012-12-04 16:03:15 bee next:akpm:d24c041 i386-randconfig-b810 d24c041
+2012-12-05 14:16:33 bee next:master:786c4d6 i386-randconfig-b810 786c4d6
+2012-12-05 14:20:44 bee next:akpm:a004e1e i386-randconfig-b810 a004e1e

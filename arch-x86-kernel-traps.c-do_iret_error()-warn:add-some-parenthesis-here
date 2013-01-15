@@ -1,0 +1,3 @@
+arch/x86/kernel/traps.c:682 do_iret_error() warn: add some parenthesis here?
+
+2012-09-25 12:01:44 kbuild rcu:rcu:idle:f62cbcb i386-allyesconfig f62cbcb

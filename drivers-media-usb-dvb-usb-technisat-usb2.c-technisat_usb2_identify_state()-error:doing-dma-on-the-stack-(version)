@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/technisat-usb2.c:341 technisat_usb2_identify_state() error: doing dma on the stack (version)
+
+2013-01-09 13:27:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

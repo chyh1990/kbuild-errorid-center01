@@ -1,0 +1,3 @@
+security/yama/yama_lsm.c:391:2: error: implicit declaration of function 'register_security' [-Werror=implicit-function-declaration]
+
+2012-12-01 09:04:36 bee kees:multi-lsm:e4b44fc i386-randconfig-x140 d40abcb

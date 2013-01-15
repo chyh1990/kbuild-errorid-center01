@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfa_fcpim.c:2486:4: warning: right shift count >= width of type [enabled by default]
+
+2012-09-26 22:32:15 bee kvm-ppc:kvm-ppc-next:d265f1e parisc-allyesconfig c3c9e53

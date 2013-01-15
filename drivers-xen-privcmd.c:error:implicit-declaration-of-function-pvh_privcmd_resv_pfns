@@ -1,0 +1,5 @@
+drivers/xen/privcmd.c:296:3: error: implicit declaration of function 'pvh_privcmd_resv_pfns' [-Werror=implicit-function-declaration]
+
+2012-09-22 04:32:47 kbuild xen:linux-next-pvh:4bbc734 x86_64-allmodconfig c362517
+2012-09-22 04:32:49 kbuild x86_64 email notified
+2012-09-22 04:53:37 bee xen:linux-next-pvh:7e6e6f5 x86_64-allyesdebian c362517

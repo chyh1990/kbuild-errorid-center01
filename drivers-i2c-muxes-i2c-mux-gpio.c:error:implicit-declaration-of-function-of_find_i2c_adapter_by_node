@@ -1,0 +1,8 @@
+drivers/i2c/muxes/i2c-mux-gpio.c:80:2: error: implicit declaration of function 'of_find_i2c_adapter_by_node' [-Werror=implicit-function-declaration]
+
+2012-11-16 20:18:28 bee i2c:i2c-embedded:for-next:79f678e sparc-allyesconfig 9b7a0c4
+2012-11-16 20:18:50 bee sparc email notified
+2012-11-17 01:32:56 bee i2c:i2c-embedded:for-next:a000b8c sparc-allyesconfig 1ab3604
+2012-11-23 06:23:45 bee i2c:i2c-embedded:for-next:8f41405 sparc-allyesconfig 0857ba3
+2012-11-25 06:10:11 bee i2c:i2c-embedded:for-next:60937b2 sparc-allyesconfig cd32e6c
+2012-11-29 23:07:36 bee i2c:i2c-embedded:for-next:972deb4 sparc-allyesconfig 972deb4

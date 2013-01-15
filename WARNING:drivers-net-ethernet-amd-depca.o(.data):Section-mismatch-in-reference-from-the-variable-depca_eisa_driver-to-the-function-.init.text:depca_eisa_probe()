@@ -1,0 +1,3 @@
+WARNING: drivers/net/ethernet/amd/depca.o(.data+0x34): Section mismatch in reference from the variable depca_eisa_driver to the function .init.text:depca_eisa_probe()
+
+2012-07-23 21:12:09 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

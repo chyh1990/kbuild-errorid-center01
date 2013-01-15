@@ -1,0 +1,4 @@
+security/smack/smackfs.c:2022:8-15: WARNING opportunity for memdep_user
+
+2012-08-19 09:57:26 snb smack:master:af6d7ee i386-allmodconfig af6d7ee
+2012-08-19 09:57:27 snb i386 email notified

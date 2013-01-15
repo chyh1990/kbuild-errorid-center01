@@ -1,0 +1,3 @@
+fs/ocfs2/move_extents.c:980 ocfs2_move_extents() warn: variable dereferenced before check 'inode' (see line 978)
+
+2012-09-07 22:42:20 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,4 @@
+drivers/usb/gadget/mass_storage.c:90:9: sparse: advancing past deep designator
+
+2012-09-10 22:44:53 snb balbi-usb:master:d9c8890 i386-allmodconfig 1cf0d26
+2012-09-10 22:44:57 snb i386 email notified

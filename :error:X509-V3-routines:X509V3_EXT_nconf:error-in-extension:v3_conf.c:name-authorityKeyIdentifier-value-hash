@@ -1,0 +1,4 @@
+46938183435048:error:22098080:X509 V3 routines:X509V3_EXT_nconf:error in extension:v3_conf.c:93:name=authorityKeyIdentifier, value=hash
+
+2012-09-22 21:20:31 kbuild modsign:modsign-post-KS:54b842c i386-allyesconfig 54b842c
+2012-09-25 04:18:02 kbuild modsign:modsign-post-KS:8d4f626 x86_64-allmodconfig 798049d

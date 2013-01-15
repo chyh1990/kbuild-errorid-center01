@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/adl_pci9111.c:1332 pci9111_attach() warn: 'pci_device->irq' was not released on error
+
+2012-09-13 01:36:39 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

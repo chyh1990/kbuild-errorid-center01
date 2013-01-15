@@ -1,0 +1,4 @@
+arch/arm/mach-omap2/omap_hwmod_33xx_data.c:20:49: fatal error: linux/platform_data/spi-omap2-mcspi.h: No such file or directory
+
+2012-09-21 10:39:37 snb arm-soc:next:soc:3aec092 arm-omap2plus_defconfig 3aec092
+2012-09-21 12:14:15 snb arm email notified

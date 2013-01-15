@@ -1,0 +1,3 @@
+drivers/isdn/hisax/config.c:1243 HiSax_inithardware() error: strcpy() 'id' too large for 'ids' (64 vs 20)
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

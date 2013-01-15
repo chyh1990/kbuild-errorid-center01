@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ar5523/ar5523.c:113:19: sparse: incorrect type in assignment (different base types)
+
+2012-10-30 10:43:22 snb devel-snb-i386-2012-10-30-10-30:67d8e34 i386-allmodconfig 67d8e34

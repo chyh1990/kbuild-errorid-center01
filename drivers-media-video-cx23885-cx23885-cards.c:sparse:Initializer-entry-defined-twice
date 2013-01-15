@@ -1,0 +1,3 @@
+drivers/media/video/cx23885/cx23885-cards.c:507:36: sparse: Initializer entry defined twice
+
+2012-07-23 23:34:30 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e b738ce04e07f1b1e7c639e40303c1e0ed820bc74

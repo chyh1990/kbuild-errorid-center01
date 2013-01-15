@@ -1,0 +1,3 @@
+drivers/video/s1d13xxxfb.c:655:11: warning: variable 'lcd_bpp' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 18:19:14 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd

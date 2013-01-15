@@ -1,0 +1,4 @@
+security/integrity/ima/ima_fs.o:(.opd+0x120): first defined here
+
+2012-08-07 19:00:37 kbuild powerpc /cc/kernel-tests/commit-list/digsig:next-ima-module:a7d2a27 13c112b67029d66003085d6dc10e78b4e78108d0
+2012-08-07 22:49:58 kbuild powerpc 71d1dd3ee272a0110fa7dd0862f26aa89dadc5ec /cc/kernel-tests/commit-list/digsig:next-ima-dir:444fe7a

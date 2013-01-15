@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/divasproc.c:137:6: sparse: symbol 'remove_divas_proc' was not declared. Should it be static?
+
+2013-01-09 13:07:14 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

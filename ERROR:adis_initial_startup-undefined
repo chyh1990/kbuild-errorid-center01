@@ -1,0 +1,3 @@
+ERROR: "adis_initial_startup" [drivers/staging/iio/gyro/adis16260.ko] undefined!
+
+2012-12-31 07:05:40 inn linus:master:4a490b7 x86_64-randconfig-n318 4a490b7

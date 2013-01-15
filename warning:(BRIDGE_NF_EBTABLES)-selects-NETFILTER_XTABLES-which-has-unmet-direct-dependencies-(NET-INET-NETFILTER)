@@ -1,0 +1,3 @@
+warning: (BRIDGE_NF_EBTABLES) selects NETFILTER_XTABLES which has unmet direct dependencies (NET && INET && NETFILTER)
+
+2013-01-09 12:32:07 inn linus:master:974b335 x86_64-randconfig-n366 974b335

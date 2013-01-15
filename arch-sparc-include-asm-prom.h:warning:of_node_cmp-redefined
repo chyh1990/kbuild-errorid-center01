@@ -1,0 +1,3 @@
+arch/sparc/include/asm/prom.h:32:0: warning: "of_node_cmp" redefined [enabled by default]
+
+2012-12-08 11:22:47 bee samsung:v3.7-rc8-pq-camera-dt:c0a4a09 sparc-allyesconfig c0ee59d

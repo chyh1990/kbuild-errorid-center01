@@ -1,0 +1,3 @@
+arch/x86/kernel/hw_breakpoint.c:59:8: sparse: symbol 'bp_per_reg' was not declared. Should it be static?
+
+2013-01-09 13:15:35 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

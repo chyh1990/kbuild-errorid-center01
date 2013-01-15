@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/ipv4/tcp_ipv4.c:2430 established_get_next() warn: inconsistent returns spin_lock:inet_ehash_lockp(st->bucket, &tcp_hashinfo): locked (2430) unlocked (2412)
+
+2013-01-07 12:24:54 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

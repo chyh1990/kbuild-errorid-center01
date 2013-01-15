@@ -1,0 +1,3 @@
+arch/arm/mach-spear13xx/spear1310.c:51:2: error: 'DMAC1_BASE' undeclared here (not in a function)
+
+2013-01-07 02:18:11 snb slave-dma:next:3c1eea5 arm-spear13xx_defconfig 3c1eea5

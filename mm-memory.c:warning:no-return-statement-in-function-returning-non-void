@@ -1,0 +1,3 @@
+mm/memory.c:3593: warning: no return statement in function returning non-void
+
+2012-12-17 08:34:58 inn linus:master:2a74dbb avr32-atngw100_defconfig 2a74dbb

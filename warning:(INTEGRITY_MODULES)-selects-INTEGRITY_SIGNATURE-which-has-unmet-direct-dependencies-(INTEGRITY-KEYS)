@@ -1,0 +1,3 @@
+warning: (INTEGRITY_MODULES) selects INTEGRITY_SIGNATURE which has unmet direct dependencies (INTEGRITY && KEYS)
+
+2012-09-20 07:05:29 snb digsig:working:c139ddd x86_64-randconfig-s364 c139ddd

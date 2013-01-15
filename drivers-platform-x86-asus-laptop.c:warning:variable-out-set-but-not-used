@@ -1,0 +1,3 @@
+drivers/platform/x86/asus-laptop.c:919:6: warning: variable 'out' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 12:45:48 bee thermal:next:5d8d708 x86_64-allyesconfig f4a821c

@@ -1,0 +1,10 @@
+mv: cannot stat `include/generated/utsrelease.h.tmp': No such file or directory
+
+2012-08-03 19:25:39 bee x86_64 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b51a582 57f5876423d5763a25e5a4333a3b3783c49e6628
+2012-09-02 18:05:49 bee sound:master:7a73bf9 x86_64-allyesconfig fbcfbf5
+2012-09-02 23:41:32 bee sound-unstable:topic:hda-cleanup:611fe0a x86_64-randconfig-x852 ac190c7
+2012-09-04 02:41:57 bee tip:master:433ed0e x86_64-randconfig-x851 a5325e9
+2012-09-05 21:08:29 bee hid:for-next:a252af0 x86_64-randconfig-x874 a5785cc
+2012-09-06 03:36:22 bee can:master:aea8419 x86_64-randconfig-x870 4c29867
+2012-09-06 15:10:21 bee iwlwifi:master:5b7c918 x86_64-randconfig-x878 188ce5a
+2012-09-06 17:24:16 bee can:master:f05e04d i386-allyesconfig 90bcf86

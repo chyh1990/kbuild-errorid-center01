@@ -1,0 +1,3 @@
+arch/alpha/kernel/process.c:278:16: warning: unused variable 'settls' [-Wunused-variable]
+
+2012-10-28 13:06:49 lkp-mb01 signal:for-next:8a7d0dd alpha-defconfig 8a7d0dd

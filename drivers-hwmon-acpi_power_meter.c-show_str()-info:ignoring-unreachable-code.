@@ -1,0 +1,3 @@
+drivers/hwmon/acpi_power_meter.c:386 show_str() info: ignoring unreachable code.
+
+2012-09-07 22:42:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

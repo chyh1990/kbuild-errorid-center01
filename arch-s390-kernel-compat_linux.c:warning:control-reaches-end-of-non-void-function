@@ -1,0 +1,3 @@
+arch/s390/kernel/compat_linux.c:277:1: warning: control reaches end of non-void function [-Wreturn-type]
+
+2012-08-11 15:01:20 lkp-mb01 s390 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b c86f389d599620a2a6998d49772d431b7e08c9ae

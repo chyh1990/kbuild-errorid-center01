@@ -1,0 +1,4 @@
+fs/btrfs/inode.c:2185:6: warning: passing argument 2 of 'btrfs_drop_extents' from incompatible pointer type [enabled by default]
+
+2012-09-18 21:23:16 snb josef-btrfs:master:6a47d22 x86_64-randconfig-s345 6a47d22
+2012-09-18 22:03:45 snb x86_64 email notified

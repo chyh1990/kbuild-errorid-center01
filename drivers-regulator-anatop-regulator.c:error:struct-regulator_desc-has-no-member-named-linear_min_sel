@@ -1,0 +1,3 @@
+drivers/regulator/anatop-regulator.c:163:7: error: 'struct regulator_desc' has no member named 'linear_min_sel'
+
+2012-12-10 11:34:41 bee regulator:topic:anatop:0d1e787 i386-randconfig-x192 5d5a113

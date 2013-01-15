@@ -1,0 +1,3 @@
+drivers/media/usb/tm6000/tm6000-video.c:1926:1: warning: return from incompatible pointer type [enabled by default]
+
+2012-12-24 11:08:12 kbuild next:master:3979da7 x86_64-allmodconfig 3979da7

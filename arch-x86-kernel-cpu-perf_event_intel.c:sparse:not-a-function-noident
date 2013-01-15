@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/perf_event_intel.c:138:35: sparse: not a function <noident>
+
+2012-09-30 03:26:58 inn internal-hle:hsw:pmu3:38e7b29 i386-allmodconfig 565840c

@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath6kl/wmi.c:2024 ath6kl_wmi_beginscan_cmd() error: buffer overflow 'sc->supp_rates' 2 <= 2
+
+2013-01-09 13:27:31 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

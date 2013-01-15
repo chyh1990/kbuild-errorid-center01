@@ -1,0 +1,4 @@
+drivers/staging/serqt_usb2/serqt_usb2.c:1198:29: error: incompatible types when initializing type 'struct ktermios *' using type 'struct ktermios'
+
+2012-07-28 05:18:04 kbuild powerpc /cc/kernel-tests/commit-list/tty:tty-next:d155255 d155255a344c417acad74156654295a2964e6b81
+2012-08-11 06:37:57 snb i386 c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:7f0bc6a

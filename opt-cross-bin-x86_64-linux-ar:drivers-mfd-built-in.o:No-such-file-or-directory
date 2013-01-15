@@ -1,0 +1,3 @@
+/opt/cross/bin/x86_64-linux-ar: drivers/mfd/built-in.o: No such file or directory
+
+2012-10-01 13:54:58 hive renesas:next:b681273 x86_64-randconfig-h003 b681273

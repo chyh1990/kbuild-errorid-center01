@@ -1,0 +1,3 @@
+drivers/usb/renesas_usbhs/mod_gadget.c:427:2037: warning: 'msg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-20 09:28:55 bee arm-soc:for-next:8ebc882 i386-randconfig-b044 8ebc882

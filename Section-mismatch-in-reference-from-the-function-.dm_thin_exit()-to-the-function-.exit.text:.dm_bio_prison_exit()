@@ -1,0 +1,4 @@
+WARNING: drivers/md/dm-thin-pool.o(.text+0x67f0): Section mismatch in reference from the function .dm_thin_exit() to the function .exit.text:.dm_bio_prison_exit()
+
+2012-10-13 04:32:36 bee dm:for-linus:dba1416 powerpc-allyesconfig 44feb38
+2012-10-13 04:32:37 bee powerpc email notified

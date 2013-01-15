@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_acpi.c:68:27: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 11:57:15 bee nouveau:drm-nouveau-fixes:79eee7a x86_64-allyesconfig c7ead11

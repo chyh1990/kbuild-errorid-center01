@@ -1,0 +1,3 @@
+drivers/xilinx_common/xpacket_fifo_l_v2_00_a.c:281:14: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2012-12-11 16:52:40 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690

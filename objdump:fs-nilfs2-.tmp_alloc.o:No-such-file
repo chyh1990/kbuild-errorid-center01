@@ -1,0 +1,4 @@
+objdump: 'fs/nilfs2/.tmp_alloc.o': No such file
+
+2012-09-29 01:55:09 bee aa:autonuma:49e1bcb x86_64-randconfig-x075 6399413
+2012-09-29 03:25:11 bee aa:autonuma:c6047ec x86_64-randconfig-x075 3346ef4

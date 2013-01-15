@@ -1,0 +1,3 @@
+net/irda/irqueue.c:636:9: sparse: context imbalance in 'hashbin_remove' - different lock contexts for basic block
+
+2013-01-09 12:56:34 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

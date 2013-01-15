@@ -1,0 +1,3 @@
+include/asm-generic/bitops/le.h:17:29: error: conflicting types for 'find_next_bit_le'
+
+2012-11-07 03:46:36 lkp-mb01 devel-lkp-mb01-s390-2012-11-07-03-43:46a5f0b s390-allmodconfig 46a5f0b

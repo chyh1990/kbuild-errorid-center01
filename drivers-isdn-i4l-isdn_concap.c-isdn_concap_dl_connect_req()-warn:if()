@@ -1,0 +1,3 @@
+drivers/isdn/i4l/isdn_concap.c:70 isdn_concap_dl_connect_req() warn: if();
+
+2013-01-09 13:27:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

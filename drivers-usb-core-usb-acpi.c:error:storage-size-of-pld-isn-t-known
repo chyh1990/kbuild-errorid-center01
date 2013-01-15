@@ -1,0 +1,7 @@
+drivers/usb/core/usb-acpi.c:55:18: error: storage size of 'pld' isn't known
+
+2012-09-21 13:21:00 kbuild acpi:release:abd4c92 x86_64-allmodconfig 8ede06a
+2012-09-22 02:41:48 snb acpi:next:f97b65c x86_64-randconfig-s361 8ede06a
+2012-09-25 13:19:03 bee acpi:next:b76c4c2 i386-randconfig-b082 8ede06a
+2012-09-25 13:19:03 bee acpi:next:b76c4c2 i386-randconfig-b082 8ede06a email notified
+2012-09-25 13:19:05 bee i386 email notified

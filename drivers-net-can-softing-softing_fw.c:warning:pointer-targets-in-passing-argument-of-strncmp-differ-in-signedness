@@ -1,0 +1,3 @@
+drivers/net/can/softing/softing_fw.c:173:2: warning: pointer targets in passing argument 2 of 'strncmp' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:41 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

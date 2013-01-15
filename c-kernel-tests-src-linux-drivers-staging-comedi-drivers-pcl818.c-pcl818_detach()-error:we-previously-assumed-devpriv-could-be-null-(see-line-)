@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/staging/comedi/drivers/pcl818.c:1917 pcl818_detach() error: we previously assumed 'devpriv' could be null (see line 1893)
+
+2013-01-07 12:25:32 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

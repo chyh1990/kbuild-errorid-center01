@@ -1,0 +1,3 @@
+drivers/video/fbmon.c:1446:2: warning: passing argument 1 of 'of_get_videomode' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-11-23 03:29:27 kbuild pinchartl-fbdev:lcdc-panel:236d322 powerpc-allmodconfig 236d322

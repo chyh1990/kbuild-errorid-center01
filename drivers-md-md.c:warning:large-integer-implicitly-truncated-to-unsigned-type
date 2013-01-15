@@ -1,0 +1,3 @@
+drivers/md/md.c:1392:3: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+
+2013-01-09 12:10:32 lkp-mb01 devel-lkp-mb01-i386-2013-01-09-11-54:6b913ee i386-randconfig-m135 6b913ee

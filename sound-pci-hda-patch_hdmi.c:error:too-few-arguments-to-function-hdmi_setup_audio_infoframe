@@ -1,0 +1,4 @@
+sound/pci/hda/patch_hdmi.c:1529:3: error: too few arguments to function 'hdmi_setup_audio_infoframe'
+
+2012-09-06 22:58:24 bee sound-unstable:topic:tlv-chmap:41b7f80 x86_64-allyesdebian 63d15b1
+2012-09-06 23:31:21 bee sound-unstable:master:791974e x86_64-allyesdebian 791974e

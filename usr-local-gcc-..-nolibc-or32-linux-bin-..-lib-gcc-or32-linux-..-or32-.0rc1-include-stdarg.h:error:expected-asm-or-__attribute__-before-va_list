@@ -1,0 +1,10 @@
+/usr/local/gcc-4.5.1-nolibc/or32-linux/bin/../lib/gcc/or32-linux/4.5.1-or32-1.0rc1/include/stdarg.h:102:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'va_list'
+
+2012-07-24 19:48:12 snb openrisc /cc/kernel-tests/commit-list/uapi:uapi-split:09e932d 57d93686d988482f0b183afd1a89d693a760b525
+2012-07-28 10:12:45 snb openrisc f05d80873f3f30541a39aebeb7e54dc20ff4e996 /cc/kernel-tests/commit-list/uapi:uapi-split:2aaf598
+2012-08-02 19:39:52 snb openrisc 175adfb7144ea6ea54210f579491734284358b70 /cc/kernel-tests/commit-list/uapi:uapi-split:4b8bb3c
+2012-08-03 13:20:28 snb openrisc 172ca768905a1232305c4ce8453baea0081b1e5c /cc/kernel-tests/commit-list/uapi:uapi-split:5d460f0
+2012-08-17 10:23:17 snb uapi:uapi-split:ea16d44 openrisc-or1ksim_defconfig c101d71
+2012-10-01 17:35:58 snb devel-snb-arm-2012-10-01-17-19:6180ed1 openrisc-or1ksim_defconfig 6180ed1
+2012-10-02 19:44:44 snb uapi:uapi-split:f78f9c7 openrisc-or1ksim_defconfig f78f9c7
+2012-10-03 18:43:42 snb uapi:uapi-split:72541c7 openrisc-or1ksim_defconfig 72541c7

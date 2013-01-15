@@ -1,0 +1,5 @@
+fs/notify/fdinfo.c:29:18: error: 'struct fsnotify_group' has no member named 'mark_lock'
+
+2012-11-29 18:41:45 snb next:akpm:dc9e382 x86_64-randconfig-s372 30fdd99
+2012-11-30 15:34:13 kbuild next:akpm:cfb65da x86_64-allmodconfig 05b798d
+2012-12-06 16:32:06 kbuild next:akpm:68c9328 x86_64-allmodconfig 2ceec31

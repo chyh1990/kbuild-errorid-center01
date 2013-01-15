@@ -1,0 +1,4 @@
+(.text+0x97b00): undefined reference to `of_dma_request_slave_channel'
+
+2012-09-25 13:48:46 kbuild slave-dma:topic:dmaengine_dt:be2e772 x86_64-allmodconfig 2209eaa
+2012-09-25 13:48:48 kbuild x86_64 email notified

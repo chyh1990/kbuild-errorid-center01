@@ -1,0 +1,3 @@
+kernel/trace/ftrace.c:4208 set_ftrace_pid() info: ignoring unreachable code.
+
+2012-10-18 13:10:41 kbuild next:master:d646959 i386-allyesconfig d646959

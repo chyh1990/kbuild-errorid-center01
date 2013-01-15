@@ -1,0 +1,3 @@
+arch/x86/math-emu/errors.c:619 arith_underflow() warn: '((3 * (1 << 13)) + 16383)' 40959 can't fit into 32767 '(*&((dest)->exp))'
+
+2013-01-09 13:27:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

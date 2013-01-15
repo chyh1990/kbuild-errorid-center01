@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/ceph/osd_client.c:1455 ceph_osdc_handle_map() error: we previously assumed 'osdc->osdmap' could be null (see line 1389)
+
+2013-01-07 12:24:54 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

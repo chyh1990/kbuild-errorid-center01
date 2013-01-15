@@ -1,0 +1,6 @@
+objdump: 'security/yama/.tmp_yama_lsm.o': No such file
+
+2012-09-29 07:53:46 bee kees:yama-stacked:eba4d62 x86_64-allyesconfig eba4d62
+2012-09-29 07:57:46 bee x86_64 email notified
+2012-09-29 08:00:38 bee kees:yama-extras:9c47963 x86_64-allyesconfig 9c47963
+2012-09-29 08:16:24 bee kees:module-fd-syscall:fddb953 x86_64-allyesconfig 6672d90

@@ -1,0 +1,8 @@
+reset.c:(.init.text+0xe8): undefined reference to `vexpress_clk_of_init'
+
+2012-10-17 00:37:52 snb devel-snb-arm-2012-10-17-00-34:e6d927c arm-prima2_defconfig e6d927c
+2012-10-19 01:54:09 snb vexpress:vexpress-soc:f665f23 arm-prima2_defconfig f665f23
+2012-10-27 05:44:09 snb arm-soc:for-next:d4530ae arm-imx_v6_v7_defconfig d4530ae
+2012-10-27 19:23:46 snb arm-soc:for-next:be792b9 arm-imx_v6_v7_defconfig be792b9
+2012-10-29 12:47:29 snb next:master:f83c772 arm-imx_v6_v7_defconfig f83c772
+2012-10-29 12:58:05 snb next:akpm:4c8b1d3 arm-imx_v6_v7_defconfig 4c8b1d3

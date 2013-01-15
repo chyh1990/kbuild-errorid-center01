@@ -1,0 +1,3 @@
+mm/mmu_notifier.c:23:20: sparse: symbol 'srcu' was not declared. Should it be static?
+
+2012-08-07 10:58:11 snb i386 /cc/kernel-tests/commit-list/aa:autonuma:f958aa1 e43e0afa34bee90e511ccd9b6c626962672d81d4

@@ -1,0 +1,4 @@
+fs/block_dev.c:739:2-8: preceding lock on line 750
+
+2012-08-07 10:55:20 snb i386 /cc/kernel-tests/commit-list/aa:autonuma:f958aa1 d412bb9fafb6214d347293113543e62787570add
+2012-08-07 10:55:20 snb i386 email notified

@@ -1,0 +1,3 @@
+drivers/misc/altera-stapl/altera.c:2204 altera_get_note() error: strlcpy() 'key' too small (33 vs 256)
+
+2013-01-09 13:26:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

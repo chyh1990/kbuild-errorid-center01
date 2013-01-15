@@ -1,0 +1,3 @@
+arch/x86/include/uapi/asm/ptrace-abi.h:31:0: warning: "R12" redefined [enabled by default]
+
+2012-12-15 10:33:46 bee devel-bee-x86-2012-12-15-09-27:aaba2fc um-allyesconfig aaba2fc

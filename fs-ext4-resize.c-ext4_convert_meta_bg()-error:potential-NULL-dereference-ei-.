@@ -1,0 +1,4 @@
+fs/ext4/resize.c:1829 ext4_convert_meta_bg() error: potential NULL dereference 'ei'.
+
+2012-09-20 12:57:35 kbuild ext4:master:5e7bbef i386-allyesconfig 5e7bbef
+2012-09-20 13:18:18 kbuild i386 email notified

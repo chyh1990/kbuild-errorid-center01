@@ -1,0 +1,3 @@
+drivers/net/wireless/mwl8k.c:4421:7: warning: pointer targets in passing argument 2 of 'mwl8k_cmd_set_post_scan' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:39 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

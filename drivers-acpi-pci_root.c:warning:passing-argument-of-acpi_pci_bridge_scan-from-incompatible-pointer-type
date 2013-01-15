@@ -1,0 +1,3 @@
+drivers/acpi/pci_root.c:566:3: warning: passing argument 1 of 'acpi_pci_bridge_scan' from incompatible pointer type [enabled by default]
+
+2012-09-26 12:48:00 bee thermal:next:5d8d708 um-allyesconfig f4a821c

@@ -1,0 +1,3 @@
+fs/ext4/indirect.c:1799 ext4_ind_punch_hole() warn: inconsistent returns mutex:&inode->i_mutex: locked (1710) unlocked (1799)
+
+2012-09-28 13:01:29 kbuild ext4:dev:b2f1a8e i386-allyesconfig b2f1a8e

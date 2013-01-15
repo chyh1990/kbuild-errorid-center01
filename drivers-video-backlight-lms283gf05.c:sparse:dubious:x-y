@@ -1,0 +1,3 @@
+drivers/video/backlight/lms283gf05.c:162:47: sparse: dubious: x | !y
+
+2012-10-23 15:31:54 snb next:master:716e9bd i386-allmodconfig 716e9bd

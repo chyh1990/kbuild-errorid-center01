@@ -1,0 +1,3 @@
+security/integrity/digsig.c:52:47: sparse: incorrect type in argument 1 (different base types)
+
+2013-01-12 17:53:23 snb digsig:working:3ec6897 i386-allmodconfig 3ec6897

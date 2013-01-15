@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8991.c:571:2: warning: (near initialization for 'wm8991_dapm_lonmix_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:07:02 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

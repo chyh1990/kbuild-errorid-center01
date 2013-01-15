@@ -1,0 +1,3 @@
+drivers/memstick/core/ms_block.c:326:5: sparse: symbol 'msb_write_regs' was not declared. Should it be static?
+
+2012-09-29 17:59:41 snb calxeda:defconfig:0ac7be3 i386-allmodconfig 0ac7be3

@@ -1,0 +1,4 @@
+net/wireless/scan.c:1365 ieee80211_bss() error: we previously assumed 'ies' could be null (see line 1231)
+
+2012-11-29 10:09:20 kbuild mac80211-next:wip:3f803c7 i386-allyesconfig 3f803c7
+2012-11-29 10:09:26 kbuild i386 email notified

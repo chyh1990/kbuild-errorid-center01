@@ -1,0 +1,3 @@
+drivers/tty/tty_buffer.c:387:10: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:32:55 bee tty:tty-next:4dac211 x86_64-allyesconfig 4dac211

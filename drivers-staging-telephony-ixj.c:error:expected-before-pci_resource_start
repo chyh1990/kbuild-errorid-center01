@@ -1,0 +1,6 @@
+drivers/staging/telephony/ixj.c:7732:38: error: expected ';' before 'pci_resource_start'
+
+2012-10-26 02:29:42 kbuild pci:pci:misc:334a575 x86_64-allmodconfig f23a277
+2012-10-26 02:30:06 kbuild x86_64 email notified
+2012-10-30 11:34:21 kbuild pci:pci:misc:347593e x86_64-allmodconfig 545974a
+2012-11-06 05:02:54 kbuild pci:next:84a8fb6 i386-allyesconfig 84a8fb6

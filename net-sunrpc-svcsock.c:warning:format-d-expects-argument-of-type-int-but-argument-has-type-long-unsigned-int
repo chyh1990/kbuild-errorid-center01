@@ -1,0 +1,3 @@
+net/sunrpc/svcsock.c:1075:3: warning: format '%d' expects argument of type 'int', but argument 2 has type 'long unsigned int' [-Wformat]
+
+2012-12-18 12:15:55 kbuild nfsd:for-3.8:d5f50b0 x86_64-allmodconfig 6a72ae2

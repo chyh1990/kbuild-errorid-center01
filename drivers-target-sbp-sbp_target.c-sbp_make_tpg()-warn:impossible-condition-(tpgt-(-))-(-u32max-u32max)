@@ -1,0 +1,3 @@
+drivers/target/sbp/sbp_target.c:2183 sbp_make_tpg() warn: impossible condition '(tpgt > (~0)) => (0-u32max > u32max)'
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

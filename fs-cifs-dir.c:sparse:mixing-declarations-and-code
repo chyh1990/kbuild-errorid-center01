@@ -1,0 +1,3 @@
+fs/cifs/dir.c:408:17: sparse: mixing declarations and code
+
+2012-11-05 16:45:37 snb devel-snb-i386-2012-11-05-15-44:1696b94 i386-allmodconfig 1696b94

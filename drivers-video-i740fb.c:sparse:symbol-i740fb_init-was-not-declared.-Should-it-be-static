@@ -1,0 +1,3 @@
+drivers/video/i740fb.c:1305:12: sparse: symbol 'i740fb_init' was not declared. Should it be static?
+
+2013-01-09 12:52:59 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

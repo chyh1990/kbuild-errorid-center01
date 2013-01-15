@@ -1,0 +1,3 @@
+arch/x86/xen/setup.c:261:6: warning: unused variable 'xlated_phys' [-Wunused-variable]
+
+2012-10-23 04:47:50 bee xen:devel:pvh.5:dfc557a x86_64-allyesconfig dfc557a

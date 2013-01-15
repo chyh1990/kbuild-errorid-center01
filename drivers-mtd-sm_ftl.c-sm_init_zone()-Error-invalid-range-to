@@ -1,0 +1,3 @@
+drivers/mtd/sm_ftl.c:801 sm_init_zone() Error invalid range 4096 to -1
+
+2012-09-07 22:42:23 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

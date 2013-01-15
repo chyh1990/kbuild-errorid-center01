@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/um_idi.c:83:6: sparse: symbol 'diva_user_mode_idi_remove_adapter' was not declared. Should it be static?
+
+2013-01-09 13:07:26 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

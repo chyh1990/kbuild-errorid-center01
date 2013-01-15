@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/engine/crypt/fuc/nv98.fuc.h:153:10: sparse: symbol 'nv98_pcrypt_code' was not declared. Should it be static?
+
+2012-08-06 15:42:21 snb i386 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d b97bc4742e9fb6bba7adae1b70be9d3bccea66be

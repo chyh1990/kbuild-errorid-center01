@@ -1,0 +1,3 @@
+if (nd->root.mnt && !(nd->flags & LOOKUP_ROOT)) {
+
+2012-08-10 17:11:32 snb i386 /cc/kernel-tests/commit-list/digsig:mod_new:042e888 79c3d51c0ab8366dcd4c8637ba99093fcea9d71b

@@ -1,0 +1,3 @@
+drivers/ata/sata_sil24.c:509:17: warning: variable 'addr' set but not used [-Wunused-but-set-variable]
+
+2012-09-25 23:03:20 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

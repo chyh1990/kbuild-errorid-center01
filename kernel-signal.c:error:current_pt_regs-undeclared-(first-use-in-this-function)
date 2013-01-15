@@ -1,0 +1,5 @@
+kernel/signal.c:3119:35: error: 'current_pt_regs' undeclared (first use in this function)
+
+2012-09-20 18:31:31 snb signal:master:956761f arm-at91_dt_defconfig 956761f
+2012-09-20 18:38:40 snb arm email notified
+2012-09-21 03:58:28 snb signal:master:76ab306 arm-at91_dt_defconfig 76ab306

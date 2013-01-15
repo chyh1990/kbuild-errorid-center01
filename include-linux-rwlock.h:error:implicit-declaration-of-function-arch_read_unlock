@@ -1,0 +1,5 @@
+include/linux/rwlock.h:21:2: error: implicit declaration of function 'arch_read_unlock' [-Werror=implicit-function-declaration]
+
+2012-10-13 06:49:57 inn internal-hle:hle36:combined:a7b34c8 x86_64-randconfig-i042 a7b34c8
+2012-10-13 07:30:46 inn internal-hle:hle36:spinlock:82f2926 x86_64-randconfig-i042 23d6679
+2012-10-24 14:46:53 inn internal-hle:hle37:spinlock:f9ae3ae i386-alldefconfig 15b46ec

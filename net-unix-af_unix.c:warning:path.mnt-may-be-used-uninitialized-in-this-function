@@ -1,0 +1,4 @@
+net/unix/af_unix.c:895: warning: 'path.mnt' may be used uninitialized in this function
+
+2012-10-19 08:25:21 snb wq:for-next:e65120f avr32-atngw100_defconfig e65120f
+2012-10-19 08:25:23 snb avr32 email notified

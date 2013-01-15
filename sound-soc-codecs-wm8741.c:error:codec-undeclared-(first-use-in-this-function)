@@ -1,0 +1,5 @@
+sound/soc/codecs/wm8741.c:495:11: error: 'codec' undeclared (first use in this function)
+
+2012-09-10 18:32:15 kbuild asoc:for-next:1a52091 x86_64-allmodconfig d978055
+2012-09-10 18:32:17 kbuild x86_64 email notified
+2012-09-11 09:45:01 snb asoc:for-next:bffb28a i386-allmodconfig d978055

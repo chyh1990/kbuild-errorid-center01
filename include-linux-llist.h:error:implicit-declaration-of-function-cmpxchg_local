@@ -1,0 +1,8 @@
+include/linux/llist.h:185:3: error: implicit declaration of function 'cmpxchg_local'
+
+2013-01-09 22:38:28 snb next:master:0f7b07b openrisc-or1ksim_defconfig 0f7b07b
+2013-01-11 11:24:52 snb next:master:62406ac microblaze-mmu_defconfig 62406ac
+2013-01-11 18:20:34 snb next:master:2184115 microblaze-mmu_defconfig 2184115
+2013-01-12 00:29:44 snb next:akpm:40b6aaa microblaze-mmu_defconfig 40b6aaa
+2013-01-14 13:24:42 snb next:master:586a9ca microblaze-mmu_defconfig 586a9ca
+2013-01-14 16:17:19 snb next:akpm:17e836d microblaze-mmu_defconfig 17e836d

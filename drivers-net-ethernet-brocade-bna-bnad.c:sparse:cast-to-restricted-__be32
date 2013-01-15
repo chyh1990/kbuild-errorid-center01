@@ -1,0 +1,3 @@
+drivers/net/ethernet/brocade/bna/bnad.c:444:25: sparse: cast to restricted __be32
+
+2012-08-30 22:45:55 snb rcu:rcu:next:17da987 i386-allmodconfig c763ab1

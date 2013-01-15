@@ -1,0 +1,3 @@
+WARNING: arch/powerpc/platforms/built-in.o(.text+0x1378c): Section mismatch in reference from the function .pnv_pci_ioda_msi_setup() to the function .devinit.text:.__pnv_ioda_get_one_pe()
+
+2012-10-15 01:44:07 kbuild nf-next:nf_tables8:8c4e6c7 powerpc-allmodconfig 8c4e6c7

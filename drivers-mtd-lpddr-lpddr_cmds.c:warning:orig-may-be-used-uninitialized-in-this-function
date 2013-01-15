@@ -1,0 +1,3 @@
+drivers/mtd/lpddr/lpddr_cmds.c:443:4: warning: 'orig' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:00 inn linus:master:974b335 x86_64-randconfig-i368 974b335

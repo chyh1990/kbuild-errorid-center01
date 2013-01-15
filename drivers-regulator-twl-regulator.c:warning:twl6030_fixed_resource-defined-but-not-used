@@ -1,0 +1,4 @@
+drivers/regulator/twl-regulator.c:662:29: warning: 'twl6030_fixed_resource' defined but not used [-Wunused-variable]
+
+2012-08-10 03:09:09 lkp-mb01 i386 /cc/kernel-tests/commit-list/regulator:for-next:7ad89ec e76ab829cc2d8b6350a3f01fffb208df4d7d8c1b
+2012-08-10 03:09:10 lkp-mb01 i386 email notified

@@ -1,0 +1,8 @@
+fs/block_dev.c:135:2: error: implicit declaration of function 'prio_tree_empty' [-Werror=implicit-function-declaration]
+
+2012-09-28 17:09:48 kbuild next:akpm:b97e42d x86_64-allmodconfig 0ad65f4
+2012-09-28 18:01:23 kbuild x86_64 email notified
+2012-10-02 22:44:37 kbuild next:akpm:275c16c x86_64-allmodconfig 6382a9f
+2012-10-04 15:41:22 kbuild next:akpm:2ca8056 x86_64-allmodconfig a0dc2dd
+2012-10-05 22:55:14 kbuild next:akpm:2a89e3c x86_64-allmodconfig a36c396
+2012-10-08 16:22:27 kbuild next:akpm:b9d227b x86_64-allmodconfig 2adaafd

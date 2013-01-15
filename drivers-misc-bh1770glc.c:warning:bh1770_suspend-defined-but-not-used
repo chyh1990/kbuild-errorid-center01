@@ -1,0 +1,3 @@
+drivers/misc/bh1770glc.c:1314:12: warning: 'bh1770_suspend' defined but not used [-Wunused-function]
+
+2012-10-15 20:12:55 bee gfs2:master:5d8550f i386-randconfig-b221 5d8550f

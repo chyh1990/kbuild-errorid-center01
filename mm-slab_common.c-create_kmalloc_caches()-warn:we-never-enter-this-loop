@@ -1,0 +1,3 @@
+mm/slab_common.c:350 create_kmalloc_caches() warn: we never enter this loop
+
+2012-10-22 18:59:53 kbuild glommer-memcg:slab-common:kmalloc:b59d450 i386-allyesconfig b59d450

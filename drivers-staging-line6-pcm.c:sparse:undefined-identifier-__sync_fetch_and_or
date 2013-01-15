@@ -1,0 +1,3 @@
+drivers/staging/line6/pcm.c:111:13: sparse: undefined identifier '__sync_fetch_and_or'
+
+2013-01-09 13:09:37 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

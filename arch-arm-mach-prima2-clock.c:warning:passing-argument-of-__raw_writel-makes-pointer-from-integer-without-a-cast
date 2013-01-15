@@ -1,0 +1,3 @@
+arch/arm/mach-prima2/clock.c:77:2: warning: passing argument 2 of '__raw_writel' makes pointer from integer without a cast [enabled by default]
+
+2012-09-19 17:11:55 snb arm-platforms:kvm-cleanup:b3251da arm-prima2_defconfig b3251da

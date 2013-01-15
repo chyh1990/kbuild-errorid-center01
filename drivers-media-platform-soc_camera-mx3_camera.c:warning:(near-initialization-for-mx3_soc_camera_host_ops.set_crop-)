@@ -1,0 +1,3 @@
+drivers/media/platform/soc_camera/mx3_camera.c:1134:2: warning: (near initialization for 'mx3_soc_camera_host_ops.set_crop') [enabled by default]
+
+2012-11-26 17:05:54 snb devel-snb-arm-2012-11-26-16-45:e7650e0 arm-imx_v6_v7_defconfig e7650e0

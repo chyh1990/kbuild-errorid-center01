@@ -1,0 +1,3 @@
+kernel/power/main.c:49:5: sparse: symbol 'pm_async_enabled' was not declared. Should it be static?
+
+2013-01-09 12:58:03 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

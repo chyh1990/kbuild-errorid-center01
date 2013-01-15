@@ -1,0 +1,16 @@
+drivers/net/ethernet/chelsio/cxgb/sge.c:374:23: error: conflicting types for 'get_clock'
+
+2012-12-01 00:48:53 lkp-mb01 devel-lkp-mb01-s390-2012-11-30-23-19:79f2ae6 s390-allmodconfig 79f2ae6
+2012-12-01 16:37:49 lkp-mb01 devel-lkp-mb01-s390-2012-12-01-15-17:25a4852 s390-allmodconfig 25a4852
+2012-12-03 21:01:32 lkp-mb01 next:master:e6bdf11 s390-allmodconfig e6bdf11
+2012-12-03 21:05:51 lkp-mb01 next:akpm:befe63e s390-allmodconfig befe63e
+2012-12-04 01:58:48 lkp-mb01 devel-lkp-mb01-s390-2012-12-04-00-29:dad67d5 s390-allmodconfig dad67d5
+2012-12-04 20:21:57 lkp-mb01 next:master:176f674 s390-allmodconfig 176f674
+2012-12-05 10:09:37 lkp-mb01 next:akpm:d24c041 s390-allmodconfig d24c041
+2012-12-05 16:18:05 lkp-mb01 next:master:786c4d6 s390-allmodconfig 786c4d6
+2012-12-05 17:52:31 lkp-mb01 next:akpm:a004e1e s390-allmodconfig a004e1e
+2012-12-06 00:45:40 lkp-mb01 s390:features:c59b9f9 s390-allmodconfig c59b9f9
+2012-12-06 01:42:12 lkp-mb01 devel-lkp-mb01-s390-2012-12-06-00-50:9fc5190 s390-allmodconfig 9fc5190
+2012-12-08 13:21:57 lkp-mb01 next:master:7bd0111 s390-allmodconfig 7bd0111
+2012-12-08 13:24:29 lkp-mb01 next:akpm:7253e8a s390-allmodconfig 7253e8a
+2012-12-12 00:54:30 lkp-mb01 devel-lkp-mb01-s390-2012-12-11-23-17:c4dc9c2 s390-allmodconfig c4dc9c2

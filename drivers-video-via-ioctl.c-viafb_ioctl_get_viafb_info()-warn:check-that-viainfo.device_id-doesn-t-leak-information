@@ -1,0 +1,3 @@
+drivers/video/via/ioctl.c:74 viafb_ioctl_get_viafb_info() warn: check that 'viainfo.device_id' doesn't leak information
+
+2013-01-09 13:27:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

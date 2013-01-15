@@ -1,0 +1,3 @@
+drivers/staging/vt6656/firmware.c:86 FIRMWAREbDownload() error: __builtin_memcpy() 'pBuffer' too small (1024 vs u16max)
+
+2013-01-09 13:26:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/net/wireless/ti/wlcore/main.c:3546 wl1271_ap_set_probe_resp_tmpl_legacy() error: buffer overflow 'probe_rsp_templ' 512 <= 4098
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

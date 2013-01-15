@@ -1,0 +1,3 @@
+drivers/gpu/drm/gma500/tc35876x-dsi-lvds.c:355:12: warning: 'id' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 13:26:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

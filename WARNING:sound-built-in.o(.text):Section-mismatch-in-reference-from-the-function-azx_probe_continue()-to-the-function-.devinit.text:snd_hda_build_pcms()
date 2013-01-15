@@ -1,0 +1,3 @@
+WARNING: sound/built-in.o(.text+0x259bb0): Section mismatch in reference from the function azx_probe_continue() to the function .devinit.text:snd_hda_build_pcms()
+
+2012-07-27 10:14:28 bee i386 /cc/kernel-tests/commit-list/linus:master:6ee127b 5e23ae49960d05f578a73ecd19749c45af682c2b

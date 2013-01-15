@@ -1,0 +1,3 @@
+drivers/pwm/core.c:152:6: sparse: symbol 'of_pwmchip_add' was not declared. Should it be static?
+
+2012-07-23 23:00:15 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e 4dd268e1a54e95ed59a38939c1fdc86c0a4ce59f

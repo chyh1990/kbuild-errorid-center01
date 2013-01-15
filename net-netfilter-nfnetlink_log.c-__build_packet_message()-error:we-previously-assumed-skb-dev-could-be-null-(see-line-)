@@ -1,0 +1,3 @@
+net/netfilter/nfnetlink_log.c:488 __build_packet_message() error: we previously assumed 'skb->dev' could be null (see line 476)
+
+2013-01-09 13:27:47 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

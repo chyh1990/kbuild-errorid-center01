@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_bios.c:6321:30: warning: unused variable 'dev_priv' [-Wunused-variable]
+
+2012-09-26 09:17:01 kbuild nouveau:master:f2aa204 x86_64-allmodconfig a24018c

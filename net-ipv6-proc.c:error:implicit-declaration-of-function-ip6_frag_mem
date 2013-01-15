@@ -1,0 +1,3 @@
+net/ipv6/proc.c:46:10: error: implicit declaration of function 'ip6_frag_mem' [-Werror=implicit-function-declaration]
+
+2012-09-12 22:57:55 kbuild congwang:ipv6:a7bff5a x86_64-allmodconfig 5fcf015

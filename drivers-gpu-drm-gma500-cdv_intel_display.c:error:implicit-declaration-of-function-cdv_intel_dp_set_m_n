@@ -1,0 +1,4 @@
+drivers/gpu/drm/gma500/cdv_intel_display.c:1131:3: error: implicit declaration of function 'cdv_intel_dp_set_m_n' [-Werror=implicit-function-declaration]
+
+2012-08-24 07:45:15 snb drm:drm-next:f76c0dd x86_64-randconfig-s159 f76c0dd
+2012-08-24 07:45:15 snb x86_64 email notified

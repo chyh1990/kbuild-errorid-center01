@@ -1,0 +1,3 @@
+drivers/scsi/libfc/fc_lport.c:972:16: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 12:57:34 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

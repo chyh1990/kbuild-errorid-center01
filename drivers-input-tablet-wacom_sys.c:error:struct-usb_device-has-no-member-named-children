@@ -1,0 +1,3 @@
+drivers/input/tablet/wacom_sys.c:643:23: error: 'struct usb_device' has no member named 'children'
+
+2012-10-04 18:33:33 snb devel-snb-x86_64-2012-10-04-18-26:0bd830f x86_64-randconfig-s043 0bd830f

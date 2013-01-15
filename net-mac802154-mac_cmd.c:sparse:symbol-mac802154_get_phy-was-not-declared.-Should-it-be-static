@@ -1,0 +1,3 @@
+net/mac802154/mac_cmd.c:34:17: sparse: symbol 'mac802154_get_phy' was not declared. Should it be static?
+
+2012-09-10 15:24:34 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

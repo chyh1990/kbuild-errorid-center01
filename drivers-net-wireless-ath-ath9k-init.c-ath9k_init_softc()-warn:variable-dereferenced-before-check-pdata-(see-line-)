@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/init.c:647 ath9k_init_softc() warn: variable dereferenced before check 'pdata' (see line 639)
+
+2012-12-11 06:02:31 kbuild devel-kbuild-i386-2012-12-11-05-09:009d6ee i386-allyesconfig 009d6ee

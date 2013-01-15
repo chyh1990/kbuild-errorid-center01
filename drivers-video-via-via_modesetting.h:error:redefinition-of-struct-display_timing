@@ -1,0 +1,10 @@
+drivers/video/via/via_modesetting.h:36:8: error: redefinition of 'struct display_timing'
+
+2012-11-22 17:11:08 snb devel-snb-x86_64-2012-11-22-17-08:e3b3743 x86_64-randconfig-s324 e3b3743
+2012-11-22 17:12:53 hive devel-hive-x86_64-2012-11-22-17-09:f2b02c5 x86_64-randconfig-h311 f2b02c5
+2012-11-22 17:18:45 lkp-mb01 devel-lkp-mb01-i386-2012-11-22-17-12:0417ebd i386-randconfig-m014 0417ebd
+2012-11-22 17:19:00 bee pinchartl-fbdev:lcdc-panel:6a7290b x86_64-allyesconfig 676e6ea
+2012-11-22 17:23:09 kbuild devel-kbuild-x86_64-2012-11-22-17-17:07fab36 x86_64-allmodconfig 07fab36
+2012-11-22 17:35:37 bee devel-bee-x86_64-2012-11-22-17-33:6043064 x86_64-allyesdebian 6043064
+2012-11-22 17:41:25 kbuild devel-kbuild-i386-2012-11-22-17-27:cda3c50 i386-allyesconfig cda3c50
+2012-11-22 17:54:14 bee devel-bee-i386-2012-11-22-17-30:7a9eb83 i386-randconfig-b732 7a9eb83

@@ -1,0 +1,4 @@
+sound/pci/hda/patch_ca0132.c:1927:6: warning: 'status' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-21 16:46:11 bee sound:topic:hda-ca0132-dsp:7c74513 x86_64-allyesdebian 0b37d4c
+2012-09-21 16:46:13 bee x86_64 email notified

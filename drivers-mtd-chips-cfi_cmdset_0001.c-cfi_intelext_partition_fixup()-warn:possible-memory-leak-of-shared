@@ -1,0 +1,3 @@
+drivers/mtd/chips/cfi_cmdset_0001.c:746 cfi_intelext_partition_fixup() warn: possible memory leak of 'shared'
+
+2013-01-09 13:27:59 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

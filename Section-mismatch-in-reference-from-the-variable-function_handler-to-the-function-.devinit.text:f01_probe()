@@ -1,0 +1,4 @@
+WARNING: drivers/input/rmi4/built-in.o(.data+0x1d40): Section mismatch in reference from the variable function_handler to the function .devinit.text:f01_probe()
+
+2012-11-28 14:16:10 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 8c5757e
+2012-11-28 14:21:26 kbuild x86_64 email notified

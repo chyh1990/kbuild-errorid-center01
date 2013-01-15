@@ -1,0 +1,3 @@
+sound/pci/riptide/riptide.c:929 sendcmd() error: potential NULL dereference 'cmdport'.
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/ozwpan/ozproto.c:557 oz_protocol_timer() info: redundant null check on t calling kfree()
+
+2012-09-12 11:57:29 kbuild security:next:a40695e i386-allyesconfig a40695e

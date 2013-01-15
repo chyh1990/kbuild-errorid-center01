@@ -1,0 +1,3 @@
+drivers/net/ethernet/chelsio/cxgb3/t3_hw.c:681:67: sparse: incorrect type in argument 3 (different base types)
+
+2013-01-09 12:58:08 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+arch/x86/kvm/vmx.c:5089:9-27: WARNING: casting value returned by k[cmz]alloc to (struct vmcs02_list *) is useless.
+
+2012-08-03 13:14:03 snb i386 /cc/kernel-tests/commit-list/acpi:next:9d0b01a 9d0b01a1bbb7a4ad23000240b67bca33c4235fcf

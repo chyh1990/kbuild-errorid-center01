@@ -1,0 +1,3 @@
+include/linux/mm.h:1046 vma_growsup() warn: bitwise AND condition is false here
+
+2012-09-07 22:41:47 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

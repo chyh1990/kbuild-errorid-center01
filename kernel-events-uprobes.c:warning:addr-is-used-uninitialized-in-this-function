@@ -1,0 +1,3 @@
+kernel/events/uprobes.c:140:22: warning: 'addr' is used uninitialized in this function [-Wuninitialized]
+
+2012-09-07 22:41:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

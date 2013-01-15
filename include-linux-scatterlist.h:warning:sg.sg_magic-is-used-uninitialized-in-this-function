@@ -1,0 +1,3 @@
+include/linux/scatterlist.h:67:2: warning: 'sg.sg_magic' is used uninitialized in this function [-Wuninitialized]
+
+2012-07-22 20:32:37 hive mips /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

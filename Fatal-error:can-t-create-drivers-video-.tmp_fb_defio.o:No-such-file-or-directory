@@ -1,0 +1,4 @@
+Fatal error: can't create drivers/video/.tmp_fb_defio.o: No such file or directory
+
+2012-09-22 22:21:48 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 a1a7e0a
+2012-10-01 13:56:42 hive renesas:next:b681273 x86_64-randconfig-h005 b681273

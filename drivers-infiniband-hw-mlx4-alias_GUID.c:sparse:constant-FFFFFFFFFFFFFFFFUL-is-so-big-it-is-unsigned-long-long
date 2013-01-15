@@ -1,0 +1,3 @@
+drivers/infiniband/hw/mlx4/alias_GUID.c:110:49: sparse: constant 0xFFFFFFFFFFFFFFFFUL is so big it is unsigned long long
+
+2012-09-24 01:03:08 snb infiniband:for-next:09ef9fd i386-allmodconfig 09ef9fd

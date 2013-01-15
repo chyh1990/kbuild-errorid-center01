@@ -1,0 +1,4 @@
+ERROR: "sysctl_llc_station_ack_timeout" [net/llc/llc2.ko] undefined!
+
+2012-09-21 19:23:46 kbuild can:master:029d8ad x86_64-allmodconfig 025e363
+2012-09-21 19:23:48 kbuild x86_64 email notified

@@ -1,0 +1,4 @@
+net/sunrpc/svcsock.c:855 svc_tcp_accept() error: potential null dereference 'newsvsk'.  (svc_setup_socket returns null)
+
+2012-09-12 06:58:08 kbuild nfsd:nfsd-next:fac7a17 i386-allyesconfig fac7a17
+2012-09-12 07:12:39 kbuild i386 email notified

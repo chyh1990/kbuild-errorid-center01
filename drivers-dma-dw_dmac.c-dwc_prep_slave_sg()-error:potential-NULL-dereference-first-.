@@ -1,0 +1,3 @@
+drivers/dma/dw_dmac.c:951 dwc_prep_slave_sg() error: potential NULL dereference 'first'.
+
+2012-10-29 12:54:16 kbuild next:master:f83c772 i386-allyesconfig f83c772

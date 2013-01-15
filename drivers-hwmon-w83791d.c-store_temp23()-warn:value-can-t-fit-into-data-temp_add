@@ -1,0 +1,3 @@
+drivers/hwmon/w83791d.c:996 store_temp23() warn: value 32768 can't fit into 32767 'data->temp_add[nr][index]'
+
+2012-09-07 22:42:26 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

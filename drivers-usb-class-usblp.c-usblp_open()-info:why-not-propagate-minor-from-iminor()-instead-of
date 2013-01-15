@@ -1,0 +1,3 @@
+drivers/usb/class/usblp.c:401 usblp_open() info: why not propagate 'minor' from iminor() instead of -19?
+
+2012-09-12 11:58:06 kbuild security:next:a40695e i386-allyesconfig a40695e

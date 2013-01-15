@@ -1,0 +1,3 @@
+fs/f2fs/super.c:92:6: sparse: symbol 'f2fs_destroy_inode' was not declared. Should it be static?
+
+2012-11-27 22:05:18 snb next:master:ce2931a i386-allmodconfig ce2931a

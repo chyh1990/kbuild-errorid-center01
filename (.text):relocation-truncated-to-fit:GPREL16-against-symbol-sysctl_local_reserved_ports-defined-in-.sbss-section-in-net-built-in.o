@@ -1,0 +1,5 @@
+(.text+0x5c8a0): relocation truncated to fit: GPREL16 against symbol `sysctl_local_reserved_ports' defined in .sbss section in net/built-in.o
+
+2012-09-15 14:08:13 lkp-mb01 yinghai:for-x86-irq-base:835d595 alpha-defconfig 151dc9c
+2012-09-15 14:40:00 lkp-mb01 yinghai:master:156b34a alpha-defconfig b615f73
+2012-09-16 00:52:09 lkp-mb01 yinghai:for-pci-for-each-res-addon:9fd94f5 alpha-defconfig 9fd94f5

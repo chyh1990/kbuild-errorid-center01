@@ -1,0 +1,12 @@
+arch/tile/include/asm/timex.h:36:22: error: 'SPR_CYCLE' undeclared (first use in this function)
+
+2012-07-24 19:11:30 snb tile /cc/kernel-tests/commit-list/uapi:uapi-split:09e932d b58d31ec03a26742ec3f7bac9223052c328fc65f
+2012-07-28 08:21:14 snb tile /cc/kernel-tests/commit-list/uapi:uapi-split:2aaf598 f81629f17df5ed355f3d0dc0d6910d5387d0f912
+2012-08-02 07:12:54 snb tile 1fe910aad697156c5717801947073c4cc5c11e8e /cc/kernel-tests/commit-list/uapi:uapi-split:4b8bb3c
+2012-08-03 03:55:53 snb tile 958ef621a914c5a1ac20198256d8024d7fb7a7df /cc/kernel-tests/commit-list/uapi:uapi-split:dfdba2d
+2012-08-03 12:19:55 snb tile 3e1da6f3ad043c54e3ae8f027d0e29db8b14a918 /cc/kernel-tests/commit-list/uapi:uapi-split:5d460f0
+2012-08-17 09:46:49 snb uapi:uapi-split:ea16d44 tile-tilegx_defconfig eae5f61
+2012-10-01 17:44:30 snb devel-snb-arm-2012-10-01-17-19:6180ed1 tile-tilegx_defconfig 6180ed1
+2012-10-02 19:55:23 snb uapi:uapi-split:f78f9c7 tile-tilegx_defconfig f78f9c7
+2012-10-03 18:57:06 snb uapi:uapi-split:72541c7 tile-tilegx_defconfig 72541c7
+2012-10-04 13:19:19 snb devel-snb-arm-2012-10-04-12-22:b04b34f tile-tilegx_defconfig b04b34f

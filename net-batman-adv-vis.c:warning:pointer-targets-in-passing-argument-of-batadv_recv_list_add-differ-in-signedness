@@ -1,0 +1,3 @@
+net/batman-adv/vis.c:380:12: warning: pointer targets in passing argument 3 of 'batadv_recv_list_add' differ in signedness [-Wpointer-sign]
+
+2012-09-26 01:34:02 bee net:master:78cc88c x86_64-allyesconfig 78cc88c

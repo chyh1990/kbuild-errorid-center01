@@ -1,0 +1,4 @@
+drivers/mfd/arizona-irq.c:271:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-09-20 02:12:44 snb mfd:for-next:144c94c i386-allmodconfig 3080de4
+2012-09-20 02:17:24 snb i386 email notified

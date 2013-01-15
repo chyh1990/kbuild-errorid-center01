@@ -1,0 +1,3 @@
+drivers/scsi/aic7xxx/aic7xxx_core.c:2593 ahc_set_syncrate() error: we previously assumed 'syncrate' could be null (see line 2558)
+
+2013-01-09 13:28:10 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

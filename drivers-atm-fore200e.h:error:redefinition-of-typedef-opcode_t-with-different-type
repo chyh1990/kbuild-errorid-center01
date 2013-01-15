@@ -1,0 +1,4 @@
+drivers/atm/fore200e.h:263:3: error: redefinition of typedef 'opcode_t' with different type
+
+2012-09-05 17:04:06 kbuild powerpc:next:8b64a9d powerpc-allmodconfig 8b7b80b
+2012-09-07 14:26:37 kbuild powerpc:next:06c8876 powerpc-allmodconfig 0127262

@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/fweh.c:497 brcmf_fweh_process_event() error: potential null dereference 'event'.  (kzalloc returns null)
+
+2012-11-17 05:29:23 kbuild devel-kbuild-i386-2012-11-17-04-29:c05723e i386-allyesconfig c05723e

@@ -1,0 +1,5 @@
+/usr/local/gcc-4.6.3-nolibc/xtensa-linux/bin/xtensa-linux-objcopy: cannot open: arch/xtensa/boot/ramdisk/ramdisk.gz: No such file or directory
+
+2012-11-11 06:43:45 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-19 11:29:54 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c
+2012-11-23 04:53:46 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

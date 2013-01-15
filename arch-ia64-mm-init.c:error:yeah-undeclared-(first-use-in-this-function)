@@ -1,0 +1,7 @@
+arch/ia64/mm/init.c:714:2: error: 'yeah' undeclared (first use in this function)
+
+2012-09-23 23:40:31 hive wfg:0day:5d7f781 ia64-alldefconfig 5d7f781
+2012-09-24 14:09:11 hive wfg:0day:1255073 ia64-alldefconfig 1255073
+2012-09-24 19:09:25 hive wfg:0day:43978bc ia64-alldefconfig 43978bc
+2012-09-30 13:26:07 hive wfg:0day:eff3b5c ia64-alldefconfig eff3b5c
+2012-09-30 23:46:19 hive wfg:0day:e736ac7 ia64-alldefconfig e736ac7

@@ -1,0 +1,3 @@
+fs/cifs/connect.c:3744:20: warning: 'pSesInfo' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-08-03 20:41:34 bee i386 /cc/kernel-tests/commit-list/nf-next:nf_tables6:7c9ca18 7c9ca181c6fbda6dcc18a7aa0e1eec464e8e113e

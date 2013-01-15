@@ -1,0 +1,4 @@
+ipc/shm.c:751:25: warning: the omitted middle operand in ?: will always be 'true', suggest explicit middle operand [-Wparentheses]
+
+2012-09-19 19:22:39 snb cr:crtools-3.6-rc5:36cd026 x86_64-randconfig-s351 36cd026
+2012-09-19 19:26:29 snb x86_64 email notified

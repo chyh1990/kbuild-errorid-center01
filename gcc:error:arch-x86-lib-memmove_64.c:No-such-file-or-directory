@@ -1,0 +1,5 @@
+gcc: error: arch/x86/lib/memmove_64.c: No such file or directory
+
+2012-11-07 07:15:16 inn internal-hle:hle37:combined:86d8d05 x86_64-randconfig-n085 d901184
+2013-01-09 17:09:05 kbuild next:akpm:ef2dca2 x86_64-allmodconfig ef2dca2
+2013-01-10 07:33:43 snb pci:next:e84813c x86_64-randconfig-s610 d1c3ed6

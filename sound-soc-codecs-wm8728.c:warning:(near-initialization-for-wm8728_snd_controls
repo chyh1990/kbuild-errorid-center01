@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8728.c:55:1: warning: (near initialization for 'wm8728_snd_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:04:09 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

@@ -1,0 +1,3 @@
+drivers/regulator/gpio-regulator.c:135:30: sparse: symbol 'of_get_gpio_regulator_config' was not declared. Should it be static?
+
+2012-10-18 13:42:23 snb next:master:d646959 i386-allmodconfig d646959

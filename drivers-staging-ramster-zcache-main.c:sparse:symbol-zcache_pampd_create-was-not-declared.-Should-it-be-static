@@ -1,0 +1,3 @@
+drivers/staging/ramster/zcache-main.c:639:6: sparse: symbol 'zcache_pampd_create' was not declared. Should it be static?
+
+2013-01-09 13:20:03 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

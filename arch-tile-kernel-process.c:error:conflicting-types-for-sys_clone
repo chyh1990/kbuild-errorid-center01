@@ -1,0 +1,6 @@
+arch/tile/kernel/process.c:583:1: error: conflicting types for 'sys_clone'
+
+2012-11-16 01:33:35 snb devel-snb-arm-2012-11-16-01-23:b709a15 tile-tilegx_defconfig b709a15
+2012-11-16 16:29:44 snb microblaze:viro:arch-microblaze-rc5:c0a9edf tile-tilegx_defconfig c0a9edf
+2012-12-04 20:27:35 snb microblaze:next:eab5c3b tile-tilegx_defconfig eab5c3b
+2012-12-04 20:29:59 snb microblaze:next:1268d5a tile-tilegx_defconfig 1268d5a

@@ -1,0 +1,4 @@
+block/blk-core.c:867:2-8: preceding lock on line 884
+
+2012-07-28 11:42:14 snb i386 /cc/kernel-tests/commit-list/wq:review-wq-mod_delayed:6f510bf 0639726084a3d23dcb6b66da3baae0e679c2cbc4
+2012-07-28 11:42:17 snb i386 email notified

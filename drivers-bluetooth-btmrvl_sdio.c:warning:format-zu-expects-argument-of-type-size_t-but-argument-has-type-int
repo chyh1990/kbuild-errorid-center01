@@ -1,0 +1,4 @@
+drivers/bluetooth/btmrvl_sdio.c:516:2: warning: format '%zu' expects argument of type 'size_t', but argument 4 has type 'int' [-Wformat]
+
+2012-10-05 02:43:05 inn internal-bluetooth-hs:master:c89ce1b x86_64-allmodconfig f5b889f
+2012-10-05 02:43:05 inn x86_64 email notified

@@ -1,0 +1,3 @@
+include/linux/sunrpc/auth.h:126:1: warning: '__cold__' attribute ignored
+
+2012-10-01 17:37:15 snb devel-snb-arm-2012-10-01-17-19:6180ed1 openrisc-or1ksim_defconfig 6180ed1

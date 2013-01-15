@@ -1,0 +1,3 @@
+drivers/usb/host/ohci-hcd.c:1212 ohci_hcd_mod_init() info: ignoring unreachable code.
+
+2012-09-07 22:42:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

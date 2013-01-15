@@ -1,0 +1,3 @@
+kernel/events/core.c:202:26: sparse: function 'perf_pmu_name' with external linkage has definition
+
+2013-01-09 12:53:54 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

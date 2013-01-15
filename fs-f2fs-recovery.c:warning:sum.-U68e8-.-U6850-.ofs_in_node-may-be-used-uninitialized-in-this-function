@@ -1,0 +1,3 @@
+fs/f2fs/recovery.c:224:52: warning: 'sum.<U68e8>.<U6850>.ofs_in_node' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-24 11:17:24 snb next:master:3979da7 x86_64-randconfig-s542 3979da7

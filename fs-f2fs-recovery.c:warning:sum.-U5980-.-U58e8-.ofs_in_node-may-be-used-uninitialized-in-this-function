@@ -1,0 +1,3 @@
+fs/f2fs/recovery.c:224:52: warning: 'sum.<U5980>.<U58e8>.ofs_in_node' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-24 16:41:07 snb kgene-samsung:for-next:332ce91 x86_64-randconfig-s542 85940eb

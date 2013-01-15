@@ -1,0 +1,3 @@
+fs/reiserfs/bitmap.c:644:6: sparse: symbol 'show_alloc_options' was not declared. Should it be static?
+
+2013-01-09 13:06:56 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

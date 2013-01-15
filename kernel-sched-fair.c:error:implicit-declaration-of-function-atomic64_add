@@ -1,0 +1,9 @@
+kernel/sched/fair.c:1274:3: error: implicit declaration of function 'atomic64_add' [-Werror=implicit-function-declaration]
+
+2012-12-02 00:45:11 snb alexs:master:5a17a70 mn10300-asb2364_defconfig 5a17a70
+2012-12-02 01:25:19 snb alexs:master:5b10f7c mn10300-asb2364_defconfig 5b10f7c
+2012-12-04 00:39:28 snb alexs:master:280b125 mn10300-asb2364_defconfig 280b125
+2012-12-16 20:10:32 snb alexs:master:5511e4c mn10300-asb2364_defconfig 5511e4c
+2012-12-17 11:55:33 snb alexs:master:41f077b mn10300-asb2364_defconfig 41f077b
+2012-12-19 18:45:49 snb alexs:master:3f4db0f mn10300-asb2364_defconfig 3f4db0f
+2012-12-28 16:37:54 snb alexs:master:6834dfb mn10300-asb2364_defconfig 6834dfb

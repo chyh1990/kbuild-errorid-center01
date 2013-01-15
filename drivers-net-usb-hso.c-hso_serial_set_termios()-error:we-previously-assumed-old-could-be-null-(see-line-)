@@ -1,0 +1,3 @@
+drivers/net/usb/hso.c:1433 hso_serial_set_termios() error: we previously assumed 'old' could be null (see line 1424)
+
+2012-09-08 21:57:12 kbuild tty:tty-next:e36851d i386-allyesconfig e36851d

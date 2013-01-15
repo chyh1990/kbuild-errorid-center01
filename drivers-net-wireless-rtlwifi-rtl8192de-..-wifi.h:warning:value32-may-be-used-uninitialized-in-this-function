@@ -1,0 +1,3 @@
+drivers/net/wireless/rtlwifi/rtl8192de/../wifi.h:2201:27: warning: 'value32' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-19 04:02:00 bee devel-bee-x86-2012-12-19-02-40:d14a7fd i386-randconfig-x254 d14a7fd

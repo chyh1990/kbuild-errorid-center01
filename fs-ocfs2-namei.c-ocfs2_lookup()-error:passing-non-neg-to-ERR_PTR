@@ -1,0 +1,3 @@
+fs/ocfs2/namei.c:168 ocfs2_lookup() error: passing non neg 524289 to ERR_PTR
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

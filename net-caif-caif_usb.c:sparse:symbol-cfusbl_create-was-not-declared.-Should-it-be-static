@@ -1,0 +1,3 @@
+net/caif/caif_usb.c:84:16: sparse: symbol 'cfusbl_create' was not declared. Should it be static?
+
+2013-01-09 13:12:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

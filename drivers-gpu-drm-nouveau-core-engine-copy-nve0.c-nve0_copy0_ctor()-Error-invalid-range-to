@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/engine/copy/nve0.c:103 nve0_copy0_ctor() Error invalid range 4096 to -1
+
+2012-09-19 00:36:23 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19
+2012-09-19 01:34:22 kbuild i386 email notified

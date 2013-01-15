@@ -1,0 +1,3 @@
+drivers/ide/ide-probe.c:107 ide_classify_ata_dev() Error invalid range 4096 to -1
+
+2012-09-07 22:41:10 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

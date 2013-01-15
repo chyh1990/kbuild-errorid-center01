@@ -1,0 +1,3 @@
+drivers/video/matrox/matroxfb_base.c:1103 matroxfb_ioctl() warn: check that 'r.device_caps' doesn't leak information
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

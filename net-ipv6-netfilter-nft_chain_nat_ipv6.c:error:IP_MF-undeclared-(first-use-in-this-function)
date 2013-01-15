@@ -1,0 +1,4 @@
+net/ipv6/netfilter/nft_chain_nat_ipv6.c:48:2: error: 'IP_MF' undeclared (first use in this function)
+
+2012-11-16 15:17:07 kbuild nf-next:nf_tables-experiments:367bd6b x86_64-allmodconfig 367bd6b
+2012-11-16 15:17:17 kbuild x86_64 email notified

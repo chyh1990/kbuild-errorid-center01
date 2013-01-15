@@ -1,0 +1,3 @@
+kernel/signal.c:3379:1: warning: passing argument 2 of 'C_SYSC_rt_sigaction' from incompatible pointer type [enabled by default]
+
+2012-12-26 08:59:30 lkp-mb01 signal:master:110a27a s390-allmodconfig 110a27a

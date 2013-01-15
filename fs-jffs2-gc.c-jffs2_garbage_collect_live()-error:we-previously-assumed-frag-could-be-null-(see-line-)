@@ -1,0 +1,3 @@
+fs/jffs2/gc.c:529 jffs2_garbage_collect_live() error: we previously assumed 'frag' could be null (see line 514)
+
+2012-09-07 22:42:21 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

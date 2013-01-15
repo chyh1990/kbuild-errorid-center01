@@ -1,0 +1,3 @@
+fs/xfs/xfs_log.c:3632 xlog_verify_iclog() error: we previously assumed 'icptr' could be null (see line 3630)
+
+2013-01-09 13:26:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

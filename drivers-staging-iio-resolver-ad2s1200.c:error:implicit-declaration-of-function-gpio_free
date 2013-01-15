@@ -1,0 +1,3 @@
+drivers/staging/iio/resolver/ad2s1200.c:148:3: error: implicit declaration of function 'gpio_free' [-Werror=implicit-function-declaration]
+
+2012-11-23 04:53:46 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

@@ -1,0 +1,3 @@
+arch/ia64/include/asm/bitops.h:341:45: warning: 'rdev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-24 11:00:51 hive ia64 /cc/kernel-tests/commit-list/linus:master:f0a08fc 474183b188b3c5af45831c71151f819fc70479b8

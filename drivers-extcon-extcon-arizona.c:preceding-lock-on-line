@@ -1,0 +1,4 @@
+drivers/extcon/extcon-arizona.c:169:2-8: preceding lock on line 164
+
+2012-08-27 12:19:45 snb samsung:extcon-for-next:46880b5 i386-allmodconfig 46880b5
+2012-08-27 12:19:48 snb i386 email notified

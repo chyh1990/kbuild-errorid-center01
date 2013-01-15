@@ -1,0 +1,3 @@
+drivers/media/video/bt8xx/bttv-cards.c:4756 gv800s_muxsel() Error invalid range 4096 to -1
+
+2012-09-07 22:41:28 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

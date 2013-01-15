@@ -1,0 +1,5 @@
+fs/ocfs2/quota_global.c:98:2: error: incompatible type for argument 1 of '__fswab32'
+
+2012-08-07 07:41:48 kbuild powerpc /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 14f09b1637a461b1c4aa909c664de586e6bfc332
+2012-08-11 08:55:34 snb m68k 1e511201819069904256114dfb2fdaf2ac0e2fbf /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b
+2012-08-15 14:32:15 kbuild userns:userns-always-map-user-v46:2715569 powerpc-allmodconfig 0966557

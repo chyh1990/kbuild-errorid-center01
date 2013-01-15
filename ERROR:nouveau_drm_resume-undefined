@@ -1,0 +1,4 @@
+ERROR: "nouveau_drm_resume" [drivers/gpu/drm/nouveau/nouveau.ko] undefined!
+
+2012-09-12 14:55:28 snb drm:drm-opt-pwr:75c2c97 i386-allmodconfig e25e78a
+2012-09-12 14:55:30 snb i386 email notified

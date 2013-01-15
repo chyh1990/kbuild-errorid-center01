@@ -1,0 +1,3 @@
+drivers/devfreq/governor_simpleondemand.c:36:25: sparse: using member 'upthreshold' in incomplete struct devfreq_simple_ondemand_data
+
+2012-11-21 11:43:24 snb devel-snb-i386-2012-11-21-11-23:eb2d1e8 i386-allmodconfig eb2d1e8

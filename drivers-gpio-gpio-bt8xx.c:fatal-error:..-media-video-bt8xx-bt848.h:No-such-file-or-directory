@@ -1,0 +1,19 @@
+drivers/gpio/gpio-bt8xx.c:53:40: fatal error: ../media/video/bt8xx/bt848.h: No such file or directory
+
+2012-08-16 20:01:56 kbuild samsung:v4l-fixes:9a6b6fa i386-randconfig-k723 68de959
+2012-08-17 01:30:17 kbuild samsung:v4l-exynos-gsc:8ac9447 i386-randconfig-k723 1f9b9d0
+2012-08-17 02:59:02 snb samsung:v4l-next:ddff08c x86_64-randconfig-s111 03fda9e
+2012-08-18 00:12:29 hive samsung:v4l-exynos-gsc:1a66670 x86_64-randconfig-h724 1a66670
+2012-08-18 00:14:08 hive samsung:v4l-next:d54fe26 x86_64-randconfig-h724 2a64924
+2012-08-20 19:41:30 kbuild next:akpm:5fb158a i386-randconfig-k754 cf1f6ba
+2012-08-21 14:18:56 hive next:akpm:f74c7e6 x86_64-randconfig-h753 b9b4bb1
+2012-08-22 23:49:27 kbuild samsung:v4l-exynos-gsc:2315608 i386-randconfig-k781 88f8472
+2012-08-23 00:31:12 kbuild samsung:v4l-next:2078bf5 i386-randconfig-k781 c3ce2bb
+2012-08-23 23:06:40 bee samsung:v4l-next:ef7af7e i386-randconfig-b870 c4e8b01
+2012-09-06 00:34:34 snb samsung:v4l-next:14d7cae x86_64-randconfig-s272 290939f
+2012-09-17 23:13:49 bee samsung:v4l-next:0507f6c i386-randconfig-b021 0507f6c
+2012-09-17 23:15:21 bee next:akpm:a6a55d8 i386-randconfig-b022 a6a55d8
+2012-09-21 23:23:48 snb samsung:v4l-next:7130797 x86_64-randconfig-s362 c91cfc2
+2012-09-21 23:23:48 snb samsung:v4l-next:7130797 x86_64-randconfig-s362 c91cfc2 email notified
+2012-09-21 23:24:55 snb x86_64 email notified
+2012-09-25 23:14:07 bee samsung:v4l-next:fa54a52 i386-randconfig-b082 c91cfc2

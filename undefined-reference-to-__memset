@@ -1,0 +1,4 @@
+bench/mem-memset.o:(.rodata+0x208): undefined reference to `__memset'
+
+2012-08-10 03:14:35 bee um /cc/kernel-tests/commit-list/perf:perf:core:b25085b d25dcba8541c1cc31621d5cefce0304dafb9ae4f
+2012-08-10 03:14:37 bee um email notified

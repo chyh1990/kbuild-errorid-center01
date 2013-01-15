@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/dma.c:374 _dma_ctrlflags() error: we previously assumed 'di' could be null (see line 373)
+
+2012-09-07 22:41:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

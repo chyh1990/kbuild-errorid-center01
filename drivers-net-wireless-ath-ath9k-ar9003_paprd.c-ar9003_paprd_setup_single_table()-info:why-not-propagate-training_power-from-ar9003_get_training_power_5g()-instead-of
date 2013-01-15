@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/ar9003_paprd.c:157 ar9003_paprd_setup_single_table() info: why not propagate 'training_power' from ar9003_get_training_power_5g() instead of -34?
+
+2012-09-11 23:54:42 kbuild balbi-usb:master:970b59c i386-allyesconfig 970b59c

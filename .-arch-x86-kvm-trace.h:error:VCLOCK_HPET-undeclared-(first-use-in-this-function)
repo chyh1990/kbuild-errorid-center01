@@ -1,0 +1,4 @@
+./arch/x86/kvm/trace.h:764:453: error: 'VCLOCK_HPET' undeclared (first use in this function)
+
+2012-11-27 10:31:33 kbuild devel-kbuild-i386-2012-11-27-10-18:379eafe i386-allyesconfig 379eafe
+2012-11-27 10:41:03 snb devel-snb-i386-2012-11-27-09-49:b191ebb i386-allmodconfig b191ebb

@@ -1,0 +1,12 @@
+drivers/gpu/drm/i915/intel_hdmi.c:633:31: error: 'mode' undeclared (first use in this function)
+
+2012-09-17 16:11:16 kbuild drm-intel:drm-intel-nightly:f508c58 x86_64-allmodconfig f508c58
+2012-09-17 16:40:36 snb drm-intel:drm-intel-nightly:413f77b i386-allmodconfig 413f77b
+2012-09-18 07:20:07 kbuild drm-intel:drm-intel-nightly:0992d55 x86_64-allmodconfig 0992d55
+2012-09-19 17:48:09 bee drm-intel:drm-intel-nightly:9d55185 x86_64-allyesdebian 9d55185
+2012-09-20 20:46:50 snb drm-intel:drm-intel-nightly:6a8391b i386-allmodconfig 6a8391b
+2012-09-20 21:16:59 snb drm-intel:drm-intel-nightly:dfebeef i386-allmodconfig dfebeef
+2012-09-20 22:08:27 bee drm-intel:drm-intel-nightly:3f79bf4 x86_64-allyesdebian dfebeef
+2012-09-24 23:15:05 snb devel-snb-i386-2012-09-24-23-07:4a151a3 i386-allmodconfig 4a151a3
+2012-09-24 23:16:08 kbuild devel-kbuild-i386-2012-09-24-23-06:caa653d i386-allyesconfig caa653d
+2012-09-25 01:00:06 kbuild devel-kbuild-i386-2012-09-25-00-48:f302bd5 i386-allyesconfig f302bd5

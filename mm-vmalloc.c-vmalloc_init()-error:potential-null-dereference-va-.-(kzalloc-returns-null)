@@ -1,0 +1,3 @@
+mm/vmalloc.c:1196 vmalloc_init() error: potential null dereference 'va'.  (kzalloc returns null)
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

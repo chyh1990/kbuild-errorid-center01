@@ -1,0 +1,3 @@
+WARNING: drivers/ata/sata_highbank.o(.data+0x0): Section mismatch in reference from the variable ahci_highbank_driver to the function .init.text:ahci_highbank_probe()
+
+2012-09-14 21:41:38 kbuild next:akpm:c7fbd2a x86_64-allmodconfig 01589bc

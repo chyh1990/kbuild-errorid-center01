@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7840.c:1320 mos7840_close() info: redundant null check on mos7840_port->write_urb->transfer_buffer calling kfree()
+
+2012-09-12 11:58:45 kbuild security:next:a40695e i386-allyesconfig a40695e

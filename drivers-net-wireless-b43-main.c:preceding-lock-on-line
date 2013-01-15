@@ -1,0 +1,4 @@
+drivers/net/wireless/b43/main.c:4182:2-8: preceding lock on line 4217
+
+2012-08-06 16:59:39 snb i386 /cc/kernel-tests/commit-list/iwlwifi:master:1b9181d 86577a36f8ebec0dc837e3f29ba9ce980acfadf8
+2012-08-06 16:59:40 snb i386 email notified

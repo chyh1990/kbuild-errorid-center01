@@ -1,0 +1,3 @@
+drivers/xen/xenbus/xenbus_xs.c:628:13: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+
+2012-10-12 21:17:42 bee xen:linux-next:79fef7a x86_64-allyesconfig 79fef7a

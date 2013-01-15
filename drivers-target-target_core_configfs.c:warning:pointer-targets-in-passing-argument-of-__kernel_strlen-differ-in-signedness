@@ -1,0 +1,3 @@
+drivers/target/target_core_configfs.c:877:3: warning: pointer targets in passing argument 1 of '__kernel_strlen' differ in signedness [-Wpointer-sign]
+
+2012-09-26 14:25:47 bee block:for-3.7:core:62ac665 m68k-allyesconfig b87570f

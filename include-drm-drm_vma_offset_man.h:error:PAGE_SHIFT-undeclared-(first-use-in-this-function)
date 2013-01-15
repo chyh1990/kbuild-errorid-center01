@@ -1,0 +1,6 @@
+include/drm/drm_vma_offset_man.h:55:46: error: 'PAGE_SHIFT' undeclared (first use in this function)
+
+2012-12-19 08:56:32 kbuild drm:drm-vma-manager:584e34e powerpc-allmodconfig 584e34e
+2012-12-19 09:28:40 kbuild devel-kbuild-powerpc-2012-12-19-09-01:ab4f485 powerpc-allmodconfig ab4f485
+2012-12-19 09:37:00 kbuild drm:drm-vma-manager:56c9267 powerpc-allmodconfig 56c9267
+2012-12-19 11:10:08 lkp-mb01 devel-lkp-mb01-s390-2012-12-19-10-24:ee3f9a2 s390-allmodconfig ee3f9a2

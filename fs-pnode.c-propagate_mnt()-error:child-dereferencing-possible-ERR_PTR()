@@ -1,0 +1,3 @@
+fs/pnode.c:248 propagate_mnt() error: 'child' dereferencing possible ERR_PTR()
+
+2012-09-13 01:34:14 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_atmio.c:465 ni_atmio_attach() warn: 'iobase' was not released on error
+
+2012-09-12 11:58:44 kbuild security:next:a40695e i386-allyesconfig a40695e

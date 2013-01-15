@@ -1,0 +1,10 @@
+fs/nfs/direct.c:454:31: error: dereferencing pointer to incomplete type
+
+2012-10-17 23:25:22 lkp-mb01 shaggy:loop_v3:b8ee8b4 i386-randconfig-m015 b8ee8b4
+2012-10-18 03:59:40 snb shaggy:loop_v3_old:b8ee8b4 mn10300-asb2364_defconfig b8ee8b4
+2012-10-18 06:14:36 snb shaggy:loop_v3:d6e6003 x86_64-randconfig-s096 d6e6003
+2012-10-19 04:39:33 snb shaggy:loop_2012_10_18:568f17f x86_64-randconfig-s096 2011f96
+2012-11-21 10:23:10 snb devel-snb-arm-2012-11-21-09-05:04583ac mn10300-asb2364_defconfig 04583ac
+2012-11-22 03:23:03 snb devel-snb-arm-2012-11-22-02-23:ec6b050 mn10300-asb2364_defconfig ec6b050
+2012-11-22 04:26:15 snb devel-snb-arm-2012-11-22-04-11:8fe3034 mn10300-asb2364_defconfig 8fe3034
+2013-01-05 06:42:05 snb devel-snb-arm-2013-01-05-05-46:658fcde mn10300-asb2364_defconfig 658fcde

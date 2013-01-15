@@ -1,0 +1,25 @@
+arch/tile/kernel/pci_gx.c:856:19: error: 'struct pci_bus' has no member named 'subordinate'
+
+2012-07-26 08:14:06 snb tile /cc/kernel-tests/commit-list/libata:upstream:641589b 8407884dd9164ec18ed2afc00f56b87e36c51fcf
+2012-07-26 14:01:01 snb tile /cc/kernel-tests/commit-list/scsi:for-next:f1bd447 bdc0077af574800d24318b6945cf2344e8dbb050
+2012-07-26 14:12:28 snb tile /cc/kernel-tests/commit-list/next:akpm:70145ce 38c57d090b2a9e39f4d8580c2acc5783c205d89a
+2012-07-26 18:01:12 snb tile /cc/kernel-tests/commit-list/scsi:for-next:641aa03 57a292c72dfe4b22229952926d622ae1d24b07c8
+2012-07-27 05:09:53 snb tile /cc/kernel-tests/commit-list/linus:master:b84382f 6dd53aa4563a2c69e80a24d2cc68d484b5ea2891
+2012-07-27 07:48:12 snb tile /cc/kernel-tests/commit-list/linus:master:e2aed8d 0082c16e3a6d87c7b156ccf21f5e6c448b102809
+2012-07-27 09:30:53 snb tile /cc/kernel-tests/commit-list/btrfs:for-linus-merged:55f03c1 b002cc8296771689949243f5c625bd727a2aa6fa
+2012-07-27 19:33:48 snb tile /cc/kernel-tests/commit-list/kvm:auto-next:1293872 aea218f3cbbcaac249b6b2c98930a00d6d931f1e
+2012-07-28 00:01:17 snb tile /cc/kernel-tests/commit-list/dm:for-linus:1f4e0ff 7768ed33ccdc02801c4483fc5682dc66ace14aea
+2012-07-28 17:03:42 snb tile fd682824bcdab8cbb3d078f9f59ba531e3e41484 /cc/kernel-tests/commit-list/target:for-linus:fd68282
+2012-07-28 22:04:39 snb tile 6aeea3ecc33b1f36dbc3b80461d15a7052ae424f /cc/kernel-tests/commit-list/gpio:irqdomain:next:f5a1ad0
+2012-07-29 14:49:32 snb tile 52c2ebd757d94f4a7215c3fc906646b24f44ecab /cc/kernel-tests/commit-list/arm-soc:fixes:52c2ebd
+2012-07-29 17:18:59 snb tile c1fab93f7d970124a0ede16196f826cf53801022 /cc/kernel-tests/commit-list/arm-soc:for-next:d373719
+2012-07-30 13:35:14 snb tile 057cbf49a1f08297877e46c82f707b1bfea806a8 /cc/kernel-tests/commit-list/target:for-linus:057cbf4
+2012-07-30 23:33:09 snb tile c589e9345e5ce138ceae8b62b851c3c04293bb04 /cc/kernel-tests/commit-list/cryptodev:master:d37c042
+2012-07-31 04:49:57 snb tile 76f16f83ee520d6c10356b0f6ff592441a6f08bd /cc/kernel-tests/commit-list/crypto:master:76f16f8
+2012-08-02 04:39:50 snb tile bb181e2e48f8c85db08c9cb015cbba9618dbf05c /cc/kernel-tests/commit-list/md:for-next:63f33b8
+2012-08-19 21:52:09 snb arm-platforms:kvm-v11-base:5e6a08a tile-tilegx_defconfig 4a4541a
+2012-08-22 15:05:39 snb scsi:misc:66f9d16 tile-tilegx_defconfig c6fe30a
+2012-08-26 18:11:01 snb crypto:master:ce026cb tile-tilegx_defconfig ce026cb
+2012-09-11 14:24:01 snb crypto:master:9b2f4cb tile-tilegx_defconfig 3b75a2c
+2012-09-13 02:13:56 snb xen:stable:for-linus-3.6:2fc136e tile-tilegx_defconfig 593d0a3
+2012-09-20 04:25:50 snb xen:stable:for-linus-3.6:bd49940 tile-tilegx_defconfig bd49940

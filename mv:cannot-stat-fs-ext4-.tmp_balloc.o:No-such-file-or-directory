@@ -1,0 +1,5 @@
+mv: cannot stat `fs/ext4/.tmp_balloc.o': No such file or directory
+
+2012-09-29 07:34:32 bee ext4:dev:b2f1a8e x86_64-allyesconfig 3e1b026
+2012-09-29 08:47:29 bee ext4:dev:9d73816 x86_64-allyesconfig 9fc60b6
+2012-09-29 08:47:29 bee ext4:dev:9d73816 x86_64-allyesconfig 9fc60b6 email notified

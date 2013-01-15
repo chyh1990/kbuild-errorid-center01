@@ -1,0 +1,3 @@
+drivers/media/video/gspca/zc3xx.c:6363 zcxx_s_ctrl() error: buffer overflow 'jpeg_qual' 3 <= 3
+
+2012-09-07 22:42:12 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

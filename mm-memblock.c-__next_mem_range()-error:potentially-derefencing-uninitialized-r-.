@@ -1,0 +1,3 @@
+mm/memblock.c:728 __next_mem_range() error: potentially derefencing uninitialized 'r'.
+
+2012-10-22 06:11:44 kbuild yinghai:for-x86-mm:e1635af i386-allyesconfig e1635af

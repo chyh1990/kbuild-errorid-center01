@@ -1,0 +1,3 @@
+drivers/scsi/fcoe/fcoe.c:2241 fcoe_create() error: potential null dereference 'fcoe'.  (fcoe_interface_create returns null)
+
+2013-01-09 13:27:45 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

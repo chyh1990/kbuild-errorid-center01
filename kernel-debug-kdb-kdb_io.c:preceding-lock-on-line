@@ -1,0 +1,4 @@
+kernel/debug/kdb/kdb_io.c:815:1-7: preceding lock on line 576
+
+2012-08-13 04:20:25 snb i386 /cc/kernel-tests/commit-list/linus:master:21d2f8d d97e1dcde5e19ed1f828baff4ab5fd0e517c8dae
+2012-08-13 04:20:26 snb i386 email notified

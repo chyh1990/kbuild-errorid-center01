@@ -1,0 +1,4 @@
+mv: cannot stat `arch/x86/tools/.relocs.tmp': No such file or directory
+
+2012-09-02 23:41:38 bee sound-unstable:topic:hda-cleanup:611fe0a x86_64-randconfig-x853 ac190c7
+2012-09-04 01:41:43 bee tip:master:433ed0e i386-allyesconfig a5325e9

@@ -1,0 +1,3 @@
+drivers/scsi/eata.c:1331 port_detect() warn: always true condition '(info.max_id < 32) => (0-31 < 32)'
+
+2013-01-09 13:27:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

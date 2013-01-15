@@ -1,0 +1,3 @@
+kernel/cgroup_freezer.c:479:2: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-11-09 03:25:06 hive cgroup:review-cgroup_freezer-hierarchy:d802ecc x86_64-randconfig-h233 d802ecc

@@ -1,0 +1,3 @@
+drivers/ata/sata_mv.c:970:26: sparse: cast removes address space of expression
+
+2013-01-09 13:19:49 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

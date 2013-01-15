@@ -1,0 +1,7 @@
+drivers/acpi/processor_driver.c:351:2: error: 'else' without a previous 'if'
+
+2013-01-05 06:41:55 kbuild devel-kbuild-x86_64-2013-01-05-06-34:dddbff7 x86_64-allmodconfig dddbff7
+2013-01-05 07:03:37 bee devel-bee-x86_64-2013-01-05-06-35:900fb3a x86_64-nfsroot 900fb3a
+2013-01-05 07:02:40 kbuild devel-kbuild-i386-2013-01-05-06-53:b1e09c4 i386-allyesconfig b1e09c4
+2013-01-05 07:35:29 snb devel-snb-x86_64-2013-01-05-07-20:5d12124 x86_64-randconfig-s591 5d12124
+2013-01-05 07:37:26 snb devel-snb-i386-2013-01-05-06-53:bdbc8f2 i386-allmodconfig bdbc8f2

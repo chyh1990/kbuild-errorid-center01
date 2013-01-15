@@ -1,0 +1,4 @@
+net/nfc/hci/core.c:95:5-8: ERROR: reference preceded by free on line 87
+
+2012-08-18 19:52:48 snb wq:review-wq-always-nrt:3e2a425 i386-allmodconfig 3e2a425
+2012-08-18 19:52:52 snb i386 email notified

@@ -1,0 +1,4 @@
+drivers/staging/comedi/drivers/amplc_dio200.c:1444:2: error: implicit declaration of function 'IS_ISA_BOARD' [-Werror=implicit-function-declaration]
+
+2012-08-15 08:56:30 snb i386 /cc/kernel-tests/commit-list/staging:staging-next:69af599 b7518888afc14e3d1e988837fef4471cd2b3c820
+2012-08-15 08:56:30 snb i386 email notified

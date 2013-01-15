@@ -1,0 +1,3 @@
+WARNING: drivers/pci/built-in.o(.text+0x38ad3): Section mismatch in reference from the function ibm_configure_device() to the function .devinit.text:pci_do_scan_bus()
+
+2012-09-10 15:31:36 kbuild glommer-memcg:kmemcg-slab:b20a4ab i386-allyesconfig b20a4ab

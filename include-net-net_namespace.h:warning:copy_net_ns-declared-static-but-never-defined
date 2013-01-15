@@ -1,0 +1,4 @@
+include/net/net_namespace.h:124:27: warning: 'copy_net_ns' declared 'static' but never defined
+
+2012-08-07 12:05:23 snb openrisc /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 09378e15d9e1cfb478659b397f00f63508f30816
+2012-08-07 12:05:29 snb openrisc email notified

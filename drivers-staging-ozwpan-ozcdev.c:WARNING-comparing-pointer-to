@@ -1,0 +1,4 @@
+drivers/staging/ozwpan/ozcdev.c:107:11-12: WARNING comparing pointer to 0
+
+2012-09-17 06:54:01 snb linus:master:73f8be2 i386-allmodconfig f2378e3
+2012-09-17 06:54:04 snb i386 email notified

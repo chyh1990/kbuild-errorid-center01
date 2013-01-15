@@ -1,0 +1,14 @@
+drivers/mfd/twl6040-irq.c:164:2: error: implicit declaration of function 'irq_domain_add_legacy' [-Werror=implicit-function-declaration]
+
+2012-07-28 23:18:43 bee i386 /cc/kernel-tests/commit-list/ceph:wip-osdc:8bc0ee1 8bc0ee14d9797c0f88971c325e4eca02681499b9
+2012-07-29 02:41:27 bee i386 234e4565ef733c12d164d43c759d76ead771248a /cc/kernel-tests/commit-list/ceph:wip-osdc:234e456
+2012-07-29 02:42:11 bee i386 13a50fddda196fea4179497a056a12117ddabe7e /cc/kernel-tests/commit-list/ceph:testing-msgr:7db60d9
+2012-07-29 03:05:30 bee i386 b5844877e09c983f67ac87e1be6e3e13904cade1 /cc/kernel-tests/commit-list/ceph:wip-osdc:b584487
+2012-07-29 05:38:08 bee i386 5403d61be0d6193419b46c6eeef353974fa0d903 /cc/kernel-tests/commit-list/ceph:wip-osdc:5aaa2dd
+2012-07-29 06:24:17 bee i386 f4181dd05b603a79ed2b06a83e9db551d05b34d1 /cc/kernel-tests/commit-list/ceph:wip-osdc:f4181dd
+2012-07-29 06:47:33 bee i386 4f3278bec665d9561ae57fa35074de65fb70f49c /cc/kernel-tests/commit-list/ceph:wip-osdc:4f3278b
+2012-07-29 07:10:03 bee i386 0227624f1bd58683207478cf6b2a0ab5139233c9 /cc/kernel-tests/commit-list/ceph:wip-osdc:0227624
+2012-07-29 07:32:22 bee i386 233bc29370f0fbe92b6a3dff97ba91d5f16953c3 /cc/kernel-tests/commit-list/ceph:wip-osdc:233bc29
+2012-07-29 16:37:00 bee i386 e427c2375646789ecd0ccaef1a1e41458559ab2d /cc/kernel-tests/commit-list/sound:master:501462f
+2012-08-12 15:22:24 kbuild i386 b09e32cd9960a1529e295f25728d0e26d20bb577 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:b09e32c
+2012-08-12 17:38:03 kbuild i386 20d5a540e55a29daeef12706f9ee73baf5641c16 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:20d5a54

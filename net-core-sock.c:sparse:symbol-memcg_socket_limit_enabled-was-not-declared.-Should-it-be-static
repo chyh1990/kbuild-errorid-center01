@@ -1,0 +1,3 @@
+net/core/sock.c:189:19: sparse: symbol 'memcg_socket_limit_enabled' was not declared. Should it be static?
+
+2012-07-27 18:20:46 snb i386 /cc/kernel-tests/commit-list/next:akpm:247109f 9473905c30edf1f117683361b7d35062319ae9de

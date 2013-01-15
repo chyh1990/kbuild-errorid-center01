@@ -1,0 +1,4 @@
+drivers/usb/host/ohci-sm501.c:241:2: error: implicit declaration of function 'ohci_finish_controller_resume' [-Werror=implicit-function-declaration]
+
+2012-10-23 02:38:15 bee usb:usb-next:be7ac70 x86_64-allyesdebian be7ac70
+2012-10-23 02:45:08 bee usb:usb-next:da31fe4 x86_64-allyesdebian da31fe4

@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_vma_offset_man.c:33:28: sparse: symbol 'drm_vma_offset_lookup_rb' was not declared. Should it be static?
+
+2012-12-19 09:29:43 snb devel-snb-i386-2012-12-19-08-57:39251c4 i386-allmodconfig 39251c4

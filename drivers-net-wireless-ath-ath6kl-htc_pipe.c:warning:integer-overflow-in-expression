@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath6kl/htc_pipe.c:1280:26: warning: integer overflow in expression [-Woverflow]
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

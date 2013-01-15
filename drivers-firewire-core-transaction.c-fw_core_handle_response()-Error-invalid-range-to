@@ -1,0 +1,3 @@
+drivers/firewire/core-transaction.c:974 fw_core_handle_response() Error invalid range 4096 to -1
+
+2012-09-07 22:42:15 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/eeprom_4k.c:139:9: warning: pointer targets in passing argument 1 of 'ath9k_dump_4k_modal_eeprom' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:41 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

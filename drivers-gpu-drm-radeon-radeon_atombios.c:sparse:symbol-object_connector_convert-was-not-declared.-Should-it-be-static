@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_atombios.c:506:11: sparse: symbol 'object_connector_convert' was not declared. Should it be static?
+
+2013-01-09 13:11:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

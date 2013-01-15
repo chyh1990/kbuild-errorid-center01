@@ -1,0 +1,3 @@
+drivers/net/ethernet/mellanox/mlx4/mcg.c:654:14: warning: 'struct mlx4_net_trans_rule_hw_ctrl' declared inside parameter list [enabled by default]
+
+2012-10-01 11:59:21 kbuild infiniband:for-next:c99517c x86_64-allmodconfig 431ee27

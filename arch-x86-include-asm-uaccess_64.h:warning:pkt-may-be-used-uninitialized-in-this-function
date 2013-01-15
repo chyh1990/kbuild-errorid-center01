@@ -1,0 +1,3 @@
+arch/x86/include/asm/uaccess_64.h:76:22: warning: 'pkt' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:18 bee next:akpm:ef2dca2 x86_64-allyesdebian ef2dca2

@@ -1,0 +1,4 @@
+drivers/md/raid5.c:2866:3: warning: format '%lu' expects argument of type 'long unsigned int', but argument 4 has type 'sector_t' [-Wformat]
+
+2012-09-26 05:05:34 bee md:for-next:0179d36 m68k-allyesconfig eadb9fb
+2012-09-26 05:05:37 bee m68k email notified

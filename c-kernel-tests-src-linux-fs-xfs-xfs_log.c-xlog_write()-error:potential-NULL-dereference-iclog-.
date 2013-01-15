@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/xfs/xfs_log.c:2320 xlog_write() error: potential NULL dereference 'iclog'.
+
+2013-01-07 12:25:13 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

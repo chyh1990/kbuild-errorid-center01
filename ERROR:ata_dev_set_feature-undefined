@@ -1,0 +1,5 @@
+ERROR: "ata_dev_set_feature" [drivers/ata/libahci.ko] undefined!
+
+2012-09-13 13:35:04 snb libata:NEXT:633de4c x86_64-randconfig-s313 65fe1f0
+2012-09-13 13:35:06 snb x86_64 email notified
+2012-09-13 13:47:52 kbuild libata:upstream:633de4c x86_64-allmodconfig 65fe1f0

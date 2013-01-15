@@ -1,0 +1,6 @@
+{standard input}:10105: Error: bad register name `%r'
+
+2012-09-02 13:12:57 hive userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-h862 46c4bb1
+2012-09-21 14:28:30 snb nfs:testing:9dfaead x86_64-randconfig-s364 8083695
+2012-10-01 05:58:34 hive tip:perf:core:1d787d3 x86_64-randconfig-h002 1d787d3
+2012-10-09 04:47:03 hive net:master:8634724 x86_64-randconfig-h004 8634724

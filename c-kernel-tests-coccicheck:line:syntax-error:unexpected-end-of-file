@@ -1,0 +1,4 @@
+/c/kernel-tests/coccicheck: line 87: syntax error: unexpected end of file
+
+2012-08-23 22:26:54 snb ubi:linux-next:8eb7106 i386-allmodconfig 8eb7106
+2012-08-23 22:26:55 snb i386 email notified

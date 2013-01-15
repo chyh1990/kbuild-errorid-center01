@@ -1,0 +1,4 @@
+(.text+0x5d6): multiple definition of `integrity_init_keyring'
+
+2012-08-06 23:23:54 snb i386 /cc/kernel-tests/commit-list/digsig:next-ima-module:a7d2a27 13c112b67029d66003085d6dc10e78b4e78108d0
+2012-08-06 23:25:16 snb i386 email notified

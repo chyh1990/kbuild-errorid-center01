@@ -1,0 +1,3 @@
+drivers/net/ethernet/ti/tlan.c:617:1: warning: label 'err_out' defined but not used [-Wunused-label]
+
+2012-07-22 14:53:25 hive mips /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

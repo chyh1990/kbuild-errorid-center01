@@ -1,0 +1,3 @@
+drivers/gpio/gpio-tc3589x.c:123:2: warning: (near initialization for 'template_chip') [enabled by default]
+
+2012-10-24 05:30:21 bee kgene-samsung:next:gpio-samsung:46064f1 parisc-allyesconfig 2b88ff4

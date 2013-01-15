@@ -1,0 +1,3 @@
+sound/core/hwdep.c:198 snd_hwdep_info() warn: check that 'info.device' doesn't leak information
+
+2013-01-09 13:27:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

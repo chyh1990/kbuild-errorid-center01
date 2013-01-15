@@ -1,0 +1,3 @@
+kernel/rcutree.c:152:8: sparse: symbol 'rcu_barrier_head' was not declared. Should it be static?
+
+2012-09-10 15:21:16 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

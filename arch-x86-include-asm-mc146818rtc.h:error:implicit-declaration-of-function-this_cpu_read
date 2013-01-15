@@ -1,0 +1,5 @@
+arch/x86/include/asm/mc146818rtc.h:44:2: error: implicit declaration of function 'this_cpu_read' [-Werror=implicit-function-declaration]
+
+2012-10-02 21:59:30 snb arm-soc:testing:defconfig-warnings:043906f i386-allmodconfig 043906f
+2012-10-02 22:14:56 bee arm-soc:testing:defconfig-warnings:db0488a i386-randconfig-b102 db0488a
+2012-10-02 22:20:48 bee arm-soc:testing:defconfig-warnings:a921325 i386-randconfig-b102 a921325

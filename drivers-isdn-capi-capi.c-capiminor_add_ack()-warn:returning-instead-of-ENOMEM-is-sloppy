@@ -1,0 +1,3 @@
+drivers/isdn/capi/capi.c:148 capiminor_add_ack() warn: returning -1 instead of -ENOMEM is sloppy
+
+2013-01-09 13:27:26 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

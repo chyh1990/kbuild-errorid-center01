@@ -1,0 +1,3 @@
+sound/pci/hda/patch_cmedia.c:654 patch_cmi9880() error: __builtin_memcpy() 'cmi9880_dac_nids' too small (8 vs 10)
+
+2013-01-09 13:26:23 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

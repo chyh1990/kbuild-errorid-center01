@@ -1,0 +1,3 @@
+crypto/algif_hash.c:188:42: sparse: bad constant expression
+
+2013-01-09 13:16:11 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

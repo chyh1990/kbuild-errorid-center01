@@ -1,0 +1,5 @@
+coretemp.c:(.text+0x12cc56e): undefined reference to `__divdi3'
+
+2012-12-24 02:53:11 kbuild hwmon:hwmon-staging:5722b1c i386-allyesconfig 5722b1c
+2012-12-24 03:08:16 lkp-mb01 devel-lkp-mb01-i386-2012-12-24-02-52:79b62ed i386-randconfig-m042 79b62ed
+2012-12-24 03:43:08 kbuild hwmon:hwmon-staging:c23c4d3 i386-allyesconfig c23c4d3

@@ -1,0 +1,4 @@
+drivers/base/power/runtime.c:681:1-7: preceding lock on line 553
+
+2012-08-09 05:33:34 snb i386 /cc/kernel-tests/commit-list/pm:linux-next:9ea3f70 ceb51302294db37a476aea55ab43f9c1beb08701
+2012-08-09 05:38:55 snb i386 email notified

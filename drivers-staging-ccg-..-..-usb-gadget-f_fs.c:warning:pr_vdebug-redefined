@@ -1,0 +1,3 @@
+drivers/staging/ccg/../../usb/gadget/f_fs.c:41:0: warning: "pr_vdebug" redefined [enabled by default]
+
+2012-09-18 18:04:22 snb s390:features:dfc09c0 x86_64-randconfig-s342 dfc09c0

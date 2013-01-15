@@ -1,0 +1,3 @@
+drivers/dma/dmatest.c:685:1: error: initializer element is not constant
+
+2013-01-07 01:37:21 snb slave-dma:next:3c1eea5 x86_64-randconfig-s593 3c1eea5

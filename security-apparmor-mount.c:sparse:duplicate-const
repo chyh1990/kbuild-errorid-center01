@@ -1,0 +1,3 @@
+security/apparmor/mount.c:236:25: sparse: duplicate const
+
+2012-09-29 21:31:42 snb calxeda:ubuntu-quantal:c07f157 i386-allmodconfig c07f157

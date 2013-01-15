@@ -1,0 +1,3 @@
+drivers/net/wireless/rtlwifi/rtl8723ae/trx.c:324:28: sparse: undefined identifier 'RX_FLAG_MACTIME_MPDU'
+
+2012-11-15 07:35:52 snb devel-snb-i386-2012-11-15-07-18:4b418a2 i386-allmodconfig 4b418a2

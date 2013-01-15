@@ -1,0 +1,3 @@
+drivers/usb/serial/io_edgeport.c:2437:2: warning: 'divisor' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-13 11:43:30 snb asoc:for-3.7:da8b8e0 x86_64-randconfig-s315 0d7614f

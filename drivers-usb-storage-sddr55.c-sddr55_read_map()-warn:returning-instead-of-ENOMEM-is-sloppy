@@ -1,0 +1,3 @@
+drivers/usb/storage/sddr55.c:667 sddr55_read_map() warn: returning -1 instead of -ENOMEM is sloppy
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/block/loop.c:1055 loop_clr_fd() warn: inconsistent returns mutex:&lo->lo_ctl_mutex: locked (986,1005) unlocked (1001,1055)
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

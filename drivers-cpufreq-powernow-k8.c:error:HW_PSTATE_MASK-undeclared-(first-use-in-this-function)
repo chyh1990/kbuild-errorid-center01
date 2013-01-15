@@ -1,0 +1,7 @@
+drivers/cpufreq/powernow-k8.c:991:19: error: 'HW_PSTATE_MASK' undeclared (first use in this function)
+
+2012-09-24 20:04:16 bee devel-bee-x86_64-2012-09-24-19-57:977e48e x86_64-allyesdebian 977e48e
+2012-09-24 20:12:51 kbuild devel-kbuild-i386-2012-09-24-19-58:a7a9654 i386-allyesconfig a7a9654
+2012-09-25 04:11:44 snb devel-snb-i386-2012-09-25-04-02:ea69eb7 i386-allmodconfig ea69eb7
+2012-09-25 04:14:45 bee pm:linux-next:b35fc09 x86_64-allyesdebian b35fc09
+2012-09-25 04:34:25 kbuild devel-kbuild-i386-2012-09-25-04-28:52dd78e i386-allyesconfig 52dd78e

@@ -1,0 +1,3 @@
+drivers/staging/wlags49_h2/hcf.c:2208 hcf_put_info() error: we previously assumed 'ifbp->IFB_MBp' could be null (see line 2206)
+
+2013-01-09 13:26:31 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+arch/x86/xen/enlighten.c:109:0: warning: "xen_pvh_domain" redefined [enabled by default]
+
+2012-11-01 13:31:52 bee next:akpm:929d70b x86_64-allyesdebian 929d70b

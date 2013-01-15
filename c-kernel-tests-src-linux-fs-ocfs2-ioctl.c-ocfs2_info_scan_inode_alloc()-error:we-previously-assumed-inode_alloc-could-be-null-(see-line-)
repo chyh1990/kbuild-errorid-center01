@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/ocfs2/ioctl.c:334 ocfs2_info_scan_inode_alloc() error: we previously assumed 'inode_alloc' could be null (see line 330)
+
+2013-01-07 12:25:27 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

@@ -1,0 +1,3 @@
+warning: (UX500_SOC_COMMON && MACH_NOMADIK_8815NHK) selects CLKSRC_NOMADIK_MTU which has unmet direct dependencies (ARCH_NOMADIK || ARCH_U8500)
+
+2012-10-20 18:16:06 snb pinctrl:nomadik-multiplatform:2e88a0f arm-allnoconfig 2e88a0f

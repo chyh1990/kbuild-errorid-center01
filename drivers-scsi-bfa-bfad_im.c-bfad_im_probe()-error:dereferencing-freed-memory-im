@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfad_im.c:706 bfad_im_probe() error: dereferencing freed memory 'im'
+
+2012-09-13 01:35:44 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

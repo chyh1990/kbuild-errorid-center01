@@ -1,0 +1,4 @@
+ERROR: "drm_vma_offset_setup" [drivers/gpu/drm/ttm/ttm.ko] undefined!
+
+2012-12-19 07:41:09 lkp-mb01 drm:drm-vma-manager:e8278db i386-randconfig-m014 e8278db
+2012-12-19 08:28:57 snb drm:drm-vma-manager:584e34e x86_64-randconfig-s504 1d903d4

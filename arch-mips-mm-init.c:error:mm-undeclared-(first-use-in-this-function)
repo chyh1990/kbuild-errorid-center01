@@ -1,0 +1,5 @@
+arch/mips/mm/init.c:467:2: error: 'mm' undeclared (first use in this function)
+
+2012-09-24 16:31:20 hive wfg:0day:43978bc mips-allmodconfig 43978bc
+2012-09-30 12:30:39 hive wfg:0day:eff3b5c mips-allmodconfig eff3b5c
+2012-09-30 21:44:22 hive wfg:0day:e736ac7 mips-allmodconfig e736ac7

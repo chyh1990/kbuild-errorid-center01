@@ -1,0 +1,3 @@
+drivers/net/wireless/mwifiex/join.c:161 mwifiex_get_common_rates() error: testing array offset 'j' after use.
+
+2013-01-09 13:27:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

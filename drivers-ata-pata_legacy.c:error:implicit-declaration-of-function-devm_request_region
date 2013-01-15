@@ -1,0 +1,4 @@
+drivers/ata/pata_legacy.c:736:2: error: implicit declaration of function 'devm_request_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:55:02 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:14:21 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3

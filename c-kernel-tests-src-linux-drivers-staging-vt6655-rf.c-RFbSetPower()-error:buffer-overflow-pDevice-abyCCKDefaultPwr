@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/staging/vt6655/rf.c:987 RFbSetPower() error: buffer overflow 'pDevice->abyCCKDefaultPwr' 15 <= 56
+
+2013-01-07 12:25:32 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

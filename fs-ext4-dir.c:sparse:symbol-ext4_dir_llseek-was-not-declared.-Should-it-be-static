@@ -1,0 +1,3 @@
+fs/ext4/dir.c:336:8: sparse: symbol 'ext4_dir_llseek' was not declared. Should it be static?
+
+2013-01-09 12:54:10 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

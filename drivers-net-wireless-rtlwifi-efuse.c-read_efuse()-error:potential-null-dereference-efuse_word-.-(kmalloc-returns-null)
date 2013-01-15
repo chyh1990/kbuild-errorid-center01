@@ -1,0 +1,3 @@
+drivers/net/wireless/rtlwifi/efuse.c:358 read_efuse() error: potential null dereference 'efuse_word'.  (kmalloc returns null)
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

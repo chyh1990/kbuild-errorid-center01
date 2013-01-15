@@ -1,0 +1,3 @@
+drivers/net/can/usb/peak_usb/pcan_usb_pro.c:874 pcan_usb_pro_init() error: doing dma on the stack ((null))
+
+2012-09-12 11:57:19 kbuild security:next:a40695e i386-allyesconfig a40695e

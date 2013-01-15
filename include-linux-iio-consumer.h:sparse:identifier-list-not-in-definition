@@ -1,0 +1,3 @@
+include/linux/iio/consumer.h:76:55: sparse: identifier list not in definition
+
+2012-10-20 03:32:05 snb iio:wip:6375205 i386-allmodconfig 6375205

@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel.c:23:9: sparse: symbol 'print_spurious_pmi' was not declared. Should it be static?
+
+2012-09-22 18:07:36 inn internal-hle:hsw:pmu2:9d5eb9d i386-allmodconfig 9d5eb9d
+2012-09-22 18:38:16 inn i386 email notified

@@ -1,0 +1,3 @@
+drivers/staging/line6/midi.c:76:1: warning: 'line6_midi_transmit' uses dynamic stack allocation [enabled by default]
+
+2013-01-09 12:49:19 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

@@ -1,0 +1,3 @@
+drivers/scsi/dpt_i2o.c:1984:1: warning: 'adpt_i2o_passthru' uses dynamic stack allocation [enabled by default]
+
+2013-01-09 12:49:13 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

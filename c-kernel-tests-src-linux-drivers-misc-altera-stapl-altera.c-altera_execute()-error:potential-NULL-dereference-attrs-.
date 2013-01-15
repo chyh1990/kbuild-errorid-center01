@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/misc/altera-stapl/altera.c:1135 altera_execute() error: potential NULL dereference 'attrs'.
+
+2013-01-07 12:25:16 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

@@ -1,0 +1,4 @@
+kernel/signal.c:3119:35: error: expected identifier before '(' token
+
+2012-09-21 12:46:58 hive signal:master:1320d2c mips-allnoconfig 1320d2c
+2012-09-21 13:01:05 hive mips email notified

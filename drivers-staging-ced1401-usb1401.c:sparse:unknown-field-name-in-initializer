@@ -1,0 +1,4 @@
+drivers/staging/ced1401/usb1401.c:1394:10: sparse: unknown field name in initializer
+
+2012-11-01 00:18:45 snb calxeda:for-next:74d8cec i386-allmodconfig 74d8cec
+2012-11-01 00:22:19 snb i386 email notified

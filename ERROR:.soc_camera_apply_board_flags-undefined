@@ -1,0 +1,4 @@
+ERROR: ".soc_camera_apply_board_flags" [drivers/media/i2c/soc_camera/tw9910.ko] undefined!
+
+2012-08-25 15:18:56 kbuild samsung:v4l-exynos-gsc:2315608 powerpc-allmodconfig fccea74
+2012-08-25 15:37:13 kbuild samsung:v4l-framesize:b31e987 powerpc-allmodconfig b4c723e

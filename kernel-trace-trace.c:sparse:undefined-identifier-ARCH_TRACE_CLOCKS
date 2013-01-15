@@ -1,0 +1,3 @@
+kernel/trace/trace.c:492:9: sparse: undefined identifier 'ARCH_TRACE_CLOCKS'
+
+2012-11-02 22:03:14 snb trace:tip:perf:core:9b194e6 i386-allmodconfig 9b194e6

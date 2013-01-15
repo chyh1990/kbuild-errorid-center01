@@ -1,0 +1,4 @@
+net/ceph/osd_client.c:216:2: error: implicit declaration of function 'rb_init_node' [-Werror=implicit-function-declaration]
+
+2012-10-05 13:46:27 snb glommer-memcg:kmemcg-stack:5ef6493 x86_64-randconfig-s044 96f5305
+2012-10-05 13:46:49 snb x86_64 email notified

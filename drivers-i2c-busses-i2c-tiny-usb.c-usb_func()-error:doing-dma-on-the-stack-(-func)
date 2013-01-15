@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-tiny-usb.c:119 usb_func() error: doing dma on the stack (&func)
+
+2013-01-09 13:28:04 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

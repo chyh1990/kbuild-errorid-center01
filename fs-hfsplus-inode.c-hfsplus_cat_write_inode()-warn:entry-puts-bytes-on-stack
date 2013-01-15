@@ -1,0 +1,3 @@
+fs/hfsplus/inode.c:587 hfsplus_cat_write_inode() warn: 'entry' puts 520 bytes on stack
+
+2013-01-09 13:27:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

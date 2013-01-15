@@ -1,0 +1,3 @@
+drivers/gpio/gpio-timberdale.c:101:27: warning: (near initialization for 'tgpio') [enabled by default]
+
+2013-01-09 12:49:18 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

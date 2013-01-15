@@ -1,0 +1,3 @@
+fs/autofs4/expire.c:191 get_next_positive_dentry() error: double unlock 'spin_lock:&p->d_lock'
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

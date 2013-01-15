@@ -1,0 +1,4 @@
+fs/btrfs/file.c:905:6: sparse: symbol 'update_extent_generation' was not declared. Should it be static?
+
+2012-08-19 02:55:26 snb josef-btrfs:fsync-work:6792139 i386-allmodconfig 6792139
+2012-08-19 02:57:46 snb i386 email notified

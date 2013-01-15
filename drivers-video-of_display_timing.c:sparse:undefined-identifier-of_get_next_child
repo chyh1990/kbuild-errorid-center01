@@ -1,0 +1,3 @@
+drivers/video/of_display_timing.c:124:25: sparse: undefined identifier 'of_get_next_child'
+
+2012-11-22 18:04:35 snb devel-snb-i386-2012-11-22-17-29:98fcde7 i386-allmodconfig 98fcde7

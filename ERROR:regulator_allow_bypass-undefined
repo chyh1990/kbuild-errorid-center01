@@ -1,0 +1,3 @@
+ERROR: "regulator_allow_bypass" [drivers/extcon/extcon-arizona.ko] undefined!
+
+2012-09-09 12:12:22 snb regulator:for-next:91c7abb i386-allmodconfig 91c7abb

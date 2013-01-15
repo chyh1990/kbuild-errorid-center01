@@ -1,0 +1,5 @@
+drivers/ata/pata_hpt3x3.c:103:2: error: implicit declaration of function 'ioread8' [-Werror=implicit-function-declaration]
+
+2012-11-11 06:43:46 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-19 11:29:55 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c
+2012-11-23 04:53:51 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

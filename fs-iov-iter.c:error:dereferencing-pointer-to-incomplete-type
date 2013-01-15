@@ -1,0 +1,5 @@
+fs/iov-iter.c:110:3: error: dereferencing pointer to incomplete type
+
+2013-01-05 06:10:15 lkp-mb01 shaggy:loop_2013_01_04:61698fc i386-randconfig-m113 61698fc
+2013-01-05 06:32:05 lkp-mb01 devel-lkp-mb01-blackfin-2013-01-05-06-14:714b94c sh-allnoconfig 714b94c
+2013-01-05 06:42:06 snb devel-snb-arm-2013-01-05-05-46:658fcde mn10300-asb2364_defconfig 658fcde

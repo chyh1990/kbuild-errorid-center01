@@ -1,0 +1,4 @@
+pd6729.c:(.text+0x1ffb6a0): relocation truncated to fit: R_PPC64_REL24 against symbol `.__dynamic_dev_dbg' defined in .text section in lib/built-in.o
+
+2012-09-28 20:47:22 bee mmc:mmc-next:0f59ede powerpc-allyesconfig e919fd2
+2012-09-28 20:47:22 bee mmc:mmc-next:0f59ede powerpc-allyesconfig e919fd2 email notified

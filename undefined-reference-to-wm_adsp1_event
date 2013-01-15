@@ -1,0 +1,4 @@
+sound/built-in.o:(.rodata+0x9e39c): undefined reference to `wm_adsp1_event'
+
+2012-10-28 02:01:36 kbuild asoc:for-next:4fca811 i386-allyesconfig 4fca811
+2012-10-28 02:37:17 kbuild asoc:topic:wm2200:21ee496 i386-allyesconfig 21ee496

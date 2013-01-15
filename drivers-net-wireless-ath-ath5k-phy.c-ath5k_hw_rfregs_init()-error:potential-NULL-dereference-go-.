@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath5k/phy.c:968 ath5k_hw_rfregs_init() error: potential NULL dereference 'go'.
+
+2013-01-09 13:26:23 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

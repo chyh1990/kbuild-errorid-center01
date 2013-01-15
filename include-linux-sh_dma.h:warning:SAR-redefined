@@ -1,0 +1,3 @@
+include/linux/sh_dma.h:66:0: warning: "SAR" redefined [enabled by default]
+
+2012-11-09 15:34:02 bee random:dev:ec8f02d xtensa-allyesconfig ddffeb8

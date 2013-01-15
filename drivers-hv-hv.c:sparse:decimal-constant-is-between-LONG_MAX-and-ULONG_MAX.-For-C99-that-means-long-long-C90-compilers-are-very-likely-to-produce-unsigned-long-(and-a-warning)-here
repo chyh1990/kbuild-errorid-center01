@@ -1,0 +1,3 @@
+drivers/hv/hv.c:168:9: sparse: decimal constant 2976579765 is between LONG_MAX and ULONG_MAX. For C99 that means long long, C90 compilers are very likely to produce unsigned long (and a warning) here
+
+2012-07-23 22:56:28 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e 4dd268e1a54e95ed59a38939c1fdc86c0a4ce59f

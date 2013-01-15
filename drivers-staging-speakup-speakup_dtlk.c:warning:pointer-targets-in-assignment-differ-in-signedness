@@ -1,0 +1,3 @@
+drivers/staging/speakup/speakup_dtlk.c:294:4: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:41 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

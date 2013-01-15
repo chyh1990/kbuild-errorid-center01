@@ -1,0 +1,6 @@
+fs/nfs/callback.c:239:3: error: 'ret' undeclared (first use in this function)
+
+2012-10-17 00:45:24 bee nfs:testing:7d84fbe x86_64-allyesconfig 8c47a6a
+2012-10-17 00:45:30 bee x86_64 email notified
+2012-10-17 00:50:50 kbuild nfs:bugfixes:8c47a6a i386-allyesconfig 8c47a6a
+2012-10-17 01:00:45 lkp-mb01 devel-lkp-mb01-s390-2012-10-17-00-58:4215313 s390-allmodconfig 4215313

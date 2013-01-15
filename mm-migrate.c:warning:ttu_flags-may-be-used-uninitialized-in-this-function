@@ -1,0 +1,4 @@
+mm/migrate.c:827:5: warning: 'ttu_flags' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-07 18:42:42 kbuild next:akpm:d28e1f3 i386-randconfig-k920 3d1afff
+2012-09-07 18:43:20 kbuild i386 email notified

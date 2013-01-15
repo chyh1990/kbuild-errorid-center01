@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x5e89db): Section mismatch in reference from the function ipc_probe() to the function .devinit.text:intel_scu_devices_create()
+
+2012-09-08 09:32:56 snb pm:linux-next:66fccbe i386-allmodconfig 3cb6f10

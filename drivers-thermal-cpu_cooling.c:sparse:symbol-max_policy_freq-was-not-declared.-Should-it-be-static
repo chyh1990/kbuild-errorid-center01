@@ -1,0 +1,3 @@
+drivers/thermal/cpu_cooling.c:66:8: sparse: symbol 'max_policy_freq' was not declared. Should it be static?
+
+2012-09-09 15:31:24 snb next:akpm:d28e1f3 i386-allmodconfig 058e200

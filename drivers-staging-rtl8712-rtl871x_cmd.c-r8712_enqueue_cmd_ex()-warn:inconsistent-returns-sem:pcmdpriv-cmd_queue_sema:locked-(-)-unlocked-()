@@ -1,0 +1,3 @@
+drivers/staging/rtl8712/rtl871x_cmd.c:196 r8712_enqueue_cmd_ex() warn: inconsistent returns sem:&pcmdpriv->cmd_queue_sema: locked (188,190) unlocked (196)
+
+2013-01-09 13:27:21 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

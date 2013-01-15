@@ -1,0 +1,3 @@
+drivers/input/mouse/elantech.c:1186:5-55: duplicated argument to && or ||
+
+2012-09-20 06:30:27 snb hid:from-henrik:1ad346a i386-allmodconfig 1ad346a

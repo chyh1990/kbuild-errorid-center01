@@ -1,0 +1,6 @@
+drivers/acpi/acpica/utmisc.c:754:4: error: 'ACPI_DB_WARN' undeclared (first use in this function)
+
+2012-11-01 05:07:15 lkp-mb01 devel-lkp-mb01-i386-2012-11-01-04-48:187ffa6 i386-randconfig-m112 187ffa6
+2012-11-01 05:27:41 hive devel-hive-x86_64-2012-11-01-05-13:8c0152a x86_64-randconfig-h192 8c0152a
+2012-11-01 05:45:57 bee devel-bee-x86_64-2012-11-01-05-19:eac32c0 x86_64-nfsroot eac32c0
+2012-11-01 05:46:36 bee devel-bee-i386-2012-11-01-05-12:de6c493 i386-randconfig-b608 de6c493

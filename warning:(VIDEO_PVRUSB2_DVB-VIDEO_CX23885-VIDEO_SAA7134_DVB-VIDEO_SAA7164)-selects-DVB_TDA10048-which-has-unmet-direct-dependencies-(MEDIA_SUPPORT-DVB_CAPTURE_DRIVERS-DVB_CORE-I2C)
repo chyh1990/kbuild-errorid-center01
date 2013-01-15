@@ -1,0 +1,3 @@
+warning: (VIDEO_PVRUSB2_DVB && VIDEO_CX23885 && VIDEO_SAA7134_DVB && VIDEO_SAA7164) selects DVB_TDA10048 which has unmet direct dependencies (MEDIA_SUPPORT && DVB_CAPTURE_DRIVERS && DVB_CORE && I2C)
+
+2012-09-16 21:22:06 inn alexs:master:ce9d293 i386-randconfig-i003 ce9d293

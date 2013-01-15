@@ -1,0 +1,4 @@
+drivers/scsi/ipr.c:5846:2-8: preceding lock on line 5822
+
+2012-08-24 19:45:50 snb scsi:misc:cdd7575 i386-allmodconfig 00bfef2
+2012-08-24 19:45:52 snb i386 email notified

@@ -1,0 +1,3 @@
+kernel/timer.c:1354:2: error: implicit declaration of function 'arch_irq_work_use_tick' [-Werror=implicit-function-declaration]
+
+2012-10-13 02:54:58 bee dynticks:nohz:printk:f72ce6f sparc64-defconfig f72ce6f

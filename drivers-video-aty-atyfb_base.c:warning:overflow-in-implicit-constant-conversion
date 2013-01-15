@@ -1,0 +1,3 @@
+drivers/video/aty/atyfb_base.c:437:11: warning: overflow in implicit constant conversion [-Woverflow]
+
+2012-09-11 10:58:11 snb asoc:for-next:1d371d4 x86_64-randconfig-s294 d987569

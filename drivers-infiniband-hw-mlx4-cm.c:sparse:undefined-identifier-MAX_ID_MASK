@@ -1,0 +1,3 @@
+drivers/infiniband/hw/mlx4/cm.c:228:57: sparse: undefined identifier 'MAX_ID_MASK'
+
+2012-09-25 13:07:38 snb next:akpm:a9ee2e3 i386-allmodconfig a9ee2e3

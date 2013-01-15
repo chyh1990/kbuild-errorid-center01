@@ -1,0 +1,3 @@
+drivers/misc/sgi-gru/grufault.c:289:13: warning: 'ps' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:24:52 kbuild next:akpm:ef2dca2 x86_64-allmodconfig 7cae107

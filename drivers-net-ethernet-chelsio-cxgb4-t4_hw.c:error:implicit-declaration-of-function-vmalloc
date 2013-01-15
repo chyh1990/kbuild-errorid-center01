@@ -1,0 +1,4 @@
+drivers/net/ethernet/chelsio/cxgb4/t4_hw.c:420:2: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-10-05 11:05:38 bee netdev:master:6825a26 parisc-allyesconfig 8c357eb
+2012-10-05 11:06:49 bee parisc email notified

@@ -1,0 +1,3 @@
+WARNING: drivers/spi/built-in.o(.devinit.text+0x1cc4): Section mismatch in reference from the function rspi_probe() to the function .devexit.text:spidev_remove()
+
+2012-11-03 07:26:53 bee ac100:for-next-thierry:f1f4e22 sh-allyesconfig 8ed660d

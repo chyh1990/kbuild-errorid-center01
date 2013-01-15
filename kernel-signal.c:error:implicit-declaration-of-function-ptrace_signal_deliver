@@ -1,0 +1,4 @@
+kernel/signal.c:2144:2: error: implicit declaration of function 'ptrace_signal_deliver' [-Werror=implicit-function-declaration]
+
+2012-11-11 01:26:20 snb signal:untested:dea02d9 m68k-allmodconfig dea02d9
+2012-11-11 03:47:18 snb signal:untested:5c81988 m68k-allmodconfig 5c81988

@@ -1,0 +1,3 @@
+drivers/net/ethernet/mellanox/mlx4/mcg.c:672:11: sparse: using member 'vf_vep_port' in incomplete struct mlx4_net_trans_rule_hw_ctrl
+
+2012-10-01 12:28:29 snb infiniband:for-next:c99517c i386-allmodconfig c99517c

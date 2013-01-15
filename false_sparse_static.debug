@@ -1,0 +1,1789 @@
+git grep -w rbd_init | grep -q -v -F -e '.h:' -e 24-drivers/block/rbd.c:
+git grep -w rbd_exit | grep -q -v -F -e '.h:' -e 25-drivers/block/rbd.c:
+git grep -w vga_attr | grep -q -v -F -e '.h:' -e 1-drivers/pci/pci-sysfs.c:
+git grep -w max_vfs_attr | grep -q -v -F -e '.h:' -e 2:
+git grep -w rcu_expedited | grep -q -v -F -e '.h:' -e kernel/ksysfs.c:
+git grep -w pscsi_configure_device | grep -q -v -F -e '.h:' -e 1:
+git grep -w bfa_fcport_get_loop_attr | grep -q -v -F -e '.h:' -e 4:
+git grep -w bh_check_bridge | grep -q -v -F -e '.h:' -e drivers/pci/hotplug/acpiphp_glue.c:
+git grep -w inotify_show_fdinfo | grep -q -v -F -e '.h:' -e fs/notify/fdinfo.c:
+git grep -w fanotify_show_fdinfo | grep -q -v -F -e '.h:' -e fs/notify/fdinfo.c:
+grep EXPORT_SYMBOL.*(blkdev_write_iter) /c/kernel-tests/src/linux/fs/block_dev.c
+git grep -w xfs_inode_free | grep -q -v -F -e '.h:' -e fs/xfs/xfs_icache.c:
+suffix_strtoul: sed -n 141p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_parseargs: sed -n 171p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_showargs: sed -n 490p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_blkdev_get: sed -n 681p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_blkdev_put: sed -n 699p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_close_devices: sed -n 714p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_open_devices: sed -n 741p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_setup_devices: sed -n 815p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_init_mount_workqueues: sed -n 848p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_destroy_mount_workqueues: sed -n 891p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_alloc_inode: sed -n 921p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_destroy_inode: sed -n 933p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_inode_init_once: sed -n 974p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_evict_inode: sed -n 993p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_drop_inode: sed -n 1019p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_free_fsname: sed -n 1028p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_put_super: sed -n 1037p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_sync_fs: sed -n 1054p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_statfs: sed -n 1080p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_save_resvblks: sed -n 1128p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_restore_resvblks: sed -n 1137p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_remount: sed -n 1218p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_freeze: sed -n 1323p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_unfreeze: sed -n 1334p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_show_options: sed -n 1345p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_finish_flags: sed -n 1357p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_fill_super: sed -n 1403p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_fs_mount: sed -n 1523p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_init_zones: sed -n 1572p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_destroy_zones: sed -n 1686p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_init_workqueues: sed -n 1711p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_destroy_workqueues: sed -n 1727p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+init_xfs_fs: sed -n 1733p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+exit_xfs_fs: sed -n 1800p /c/kernel-tests/src/linux/fs/xfs/xfs_super.c | grep -Ee '^(static|STATIC) .*'
+xfs_inode_ag_walk_grab: sed -n 52p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_inode_ag_walk: sed -n 99p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+__xfs_inode_clear_reclaim: sed -n 304p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_reclaim_inode_grab: sed -n 337p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+git grep -w xfs_reclaim_inode | grep -q -v -F -e '.h:' -e fs/xfs/xfs_icache.c:
+xfs_inode_alloc: sed -n 50p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_inode_free_callback: sed -n 90p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_reclaim_inodes_ag: sed -n 960p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_lookup_eq: sed -n 222p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_lookup_ge: sed -n 236p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_update: sed -n 275p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_add_attrfork_btree: sed -n 292p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_add_extent_delay_real: sed -n 395p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_add_extent_unwritten_real: sed -n 946p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_add_extent_hole_delay: sed -n 1471p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_add_extent_hole_real: sed -n 1615p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_extsize_align: sed -n 1857p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_adjacent: sed -n 2019p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_rtalloc: sed -n 2167p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_btalloc_nullfb: sed -n 2270p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_btalloc: sed -n 2385p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_del_extent: sed -n 2689p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_forkoff_reset: sed -n 3192p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_search_multi_extents: sed -n 3307p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_last_extent: sed -n 3867p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_isaeof: sed -n 3905p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_sanity_check: sed -n 4019p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmapi_trim_map: sed -n 4243p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmapi_update_map: sed -n 4289p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmapi_reserve_delalloc: sed -n 4431p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+__xfs_bmapi_allocate: sed -n 4621p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmapi_convert_unwritten: sed -n 4781p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_getbmapx_fix_eof_hole: sed -n 5462p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmap_get_bp: sed -n 5741p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_check_block: sed -n 5771p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_lookup_eq: sed -n 54p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_update: sed -n 103p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_compute_aligned: sed -n 141p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_compute_diff: sed -n 171p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_fix_len: sed -n 233p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_fix_minleft: sed -n 267p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_fixup_trees: sed -n 295p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_read_agfl: sed -n 436p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_update_counters: sed -n 459p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_ag_vextent: sed -n 492p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_alloc_find_best_extent: sed -n 671p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_free_ag_extent: sed -n 1449p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc.c | grep -Ee '^(static|STATIC) .*'
+git grep -w xfs_alloc_fix_freelist | grep -q -v -F -e '.h:' -e fs/xfs/xfs_alloc.c:
+git grep -w rts51x_mg_set_leaf_id | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_get_local_EKB | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_chg | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_get_rsp_chg | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_rsp | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_get_ICV | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w rts51x_mg_set_ICV | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+git grep -w ext_rts51x_sd_execute_no_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w ext_rts51x_sd_execute_read_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w ext_rts51x_sd_execute_write_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_pass_thru_mode | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_execute_no_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_execute_read_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_execute_write_data | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_get_cmd_rsp | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w rts51x_sd_hw_rst | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/sd_cprm.c:
+git grep -w get_cpu_idle_time | grep -q -v -F -e '.h:' -e drivers/cpufreq/cpufreq_governor.c:
+menu_hrtimer: sed -n 34p /c/kernel-tests/src/linux/drivers/cpuidle/governors/menu.c | grep -Ee '^(static|STATIC) .*'
+hrtimer_status: sed -n 35p /c/kernel-tests/src/linux/drivers/cpuidle/governors/menu.c | grep -Ee '^(static|STATIC) .*'
+menu_devices: sed -n 191p /c/kernel-tests/src/linux/drivers/cpuidle/governors/menu.c | grep -Ee '^(static|STATIC) .*'
+git grep -w log_wait | grep -q -v -F -e '.h:' -e kernel/printk/printk.c:
+printk_pending: sed -n 1953p /c/kernel-tests/src/linux/kernel/printk/printk.c | grep -Ee '^(static|STATIC) .*'
+printk_sched_buf: sed -n 1954p /c/kernel-tests/src/linux/kernel/printk/printk.c | grep -Ee '^(static|STATIC) .*'
+git grep -w rcutorture_runnable | grep -q -v -F -e '.h:' -e kernel/rcutorture.c:
+git grep -w events_sysfs_show | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/perf_event.c:
+pmc_prev_left: sed -n 923p /c/kernel-tests/src/linux/arch/x86/kernel/cpu/perf_event.c | grep -Ee '^(static|STATIC) .*'
+git grep -w arch_perf_update_userpage | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/perf_event.c:
+grep EXPORT_SYMBOL.*(memstick_debug_get_tpc_name) /c/kernel-tests/src/linux/drivers/memstick/host/r592.c
+grep EXPORT_SYMBOL.*(lbs_disablemesh) /c/kernel-tests/src/linux/drivers/net/wireless/libertas/main.c
+git grep -w acpi_os_initialize1 | grep -q -v -F -e '.h:' -e drivers/acpi/osl.c:
+git grep -w nft_compat_module_init | grep -q -v -F -e '.h:' -e net/netfilter/nft_compat.c:
+git grep -w nft_compat_module_exit | grep -q -v -F -e '.h:' -e net/netfilter/nft_compat.c:
+git grep -w mod_verify_sig | grep -q -v -F -e '.h:' -e security/integrity/module.c:
+git grep -w sys_fork | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w sys_vfork | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w sys_clone | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w acpi_create_platform_device | grep -q -v -F -e '.h:' -e drivers/acpi/acpi_platform.c:
+git grep -w boottime_bootloader_idle | grep -q -v -F -e '.h:' -e init/boottime.c:
+git grep -w map_single | grep -q -v -F -e '.h:' -e lib/swiotlb.c:
+grep 'EXPORT_SYMBOL.*(acpi_dev_runtime_suspend)' 'weak.* acpi_dev_runtime_suspend' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_dev_runtime_resume)' 'weak.* acpi_dev_runtime_resume' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_subsys_runtime_suspend)' 'weak.* acpi_subsys_runtime_suspend' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_subsys_runtime_resume)' 'weak.* acpi_subsys_runtime_resume' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_dev_suspend_late)' 'weak.* acpi_dev_suspend_late' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_dev_resume_early)' 'weak.* acpi_dev_resume_early' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_subsys_prepare)' 'weak.* acpi_subsys_prepare' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_subsys_suspend_late)' 'weak.* acpi_subsys_suspend_late' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_subsys_resume_early)' 'weak.* acpi_subsys_resume_early' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_dev_pm_attach)' 'weak.* acpi_dev_pm_attach' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+grep 'EXPORT_SYMBOL.*(acpi_dev_pm_detach)' 'weak.* acpi_dev_pm_detach' /c/kernel-tests/src/linux/drivers/acpi/device_pm.c
+cpuidle_drivers: sed -n 81p /c/kernel-tests/src/linux/drivers/cpuidle/driver.c | grep -Ee '^(static|STATIC) .*'
+trace_cmdline_save: sed -n 85p /c/kernel-tests/src/linux/kernel/trace/trace.c | grep -Ee '^(static|STATIC) .*'
+global_trace_cpu: sed -n 170p /c/kernel-tests/src/linux/kernel/trace/trace.c | grep -Ee '^(static|STATIC) .*'
+max_tr_data: sed -n 206p /c/kernel-tests/src/linux/kernel/trace/trace.c | grep -Ee '^(static|STATIC) .*'
+: /dev/shm/make-it-static-6f86ab9fcaef122abb837819139eadac1a0ca966-i386-allmodconfig.log
+git grep -w tegrapart_partition | grep -q -v -F -e '.h:' -e block/partitions/tegrapart.c:
+grep 'EXPORT_SYMBOL.*(power_seq_add_sequence)' 'weak.* power_seq_add_sequence' /c/kernel-tests/src/linux/drivers/power/power_seq/power_seq.c
+git grep -w nft_chain_route_ipv6 | grep -q -v -F -e '.h:' -e net/ipv6/netfilter/nft_chain_route_ipv6.c:
+git grep -w nft_chain_route_ipv4 | grep -q -v -F -e '.h:' -e net/ipv4/netfilter/nft_chain_route_ipv4.c:
+git grep -w nft_chain_nat_ipv4 | grep -q -v -F -e '.h:' -e net/ipv4/netfilter/nft_chain_nat_ipv4.c:
+git grep -w bp_per_reg | grep -q -v -F -e '.h:' -e arch/x86/kernel/hw_breakpoint.c:
+git grep -w gpiochip_add_pin_range | grep -q -v -F -e '.h:' -e drivers/gpio/gpiolib.c:
+git grep -w trace_hardirqs_on_caller | grep -q -v -F -e '.h:' -e kernel/trace/trace_irqsoff.c:
+git grep -w trace_hardirqs_off_caller | grep -q -v -F -e '.h:' -e kernel/trace/trace_irqsoff.c:
+irq_work_list: sed -n 20p /c/kernel-tests/src/linux/kernel/irq_work.c | grep -Ee '^(static|STATIC) .*'
+irq_work_raised: sed -n 21p /c/kernel-tests/src/linux/kernel/irq_work.c | grep -Ee '^(static|STATIC) .*'
+git grep -w arch_irq_work_raise | grep -q -v -F -e '.h:' -e kernel/irq_work.c:
+wake_up_klogd_work: sed -n 1972p /c/kernel-tests/src/linux/kernel/printk.c | grep -Ee '^(static|STATIC) .*'
+xfs_inode_free_eofblocks: sed -n 1173p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_inode_match_id: sed -n 1173p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+xfs_queue_eofblocks: sed -n 622p /c/kernel-tests/src/linux/fs/xfs/xfs_icache.c | grep -Ee '^(static|STATIC) .*'
+grep 'EXPORT_SYMBOL.*(fuse_file_fallocate)' 'weak.* fuse_file_fallocate' /c/kernel-tests/src/linux/fs/fuse/file.c
+git grep -w num_cache_leaves | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/intel_cacheinfo.c:
+ERR: line=drivers/staging/fwserial/fwserial.h:356:19: sparse: symbol 'fwtty_driver' was not declared. Should it be static? file= symbol=fwtty_driver
+git grep -w rcu_is_cpu_rrupt_from_idle | grep -q -v -F -e '.h:' -e kernel/rcutree.c:
+ERR: line=kernel/rcutree_plugin.h:1699:6: sparse: symbol 'rcu_idle_demigrate' was not declared. Should it be static? file= symbol=rcu_idle_demigrate
+xfs_btree_check_lblock: sed -n 50p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_check_sblock: sed -n 86p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_check_sptr: sed -n 160p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_check_ptr: sed -n 179p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_rec_offset: sed -n 337p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_key_offset: sed -n 349p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_ptr_offset: sed -n 361p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_rec_addr: sed -n 375p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_key_addr: sed -n 388p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_ptr_addr: sed -n 401p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_get_iroot: sed -n 421p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_get_block: sed -n 435p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_firstrec: sed -n 518p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_lastrec: sed -n 547p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_readahead_lblock: sed -n 676p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_readahead_sblock: sed -n 699p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_readahead: sed -n 729p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_setbuf: sed -n 760p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_ptr_is_null: sed -n 787p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_set_ptr_null: sed -n 798p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_get_sibling: sed -n 812p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_set_sibling: sed -n 834p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_init_block_cur: sed -n 880p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_is_lastrec: sed -n 896p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_buf_to_ptr: sed -n 915p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_ptr_to_daddr: sed -n 930p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_set_refs: sed -n 948p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_get_buf_block: sed -n 969p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_read_buf_block: sed -n 998p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_copy_keys: sed -n 1034p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_copy_recs: sed -n 1048p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_copy_ptrs: sed -n 1062p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_shift_keys: sed -n 1076p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_shift_recs: sed -n 1095p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_shift_ptrs: sed -n 1114p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_log_keys: sed -n 1133p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_log_ptrs: sed -n 1178p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_lookup_get_block: sed -n 1454p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_lookup_get_search_key: sed -n 1496p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_updkey: sed -n 1676p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_lshift: sed -n 1786p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_rshift: sed -n 1969p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_split: sed -n 2145p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_new_root: sed -n 2430p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_make_block_unfull: sed -n 2556p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_insrec: sed -n 2628p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_kill_iroot: sed -n 2915p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_kill_root: sed -n 3022p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_dec_cursor: sed -n 3056p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_btree_delrec: sed -n 3082p /c/kernel-tests/src/linux/fs/xfs/xfs_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_init_dquot_blk: sed -n 214p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqalloc: sed -n 257p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqrepair: sed -n 401p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqtobp: sed -n 451p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqput_final: sed -n 822p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqflush_done: sed -n 909p /c/kernel-tests/src/linux/fs/xfs/xfs_dquot.c | grep -Ee '^(static|STATIC) .*'
+xfs_da_swap_lastblock: sed -n 1771p /c/kernel-tests/src/linux/fs/xfs/xfs_da_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_da_map_covers_blocks: sed -n 2018p /c/kernel-tests/src/linux/fs/xfs/xfs_da_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leaf_find_stale: sed -n 222p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leaf_check: sed -n 648p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leaf_readbuf: sed -n 844p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leaf_log_tail: sed -n 1342p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_get_minrecs: sed -n 39p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_dup_cursor: sed -n 47p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_set_root: sed -n 55p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_alloc_block: sed -n 69p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_free_block: sed -n 110p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_get_maxrecs: sed -n 127p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_init_key_from_rec: sed -n 135p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_init_rec_from_key: sed -n 143p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_init_rec_from_cur: sed -n 151p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_init_ptr_from_cur: sed -n 164p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_key_diff: sed -n 176p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_keys_inorder: sed -n 237p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_recs_inorder: sed -n 247p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_validate_extents: sed -n 333p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_iformat: sed -n 495p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_dinode_from_disk: sed -n 831p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+_xfs_dic2xflags: sed -n 903p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_iunlink_remove: sed -n 1574p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+git grep -w xfs_ifree_cluster | grep -q -v -F -e '.h:' -e fs/xfs/xfs_inode.c:
+xfs_iflush_fork: sed -n 2355p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_iflush_cluster: sed -n 2446p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_iext_realloc_indirect: sed -n 3476p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_iext_indirect_to_direct: sed -n 3501p /c/kernel-tests/src/linux/fs/xfs/xfs_inode.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_dup_cursor: sed -n 38p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_set_root: sed -n 47p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_alloc_block: sed -n 69p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_free_block: sed -n 106p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_update_lastrec: sed -n 132p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_get_minrecs: sed -n 192p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_get_maxrecs: sed -n 200p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_init_key_from_rec: sed -n 208p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_init_rec_from_key: sed -n 219p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_init_rec_from_cur: sed -n 230p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_init_ptr_from_cur: sed -n 241p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_key_diff: sed -n 254p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_keys_inorder: sed -n 352p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_allocbt_recs_inorder: sed -n 370p /c/kernel-tests/src/linux/fs/xfs/xfs_alloc_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_attr_namesp_match: sed -n 145p /c/kernel-tests/src/linux/fs/xfs/xfs_attr_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_sbversion_add_attr2: sed -n 259p /c/kernel-tests/src/linux/fs/xfs/xfs_attr_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_attr_fork_reset: sed -n 363p /c/kernel-tests/src/linux/fs/xfs/xfs_attr_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_attr_shortform_compare: sed -n 604p /c/kernel-tests/src/linux/fs/xfs/xfs_attr_leaf.c | grep -Ee '^(static|STATIC) .*'
+xfs_extent_state: sed -n 45p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+__xfs_bmbt_get_all: sed -n 95p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_disk_set_all: sed -n 331p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_dup_cursor: sed -n 469p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_update_cursor: sed -n 489p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_alloc_block: sed -n 504p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_free_block: sed -n 590p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_get_minrecs: sed -n 609p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_get_dmaxrecs: sed -n 655p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_init_key_from_rec: sed -n 666p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_init_rec_from_key: sed -n 675p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_init_rec_from_cur: sed -n 686p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_init_ptr_from_cur: sed -n 694p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_key_diff: sed -n 702p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_keys_inorder: sed -n 773p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_bmbt_recs_inorder: sed -n 783p /c/kernel-tests/src/linux/fs/xfs/xfs_bmap_btree.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_data_freeremove: sed -n 397p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_data.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_free_log_bests: sed -n 129p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_node.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leafn_lookup_for_addname: sed -n 383p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_node.c | grep -Ee '^(static|STATIC) .*'
+xfs_dir2_leafn_lookup_for_entry: sed -n 529p /c/kernel-tests/src/linux/fs/xfs/xfs_dir2_node.c | grep -Ee '^(static|STATIC) .*'
+xfs_inobt_update: sed -n 75p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_check_agi_freecount: sed -n 113p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_inode_init: sed -n 153p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_ag_alloc: sed -n 235p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_next_ag: sed -n 428p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_ag_select: sed -n 447p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_next_rec: sed -n 554p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_ialloc_get_rec: sed -n 582p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_dialloc_ag: sed -n 613p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_imap_lookup: sed -n 1202p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_check_agi_unlinked: sed -n 1463p /c/kernel-tests/src/linux/fs/xfs/xfs_ialloc.c | grep -Ee '^(static|STATIC) .*'
+xfs_uuid_mount: sed -n 123p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_uuid_unmount: sed -n 166p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+__xfs_free_perag: sed -n 248p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_free_perag: sed -n 261p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_mount_validate_sb: sed -n 303p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_mount_common: sed -n 767p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_initialize_perag_data: sed -n 811p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_update_alignment: sed -n 863p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_set_maxicount: sed -n 940p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_set_rw_sizes: sed -n 967p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_set_inoalignment: sed -n 1021p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_check_sizes: sed -n 1044p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_mod_incore_sb_unlocked: sed -n 1649p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_cpu_notify: sed -n 2040p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_lock_cntr: sed -n 2155p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_unlock_cntr: sed -n 2164p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_lock_all_counters: sed -n 2172p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_unlock_all_counters: sed -n 2185p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_count: sed -n 2198p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_counter_disabled: sed -n 2223p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xfs_icsb_enable_counter: sed -n 2275p /c/kernel-tests/src/linux/fs/xfs/xfs_mount.c | grep -Ee '^(static|STATIC) .*'
+xlog_get_bp: sed -n 97p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_put_bp: sed -n 137p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_align: sed -n 148p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_bread_noalign: sed -n 165p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_bread: sed -n 199p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_bread_offset: sed -n 221p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_bwrite: sed -n 251p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_header_check_dump: sed -n 291p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_header_check_recover: sed -n 308p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_header_check_mount: sed -n 341p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_iodone: sed -n 365p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_find_cycle_start: sed -n 388p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_find_verify_cycle: sed -n 431p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_find_verify_log_record: sed -n 500p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_find_head: sed -n 610p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_find_tail: sed -n 881p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_add_record: sed -n 1193p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_write_log_records: sed -n 1215p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_find_tid: sed -n 1438p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_new_tid: sed -n 1453p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_add_item: sed -n 1470p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_add_to_cont_trans: sed -n 1481p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_add_to_trans: sed -n 1527p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_reorder_trans: sed -n 1598p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_buffer_pass1: sed -n 1652p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_check_buffer_cancelled: sed -n 1706p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_do_inode_buffer: sed -n 1769p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_do_reg_buffer: sed -n 1865p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_do_dquot_buffer: sed -n 2060p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_buffer_pass2: sed -n 2118p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_inode_pass2: sed -n 2199p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_quotaoff_pass1: sed -n 2469p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_dquot_pass2: sed -n 2494p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_efi_pass2: sed -n 2590p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_efd_pass2: sed -n 2628p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_free_trans: sed -n 2681p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_commit_pass1: sed -n 2701p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_commit_pass2: sed -n 2728p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_commit_trans: sed -n 2765p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_unmount_trans: sed -n 2805p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_process_data: sed -n 2824p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_process_efi: sed -n 2920p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_process_efis: sed -n 2998p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_clear_agi_bucket: sed -n 3050p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_process_one_iunlink: sed -n 3091p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_recover_process_iunlinks: sed -n 3159p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_pack_data_checksum: sed -n 3221p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_unpack_data: sed -n 3286p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_valid_rec_header: sed -n 3311p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_do_recovery_pass: sed -n 3355p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_do_log_recovery: sed -n 3607p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xlog_do_recover: sed -n 3658p /c/kernel-tests/src/linux/fs/xfs/xfs_log_recover.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_lru_add: sed -n 88p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_lru_del: sed -n 113p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_get_pages: sed -n 267p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_free_pages: sed -n 292p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_allocate_memory: sed -n 339p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_map_pages: sed -n 437p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_read: sed -n 637p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_wait_unpin: sed -n 976p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_iodone_work: sed -n 1000p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_bioerror: sed -n 1072p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_bioerror_relse: sed -n 1103p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_bdstrat_cb: sed -n 1136p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_ioend: sed -n 1197p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_buf_bio_end_io: sed -n 1206p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_buf_ioapply: sed -n 1311p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_setsize_buftarg_flags: sed -n 1569p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_setsize_buftarg_early: sed -n 1599p /c/kernel-tests/src/linux/fs/xfs/xfs_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_trans_buf_item_match: sed -n 40p /c/kernel-tests/src/linux/fs/xfs/xfs_trans_buf.c | grep -Ee '^(static|STATIC) .*'
+_xfs_trans_bjoin: sed -n 78p /c/kernel-tests/src/linux/fs/xfs/xfs_trans_buf.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dquot_walk: sed -n 64p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqpurge: sed -n 131p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqattach_one: sed -n 367p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqattach_grouphint: sed -n 456p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_qino_alloc: sed -n 759p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_reset_dqcounts: sed -n 822p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqiter_bufs: sed -n 865p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqiterate: sed -n 917p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_quotacheck_dqadjust: sed -n 1014p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_get_rtblks: sed -n 1069p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqusage_adjust: sed -n 1099p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_flush_one: sed -n 1193p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqfree_one: sed -n 1431p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_qm_dqreclaim_one: sed -n 1448p /c/kernel-tests/src/linux/fs/xfs/xfs_qm.c | grep -Ee '^(static|STATIC) .*'
+xfs_internal_inum: sed -n 39p /c/kernel-tests/src/linux/fs/xfs/xfs_itable.c | grep -Ee '^(static|STATIC) .*'
+xfs_bulkstat_one_fmt: sed -n 150p /c/kernel-tests/src/linux/fs/xfs/xfs_itable.c | grep -Ee '^(static|STATIC) .*'
+git grep -w qxl_max_ioctls | grep -q -v -F -e '.h:' -e drivers/gpu/drm/qxl/qxl_ioctl.c:
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:199:6: sparse: symbol 'sb_uart_write_wakeup' was not declared. Should it be static? file= symbol=sb_uart_write_wakeup
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:205:6: sparse: symbol 'sb_uart_update_timeout' was not declared. Should it be static? file= symbol=sb_uart_update_timeout
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:243:14: sparse: symbol 'sb_uart_get_baud_rate' was not declared. Should it be static? file= symbol=sb_uart_get_baud_rate
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:307:14: sparse: symbol 'sb_uart_get_divisor' was not declared. Should it be static? file= symbol=sb_uart_get_divisor
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:199:6: sparse: symbol 'sb_uart_write_wakeup' was not declared. Should it be static? file= symbol=sb_uart_write_wakeup
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:205:6: sparse: symbol 'sb_uart_update_timeout' was not declared. Should it be static? file= symbol=sb_uart_update_timeout
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:243:14: sparse: symbol 'sb_uart_get_baud_rate' was not declared. Should it be static? file= symbol=sb_uart_get_baud_rate
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:307:14: sparse: symbol 'sb_uart_get_divisor' was not declared. Should it be static? file= symbol=sb_uart_get_divisor
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:199:6: sparse: symbol 'sb_uart_write_wakeup' was not declared. Should it be static? file= symbol=sb_uart_write_wakeup
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:205:6: sparse: symbol 'sb_uart_update_timeout' was not declared. Should it be static? file= symbol=sb_uart_update_timeout
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:243:14: sparse: symbol 'sb_uart_get_baud_rate' was not declared. Should it be static? file= symbol=sb_uart_get_baud_rate
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:307:14: sparse: symbol 'sb_uart_get_divisor' was not declared. Should it be static? file= symbol=sb_uart_get_divisor
+git grep -w kvm_setup_vsyscall_timeinfo | grep -q -v -F -e '.h:' -e arch/x86/kernel/kvmclock.c:
+git grep -w apply_microcode | grep -q -v -F -e '.h:' -e arch/x86/kernel/microcode_intel.c:
+grep 'EXPORT_SYMBOL.*(evict_bh_lrus)' 'weak.* evict_bh_lrus' /c/kernel-tests/src/linux/fs/buffer.c
+git grep -w nft_chain_nat_ipv6 | grep -q -v -F -e '.h:' -e net/ipv6/netfilter/nft_chain_nat_ipv6.c:
+ERR: line=drivers/video/xylon/xylonfb/platform/../core/xylonfb-pixclk.c:45:5: sparse: symbol 'xylonfb_hw_pixclk_set' was not declared. Should it be static? file=/core/xylonfb-pixclk.c symbol=xylonfb_hw_pixclk_set
+ERR: line=drivers/video/xylon/xylonfb/platform/../core/xylonfb-pixclk.c:140:6: sparse: symbol 'xylonfb_hw_pixclk_change' was not declared. Should it be static? file=/core/xylonfb-pixclk.c symbol=xylonfb_hw_pixclk_change
+ERR: line=drivers/video/xylon/xylonfb/platform/../core/xylonfb-pixclk.c:45:5: sparse: symbol 'xylonfb_hw_pixclk_set' was not declared. Should it be static? file=/core/xylonfb-pixclk.c symbol=xylonfb_hw_pixclk_set
+ERR: line=drivers/video/xylon/xylonfb/platform/../core/xylonfb-pixclk.c:140:6: sparse: symbol 'xylonfb_hw_pixclk_change' was not declared. Should it be static? file=/core/xylonfb-pixclk.c symbol=xylonfb_hw_pixclk_change
+grep 'EXPORT_SYMBOL.*(vchan_tx_submit)' 'weak.* vchan_tx_submit' /c/kernel-tests/src/linux/drivers/dma/virt-dma.c
+: /dev/shm/make-it-static-f9969a1f5a9b07ad12e49418654245f5f6c170fd-i386-allmodconfig.log
+: /dev/shm/make-it-static-f9969a1f5a9b07ad12e49418654245f5f6c170fd-i386-allmodconfig.log
+: /dev/shm/make-it-static-4008e97f866db66511f065ae9052e0733a3a8429-i386-allmodconfig.log
+: /dev/shm/make-it-static-4008e97f866db66511f065ae9052e0733a3a8429-i386-allmodconfig.log
+git grep -w r600_dma_cs_next_reloc | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_cs.c:
+git grep -w r600_dma_cs_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_cs.c:
+git grep -w evergreen_dma_cs_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_cs.c:
+git grep -w evergreen_dma_ib_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_cs.c:
+git grep -w ci_hdrc_otg_init | grep -q -v -F -e '.h:' -e drivers/usb/chipidea/otg.c:
+git grep -w acpi_pci_root_init | grep -q -v -F -e '.h:' -e drivers/acpi/pci_root.c:
+: /dev/shm/make-it-static-9532fec118d485ea37ab6e3ea372d68cd8b4cd0d-i386-allmodconfig.log
+: /dev/shm/make-it-static-9532fec118d485ea37ab6e3ea372d68cd8b4cd0d-i386-allmodconfig.log
+ERR: line=kernel/trace/trace_entries.h:216:1: sparse: symbol 'ftrace_define_fields_bprint' was not declared. Should it be static? file= symbol=ftrace_define_fields_bprint
+ERR: line=kernel/trace/trace_entries.h:232:1: sparse: symbol 'ftrace_define_fields_print' was not declared. Should it be static? file= symbol=ftrace_define_fields_print
+ERR: line=kernel/trace/trace_entries.h:247:1: sparse: symbol 'ftrace_define_fields_mmiotrace_rw' was not declared. Should it be static? file= symbol=ftrace_define_fields_mmiotrace_rw
+ERR: line=kernel/trace/trace_entries.h:268:1: sparse: symbol 'ftrace_define_fields_mmiotrace_map' was not declared. Should it be static? file= symbol=ftrace_define_fields_mmiotrace_map
+ERR: line=kernel/trace/trace_entries.h:292:1: sparse: symbol 'ftrace_define_fields_branch' was not declared. Should it be static? file= symbol=ftrace_define_fields_branch
+ERR: line=kernel/trace/trace_entries.h:58:1: sparse: symbol 'event_class_ftrace_function' was not declared. Should it be static? file= symbol=event_class_ftrace_function
+ERR: line=kernel/trace/trace_entries.h:58:1: sparse: symbol '__event_function' was not declared. Should it be static? file= symbol=__event_function
+ERR: line=kernel/trace/trace_entries.h:75:1: sparse: symbol 'event_class_ftrace_funcgraph_entry' was not declared. Should it be static? file= symbol=event_class_ftrace_funcgraph_entry
+ERR: line=kernel/trace/trace_entries.h:75:1: sparse: symbol '__event_funcgraph_entry' was not declared. Should it be static? file= symbol=__event_funcgraph_entry
+ERR: line=kernel/trace/trace_entries.h:91:1: sparse: symbol 'event_class_ftrace_funcgraph_exit' was not declared. Should it be static? file= symbol=event_class_ftrace_funcgraph_exit
+ERR: line=kernel/trace/trace_entries.h:91:1: sparse: symbol '__event_funcgraph_exit' was not declared. Should it be static? file= symbol=__event_funcgraph_exit
+ERR: line=kernel/trace/trace_entries.h:127:1: sparse: symbol 'event_class_ftrace_context_switch' was not declared. Should it be static? file= symbol=event_class_ftrace_context_switch
+ERR: line=kernel/trace/trace_entries.h:127:1: sparse: symbol '__event_context_switch' was not declared. Should it be static? file= symbol=__event_context_switch
+ERR: line=kernel/trace/trace_entries.h:147:1: sparse: symbol 'event_class_ftrace_wakeup' was not declared. Should it be static? file= symbol=event_class_ftrace_wakeup
+ERR: line=kernel/trace/trace_entries.h:147:1: sparse: symbol '__event_wakeup' was not declared. Should it be static? file= symbol=__event_wakeup
+ERR: line=kernel/trace/trace_entries.h:175:1: sparse: symbol 'event_class_ftrace_kernel_stack' was not declared. Should it be static? file= symbol=event_class_ftrace_kernel_stack
+ERR: line=kernel/trace/trace_entries.h:175:1: sparse: symbol '__event_kernel_stack' was not declared. Should it be static? file= symbol=__event_kernel_stack
+ERR: line=kernel/trace/trace_entries.h:194:1: sparse: symbol 'event_class_ftrace_user_stack' was not declared. Should it be static? file= symbol=event_class_ftrace_user_stack
+ERR: line=kernel/trace/trace_entries.h:194:1: sparse: symbol '__event_user_stack' was not declared. Should it be static? file= symbol=__event_user_stack
+ERR: line=kernel/trace/trace_entries.h:216:1: sparse: symbol 'event_class_ftrace_bprint' was not declared. Should it be static? file= symbol=event_class_ftrace_bprint
+ERR: line=kernel/trace/trace_entries.h:216:1: sparse: symbol '__event_bprint' was not declared. Should it be static? file= symbol=__event_bprint
+ERR: line=kernel/trace/trace_entries.h:232:1: sparse: symbol 'event_class_ftrace_print' was not declared. Should it be static? file= symbol=event_class_ftrace_print
+ERR: line=kernel/trace/trace_entries.h:232:1: sparse: symbol '__event_print' was not declared. Should it be static? file= symbol=__event_print
+ERR: line=kernel/trace/trace_entries.h:247:1: sparse: symbol 'event_class_ftrace_mmiotrace_rw' was not declared. Should it be static? file= symbol=event_class_ftrace_mmiotrace_rw
+ERR: line=kernel/trace/trace_entries.h:247:1: sparse: symbol '__event_mmiotrace_rw' was not declared. Should it be static? file= symbol=__event_mmiotrace_rw
+ERR: line=kernel/trace/trace_entries.h:268:1: sparse: symbol 'event_class_ftrace_mmiotrace_map' was not declared. Should it be static? file= symbol=event_class_ftrace_mmiotrace_map
+ERR: line=kernel/trace/trace_entries.h:268:1: sparse: symbol '__event_mmiotrace_map' was not declared. Should it be static? file= symbol=__event_mmiotrace_map
+ERR: line=kernel/trace/trace_entries.h:292:1: sparse: symbol 'event_class_ftrace_branch' was not declared. Should it be static? file= symbol=event_class_ftrace_branch
+ERR: line=kernel/trace/trace_entries.h:292:1: sparse: symbol '__event_branch' was not declared. Should it be static? file= symbol=__event_branch
+irq_randomness: sed -n 745p /c/kernel-tests/src/linux/drivers/char/random.c | grep -Ee '^(static|STATIC) .*'
+cpu_lock_stats: sed -n 153p /c/kernel-tests/src/linux/kernel/lockdep.c | grep -Ee '^(static|STATIC) .*'
+tvec_bases: sed -n 91p /c/kernel-tests/src/linux/kernel/timer.c | grep -Ee '^(static|STATIC) .*'
+global_cwq: sed -n 466p /c/kernel-tests/src/linux/kernel/workqueue.c | grep -Ee '^(static|STATIC) .*'
+pool_nr_running: sed -n 467p /c/kernel-tests/src/linux/kernel/workqueue.c | grep -Ee '^(static|STATIC) .*'
+: /dev/shm/make-it-static-d417f1730039a7fe59b66c6ac04fdaf8d1cfa96f-i386-allmodconfig.log
+: /dev/shm/make-it-static-d417f1730039a7fe59b66c6ac04fdaf8d1cfa96f-i386-allmodconfig.log
+grep 'EXPORT_SYMBOL.*(system_highpri_wq)' 'weak.* system_highpri_wq' /c/kernel-tests/src/linux/kernel/workqueue.c
+: /dev/shm/make-it-static-e45b3756ad5bf86ef3e86d71d6cdf04e402e5e9c-i386-allmodconfig.log
+: /dev/shm/make-it-static-e45b3756ad5bf86ef3e86d71d6cdf04e402e5e9c-i386-allmodconfig.log
+: /dev/shm/make-it-static-cb99864d40e46dea9c2aa3eaa97517b776f91024-i386-allmodconfig.log
+: /dev/shm/make-it-static-cb99864d40e46dea9c2aa3eaa97517b776f91024-i386-allmodconfig.log
+git grep -w acpi_dev_pm_get_node | grep -q -v -F -e '.h:' -e drivers/acpi/device_pm.c:
+: /dev/shm/make-it-static-a0029ab761ae111f5b777bde368a99d252a02e4d-i386-allmodconfig.log
+: /dev/shm/make-it-static-a0029ab761ae111f5b777bde368a99d252a02e4d-i386-allmodconfig.log
+: /dev/shm/make-it-static-8b951fb44c157a10e6f948a5de7299cc7a53e3c8-i386-allmodconfig.log
+: /dev/shm/make-it-static-8b951fb44c157a10e6f948a5de7299cc7a53e3c8-i386-allmodconfig.log
+: /dev/shm/make-it-static-c53d589337e9a211413484a604c76072e8474dc0-i386-allmodconfig.log
+: /dev/shm/make-it-static-c53d589337e9a211413484a604c76072e8474dc0-i386-allmodconfig.log
+: /dev/shm/make-it-static-e7b828cdbb71f68da221a74f6c4c4f477a74d933-i386-allmodconfig.log
+: /dev/shm/make-it-static-e7b828cdbb71f68da221a74f6c4c4f477a74d933-i386-allmodconfig.log
+git grep -w arch_enable_nonboot_cpus_begin | grep -q -v -F -e '.h:' -e kernel/cpu.c:
+git grep -w arch_enable_nonboot_cpus_end | grep -q -v -F -e '.h:' -e kernel/cpu.c:
+: /dev/shm/make-it-static-1e363c141b595f5244e32180c38d8b00ad109166-i386-allmodconfig.log
+: /dev/shm/make-it-static-1e363c141b595f5244e32180c38d8b00ad109166-i386-allmodconfig.log
+git grep -w rcu_cpu_stall_suppress | grep -q -v -F -e '.h:' -e kernel/rcutree.c:
+git grep -w rcu_cpu_stall_timeout | grep -q -v -F -e '.h:' -e kernel/rcutree.c:
+: /dev/shm/make-it-static-a308ff3714db6e2a444eb8f99eb5175a887ebcbe-i386-allmodconfig.log
+: /dev/shm/make-it-static-a308ff3714db6e2a444eb8f99eb5175a887ebcbe-i386-allmodconfig.log
+: /dev/shm/make-it-static-9dd4a13a89d7c27e51cb87b9e95e82d8999826da-i386-allmodconfig.log
+: /dev/shm/make-it-static-9dd4a13a89d7c27e51cb87b9e95e82d8999826da-i386-allmodconfig.log
+cpu_cur_dbs: sed -n 32p /c/kernel-tests/src/linux/drivers/cpufreq/cpufreq_governor.c | grep -Ee '^(static|STATIC) .*'
+: /dev/shm/make-it-static-47075b1a0f8b49dc1453bd8296ac0e2a223310c0-i386-allmodconfig.log
+: /dev/shm/make-it-static-47075b1a0f8b49dc1453bd8296ac0e2a223310c0-i386-allmodconfig.log
+git grep -w ft1000_reset | grep -q -v -F -e '.h:' -e drivers/staging/ft1000/ft1000-usb/ft1000_hw.c:
+: /dev/shm/make-it-static-6411280ac94db94a09770807d3871d2661803604-i386-allmodconfig.log
+: /dev/shm/make-it-static-6411280ac94db94a09770807d3871d2661803604-i386-allmodconfig.log
+git grep -w kdb_kbd_cleanup_state | grep -q -v -F -e '.h:' -e kernel/debug/kdb/kdb_keyboard.c:
+git grep -w irq_create_of_mapping | grep -q -v -F -e '.h:' -e kernel/irq/irqdomain.c:
+git grep -w bnx2i_percpu | grep -q -v -F -e '.h:' -e drivers/scsi/bnx2i/bnx2i_init.c:
+git grep -w usb_bus_start_enum | grep -q -v -F -e '.h:' -e drivers/usb/core/hcd.c:
+git grep -w pcmcia_parse_tuple | grep -q -v -F -e '.h:' -e drivers/pcmcia/cistpl.c:
+git grep -w cb_alloc | grep -q -v -F -e '.h:' -e drivers/pcmcia/cardbus.c:
+git grep -w cb_free | grep -q -v -F -e '.h:' -e drivers/pcmcia/cardbus.c:
+git grep -w isa_dma_bridge_buggy | grep -q -v -F -e '.h:' -e drivers/pci/pci.c:
+git grep -w pci_dev_pm_ops | grep -q -v -F -e '.h:' -e drivers/pci/pci-driver.c:
+git grep -w ax88172a_info | grep -q -v -F -e '.h:' -e drivers/net/usb/ax88172a.c:
+ERR: line=drivers/video/backlight/ld9040_gamma.h:172:3: sparse: symbol 'gamma_table' was not declared. Should it be static? file= symbol=gamma_table
+grep 'EXPORT_SYMBOL.*(genericbl_limit_intensity)' 'weak.* genericbl_limit_intensity' /c/kernel-tests/src/linux/drivers/video/backlight/generic_bl.c
+git grep -w mpegq | grep -q -v -F -e '.h:' -e drivers/media/pci/cx25821/cx25821-core.c:
+ERR: line=drivers/media/pci/cx25821/cx25821-medusa-video.h:43:16: sparse: symbol '_num_decoders' was not declared. Should it be static? file= symbol=_num_decoders
+ERR: line=drivers/media/pci/cx25821/cx25821-medusa-video.h:44:16: sparse: symbol '_num_cameras' was not declared. Should it be static? file= symbol=_num_cameras
+ERR: line=drivers/media/pci/cx25821/cx25821-medusa-video.h:46:14: sparse: symbol '_video_standard' was not declared. Should it be static? file= symbol=_video_standard
+ERR: line=drivers/media/pci/cx25821/cx25821-medusa-video.h:47:5: sparse: symbol '_display_field_cnt' was not declared. Should it be static? file= symbol=_display_field_cnt
+ERR: line=drivers/media/pci/cx25821/cx25821-audio-upstream.h:62:6: sparse: symbol '_defaultAudioName' was not declared. Should it be static? file= symbol=_defaultAudioName
+git grep -w DoC2k_init | grep -q -v -F -e '.h:' -e drivers/mtd/devices/doc2000.c:
+git grep -w DoCMil_init | grep -q -v -F -e '.h:' -e drivers/mtd/devices/doc2001.c:
+git grep -w doc_erase | grep -q -v -F -e '.h:' -e drivers/mtd/devices/doc2001.c:
+git grep -w DoCMilPlus_init | grep -q -v -F -e '.h:' -e drivers/mtd/devices/doc2001plus.c:
+git grep -w wimax_gnl_msg_from_user | grep -q -v -F -e '.h:' -e net/wimax/op-msg.c:
+git grep -w wimax_gnl_reset | grep -q -v -F -e '.h:' -e net/wimax/op-reset.c:
+git grep -w wimax_gnl_rfkill | grep -q -v -F -e '.h:' -e net/wimax/op-rfkill.c:
+git grep -w wimax_gnl_state_get | grep -q -v -F -e '.h:' -e net/wimax/op-state-get.c:
+git grep -w CamResetAllEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_proc_module_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_proc_module_remove | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_proc_remove_one | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_proc_init_one | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w print_buffer | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w tx_timeout | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_data_hard_stop | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_data_hard_resume | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_hard_data_xmit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_hard_start_xmit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_config_rate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_update_cap | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_net_update | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w ComputeTxTime | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w MRateToHwRate8190Pci | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_link_change | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_update_beacon | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w WDCAPARA_ADD | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_qos_activate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_refresh_supportrate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_getSupportedWireleeMode | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_SetWirelessMode | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_get_channel_map | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_hwconfig | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_adapter_start | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w TxCheckStuck | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl819x_ifcheck_resetornot | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w CamRestoreAllEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl819x_ifsilentreset | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w CAM_read_entry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl819x_update_rxcounts | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_open | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w r8192_set_mac_adr | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_ioctl | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w HwRateToMRate90 | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl819x_translate_todbm | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_process_phyinfo | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_record_rxdesc_forlateruse | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w rtl8192_rx_cmd | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_core.c:
+git grep -w eprom_cs | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8180_93cx6.c:
+git grep -w eprom_ck_cycle | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8180_93cx6.c:
+git grep -w eprom_w | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8180_93cx6.c:
+git grep -w eprom_r | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8180_93cx6.c:
+git grep -w eprom_send_bits_string | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8180_93cx6.c:
+git grep -w rtl8180_rates | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_wx.c:
+git grep -w r8192_get_wireless_stats | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_wx.c:
+git grep -w r8192_wx_handlers_def | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r8192U_wx.c:
+git grep -w rtl8192_CalculateBitShift | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_phy_RFSerialRead | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_phy_RFSerialWrite | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_InitBBRFRegDef | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_BB_Config_ParaFile | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_SetTxPowerLevel | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_phy_SetSwChnlCmdArray | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_phy_SwChnlStepByStep | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w rtl8192_phy_FinishSwChnlNow | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_phy.c:
+git grep -w firmware_init_param | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware.c:
+git grep -w fw_download_code | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware.c:
+git grep -w CPUcheck_maincodeok_turnonCPU | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware.c:
+git grep -w CPUcheck_firmware_ready | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware.c:
+git grep -w cmdpkt_beacontimerinterrupt_819xusb | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_cmdpkt.c:
+git grep -w Rtl8192UsbPHY_REG_1T2RArray | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbRadioA_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbRadioB_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbRadioC_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbRadioD_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbMACPHY_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbMACPHY_Array_PG | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w Rtl8192UsbAGCTAB_Array | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/r819xU_firmware_img.c:
+git grep -w ieee80211_crypto_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt.c:
+git grep -w ieee80211_crypto_deinit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt.c:
+git grep -w ieee80211_crypto_tkip_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_tkip.c:
+git grep -w ieee80211_crypto_tkip_exit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_tkip.c:
+git grep -w ieee80211_ccmp_aes_encrypt | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_ccmp.c:
+git grep -w ieee80211_crypto_ccmp_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_ccmp.c:
+git grep -w ieee80211_crypto_ccmp_exit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_ccmp.c:
+git grep -w ieee80211_crypto_wep_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_wep.c:
+git grep -w ieee80211_crypto_wep_exit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_crypt_wep.c:
+git grep -w AddReorderEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_rx.c:
+git grep -w RxReorderIndicatePacket | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_rx.c:
+git grep -w parse_subframe | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_rx.c:
+git grep -w rsn_authen_cipher_suite | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_MFIE_rate_len | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_MFIE_Brate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_MFIE_Grate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_WMM_Info | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_TURBO_Info | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w enqueue_mgmt | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w dequeue_mgmt | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w init_mgmt_queue | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w MgntQuery_MgntFrameTxRate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_send_beacon | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_send_beacon_cb | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_send_probe | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_softmac_scan_wq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_beacons_start | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_beacons_stop | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_softmac_stop_scan | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_start_scan | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_assoc_resp | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_auth_resp | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_null_func | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_resp_to_assoc_rq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_resp_to_auth | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_resp_to_probe | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_abort_cb | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_step1 | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_auth_challenge | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_step2 | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_complete_wq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_complete | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_procedure_wq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w auth_rq_parse | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w assoc_rq_parse | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_sta_ps_send_null_frame | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_sta_ps_sleep | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_resume_tx | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_start_monitor_mode | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_start_ibss_wq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_associate_retry_wq | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_wpa_assoc_frame | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_sta_ps | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_alloc_txb | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_tx.c:
+git grep -w ieee80211_modes | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_wx.c:
+git grep -w ieee80211_debug_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_module.c:
+git grep -w ieee80211_debug_exit | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/ieee80211_module.c:
+git grep -w IsHTHalfNmode40Bandwidth | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w IsHTHalfNmodeSGI | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTPeerDetermine | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsDisableMCS14 | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsDisableMCS15 | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsDisableMCSTwoSpatialStream | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsDisableEDCATurbo | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsMgntUseCCK6M | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTIOTActIsCCDFsync | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HT_PickMCSRate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTFilterMCSRate | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w HTUseDefaultSetting | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_HTProc.c:
+git grep -w TsSetupTimeOut | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w TsInactTimeout | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w RxPktPendingTimeout | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w TsAddBaProcess | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w ResetTsCommonInfo | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w ResetTxTsEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w ResetRxTsEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w AdmitTS | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w SearchAdmitTRStream | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w MakeTSEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w RemoveTsEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_TSProc.c:
+git grep -w ActivateBAEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_BAProc.c:
+git grep -w DeActivateBAEntry | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_BAProc.c:
+git grep -w TxTsDeleteBA | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_BAProc.c:
+git grep -w RxTsDeleteBA | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192u/ieee80211/rtl819x_BAProc.c:
+git grep -w buffer_free | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_core.c:
+git grep -w rtl8180_init | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_core.c:
+git grep -w MgntActSet_802_11_PowerSaveMode | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_core.c:
+git grep -w LeisurePSEnter | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_core.c:
+git grep -w LeisurePSLeave | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_core.c:
+git grep -w r8180_wx_handlers_def | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8180_wx.c:
+git grep -w ActUpdateChannelAccessSetting | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8185b_init.c:
+git grep -w SetRFPowerState | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/r8185b_init.c:
+git grep -w ieee80211_send_probe_requests | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/ieee80211/ieee80211_softmac.c:
+git grep -w ieee80211_softmac_scan_syncro | grep -q -v -F -e '.h:' -e drivers/staging/rtl8187se/ieee80211/ieee80211_softmac.c:
+git grep -w cxd_cfg | grep -q -v -F -e '.h:' -e drivers/media/pci/ddbridge/ddbridge-core.c:
+git grep -w do_write_buffer | grep -q -v -F -e '.h:' -e drivers/mtd/lpddr/lpddr_cmds.c:
+git grep -w do_erase_oneblock | grep -q -v -F -e '.h:' -e drivers/mtd/lpddr/lpddr_cmds.c:
+ERR: line=drivers/media/usb/dvb-usb-v2/af9035.h:60:5: sparse: symbol 'clock_lut' was not declared. Should it be static? file= symbol=clock_lut
+ERR: line=drivers/media/usb/dvb-usb-v2/af9035.h:75:5: sparse: symbol 'clock_lut_it9135' was not declared. Should it be static? file= symbol=clock_lut_it9135
+git grep -w mxm_wmi_call_mxds | grep -q -v -F -e '.h:' -e drivers/platform/x86/mxm-wmi.c:
+git grep -w mxm_wmi_call_mxmx | grep -q -v -F -e '.h:' -e drivers/platform/x86/mxm-wmi.c:
+git grep -w mxm_wmi_supported | grep -q -v -F -e '.h:' -e drivers/platform/x86/mxm-wmi.c:
+git grep -w ioat2_dca_init | grep -q -v -F -e '.h:' -e drivers/dma/ioat/dca.c:
+git grep -w ioat3_dca_init | grep -q -v -F -e '.h:' -e drivers/dma/ioat/dca.c:
+git grep -w ioat_pending_level | grep -q -v -F -e '.h:' -e drivers/dma/ioat/dma.c:
+git grep -w smp_threshold_interrupt | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/mcheck/threshold.c:
+git grep -w thermal_state | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/mcheck/therm_throt.c:
+git grep -w smp_thermal_interrupt | grep -q -v -F -e '.h:' -e arch/x86/kernel/cpu/mcheck/therm_throt.c:
+grep 'EXPORT_SYMBOL.*(__gcov_init)' 'weak.* __gcov_init' /c/kernel-tests/src/linux/kernel/gcov/base.c
+grep 'EXPORT_SYMBOL.*(__gcov_flush)' 'weak.* __gcov_flush' /c/kernel-tests/src/linux/kernel/gcov/base.c
+grep 'EXPORT_SYMBOL.*(__gcov_merge_add)' 'weak.* __gcov_merge_add' /c/kernel-tests/src/linux/kernel/gcov/base.c
+grep 'EXPORT_SYMBOL.*(__gcov_merge_single)' 'weak.* __gcov_merge_single' /c/kernel-tests/src/linux/kernel/gcov/base.c
+grep 'EXPORT_SYMBOL.*(__gcov_merge_delta)' 'weak.* __gcov_merge_delta' /c/kernel-tests/src/linux/kernel/gcov/base.c
+grep 'EXPORT_SYMBOL.*(hw_breakpoint_weight)' 'weak.* hw_breakpoint_weight' /c/kernel-tests/src/linux/kernel/events/hw_breakpoint.c
+git grep -w arch_unregister_hw_breakpoint | grep -q -v -F -e '.h:' -e kernel/events/hw_breakpoint.c:
+git grep -w ide_cd_log_error | grep -q -v -F -e '.h:' -e drivers/ide/ide-cd_verbose.c:
+git grep -w ide_scan_pio_blacklist | grep -q -v -F -e '.h:' -e drivers/ide/ide-pio-blacklist.c:
+git grep -w i2c_smbus_process_call | grep -q -v -F -e '.h:' -e drivers/i2c/i2c-core.c:
+git grep -w dev_pcbit | grep -q -v -F -e '.h:' -e drivers/isdn/pcbit/module.c:
+git grep -w last_ref_num | grep -q -v -F -e '.h:' -e drivers/isdn/pcbit/callbacks.c:
+git grep -w video_nr | grep -q -v -F -e '.h:' -e drivers/staging/media/solo6x10/v4l2.c:
+git grep -w irq | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w io | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w timer | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w rptr | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w wptr | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w is_open | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w pport | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w tx_mask | grep -q -v -F -e '.h:' -e drivers/staging/media/lirc/lirc_parallel.c:
+git grep -w audio_bind_config | grep -q -v -F -e '.h:' -e drivers/usb/gadget/f_uac1.c:
+git grep -w hidg_bind_config | grep -q -v -F -e '.h:' -e drivers/usb/gadget/f_hid.c:
+git grep -w ghid_setup | grep -q -v -F -e '.h:' -e drivers/usb/gadget/f_hid.c:
+git grep -w ghid_cleanup | grep -q -v -F -e '.h:' -e drivers/usb/gadget/f_hid.c:
+git grep -w f_midi_bind_config | grep -q -v -F -e '.h:' -e drivers/usb/gadget/f_midi.c:
+git grep -w autoresume | grep -q -v -F -e '.h:' -e drivers/usb/gadget/zero.c:
+git grep -w pch_udc | grep -q -v -F -e '.h:' -e drivers/usb/gadget/pch_udc.c:
+git grep -w ncpXXwl333 | grep -q -v -F -e '.h:' -e drivers/hwmon/ntc_thermistor.c:
+git grep -w subfeature | grep -q -v -F -e '.h:' -e drivers/hwmon/emc6w201.c:
+git grep -w mfld_jack | grep -q -v -F -e '.h:' -e sound/soc/mid-x86/mfld_machine.c:
+git grep -w ni65_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/amd/ni65.c:
+git grep -w media_not_present | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/rts51x_transport.c:
+git grep -w invalid_cmd_field | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/rts51x_transport.c:
+git grep -w queuecommand_lck | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/rts51x_scsi.c:
+grep 'EXPORT_SYMBOL.*(rts5139_usb_ids)' 'weak.* rts5139_usb_ids' /c/kernel-tests/src/linux/drivers/staging/rts5139/rts51x.c
+git grep -w mg_set_tpc_para_sub | grep -q -v -F -e '.h:' -e drivers/staging/rts5139/ms_mg.c:
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:199:6: sparse: symbol 'sb_uart_write_wakeup' was not declared. Should it be static? file= symbol=sb_uart_write_wakeup
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:205:6: sparse: symbol 'sb_uart_update_timeout' was not declared. Should it be static? file= symbol=sb_uart_update_timeout
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:243:14: sparse: symbol 'sb_uart_get_baud_rate' was not declared. Should it be static? file= symbol=sb_uart_get_baud_rate
+ERR: line=drivers/staging/sb105x/sb_ser_core.h:307:14: sparse: symbol 'sb_uart_get_divisor' was not declared. Should it be static? file= symbol=sb_uart_get_divisor
+git grep -w sl811h_driver | grep -q -v -F -e '.h:' -e drivers/usb/host/sl811-hcd.c:
+git grep -w sysctl_ipx_pprop_broadcasting | grep -q -v -F -e '.h:' -e net/ipx/af_ipx.c:
+git grep -w ipx_internal_net | grep -q -v -F -e '.h:' -e net/ipx/af_ipx.c:
+git grep -w ipxitf_find_using_net | grep -q -v -F -e '.h:' -e net/ipx/af_ipx.c:
+git grep -w ipxitf_send | grep -q -v -F -e '.h:' -e net/ipx/af_ipx.c:
+git grep -w ipxrtr_lookup | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w ipxrtr_add_route | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w ipxrtr_del_routes | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w ipxrtr_route_skb | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w ipxrtr_route_packet | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w ipxrtr_ioctl | grep -q -v -F -e '.h:' -e net/ipx/ipx_route.c:
+git grep -w make_EII_client | grep -q -v -F -e '.h:' -e net/ipx/pe2.c:
+git grep -w destroy_EII_client | grep -q -v -F -e '.h:' -e net/ipx/pe2.c:
+git grep -w ipx_register_sysctl | grep -q -v -F -e '.h:' -e net/ipx/sysctl_net_ipx.c:
+git grep -w ipx_unregister_sysctl | grep -q -v -F -e '.h:' -e net/ipx/sysctl_net_ipx.c:
+git grep -w amd756_smbus | grep -q -v -F -e '.h:' -e drivers/i2c/busses/i2c-amd756.c:
+git grep -w nforce2_smbus | grep -q -v -F -e '.h:' -e drivers/i2c/busses/i2c-nforce2.c:
+git grep -w sysctl_devname | grep -q -v -F -e '.h:' -e net/irda/irlmp.c:
+git grep -w irlmp_seq_fops | grep -q -v -F -e '.h:' -e net/irda/irlmp.c:
+git grep -w sysctl_slot_timeout | grep -q -v -F -e '.h:' -e net/irda/irlap.c:
+git grep -w sysctl_warn_noreply_time | grep -q -v -F -e '.h:' -e net/irda/irlap.c:
+git grep -w irlap_seq_fops | grep -q -v -F -e '.h:' -e net/irda/irlap.c:
+git grep -w sysctl_fast_poll_increase | grep -q -v -F -e '.h:' -e net/irda/irlap_event.c:
+git grep -w sysctl_max_noreply_time | grep -q -v -F -e '.h:' -e net/irda/qos.c:
+git grep -w sysctl_min_tx_turn_time | grep -q -v -F -e '.h:' -e net/irda/qos.c:
+git grep -w sysctl_max_tx_data_size | grep -q -v -F -e '.h:' -e net/irda/qos.c:
+git grep -w sysctl_max_tx_window | grep -q -v -F -e '.h:' -e net/irda/qos.c:
+git grep -w irttp_seq_fops | grep -q -v -F -e '.h:' -e net/irda/irttp.c:
+git grep -w discovery_seq_fops | grep -q -v -F -e '.h:' -e net/irda/discovery.c:
+git grep -w proc_irda | grep -q -v -F -e '.h:' -e net/irda/irproc.c:
+git grep -w seeq8005_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/seeq/seeq8005.c:
+git grep -w bfa_ioc_ct2_lpu_read_stat | grep -q -v -F -e '.h:' -e drivers/scsi/bfa/bfa_ioc_ct.c:
+git grep -w bfa_ioc_ct2_mac_reset | grep -q -v -F -e '.h:' -e drivers/scsi/bfa/bfa_ioc_ct.c:
+ERR: line=include/acpi/acexcep.h:191:12: sparse: symbol 'acpi_gbl_exception_names_env' was not declared. Should it be static? file= symbol=acpi_gbl_exception_names_env
+ERR: line=include/acpi/acexcep.h:223:12: sparse: symbol 'acpi_gbl_exception_names_pgm' was not declared. Should it be static? file= symbol=acpi_gbl_exception_names_pgm
+ERR: line=include/acpi/acexcep.h:236:12: sparse: symbol 'acpi_gbl_exception_names_tbl' was not declared. Should it be static? file= symbol=acpi_gbl_exception_names_tbl
+ERR: line=include/acpi/acexcep.h:245:12: sparse: symbol 'acpi_gbl_exception_names_aml' was not declared. Should it be static? file= symbol=acpi_gbl_exception_names_aml
+ERR: line=include/acpi/acexcep.h:282:12: sparse: symbol 'acpi_gbl_exception_names_ctrl' was not declared. Should it be static? file= symbol=acpi_gbl_exception_names_ctrl
+ERR: line=drivers/acpi/acpica/acglobal.h:154:16: sparse: symbol 'acpi_gbl_no_resource_disassembly' was not declared. Should it be static? file= symbol=acpi_gbl_no_resource_disassembly
+ERR: line=drivers/acpi/acpica/acglobal.h:166:36: sparse: symbol 'acpi_gbl_root_table_list' was not declared. Should it be static? file= symbol=acpi_gbl_root_table_list
+ERR: line=drivers/acpi/acpica/acglobal.h:169:36: sparse: symbol 'acpi_gbl_FACS' was not declared. Should it be static? file= symbol=acpi_gbl_FACS
+ERR: line=drivers/acpi/acpica/acglobal.h:175:41: sparse: symbol 'acpi_gbl_xpm1a_status' was not declared. Should it be static? file= symbol=acpi_gbl_xpm1a_status
+ERR: line=drivers/acpi/acpica/acglobal.h:176:41: sparse: symbol 'acpi_gbl_xpm1a_enable' was not declared. Should it be static? file= symbol=acpi_gbl_xpm1a_enable
+ERR: line=drivers/acpi/acpica/acglobal.h:178:41: sparse: symbol 'acpi_gbl_xpm1b_status' was not declared. Should it be static? file= symbol=acpi_gbl_xpm1b_status
+ERR: line=drivers/acpi/acpica/acglobal.h:179:41: sparse: symbol 'acpi_gbl_xpm1b_enable' was not declared. Should it be static? file= symbol=acpi_gbl_xpm1b_enable
+ERR: line=drivers/acpi/acpica/acglobal.h:183:38: sparse: symbol 'acpi_gbl_DSDT' was not declared. Should it be static? file= symbol=acpi_gbl_DSDT
+ERR: line=drivers/acpi/acpica/acglobal.h:184:38: sparse: symbol 'acpi_gbl_original_dsdt_header' was not declared. Should it be static? file= symbol=acpi_gbl_original_dsdt_header
+ERR: line=drivers/acpi/acpica/acglobal.h:191:16: sparse: symbol 'acpi_gbl_integer_bit_width' was not declared. Should it be static? file= symbol=acpi_gbl_integer_bit_width
+ERR: line=drivers/acpi/acpica/acglobal.h:192:16: sparse: symbol 'acpi_gbl_integer_byte_width' was not declared. Should it be static? file= symbol=acpi_gbl_integer_byte_width
+ERR: line=drivers/acpi/acpica/acglobal.h:193:16: sparse: symbol 'acpi_gbl_integer_nybble_width' was not declared. Should it be static? file= symbol=acpi_gbl_integer_nybble_width
+ERR: line=drivers/acpi/acpica/acglobal.h:206:36: sparse: symbol 'acpi_gbl_mutex_info' was not declared. Should it be static? file= symbol=acpi_gbl_mutex_info
+ERR: line=drivers/acpi/acpica/acglobal.h:213:39: sparse: symbol 'acpi_gbl_global_lock_mutex' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_mutex
+ERR: line=drivers/acpi/acpica/acglobal.h:214:13: sparse: symbol 'acpi_gbl_global_lock_semaphore' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_semaphore
+ERR: line=drivers/acpi/acpica/acglobal.h:215:13: sparse: symbol 'acpi_gbl_global_lock_pending_lock' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_pending_lock
+ERR: line=drivers/acpi/acpica/acglobal.h:216:17: sparse: symbol 'acpi_gbl_global_lock_handle' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_handle
+ERR: line=drivers/acpi/acpica/acglobal.h:217:16: sparse: symbol 'acpi_gbl_global_lock_acquired' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_acquired
+ERR: line=drivers/acpi/acpica/acglobal.h:218:16: sparse: symbol 'acpi_gbl_global_lock_present' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_present
+ERR: line=drivers/acpi/acpica/acglobal.h:219:16: sparse: symbol 'acpi_gbl_global_lock_pending' was not declared. Should it be static? file= symbol=acpi_gbl_global_lock_pending
+ERR: line=drivers/acpi/acpica/acglobal.h:225:13: sparse: symbol 'acpi_gbl_gpe_lock' was not declared. Should it be static? file= symbol=acpi_gbl_gpe_lock
+ERR: line=drivers/acpi/acpica/acglobal.h:226:13: sparse: symbol 'acpi_gbl_hardware_lock' was not declared. Should it be static? file= symbol=acpi_gbl_hardware_lock
+ERR: line=drivers/acpi/acpica/acglobal.h:230:13: sparse: symbol 'acpi_gbl_osi_mutex' was not declared. Should it be static? file= symbol=acpi_gbl_osi_mutex
+ERR: line=drivers/acpi/acpica/acglobal.h:234:33: sparse: symbol 'acpi_gbl_namespace_rw_lock' was not declared. Should it be static? file= symbol=acpi_gbl_namespace_rw_lock
+ERR: line=drivers/acpi/acpica/acglobal.h:244:26: sparse: symbol 'acpi_gbl_namespace_cache' was not declared. Should it be static? file= symbol=acpi_gbl_namespace_cache
+ERR: line=drivers/acpi/acpica/acglobal.h:245:26: sparse: symbol 'acpi_gbl_state_cache' was not declared. Should it be static? file= symbol=acpi_gbl_state_cache
+ERR: line=drivers/acpi/acpica/acglobal.h:246:26: sparse: symbol 'acpi_gbl_ps_node_cache' was not declared. Should it be static? file= symbol=acpi_gbl_ps_node_cache
+ERR: line=drivers/acpi/acpica/acglobal.h:247:26: sparse: symbol 'acpi_gbl_ps_node_ext_cache' was not declared. Should it be static? file= symbol=acpi_gbl_ps_node_ext_cache
+ERR: line=drivers/acpi/acpica/acglobal.h:248:26: sparse: symbol 'acpi_gbl_operand_cache' was not declared. Should it be static? file= symbol=acpi_gbl_operand_cache
+ERR: line=drivers/acpi/acpica/acglobal.h:252:47: sparse: symbol 'acpi_gbl_global_notify' was not declared. Should it be static? file= symbol=acpi_gbl_global_notify
+ERR: line=drivers/acpi/acpica/acglobal.h:253:36: sparse: symbol 'acpi_gbl_exception_handler' was not declared. Should it be static? file= symbol=acpi_gbl_exception_handler
+ERR: line=drivers/acpi/acpica/acglobal.h:254:31: sparse: symbol 'acpi_gbl_init_handler' was not declared. Should it be static? file= symbol=acpi_gbl_init_handler
+ERR: line=drivers/acpi/acpica/acglobal.h:255:30: sparse: symbol 'acpi_gbl_table_handler' was not declared. Should it be static? file= symbol=acpi_gbl_table_handler
+ERR: line=drivers/acpi/acpica/acglobal.h:256:18: sparse: symbol 'acpi_gbl_table_handler_context' was not declared. Should it be static? file= symbol=acpi_gbl_table_handler_context
+ERR: line=drivers/acpi/acpica/acglobal.h:257:36: sparse: symbol 'acpi_gbl_breakpoint_walk' was not declared. Should it be static? file= symbol=acpi_gbl_breakpoint_walk
+ERR: line=drivers/acpi/acpica/acglobal.h:258:36: sparse: symbol 'acpi_gbl_interface_handler' was not declared. Should it be static? file= symbol=acpi_gbl_interface_handler
+ERR: line=drivers/acpi/acpica/acglobal.h:262:17: sparse: symbol 'acpi_gbl_owner_id_mask' was not declared. Should it be static? file= symbol=acpi_gbl_owner_id_mask
+ERR: line=drivers/acpi/acpica/acglobal.h:263:16: sparse: symbol 'acpi_gbl_last_owner_id_index' was not declared. Should it be static? file= symbol=acpi_gbl_last_owner_id_index
+ERR: line=drivers/acpi/acpica/acglobal.h:264:16: sparse: symbol 'acpi_gbl_next_owner_id_offset' was not declared. Should it be static? file= symbol=acpi_gbl_next_owner_id_offset
+ERR: line=drivers/acpi/acpica/acglobal.h:268:16: sparse: symbol 'acpi_gbl_reg_methods_executed' was not declared. Should it be static? file= symbol=acpi_gbl_reg_methods_executed
+ERR: line=drivers/acpi/acpica/acglobal.h:272:17: sparse: symbol 'acpi_gbl_original_mode' was not declared. Should it be static? file= symbol=acpi_gbl_original_mode
+ERR: line=drivers/acpi/acpica/acglobal.h:273:17: sparse: symbol 'acpi_gbl_rsdp_original_location' was not declared. Should it be static? file= symbol=acpi_gbl_rsdp_original_location
+ERR: line=drivers/acpi/acpica/acglobal.h:274:17: sparse: symbol 'acpi_gbl_ns_lookup_count' was not declared. Should it be static? file= symbol=acpi_gbl_ns_lookup_count
+ERR: line=drivers/acpi/acpica/acglobal.h:275:17: sparse: symbol 'acpi_gbl_ps_find_count' was not declared. Should it be static? file= symbol=acpi_gbl_ps_find_count
+ERR: line=drivers/acpi/acpica/acglobal.h:276:17: sparse: symbol 'acpi_gbl_pm1_enable_register_save' was not declared. Should it be static? file= symbol=acpi_gbl_pm1_enable_register_save
+ERR: line=drivers/acpi/acpica/acglobal.h:277:16: sparse: symbol 'acpi_gbl_debugger_configuration' was not declared. Should it be static? file= symbol=acpi_gbl_debugger_configuration
+ERR: line=drivers/acpi/acpica/acglobal.h:278:16: sparse: symbol 'acpi_gbl_step_to_next_call' was not declared. Should it be static? file= symbol=acpi_gbl_step_to_next_call
+ERR: line=drivers/acpi/acpica/acglobal.h:279:16: sparse: symbol 'acpi_gbl_acpi_hardware_present' was not declared. Should it be static? file= symbol=acpi_gbl_acpi_hardware_present
+ERR: line=drivers/acpi/acpica/acglobal.h:280:16: sparse: symbol 'acpi_gbl_events_initialized' was not declared. Should it be static? file= symbol=acpi_gbl_events_initialized
+ERR: line=drivers/acpi/acpica/acglobal.h:281:16: sparse: symbol 'acpi_gbl_osi_data' was not declared. Should it be static? file= symbol=acpi_gbl_osi_data
+ERR: line=drivers/acpi/acpica/acglobal.h:282:40: sparse: symbol 'acpi_gbl_supported_interfaces' was not declared. Should it be static? file= symbol=acpi_gbl_supported_interfaces
+ERR: line=drivers/acpi/acpica/acglobal.h:284:5: sparse: symbol 'acpi_gbl_address_range_list' was not declared. Should it be static? file= symbol=acpi_gbl_address_range_list
+ERR: line=drivers/acpi/acpica/acglobal.h:322:40: sparse: symbol 'acpi_gbl_root_node_struct' was not declared. Should it be static? file= symbol=acpi_gbl_root_node_struct
+ERR: line=drivers/acpi/acpica/acglobal.h:323:40: sparse: symbol 'acpi_gbl_root_node' was not declared. Should it be static? file= symbol=acpi_gbl_root_node
+ERR: line=drivers/acpi/acpica/acglobal.h:324:40: sparse: symbol 'acpi_gbl_fadt_gpe_device' was not declared. Should it be static? file= symbol=acpi_gbl_fadt_gpe_device
+ERR: line=drivers/acpi/acpica/acglobal.h:325:39: sparse: symbol 'acpi_gbl_module_code_list' was not declared. Should it be static? file= symbol=acpi_gbl_module_code_list
+ERR: line=drivers/acpi/acpica/acglobal.h:332:17: sparse: symbol 'acpi_gbl_current_node_count' was not declared. Should it be static? file= symbol=acpi_gbl_current_node_count
+ERR: line=drivers/acpi/acpica/acglobal.h:333:17: sparse: symbol 'acpi_gbl_current_node_size' was not declared. Should it be static? file= symbol=acpi_gbl_current_node_size
+ERR: line=drivers/acpi/acpica/acglobal.h:334:17: sparse: symbol 'acpi_gbl_max_concurrent_node_count' was not declared. Should it be static? file= symbol=acpi_gbl_max_concurrent_node_count
+ERR: line=drivers/acpi/acpica/acglobal.h:335:23: sparse: symbol 'acpi_gbl_entry_stack_pointer' was not declared. Should it be static? file= symbol=acpi_gbl_entry_stack_pointer
+ERR: line=drivers/acpi/acpica/acglobal.h:336:23: sparse: symbol 'acpi_gbl_lowest_stack_pointer' was not declared. Should it be static? file= symbol=acpi_gbl_lowest_stack_pointer
+ERR: line=drivers/acpi/acpica/acglobal.h:337:17: sparse: symbol 'acpi_gbl_deepest_nesting' was not declared. Should it be static? file= symbol=acpi_gbl_deepest_nesting
+ERR: line=drivers/acpi/acpica/acglobal.h:346:38: sparse: symbol 'acpi_gbl_current_walk_list' was not declared. Should it be static? file= symbol=acpi_gbl_current_walk_list
+ERR: line=drivers/acpi/acpica/acglobal.h:350:16: sparse: symbol 'acpi_gbl_cm_single_step' was not declared. Should it be static? file= symbol=acpi_gbl_cm_single_step
+ERR: line=drivers/acpi/acpica/acglobal.h:360:16: sparse: symbol 'acpi_gbl_sleep_type_a' was not declared. Should it be static? file= symbol=acpi_gbl_sleep_type_a
+ERR: line=drivers/acpi/acpica/acglobal.h:361:16: sparse: symbol 'acpi_gbl_sleep_type_b' was not declared. Should it be static? file= symbol=acpi_gbl_sleep_type_b
+ERR: line=drivers/acpi/acpica/acglobal.h:371:16: sparse: symbol 'acpi_gbl_all_gpes_initialized' was not declared. Should it be static? file= symbol=acpi_gbl_all_gpes_initialized
+ERR: line=drivers/acpi/acpica/acglobal.h:372:40: sparse: symbol 'acpi_gbl_gpe_xrupt_list_head' was not declared. Should it be static? file= symbol=acpi_gbl_gpe_xrupt_list_head
+ERR: line=drivers/acpi/acpica/acglobal.h:374:5: sparse: symbol 'acpi_gbl_gpe_fadt_blocks' was not declared. Should it be static? file= symbol=acpi_gbl_gpe_fadt_blocks
+ERR: line=drivers/acpi/acpica/acglobal.h:375:36: sparse: symbol 'acpi_gbl_global_event_handler' was not declared. Should it be static? file= symbol=acpi_gbl_global_event_handler
+ERR: line=drivers/acpi/acpica/acglobal.h:376:18: sparse: symbol 'acpi_gbl_global_event_handler_context' was not declared. Should it be static? file= symbol=acpi_gbl_global_event_handler_context
+ERR: line=drivers/acpi/acpica/acglobal.h:378:5: sparse: symbol 'acpi_gbl_fixed_event_handlers' was not declared. Should it be static? file= symbol=acpi_gbl_fixed_event_handlers
+ERR: line=drivers/acpi/acpica/acglobal.h:396:17: sparse: symbol 'acpi_gpe_count' was not declared. Should it be static? file= symbol=acpi_gpe_count
+ERR: line=drivers/acpi/acpica/acglobal.h:397:17: sparse: symbol 'acpi_fixed_event_count' was not declared. Should it be static? file= symbol=acpi_fixed_event_count
+ERR: line=drivers/acpi/acpica/acglobal.h:401:17: sparse: symbol 'acpi_gbl_original_dbg_level' was not declared. Should it be static? file= symbol=acpi_gbl_original_dbg_level
+ERR: line=drivers/acpi/acpica/acglobal.h:402:17: sparse: symbol 'acpi_gbl_original_dbg_layer' was not declared. Should it be static? file= symbol=acpi_gbl_original_dbg_layer
+ERR: line=drivers/acpi/acpica/acglobal.h:403:17: sparse: symbol 'acpi_gbl_trace_dbg_level' was not declared. Should it be static? file= symbol=acpi_gbl_trace_dbg_level
+ERR: line=drivers/acpi/acpica/acglobal.h:404:17: sparse: symbol 'acpi_gbl_trace_dbg_layer' was not declared. Should it be static? file= symbol=acpi_gbl_trace_dbg_layer
+ERR: line=drivers/acpi/acpica/acglobal.h:412:16: sparse: symbol 'acpi_gbl_db_output_flags' was not declared. Should it be static? file= symbol=acpi_gbl_db_output_flags
+git grep -w acpi_gbl_db_terminate_threads | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w acpi_gbl_startup_flags | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w acpi_gbl_shutdown | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w acpi_gbl_sleep_state_names | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w acpi_gbl_lowest_dstate_names | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w acpi_gbl_highest_dstate_names | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/utglobal.c:
+git grep -w isapnp_disable | grep -q -v -F -e '.h:' -e drivers/pnp/isapnp/core.c:
+git grep -w bnx2fc_percpu | grep -q -v -F -e '.h:' -e drivers/scsi/bnx2fc/bnx2fc_fcoe.c:
+ERR: line=drivers/staging/sm7xxfb/sm7xx.h:122:17: sparse: symbol 'VGAMode' was not declared. Should it be static? file= symbol=VGAMode
+git grep -w de620_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/dlink/de620.c:
+git grep -w enh_desc_ops | grep -q -v -F -e '.h:' -e drivers/net/ethernet/stmicro/stmmac/enh_desc.c:
+git grep -w ndesc_ops | grep -q -v -F -e '.h:' -e drivers/net/ethernet/stmicro/stmmac/norm_desc.c:
+git grep -w plat_dat | grep -q -v -F -e '.h:' -e drivers/net/ethernet/stmicro/stmmac/stmmac_pci.c:
+git grep -w mdio_data | grep -q -v -F -e '.h:' -e drivers/net/ethernet/stmicro/stmmac/stmmac_pci.c:
+git grep -w dma_cfg | grep -q -v -F -e '.h:' -e drivers/net/ethernet/stmicro/stmmac/stmmac_pci.c:
+git grep -w fanotify_fsnotify_ops | grep -q -v -F -e '.h:' -e fs/notify/fanotify/fanotify.c:
+git grep -w function_trace_op | grep -q -v -F -e '.h:' -e kernel/trace/ftrace.c:
+ERR: line=kernel/trace/trace_entries.h:58:1: sparse: symbol 'ftrace_define_fields_function' was not declared. Should it be static? file= symbol=ftrace_define_fields_function
+ERR: line=kernel/trace/trace_entries.h:75:1: sparse: symbol 'ftrace_define_fields_funcgraph_entry' was not declared. Should it be static? file= symbol=ftrace_define_fields_funcgraph_entry
+ERR: line=kernel/trace/trace_entries.h:91:1: sparse: symbol 'ftrace_define_fields_funcgraph_exit' was not declared. Should it be static? file= symbol=ftrace_define_fields_funcgraph_exit
+ERR: line=kernel/trace/trace_entries.h:127:1: sparse: symbol 'ftrace_define_fields_context_switch' was not declared. Should it be static? file= symbol=ftrace_define_fields_context_switch
+ERR: line=kernel/trace/trace_entries.h:147:1: sparse: symbol 'ftrace_define_fields_wakeup' was not declared. Should it be static? file= symbol=ftrace_define_fields_wakeup
+ERR: line=kernel/trace/trace_entries.h:175:1: sparse: symbol 'ftrace_define_fields_kernel_stack' was not declared. Should it be static? file= symbol=ftrace_define_fields_kernel_stack
+ERR: line=kernel/trace/trace_entries.h:194:1: sparse: symbol 'ftrace_define_fields_user_stack' was not declared. Should it be static? file= symbol=ftrace_define_fields_user_stack
+git grep -w do_timer | grep -q -v -F -e '.h:' -e kernel/time/timekeeping.c:
+git grep -w sched_clock_running | grep -q -v -F -e '.h:' -e kernel/sched/clock.c:
+git grep -w print_rt_rq | grep -q -v -F -e '.h:' -e kernel/sched/debug.c:
+git grep -w pm_async_enabled | grep -q -v -F -e '.h:' -e kernel/power/main.c:
+git grep -w restore_pblist | grep -q -v -F -e '.h:' -e kernel/power/snapshot.c:
+git grep -w swsusp_save | grep -q -v -F -e '.h:' -e kernel/power/snapshot.c:
+git grep -w pm_show_wakelocks | grep -q -v -F -e '.h:' -e kernel/power/wakelock.c:
+git grep -w pm_wake_lock | grep -q -v -F -e '.h:' -e kernel/power/wakelock.c:
+git grep -w pm_wake_unlock | grep -q -v -F -e '.h:' -e kernel/power/wakelock.c:
+git grep -w btrfs_compress_op | grep -q -v -F -e '.h:' -e fs/btrfs/compression.c:
+git grep -w intel_iommu_gfx_mapped | grep -q -v -F -e '.h:' -e drivers/iommu/intel-iommu.c:
+git grep -w intel_dma_ops | grep -q -v -F -e '.h:' -e drivers/iommu/intel-iommu.c:
+git grep -w is_bypass | grep -q -v -F -e '.h:' -e drivers/staging/silicom/bypasslib/bypass.c:
+grep 'EXPORT_SYMBOL.*(get_bypass_slave)' 'weak.* get_bypass_slave' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bypass_caps)' 'weak.* get_bypass_caps' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_wd_set_caps)' 'weak.* get_wd_set_caps' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+git grep -w set_bypass | grep -q -v -F -e '.h:' -e drivers/staging/silicom/bypasslib/bypass.c:
+git grep -w get_bypass | grep -q -v -F -e '.h:' -e drivers/staging/silicom/bypasslib/bypass.c:
+grep 'EXPORT_SYMBOL.*(get_bypass_change)' 'weak.* get_bypass_change' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_dis_bypass)' 'weak.* set_dis_bypass' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_dis_bypass)' 'weak.* get_dis_bypass' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bypass_pwoff)' 'weak.* set_bypass_pwoff' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bypass_pwoff)' 'weak.* get_bypass_pwoff' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bypass_pwup)' 'weak.* set_bypass_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bypass_pwup)' 'weak.* get_bypass_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bypass_wd)' 'weak.* set_bypass_wd' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bypass_wd)' 'weak.* get_bypass_wd' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_wd_expire_time)' 'weak.* get_wd_expire_time' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(reset_bypass_wd_timer)' 'weak.* reset_bypass_wd_timer' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_std_nic)' 'weak.* set_std_nic' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_std_nic)' 'weak.* get_std_nic' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+git grep -w set_tx | grep -q -v -F -e '.h:' -e drivers/staging/silicom/bypasslib/bypass.c:
+git grep -w get_tx | grep -q -v -F -e '.h:' -e drivers/staging/silicom/bypasslib/bypass.c:
+grep 'EXPORT_SYMBOL.*(set_tap)' 'weak.* set_tap' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_tap)' 'weak.* get_tap' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_tap_change)' 'weak.* get_tap_change' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_dis_tap)' 'weak.* set_dis_tap' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_dis_tap)' 'weak.* get_dis_tap' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_tap_pwup)' 'weak.* set_tap_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_tap_pwup)' 'weak.* get_tap_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bp_disc)' 'weak.* set_bp_disc' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bp_disc)' 'weak.* get_bp_disc' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bp_disc_change)' 'weak.* get_bp_disc_change' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bp_dis_disc)' 'weak.* set_bp_dis_disc' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bp_dis_disc)' 'weak.* get_bp_dis_disc' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bp_disc_pwup)' 'weak.* set_bp_disc_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bp_disc_pwup)' 'weak.* get_bp_disc_pwup' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_wd_exp_mode)' 'weak.* set_wd_exp_mode' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_wd_exp_mode)' 'weak.* get_wd_exp_mode' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_wd_autoreset)' 'weak.* set_wd_autoreset' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_wd_autoreset)' 'weak.* get_wd_autoreset' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_tpl)' 'weak.* set_tpl' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_tpl)' 'weak.* get_tpl' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(set_bp_hw_reset)' 'weak.* set_bp_hw_reset' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bp_hw_reset)' 'weak.* get_bp_hw_reset' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+grep 'EXPORT_SYMBOL.*(get_bypass_info)' 'weak.* get_bypass_info' /c/kernel-tests/src/linux/drivers/staging/silicom/bypasslib/bypass.c
+git grep -w hwwep | grep -q -v -F -e '.h:' -e drivers/staging/rtl8192e/rtl8192e/rtl_core.c:
+git grep -w cwRXBCNTSFOff | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/card.c:
+git grep -w awcFrameTime | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/baseband.c:
+git grep -w s_MgrMakeProbeRequest | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wcmd.c:
+git grep -w awHWRetry0 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/bssdb.c:
+git grep -w awHWRetry1 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/bssdb.c:
+git grep -w wTimeStampOff | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/rxtx.c:
+git grep -w wFB_Opt0 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/rxtx.c:
+git grep -w wFB_Opt1 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/rxtx.c:
+git grep -w acbyRxRate | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/dpc.c:
+git grep -w MngWorkItem | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/dpc.c:
+git grep -w device_receive_frame | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/dpc.c:
+git grep -w acbyIERate | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/datarate.c:
+git grep -w wpa_Result | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/ioctl.c:
+git grep -w abyOUI00 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w abyOUI01 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w abyOUI02 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w abyOUI03 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w abyOUI04 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w abyOUI05 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa.c:
+git grep -w TKIP_Sbox_Lower | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/tkip.c:
+git grep -w TKIP_Sbox_Upper | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/tkip.c:
+git grep -w dwAL2230PowerTable | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/rf.c:
+git grep -w iwctl_get_wireless_stats | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwname | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwscan | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwscan | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwfreq | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwfreq | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwmode | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwmode | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwrange | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwap | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwap | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwaplist | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwessid | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwessid | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwrate | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwrate | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwrts | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwrts | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwfrag | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwfrag | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwretry | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwretry | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwencode | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwencode | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwpower | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwpower | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwsens | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwauth | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwauth | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwgenie | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwgenie | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwencodeext | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_giwencodeext | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_siwmlme | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_private_args | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w iwctl_handler_def | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/iwctl.c:
+git grep -w abyOUIGK | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUIWEP40 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUIWEP104 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUITKIP | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUICCMP | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUI8021X | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w abyOUIPSK | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/wpa2.c:
+git grep -w sbox_table | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w dot2_table | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w dot3_table | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w xor_128 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w xor_32 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w AddRoundKey | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w SubBytes | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w ShiftRows | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w MixColumns | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w AESv128 | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w AESbGenCCMP | grep -q -v -F -e '.h:' -e drivers/staging/vt6655/aes_ccmp.c:
+git grep -w vCommandTimerWait | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wcmd.c:
+git grep -w s_MgrMakeProbeResponse | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wmgr.c:
+git grep -w s_MgrMakeAssocRequest | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wmgr.c:
+git grep -w s_MgrMakeReAssocRequest | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wmgr.c:
+git grep -w s_MgrMakeAssocResponse | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wmgr.c:
+git grep -w s_MgrMakeReAssocResponse | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/wmgr.c:
+git grep -w RXbBulkInProcessData | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/dpc.c:
+git grep -w RXvWorkItem | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/dpc.c:
+git grep -w RXvFreeRCB | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/dpc.c:
+git grep -w RXvMngWorkItem | grep -q -v -F -e '.h:' -e drivers/staging/vt6656/dpc.c:
+git grep -w phy_calibration_winbond | grep -q -v -F -e '.h:' -e drivers/staging/winbond/phy_calibration.c:
+git grep -w proc_self_init | grep -q -v -F -e '.h:' -e fs/proc/self.c:
+git grep -w vmcore_cleanup | grep -q -v -F -e '.h:' -e fs/proc/vmcore.c:
+git grep -w fw_image | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/sta_h2.c:
+git grep -w percent | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/wl_util.c:
+git grep -w cfg_drv_act_ranges_pri | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/hcf.c:
+git grep -w signature | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/dhf.c:
+git grep -w register_wlags_sysfs | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/wl_sysfs.c:
+git grep -w unregister_wlags_sysfs | grep -q -v -F -e '.h:' -e drivers/staging/wlags49_h2/wl_sysfs.c:
+ERR: line=fs/cifs/cifsglob.h:1402:41: sparse: symbol 'cifs_tcp_ses_list' was not declared. Should it be static? file= symbol=cifs_tcp_ses_list
+ERR: line=fs/cifs/cifsglob.h:1410:41: sparse: symbol 'cifs_tcp_ses_lock' was not declared. Should it be static? file= symbol=cifs_tcp_ses_lock
+ERR: line=fs/cifs/cifsglob.h:1419:33: sparse: symbol 'cifs_file_list_lock' was not declared. Should it be static? file= symbol=cifs_file_list_lock
+ERR: line=fs/cifs/cifsglob.h:1431:28: sparse: symbol 'GlobalCurrentXid' was not declared. Should it be static? file= symbol=GlobalCurrentXid
+ERR: line=fs/cifs/cifsglob.h:1432:28: sparse: symbol 'GlobalTotalActiveXid' was not declared. Should it be static? file= symbol=GlobalTotalActiveXid
+ERR: line=fs/cifs/cifsglob.h:1433:28: sparse: symbol 'GlobalMaxActiveXid' was not declared. Should it be static? file= symbol=GlobalMaxActiveXid
+ERR: line=fs/cifs/cifsglob.h:1434:26: sparse: symbol 'GlobalMid_Lock' was not declared. Should it be static? file= symbol=GlobalMid_Lock
+ERR: line=fs/cifs/cifsglob.h:1439:24: sparse: symbol 'sesInfoAllocCount' was not declared. Should it be static? file= symbol=sesInfoAllocCount
+ERR: line=fs/cifs/cifsglob.h:1440:24: sparse: symbol 'tconInfoAllocCount' was not declared. Should it be static? file= symbol=tconInfoAllocCount
+ERR: line=fs/cifs/cifsglob.h:1441:24: sparse: symbol 'tcpSesAllocCount' was not declared. Should it be static? file= symbol=tcpSesAllocCount
+ERR: line=fs/cifs/cifsglob.h:1442:24: sparse: symbol 'tcpSesReconnectCount' was not declared. Should it be static? file= symbol=tcpSesReconnectCount
+ERR: line=fs/cifs/cifsglob.h:1443:24: sparse: symbol 'tconInfoReconnectCount' was not declared. Should it be static? file= symbol=tconInfoReconnectCount
+ERR: line=fs/cifs/cifsglob.h:1446:24: sparse: symbol 'bufAllocCount' was not declared. Should it be static? file= symbol=bufAllocCount
+ERR: line=fs/cifs/cifsglob.h:1448:24: sparse: symbol 'totBufAllocCount' was not declared. Should it be static? file= symbol=totBufAllocCount
+ERR: line=fs/cifs/cifsglob.h:1449:24: sparse: symbol 'totSmBufAllocCount' was not declared. Should it be static? file= symbol=totSmBufAllocCount
+ERR: line=fs/cifs/cifsglob.h:1451:24: sparse: symbol 'smBufAllocCount' was not declared. Should it be static? file= symbol=smBufAllocCount
+ERR: line=fs/cifs/cifsglob.h:1452:24: sparse: symbol 'midCount' was not declared. Should it be static? file= symbol=midCount
+ERR: line=fs/cifs/cifsglob.h:1455:20: sparse: symbol 'enable_oplocks' was not declared. Should it be static? file= symbol=enable_oplocks
+ERR: line=fs/cifs/cifsglob.h:1456:28: sparse: symbol 'lookupCacheEnabled' was not declared. Should it be static? file= symbol=lookupCacheEnabled
+ERR: line=fs/cifs/cifsglob.h:1457:28: sparse: symbol 'global_secflags' was not declared. Should it be static? file= symbol=global_secflags
+ERR: line=fs/cifs/cifsglob.h:1459:28: sparse: symbol 'sign_CIFS_PDUs' was not declared. Should it be static? file= symbol=sign_CIFS_PDUs
+ERR: line=fs/cifs/cifsglob.h:1460:28: sparse: symbol 'linuxExtEnabled' was not declared. Should it be static? file= symbol=linuxExtEnabled
+ERR: line=fs/cifs/cifsglob.h:1461:28: sparse: symbol 'CIFSMaxBufSize' was not declared. Should it be static? file= symbol=CIFSMaxBufSize
+ERR: line=fs/cifs/cifsglob.h:1462:28: sparse: symbol 'cifs_min_rcv' was not declared. Should it be static? file= symbol=cifs_min_rcv
+ERR: line=fs/cifs/cifsglob.h:1463:28: sparse: symbol 'cifs_min_small' was not declared. Should it be static? file= symbol=cifs_min_small
+ERR: line=fs/cifs/cifsglob.h:1464:28: sparse: symbol 'cifs_max_pending' was not declared. Should it be static? file= symbol=cifs_max_pending
+ERR: line=fs/cifs/cifsglob.h:1467:30: sparse: symbol 'uidtree' was not declared. Should it be static? file= symbol=uidtree
+ERR: line=fs/cifs/cifsglob.h:1468:30: sparse: symbol 'gidtree' was not declared. Should it be static? file= symbol=gidtree
+ERR: line=fs/cifs/cifsglob.h:1469:26: sparse: symbol 'siduidlock' was not declared. Should it be static? file= symbol=siduidlock
+ERR: line=fs/cifs/cifsglob.h:1470:26: sparse: symbol 'sidgidlock' was not declared. Should it be static? file= symbol=sidgidlock
+ERR: line=fs/cifs/cifsglob.h:1471:30: sparse: symbol 'siduidtree' was not declared. Should it be static? file= symbol=siduidtree
+ERR: line=fs/cifs/cifsglob.h:1472:30: sparse: symbol 'sidgidtree' was not declared. Should it be static? file= symbol=sidgidtree
+ERR: line=fs/cifs/cifsglob.h:1473:26: sparse: symbol 'uidsidlock' was not declared. Should it be static? file= symbol=uidsidlock
+ERR: line=fs/cifs/cifsglob.h:1474:26: sparse: symbol 'gidsidlock' was not declared. Should it be static? file= symbol=gidsidlock
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/sta_h25.c:5246:10: sparse: symbol 'fw_image' was not declared. Should it be static? file=/wlags49_h2/sta_h25.c symbol=fw_image
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/wl_wext.c:3967:21: sparse: symbol 'wl_priv_args' was not declared. Should it be static? file=/wlags49_h2/wl_wext.c symbol=wl_priv_args
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/wl_util.c:191:5: sparse: symbol 'percent' was not declared. Should it be static? file=/wlags49_h2/wl_util.c symbol=percent
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/wl_netdev.c:572:6: sparse: symbol 'wl_poll' was not declared. Should it be static? file=/wlags49_h2/wl_netdev.c symbol=wl_poll
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:253:26: sparse: symbol 'cfg_drv_identity' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_identity
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:262:24: sparse: symbol 'cfg_drv_sup_range' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_sup_range
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:274:31: sparse: symbol 'cfg_drv_act_ranges_pri' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_act_ranges_pri
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:291:31: sparse: symbol 'cfg_drv_act_ranges_sta' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_act_ranges_sta
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:336:31: sparse: symbol 'cfg_drv_act_ranges_hsi' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_act_ranges_hsi
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:373:24: sparse: symbol 'cfg_drv_act_ranges_apf' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=cfg_drv_act_ranges_apf
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:3103:1: sparse: symbol 'calc_mic' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=calc_mic
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/hcf.c:3419:1: sparse: symbol 'check_mic' was not declared. Should it be static? file=/wlags49_h2/hcf.c symbol=check_mic
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/dhf.c:109:6: sparse: symbol 'signature' was not declared. Should it be static? file=/wlags49_h2/dhf.c symbol=signature
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/dhf.c:126:25: sparse: symbol 'mfi_sup' was not declared. Should it be static? file=/wlags49_h2/dhf.c symbol=mfi_sup
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/dhf.c:127:25: sparse: symbol 'cfi_sup' was not declared. Should it be static? file=/wlags49_h2/dhf.c symbol=cfi_sup
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/dhf.c:142:17: sparse: symbol 'ltv_info' was not declared. Should it be static? file=/wlags49_h2/dhf.c symbol=ltv_info
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/dhf.c:173:1: sparse: symbol 'check_comp_fw' was not declared. Should it be static? file=/wlags49_h2/dhf.c symbol=check_comp_fw
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/wl_sysfs.c:121:6: sparse: symbol 'register_wlags_sysfs' was not declared. Should it be static? file=/wlags49_h2/wl_sysfs.c symbol=register_wlags_sysfs
+ERR: line=drivers/staging/wlags49_h25/../wlags49_h2/wl_sysfs.c:131:6: sparse: symbol 'unregister_wlags_sysfs' was not declared. Should it be static? file=/wlags49_h2/wl_sysfs.c symbol=unregister_wlags_sysfs
+git grep -w memcpy | grep -q -v -F -e '.h:' -e arch/x86/lib/memcpy_32.c:
+git grep -w memset | grep -q -v -F -e '.h:' -e arch/x86/lib/memcpy_32.c:
+git grep -w swiotlb_late_init_with_default_size | grep -q -v -F -e '.h:' -e lib/swiotlb.c:
+git grep -w iommu_is_span_boundary | grep -q -v -F -e '.h:' -e lib/iommu-helper.c:
+git grep -w iommu_area_alloc | grep -q -v -F -e '.h:' -e lib/iommu-helper.c:
+git grep -w __div64_32 | grep -q -v -F -e '.h:' -e lib/div64.c:
+git grep -w gunzip | grep -q -v -F -e '.h:' -e lib/decompress_inflate.c:
+git grep -w unxz | grep -q -v -F -e '.h:' -e lib/decompress_unxz.c:
+git grep -w memcmp | grep -q -v -F -e '.h:' -e lib/string.c:
+git grep -w fb_is_primary_device | grep -q -v -F -e '.h:' -e arch/x86/video/fbdev.c:
+git grep -w oprofile_hrtimer | grep -q -v -F -e '.h:' -e /drivers/oprofile/timer_int.c:
+git grep -w nmi_timer_events | grep -q -v -F -e '.h:' -e /drivers/oprofile/nmi_timer_int.c:
+git grep -w op_nmi_timer_init | grep -q -v -F -e '.h:' -e /drivers/oprofile/nmi_timer_int.c:
+git grep -w x86_backtrace | grep -q -v -F -e '.h:' -e arch/x86/oprofile/backtrace.c:
+git grep -w op_nmi_init | grep -q -v -F -e '.h:' -e arch/x86/oprofile/nmi_int.c:
+git grep -w op_nmi_exit | grep -q -v -F -e '.h:' -e arch/x86/oprofile/nmi_int.c:
+git grep -w apei_estatus_print | grep -q -v -F -e '.h:' -e drivers/acpi/apei/cper.c:
+git grep -w apei_estatus_check_header | grep -q -v -F -e '.h:' -e drivers/acpi/apei/cper.c:
+git grep -w apei_estatus_check | grep -q -v -F -e '.h:' -e drivers/acpi/apei/cper.c:
+git grep -w pnp_bios_fault_esp | grep -q -v -F -e '.h:' -e drivers/pnp/pnpbios/bioscalls.c:
+git grep -w pnp_bios_fault_eip | grep -q -v -F -e '.h:' -e drivers/pnp/pnpbios/bioscalls.c:
+git grep -w pnp_bios_is_utter_crap | grep -q -v -F -e '.h:' -e drivers/pnp/pnpbios/bioscalls.c:
+git grep -w cpu_set_freq | grep -q -v -F -e '.h:' -e drivers/cpufreq/cpufreq_userspace.c:
+git grep -w use_cyclone | grep -q -v -F -e '.h:' -e drivers/clocksource/cyclone.c:
+git grep -w coda_fake_statfs | grep -q -v -F -e '.h:' -e fs/coda/coda_linux.c:
+ERR: line=drivers/tty/vt/consolemap_deftbl.c:10:4: sparse: symbol 'dfont_unicount' was not declared. Should it be static? file=drivers/tty/vt/consolemap_deftbl.c symbol=dfont_unicount
+ERR: line=drivers/tty/vt/consolemap_deftbl.c:46:5: sparse: symbol 'dfont_unitable' was not declared. Should it be static? file=drivers/tty/vt/consolemap_deftbl.c symbol=dfont_unitable
+git grep -w console_blank_hook | grep -q -v -F -e '.h:' -e drivers/tty/vt/vt.c:
+git grep -w console_driver | grep -q -v -F -e '.h:' -e drivers/tty/vt/vt.c:
+ERR: line=drivers/tty/vt/defkeymap.c:27:9: sparse: symbol 'shift_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=shift_map
+ERR: line=drivers/tty/vt/defkeymap.c:46:9: sparse: symbol 'altgr_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=altgr_map
+ERR: line=drivers/tty/vt/defkeymap.c:65:9: sparse: symbol 'ctrl_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=ctrl_map
+ERR: line=drivers/tty/vt/defkeymap.c:84:9: sparse: symbol 'shift_ctrl_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=shift_ctrl_map
+ERR: line=drivers/tty/vt/defkeymap.c:103:9: sparse: symbol 'alt_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=alt_map
+ERR: line=drivers/tty/vt/defkeymap.c:122:9: sparse: symbol 'ctrl_alt_map' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=ctrl_alt_map
+ERR: line=drivers/tty/vt/defkeymap.c:148:14: sparse: symbol 'keymap_count' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=keymap_count
+ERR: line=drivers/tty/vt/defkeymap.c:156:6: sparse: symbol 'func_buf' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=func_buf
+ERR: line=drivers/tty/vt/defkeymap.c:187:6: sparse: symbol 'funcbufptr' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=funcbufptr
+ERR: line=drivers/tty/vt/defkeymap.c:188:5: sparse: symbol 'funcbufsize' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=funcbufsize
+ERR: line=drivers/tty/vt/defkeymap.c:189:5: sparse: symbol 'funcbufleft' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=funcbufleft
+ERR: line=drivers/tty/vt/defkeymap.c:191:6: sparse: symbol 'func_table' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=func_table
+ERR: line=drivers/tty/vt/defkeymap.c:225:18: sparse: symbol 'accent_table' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=accent_table
+ERR: line=drivers/tty/vt/defkeymap.c:262:14: sparse: symbol 'accent_table_size' was not declared. Should it be static? file=drivers/tty/vt/defkeymap.c symbol=accent_table_size
+git grep -w resetwaittime | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_dbg_lvl | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w poll_aen_lock | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_get_cmd | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_issue_polled | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megaraid_sas_kill_hba | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_check_and_restore_queue_depth | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_free_cmds | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_alloc_cmds | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_base.c:
+git grep -w megasas_free_cmds_fusion | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fusion.c:
+git grep -w megasas_ioc_init_fusion | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fusion.c:
+git grep -w megasas_get_map_info | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fusion.c:
+git grep -w megasas_sync_map_info | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fusion.c:
+git grep -w MR_LdRaidGet | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+git grep -w MR_GetLDTgtId | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+git grep -w MR_TargetIdToLdGet | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+git grep -w MR_ValidateMapInfo | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+git grep -w MR_BuildRaidContext | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+git grep -w get_updated_dev_handle | grep -q -v -F -e '.h:' -e drivers/scsi/megaraid/megaraid_sas_fp.c:
+grep 'EXPORT_SYMBOL.*(pch_ch_control_read)' 'weak.* pch_ch_control_read' /c/kernel-tests/src/linux/drivers/ptp/ptp_pch.c
+git grep -w pch_ch_control_write | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_ch_event_read | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_ch_event_write | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_src_uuid_lo_read | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_src_uuid_hi_read | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_rx_snap_read | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_tx_snap_read | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w pch_set_station_address | grep -q -v -F -e '.h:' -e drivers/ptp/ptp_pch.c:
+git grep -w dev_attr_serial | grep -q -v -F -e '.h:' -e drivers/block/virtio_blk.c:
+git grep -w rd_size | grep -q -v -F -e '.h:' -e drivers/block/brd.c:
+git grep -w devtmpfs_init | grep -q -v -F -e '.h:' -e drivers/base/devtmpfs.c:
+git grep -w prism2_connect_result | grep -q -v -F -e '.h:' -e drivers/staging/wlan-ng/cfg80211.c:
+git grep -w prism2_disconnected | grep -q -v -F -e '.h:' -e drivers/staging/wlan-ng/cfg80211.c:
+git grep -w prism2_roamed | grep -q -v -F -e '.h:' -e drivers/staging/wlan-ng/cfg80211.c:
+git grep -w wlan_create_wiphy | grep -q -v -F -e '.h:' -e drivers/staging/wlan-ng/cfg80211.c:
+git grep -w wlan_free_wiphy | grep -q -v -F -e '.h:' -e drivers/staging/wlan-ng/cfg80211.c:
+git grep -w el1_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/3com/3c501.c:
+git grep -w cpci_debug | grep -q -v -F -e '.h:' -e drivers/pci/hotplug/cpci_hotplug_core.c:
+git grep -w cpci_hotplug_init | grep -q -v -F -e '.h:' -e drivers/pci/hotplug/cpci_hotplug_core.c:
+git grep -w cpci_hotplug_exit | grep -q -v -F -e '.h:' -e drivers/pci/hotplug/cpci_hotplug_core.c:
+git grep -w CsrWifiRouterCtrlConverterInit | grep -q -v -F -e '.h:' -e drivers/staging/csr/csr_wifi_router_ctrl_converter_init.c:
+git grep -w CsrWifiRouterConverterInit | grep -q -v -F -e '.h:' -e drivers/staging/csr/csr_wifi_router_converter_init.c:
+git grep -w CsrWifiSmeMicFailureIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePmkidCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePmkidCandidateListIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanResultsFlushCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanResultsGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanFullCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanResultIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeConnectCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeDisconnectCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeKeyCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMulticastAddressCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeWifiFlightmodeCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeWifiOnCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeWifiOffCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeWifiOffIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeVersionsGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePowerConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeHostConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCoexInfoGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCoexConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMibConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeConnectionInfoGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeConnectionConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeConnectionStatsGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMibSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMibGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMibGetNextCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeConnectionQualityIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePacketFilterSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeTspecCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeTspecIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeBlacklistCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeEventMaskSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeRoamStartIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeRoamCompleteIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeAssociationStartIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeAssociationCompleteIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeIbssStationIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeWifiOnIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeAdhocConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeAdhocConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCalibrationDataGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCalibrationDataSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCcxConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCcxConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCloakedSsidsGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCloakedSsidsSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCoexConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeHostConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeLinkQualityGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMibConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePermanentMacAddressGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmePowerConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeRegulatoryDomainInfoGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeRoamingConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeMediaStatusIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeRoamingConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeScanConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeStationMacAddressGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeSmeCommonConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeSmeStaConfigGetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeSmeCommonConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeSmeStaConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeGetInterfaceCapabilityCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeErrorIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeInfoIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeCoreDumpIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeAmpStatusChangeIndHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeActivateCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiSmeDeactivateCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiNmeApStartCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiNmeApStopCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w CsrWifiNmeApConfigSetCfmHandler | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_mgt.c:
+git grep -w unifi_iw_handler_def | grep -q -v -F -e '.h:' -e drivers/staging/csr/sme_wext.c:
+git grep -w led_mask | grep -q -v -F -e '.h:' -e drivers/staging/csr/drv.c:
+grep 'EXPORT_SYMBOL.*(CsrSdioSuspend)' 'weak.* CsrSdioSuspend' /c/kernel-tests/src/linux/drivers/staging/csr/sdio_stubs.c
+grep 'EXPORT_SYMBOL.*(CsrSdioResume)' 'weak.* CsrSdioResume' /c/kernel-tests/src/linux/drivers/staging/csr/sdio_stubs.c
+git grep -w csr_sdio_linux_install_irq | grep -q -v -F -e '.h:' -e drivers/staging/csr/sdio_stubs.c:
+git grep -w csr_sdio_linux_remove_irq | grep -q -v -F -e '.h:' -e drivers/staging/csr/sdio_stubs.c:
+git grep -w CsrWifiNmeApConverterInit | grep -q -v -F -e '.h:' -e drivers/staging/csr/csr_wifi_nme_ap_converter_init.c:
+git grep -w CsrWifiSmeConverterInit | grep -q -v -F -e '.h:' -e drivers/staging/csr/csr_wifi_sme_converter_init.c:
+git grep -w musycc_dump_ring | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_init_mdt | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_update_tx_thp | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_wq_chan_restart | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_chan_proto | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_intr_th_handler | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_chan_down | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w musycc_start_xmit | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/musycc.c:
+git grep -w drvr_state | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w CI | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_new | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_init | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_init2 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_frame_rw | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_pld_rw | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_musycc_rw | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_get_port | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_new_chan | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_fifo_free | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_stopwd | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w sbecom_get_brdinfo | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w c4_ebus_intr_th_handler | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmcc4_drv.c:
+git grep -w error_flag | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w cxt1e1_log_level | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w cxt1e1_max_mru | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w cxt1e1_max_mtu | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w max_txdesc_used | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w max_txdesc_default | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w max_rxdesc_used | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w max_rxdesc_default | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w c4_wk_chan_restart | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w c4_wk_chan_init | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w c4_wq_port_init | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w c4_wq_port_cleanup | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w do_reset | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/linux.c:
+git grep -w hdw_info | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/hwprobe.c:
+git grep -w hdw_sn_get | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/hwprobe.c:
+git grep -w cleanup_ioremap | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/hwprobe.c:
+git grep -w cleanup_devs | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/hwprobe.c:
+git grep -w c4hw_attach_all | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/hwprobe.c:
+git grep -w eeprom_delay | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmc93x6_eeprom.c:
+git grep -w pmc_eeprom_read_buffer | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmc93x6_eeprom.c:
+git grep -w pmc_verify_cksum | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/pmc93x6_eeprom.c:
+git grep -w sbeCrc | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/sbecrc.c:
+git grep -w TWVLongHaul0DB | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVLongHaul7_5DB | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVLongHaul15DB | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVLongHaul22_5DB | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul0 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul1 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul2 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul3 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul4 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWVShortHaul5 | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWV_E1_120Ohm | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w TWV_E1_75Ohm | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w T1_Equalizer | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w E1_Equalizer | grep -q -v -F -e '.h:' -e drivers/staging/cxt1e1/comet_tables.c:
+git grep -w rio_init_mports | grep -q -v -F -e '.h:' -e drivers/rapidio/rio.c:
+grep 'EXPORT_SYMBOL.*(__rio_local_read_config_8)' 'weak.* __rio_local_read_config_8' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(__rio_local_read_config_16)' 'weak.* __rio_local_read_config_16' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(__rio_local_read_config_32)' 'weak.* __rio_local_read_config_32' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(__rio_local_write_config_8)' 'weak.* __rio_local_write_config_8' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(__rio_local_write_config_16)' 'weak.* __rio_local_write_config_16' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(__rio_local_write_config_32)' 'weak.* __rio_local_write_config_32' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(rio_mport_read_config_8)' 'weak.* rio_mport_read_config_8' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(rio_mport_read_config_16)' 'weak.* rio_mport_read_config_16' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+git grep -w rio_mport_read_config_32 | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-access.c:
+grep 'EXPORT_SYMBOL.*(rio_mport_write_config_8)' 'weak.* rio_mport_write_config_8' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+grep 'EXPORT_SYMBOL.*(rio_mport_write_config_16)' 'weak.* rio_mport_write_config_16' /c/kernel-tests/src/linux/drivers/rapidio/rio-access.c
+git grep -w rio_mport_write_config_32 | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-access.c:
+git grep -w rio_mport_send_doorbell | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-access.c:
+git grep -w rio_dev_get | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-driver.c:
+git grep -w rio_dev_put | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-driver.c:
+git grep -w rio_register_driver | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-driver.c:
+git grep -w rio_unregister_driver | grep -q -v -F -e '.h:' -e drivers/rapidio/rio-driver.c:
+git grep -w pas_translate_code | grep -q -v -F -e '.h:' -e sound/oss/pas2_card.c:
+git grep -w pas_lock | grep -q -v -F -e '.h:' -e sound/oss/pas2_card.c:
+git grep -w pas_model | grep -q -v -F -e '.h:' -e sound/oss/pas2_card.c:
+git grep -w pas2_mididev | grep -q -v -F -e '.h:' -e sound/oss/pas2_midi.c:
+git grep -w mix_write | grep -q -v -F -e '.h:' -e sound/oss/pas2_mixer.c:
+git grep -w pas_audiodev | grep -q -v -F -e '.h:' -e sound/oss/pas2_pcm.c:
+git grep -w sb_be_quiet | grep -q -v -F -e '.h:' -e sound/oss/sb_common.c:
+git grep -w smw_free | grep -q -v -F -e '.h:' -e sound/oss/sb_common.c:
+git grep -w sound_dmap_flag | grep -q -v -F -e '.h:' -e sound/oss/soundcard.c:
+git grep -w seq_time | grep -q -v -F -e '.h:' -e sound/oss/soundcard.c:
+git grep -w dev_list | grep -q -v -F -e '.h:' -e sound/oss/soundcard.c:
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/hubnvc0.fuc.h:1:10: sparse: symbol 'nvc0_grhub_data' was not declared. Should it be static? file= symbol=nvc0_grhub_data
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/hubnvc0.fuc.h:213:10: sparse: symbol 'nvc0_grhub_code' was not declared. Should it be static? file= symbol=nvc0_grhub_code
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/gpcnvc0.fuc.h:1:10: sparse: symbol 'nvc0_grgpc_data' was not declared. Should it be static? file= symbol=nvc0_grgpc_data
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/gpcnvc0.fuc.h:173:10: sparse: symbol 'nvc0_grgpc_code' was not declared. Should it be static? file= symbol=nvc0_grgpc_code
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/hubnve0.fuc.h:1:10: sparse: symbol 'nve0_grhub_data' was not declared. Should it be static? file= symbol=nve0_grhub_data
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/hubnve0.fuc.h:210:10: sparse: symbol 'nve0_grhub_code' was not declared. Should it be static? file= symbol=nve0_grhub_code
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/gpcnve0.fuc.h:1:10: sparse: symbol 'nve0_grgpc_data' was not declared. Should it be static? file= symbol=nve0_grgpc_data
+ERR: line=drivers/gpu/drm/nouveau/core/engine/graph/fuc/gpcnve0.fuc.h:102:10: sparse: symbol 'nve0_grgpc_code' was not declared. Should it be static? file= symbol=nve0_grgpc_code
+git grep -w nf_nat_snmp_hook | grep -q -v -F -e '.h:' -e net/netfilter/nf_conntrack_snmp.c:
+git grep -w nf_nat_seq_adjust_hook | grep -q -v -F -e '.h:' -e net/netfilter/nf_conntrack_core.c:
+git grep -w at1700_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/fujitsu/at1700.c:
+git grep -w verbose | grep -q -v -F -e '.h:' -e drivers/media/dvb-frontends/mb86a16.c:
+ERR: line=drivers/media/dvb-frontends/it913x-fe-priv.h:169:16: sparse: symbol 'fe_code' was not declared. Should it be static? file= symbol=fe_code
+ERR: line=drivers/media/dvb-frontends/it913x-fe-priv.h:178:21: sparse: symbol 'fe_gi' was not declared. Should it be static? file= symbol=fe_gi
+ERR: line=drivers/media/dvb-frontends/it913x-fe-priv.h:185:16: sparse: symbol 'fe_hi' was not declared. Should it be static? file= symbol=fe_hi
+ERR: line=drivers/media/dvb-frontends/it913x-fe-priv.h:192:20: sparse: symbol 'fe_mode' was not declared. Should it be static? file= symbol=fe_mode
+ERR: line=drivers/media/dvb-frontends/it913x-fe-priv.h:198:17: sparse: symbol 'fe_con' was not declared. Should it be static? file= symbol=fe_con
+git grep -w show_alloc_options | grep -q -v -F -e '.h:' -e fs/reiserfs/bitmap.c:
+git grep -w MIN_KEY | grep -q -v -F -e '.h:' -e fs/reiserfs/stree.c:
+git grep -w mwait_idle_with_hints | grep -q -v -F -e '.h:' -e arch/x86/kernel/acpi/cstate.c:
+git grep -w el16_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/i825xx/3c507.c:
+git grep -w ni52_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/i825xx/ni52.c:
+git grep -w i82596_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/i825xx/82596.c:
+git grep -w raid6_mmx_constants | grep -q -v -F -e '.h:' -e lib/raid6/mmx.c:
+ERR: line=drivers/isdn/hardware/eicon/cardtype.h:331:17: sparse: symbol 'CardProperties' was not declared. Should it be static? file= symbol=CardProperties
+git grep -w IoAdapters | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w diva_os_irq_wrapper | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w diva_xdi_display_adapter_features | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w diva_add_slave_adapter | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w diva_card_read_xlog | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w xdiFreeFile | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva.c:
+git grep -w create_divas_proc | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasproc.c:
+git grep -w remove_divas_proc | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasproc.c:
+git grep -w create_adapter_proc | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasproc.c:
+git grep -w remove_adapter_proc | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasproc.c:
+git grep -w prepare_maestra_functions | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_bri.c:
+git grep -w start_qBri_hardware | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_4bri.c:
+git grep -w qBri_FPGA_download | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_4bri.c:
+git grep -w prepare_qBri_functions | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_4bri.c:
+git grep -w prepare_qBri2_functions | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_4bri.c:
+git grep -w DIVA_DIDD_Read | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/dadapter.c:
+git grep -w prepare_pri_functions | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_pri.c:
+git grep -w prepare_pri2_functions | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/s_pri.c:
+git grep -w DRIVERRELEASE_DIVAS | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasmain.c:
+git grep -w divas_get_version | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasmain.c:
+git grep -w DRIVERRELEASE_IDI | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasi.c:
+git grep -w diva_os_wakeup_read | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasi.c:
+git grep -w diva_os_wakeup_close | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasi.c:
+git grep -w diva_get_vserial_number | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasfunc.c:
+git grep -w divasfunc_init | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasfunc.c:
+git grep -w divasfunc_exit | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divasfunc.c:
+git grep -w idifunc_init | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/idifunc.c:
+git grep -w idifunc_finit | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/idifunc.c:
+git grep -w diva_user_mode_idi_remove_adapter | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/um_idi.c:
+git grep -w diva_user_mode_idi_create_adapter | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/um_idi.c:
+git grep -w diddfunc_init | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diddfunc.c:
+git grep -w diddfunc_finit | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diddfunc.c:
+git grep -w DRIVERRELEASE_MNT | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divamnt.c:
+git grep -w diva_os_copy_to_user | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divamnt.c:
+git grep -w diva_os_copy_from_user | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/divamnt.c:
+git grep -w maint_read_write | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/mntfunc.c:
+git grep -w mntfunc_init | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/mntfunc.c:
+git grep -w mntfunc_finit | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/mntfunc.c:
+git grep -w diva_os_set_controller_struct | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capimain.c:
+git grep -w adapter | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w application | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w max_appl | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w max_adapter | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w MapController | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w TransmitBufferSet | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w TransmitBufferGet | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w TransmitBufferFree | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w ReceiveBufferGet | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w api_remove_complete | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w sendf | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w fax_head_line_time | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/capifunc.c:
+git grep -w DRIVERRELEASE_DIDD | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva_didd.c:
+git grep -w proc_net_eicon | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/eicon/diva_didd.c:
+git grep -w es7000_plat | grep -q -v -F -e '.h:' -e arch/x86/kernel/apic/es7000_32.c:
+grep 'EXPORT_SYMBOL.*(scsi_is_fc_vport)' 'weak.* scsi_is_fc_vport' /c/kernel-tests/src/linux/drivers/scsi/scsi_transport_fc.c
+git grep -w sequencer_patches | grep -q -v -F -e '.h:' -e drivers/scsi/aic7xxx_old/aic7xxx_seq.c:
+git grep -w aic7xxx_proc_info | grep -q -v -F -e '.h:' -e drivers/scsi/aic7xxx_old/aic7xxx_proc.c:
+git grep -w scsi_requeue_run_queue | grep -q -v -F -e '.h:' -e drivers/scsi/scsi_lib.c:
+git grep -w scsi_evt_thread | grep -q -v -F -e '.h:' -e drivers/scsi/scsi_lib.c:
+grep 'EXPORT_SYMBOL.*(xilinx_spi_init)' 'weak.* xilinx_spi_init' /c/kernel-tests/src/linux/drivers/spi/spi-xilinx.c
+grep 'EXPORT_SYMBOL.*(xilinx_spi_deinit)' 'weak.* xilinx_spi_deinit' /c/kernel-tests/src/linux/drivers/spi/spi-xilinx.c
+git grep -w aac_sync_mode | grep -q -v -F -e '.h:' -e drivers/scsi/aacraid/aachba.c:
+grep 'EXPORT_SYMBOL.*(ip_vs_net_id)' 'weak.* ip_vs_net_id' /c/kernel-tests/src/linux/net/netfilter/ipvs/ip_vs_core.c
+git grep -w agp_fe | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_find_mem_by_key | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_create_segment | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_find_private | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_free_memory_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_allocate_memory_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_find_client_by_pid | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_create_client | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_remove_client | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agpioc_acquire_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agpioc_release_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agpioc_setup_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agpioc_protect_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agpioc_deallocate_wrap | grep -q -v -F -e '.h:' -e drivers/char/agp/frontend.c:
+git grep -w agp_gatt_table | grep -q -v -F -e '.h:' -e drivers/char/agp/generic.c:
+git grep -w agp_memory_reserved | grep -q -v -F -e '.h:' -e drivers/char/agp/generic.c:
+git grep -w intel_agp_enabled | grep -q -v -F -e '.h:' -e drivers/char/agp/intel-agp.c:
+git grep -w oem_id | grep -q -v -F -e '.h:' -e drivers/net/fddi/skfp/drvfbi.c:
+git grep -w childless_attr_showme | grep -q -v -F -e '.h:' -e Documentation/filesystems/configfs/configfs_example_macros.c:
+git grep -w childless_attr_storeme | grep -q -v -F -e '.h:' -e Documentation/filesystems/configfs/configfs_example_macros.c:
+git grep -w childless_attr_description | grep -q -v -F -e '.h:' -e Documentation/filesystems/configfs/configfs_example_macros.c:
+grep 'EXPORT_SYMBOL.*(drm_mode_validate_clocks)' 'weak.* drm_mode_validate_clocks' /c/kernel-tests/src/linux/drivers/gpu/drm/drm_modes.c
+grep 'EXPORT_SYMBOL.*(drm_fb_helper_panic)' 'weak.* drm_fb_helper_panic' /c/kernel-tests/src/linux/drivers/gpu/drm/drm_fb_helper.c
+git grep -w drm_get_usb_dev | grep -q -v -F -e '.h:' -e drivers/gpu/drm/drm_usb.c:
+git grep -w drm_usb_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/drm_usb.c:
+git grep -w drm_usb_exit | grep -q -v -F -e '.h:' -e drivers/gpu/drm/drm_usb.c:
+git grep -w cayman_default_state | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w cayman_vs | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w cayman_ps | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w cayman_ps_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w cayman_vs_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w cayman_default_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/cayman_blit_shaders.c:
+git grep -w radeon_add_atom_connector | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_connectors.c:
+git grep -w radeon_add_legacy_connector | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_connectors.c:
+git grep -w radeon_get_encoder_enum | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_encoders.c:
+git grep -w radeon_link_encoder_connector | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_encoders.c:
+git grep -w radeon_atom_hw_i2c_xfer | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/atombios_i2c.c:
+git grep -w radeon_atom_hw_i2c_func | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/atombios_i2c.c:
+git grep -w si_default_state | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/si_blit_shaders.c:
+git grep -w si_default_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/si_blit_shaders.c:
+git grep -w radeon_gem_prime_export | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_prime.c:
+git grep -w radeon_gem_prime_import | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_prime.c:
+git grep -w radeon_register_atpx_handler | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_atpx_handler.c:
+git grep -w radeon_unregister_atpx_handler | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_atpx_handler.c:
+git grep -w radeon_legacy_get_engine_clock | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_clocks.c:
+git grep -w radeon_legacy_get_memory_clock | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_clocks.c:
+git grep -w radeon_legacy_set_engine_clock | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_clocks.c:
+git grep -w radeon_gem_object_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_gem.c:
+git grep -w radeon_gem_object_free | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_gem.c:
+git grep -w radeon_gem_object_open | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_gem.c:
+git grep -w radeon_gem_object_close | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_gem.c:
+git grep -w radeon_driver_irq_handler_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_irq_kms.c:
+git grep -w radeon_driver_irq_preinstall_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_irq_kms.c:
+git grep -w radeon_driver_irq_postinstall_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_irq_kms.c:
+git grep -w radeon_driver_irq_uninstall_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_irq_kms.c:
+git grep -w radeon_combios_connected_scratch_regs | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_combios.c:
+git grep -w radeon_dynclks | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_r4xx_atom | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_agpmode | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_vram_limit | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_gart_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_benchmarking | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_testing | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_connector_table | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_tv | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_audio | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_disp_priority | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_hw_i2c | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_pcie_gen2 | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_msi | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w radeon_lockup_timeout | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_drv.c:
+git grep -w r600_cs_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_cs.c:
+git grep -w r600_cs_legacy | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_cs.c:
+git grep -w r600_cs_legacy_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_cs.c:
+git grep -w radeon_debugfs_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_device.c:
+git grep -w radeon_debugfs_cleanup | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_device.c:
+git grep -w r6xx_default_state | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r7xx_default_state | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r6xx_vs | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r6xx_ps | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r6xx_ps_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r6xx_vs_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r6xx_default_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r7xx_default_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_shaders.c:
+git grep -w r600_blit_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_kms.c:
+git grep -w r600_blit_fini | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_kms.c:
+git grep -w r600_blit_prepare_copy | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_kms.c:
+git grep -w r600_blit_done_copy | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_kms.c:
+git grep -w r600_kms_blit_copy | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/r600_blit_kms.c:
+git grep -w radeon_driver_unload_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_load_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_firstopen_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_lastclose_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_open_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_postclose_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_driver_preclose_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_get_vblank_counter_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_enable_vblank_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_disable_vblank_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_get_vblank_timestamp_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_dma_ioctl_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_ioctls_kms | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w radeon_max_kms_ioctl | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_kms.c:
+git grep -w evergreen_cs_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_cs.c:
+git grep -w evergreen_ib_parse | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_cs.c:
+git grep -w radeon_ttm_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_ttm.c:
+git grep -w radeon_ttm_fini | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_ttm.c:
+git grep -w radeon_mmap | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/radeon_ttm.c:
+git grep -w evergreen_default_state | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_vs | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_ps | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_ps_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_vs_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_default_size | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_shaders.c:
+git grep -w evergreen_blit_init | grep -q -v -F -e '.h:' -e drivers/gpu/drm/radeon/evergreen_blit_kms.c:
+git grep -w hscx_l2l1 | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/hscx.c:
+git grep -w open_hscxstate | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/hscx.c:
+git grep -w setup_gazel | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/gazel.c:
+git grep -w setup_teles3 | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/teles3.c:
+git grep -w setup_telespci | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/telespci.c:
+git grep -w setup_s0box | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/s0box.c:
+git grep -w setup_avm_a1 | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/avm_a1.c:
+git grep -w setup_avm_a1_pcmcia | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/avm_a1p.c:
+git grep -w setup_avm_pcipnp | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/avm_pci.c:
+git grep -w setup_elsa | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/elsa.c:
+git grep -w setup_ix1micro | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/ix1_micro.c:
+git grep -w setup_sct_quadro | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/bkm_a8.c:
+git grep -w setup_w6692 | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/w6692.c:
+git grep -w setup_diva | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/diva.c:
+git grep -w setup_asuscom | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/asuscom.c:
+git grep -w setup_TeleInt | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/teleint.c:
+git grep -w setup_sedlbauer | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/sedlbauer.c:
+git grep -w setup_sportster | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/sportster.c:
+git grep -w setup_mic | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/mic.c:
+git grep -w setup_netjet_s | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/nj_s.c:
+git grep -w setup_netjet_u | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/nj_u.c:
+git grep -w cards | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/config.c:
+git grep -w setup_hfcs | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/hfcscard.c:
+git grep -w setup_hfcpci | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/hfc_pci.c:
+git grep -w setup_hfcsx | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/hfc_sx.c:
+git grep -w setup_niccy | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/niccy.c:
+git grep -w setup_isurf | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/isurf.c:
+git grep -w setup_saphir | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/saphir.c:
+git grep -w setup_bkm_a4t | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/bkm_a4t.c:
+git grep -w setup_enternow_pci | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/enternow_pci.c:
+git grep -w setup_teles0 | grep -q -v -F -e '.h:' -e drivers/isdn/hisax/teles0.c:
+git grep -w ultra32_probe | grep -q -v -F -e '.h:' -e drivers/net/ethernet/8390/smc-ultra32.c:
+ERR: line=drivers/staging/ft1000/ft1000-pcmcia/boot.h:30:15: sparse: symbol 'bootimage' was not declared. Should it be static? file= symbol=bootimage
+git grep -w caif_free_client | grep -q -v -F -e '.h:' -e net/caif/cfsrvl.c:
+git grep -w caif_client_register_refcnt | grep -q -v -F -e '.h:' -e net/caif/cfsrvl.c:
+git grep -w gfs2_control_wq | grep -q -v -F -e '.h:' -e fs/gfs2/main.c:
+git grep -w aic79xx_slowcrc | grep -q -v -F -e '.h:' -e drivers/scsi/aic7xxx/aic79xx_osm.c:
+git grep -w fw_debug | grep -q -v -F -e '.h:' -e drivers/media/pci/saa7164/saa7164-core.c:
+git grep -w isp1301_get_client | grep -q -v -F -e '.h:' -e drivers/usb/phy/isp1301.c:
+git grep -w initW6692 | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/w6692.c:
+git grep -w isac_empty_fifo | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/mISDNipac.c:
+git grep -w dmril | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/mISDNisar.c:
+git grep -w dmrim | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/mISDNisar.c:
+git grep -w write_ctrl | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/avmfritz.c:
+git grep -w clear_pending_hdlc_ints | grep -q -v -F -e '.h:' -e drivers/isdn/hardware/mISDN/avmfritz.c:
+ERR: line=drivers/staging/fwserial/fwserial.h:356:19: sparse: symbol 'fwtty_driver' was not declared. Should it be static? file= symbol=fwtty_driver
+git grep -w snd_gf1_timers_init | grep -q -v -F -e '.h:' -e sound/isa/gus/gus_timer.c:
+git grep -w snd_gf1_timers_done | grep -q -v -F -e '.h:' -e sound/isa/gus/gus_timer.c:
+ERR: line=sound/isa/gus/gus_tables.h:56:16: sparse: symbol 'snd_gf1_atten_table' was not declared. Should it be static? file= symbol=snd_gf1_atten_table
+git grep -w bpf_internal_load_pointer_neg_helper | grep -q -v -F -e '.h:' -e net/core/filter.c:
+grep 'EXPORT_SYMBOL.*(gsm_cleanup_mux)' 'weak.* gsm_cleanup_mux' /c/kernel-tests/src/linux/drivers/tty/n_gsm.c
+grep 'EXPORT_SYMBOL.*(gsm_activate_mux)' 'weak.* gsm_activate_mux' /c/kernel-tests/src/linux/drivers/tty/n_gsm.c
+grep 'EXPORT_SYMBOL.*(gsm_free_mux)' 'weak.* gsm_free_mux' /c/kernel-tests/src/linux/drivers/tty/n_gsm.c
+grep 'EXPORT_SYMBOL.*(gsm_alloc_mux)' 'weak.* gsm_alloc_mux' /c/kernel-tests/src/linux/drivers/tty/n_gsm.c
+git grep -w register_dcbevent_notifier | grep -q -v -F -e '.h:' -e net/dcb/dcbevent.c:
+git grep -w unregister_dcbevent_notifier | grep -q -v -F -e '.h:' -e net/dcb/dcbevent.c:
+git grep -w call_dcbevent_notifiers | grep -q -v -F -e '.h:' -e net/dcb/dcbevent.c:
+git grep -w wait_q | grep -q -v -F -e '.h:' -e drivers/scsi/arcmsr/arcmsr_hba.c:
+git grep -w envp_init | grep -q -v -F -e '.h:' -e init/main.c:
+git grep -w calibrate_delay_is_known | grep -q -v -F -e '.h:' -e init/calibrate.c:
+git grep -w page_is_ram | grep -q -v -F -e '.h:' -e kernel/resource.c:
+git grep -w panic_smp_self_stop | grep -q -v -F -e '.h:' -e kernel/panic.c:
+git grep -w pid_max | grep -q -v -F -e '.h:' -e kernel/pid.c:
+git grep -w pid_max_min | grep -q -v -F -e '.h:' -e kernel/pid.c:
+git grep -w pid_max_max | grep -q -v -F -e '.h:' -e kernel/pid.c:
+git grep -w elf_core_extra_phdrs | grep -q -v -F -e '.h:' -e kernel/elfcore.c:
+git grep -w elf_core_write_extra_phdrs | grep -q -v -F -e '.h:' -e kernel/elfcore.c:
+git grep -w elf_core_write_extra_data | grep -q -v -F -e '.h:' -e kernel/elfcore.c:
+git grep -w elf_core_extra_data_size | grep -q -v -F -e '.h:' -e kernel/elfcore.c:
+git grep -w kdb_modules | grep -q -v -F -e '.h:' -e kernel/module.c:
+git grep -w hrtimer_bases | grep -q -v -F -e '.h:' -e kernel/hrtimer.c:
+git grep -w max_threads | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w arch_release_thread_info | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w fork_init | grep -q -v -F -e '.h:' -e kernel/fork.c:
+git grep -w idle_threads | grep -q -v -F -e '.h:' -e kernel/smpboot.c:
+git grep -w percpu_pagelist_fraction | grep -q -v -F -e '.h:' -e mm/page_alloc.c:
+git grep -w min_free_kbytes | grep -q -v -F -e '.h:' -e mm/page_alloc.c:
+git grep -w __early_pfn_to_nid | grep -q -v -F -e '.h:' -e mm/page_alloc.c:
+git grep -w is_pageblock_removable_nolock | grep -q -v -F -e '.h:' -e mm/page_alloc.c:
+git grep -w zero_pfn | grep -q -v -F -e '.h:' -e mm/memory.c:
+git grep -w ___alloc_bootmem_node | grep -q -v -F -e '.h:' -e mm/nobootmem.c:
+git grep -w init_mm | grep -q -v -F -e '.h:' -e mm/init-mm.c:
+git grep -w hugetlb_unregister_node | grep -q -v -F -e '.h:' -e mm/hugetlb.c:
+git grep -w hugetlb_register_node | grep -q -v -F -e '.h:' -e mm/hugetlb.c:
+git grep -w crypto_fpu_init | grep -q -v -F -e '.h:' -e arch/x86/crypto/fpu.c:
+git grep -w crypto_fpu_exit | grep -q -v -F -e '.h:' -e arch/x86/crypto/fpu.c:
+git grep -w bio_integrity_tag_size | grep -q -v -F -e '.h:' -e fs/bio-integrity.c:
+git grep -w nr_dentry | grep -q -v -F -e '.h:' -e fs/dcache.c:
+git grep -w nr_inodes | grep -q -v -F -e '.h:' -e fs/inode.c:
+git grep -w nr_unused | grep -q -v -F -e '.h:' -e fs/inode.c:
+git grep -w last_ino | grep -q -v -F -e '.h:' -e fs/inode.c:
+git grep -w sysctl_nr_open_min | grep -q -v -F -e '.h:' -e fs/file.c:
+git grep -w sysctl_nr_open_max | grep -q -v -F -e '.h:' -e fs/file.c:
+git grep -w sysctl_drop_caches | grep -q -v -F -e '.h:' -e fs/drop_caches.c:
+git grep -w init_fs | grep -q -v -F -e '.h:' -e fs/fs_struct.c:
+git grep -w setup_default_timer_irq | grep -q -v -F -e '.h:' -e arch/x86/kernel/time.c:
+git grep -w iommu_shutdown_noop | grep -q -v -F -e '.h:' -e arch/x86/kernel/x86_init.c:
+git grep -w init_IRQ | grep -q -v -F -e '.h:' -e arch/x86/kernel/irqinit.c:
+git grep -w smp_irq_work_interrupt | grep -q -v -F -e '.h:' -e arch/x86/kernel/irq_work.c:
+git grep -w apf_reason | grep -q -v -F -e '.h:' -e arch/x86/kernel/kvm.c:
+git grep -w do_async_page_fault | grep -q -v -F -e '.h:' -e arch/x86/kernel/kvm.c:
+git grep -w sys_call_table | grep -q -v -F -e '.h:' -e arch/x86/kernel/syscall_32.c:
+git grep -w setup_bios_corruption_check | grep -q -v -F -e '.h:' -e arch/x86/kernel/check.c:
+git grep -w cpu_devices | grep -q -v -F -e '.h:' -e arch/x86/kernel/topology.c:
+git grep -w __switch_to_xtra | grep -q -v -F -e '.h:' -e arch/x86/kernel/process.c:
+git grep -w smp_reboot_interrupt | grep -q -v -F -e '.h:' -e arch/x86/kernel/smp.c:
+git grep -w hardirq_ctx | grep -q -v -F -e '.h:' -e arch/x86/kernel/irq_32.c:
+git grep -w softirq_ctx | grep -q -v -F -e '.h:' -e arch/x86/kernel/irq_32.c:
+git grep -w lguest_setup_irq | grep -q -v -F -e '.h:' -e arch/x86/lguest/boot.c:
+git grep -w mpcs | grep -q -v -F -e '.h:' -e net/atm/mpc.c:
+git grep -w hysdn_proc_entry | grep -q -v -F -e '.h:' -e drivers/isdn/hysdn/hysdn_procconf.c:
+git grep -w snd_usb_feature_unit_ctl | grep -q -v -F -e '.h:' -e sound/usb/mixer.c:
+git grep -w snd_opl3_regmap | grep -q -v -F -e '.h:' -e sound/drivers/opl3/opl3_synth.c:
+git grep -w use_internal_drums | grep -q -v -F -e '.h:' -e sound/drivers/opl3/opl3_seq.c:
+git grep -w opl3_ops | grep -q -v -F -e '.h:' -e sound/drivers/opl3/opl3_seq.c:
+git grep -w finit_soft_fpu | grep -q -v -F -e '.h:' -e arch/x86/math-emu/fpu_aux.c:
+git grep -w fpregs_soft_set | grep -q -v -F -e '.h:' -e arch/x86/math-emu/fpu_entry.c:
+git grep -w fpregs_soft_get | grep -q -v -F -e '.h:' -e arch/x86/math-emu/fpu_entry.c:
+git grep -w pci_mrst_init | grep -q -v -F -e '.h:' -e arch/x86/pci/mrst.c:
+git grep -w pci_early_dump_regs | grep -q -v -F -e '.h:' -e arch/x86/pci/common.c:
+git grep -w sta2x11_get_instance | grep -q -v -F -e '.h:' -e arch/x86/pci/sta2x11-fixup.c:
+git grep -w oz_cdev_register | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_deregister | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_init | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_term | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_start | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_stop | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w oz_cdev_rx | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozcdev.c:
+git grep -w g_net_dev | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozmain.c:
+git grep -w oz_hcd_pd_arrived | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozhcd.c:
+git grep -w oz_hcd_pd_departed | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozhcd.c:
+git grep -w oz_hcd_pd_reset | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozhcd.c:
+git grep -w oz_hcd_init | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozhcd.c:
+git grep -w oz_hcd_term | grep -q -v -F -e '.h:' -e drivers/staging/ozwpan/ozhcd.c:
+git grep -w resume_pg_dir | grep -q -v -F -e '.h:' -e arch/x86/power/hibernate_32.c:
+git grep -w swsusp_arch_resume | grep -q -v -F -e '.h:' -e arch/x86/power/hibernate_32.c:
+git grep -w pfn_is_nosave | grep -q -v -F -e '.h:' -e arch/x86/power/hibernate_32.c:
+git grep -w saved_context_ebx | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w saved_context_esp | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w saved_context_ebp | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w saved_context_esi | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w saved_context_edi | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w saved_context_eflags | grep -q -v -F -e '.h:' -e arch/x86/power/cpu.c:
+git grep -w netlink_init | grep -q -v -F -e '.h:' -e drivers/staging/gdm72xx/netlink_k.c:
+git grep -w netlink_exit | grep -q -v -F -e '.h:' -e drivers/staging/gdm72xx/netlink_k.c:
+git grep -w netlink_send | grep -q -v -F -e '.h:' -e drivers/staging/gdm72xx/netlink_k.c:
+git grep -w isdn_v110_revision | grep -q -v -F -e '.h:' -e drivers/isdn/i4l/isdn_v110.c:
+git grep -w isdn_net_revision | grep -q -v -F -e '.h:' -e drivers/isdn/i4l/isdn_net.c:
+git grep -w isdn_ppp_revision | grep -q -v -F -e '.h:' -e drivers/isdn/i4l/isdn_ppp.c:
+git grep -w isdn_audio_revision | grep -q -v -F -e '.h:' -e drivers/isdn/i4l/isdn_audio.c:
+git grep -w decnet_dst_gc_interval | grep -q -v -F -e '.h:' -e net/decnet/dn_route.c:
+git grep -w dn_route_rcv | grep -q -v -F -e '.h:' -e net/decnet/dn_route.c:
+git grep -w decnet_log_martians | grep -q -v -F -e '.h:' -e net/decnet/sysctl_net_decnet.c:
+git grep -w dn_register_sysctl | grep -q -v -F -e '.h:' -e net/decnet/sysctl_net_decnet.c:
+git grep -w dn_unregister_sysctl | grep -q -v -F -e '.h:' -e net/decnet/sysctl_net_decnet.c:
+git grep -w pcspkr_stop_sound | grep -q -v -F -e '.h:' -e sound/drivers/pcsp/pcsp_input.c:
+git grep -w pcspkr_input_init | grep -q -v -F -e '.h:' -e sound/drivers/pcsp/pcsp_input.c:
+git grep -w pcspkr_input_remove | grep -q -v -F -e '.h:' -e sound/drivers/pcsp/pcsp_input.c:
+grep 'EXPORT_SYMBOL.*(vsc824x_add_skew)' 'weak.* vsc824x_add_skew' /c/kernel-tests/src/linux/drivers/net/phy/vitesse.c
+git grep -w acpi_root | grep -q -v -F -e '.h:' -e drivers/acpi/bus.c:
+git grep -w acpi_bus_event_list | grep -q -v -F -e '.h:' -e drivers/acpi/bus.c:
+git grep -w acpi_bus_event_queue | grep -q -v -F -e '.h:' -e drivers/acpi/bus.c:
+git grep -w acpi_device_lock | grep -q -v -F -e '.h:' -e drivers/acpi/scan.c:
+git grep -w acpi_wakeup_device_list | grep -q -v -F -e '.h:' -e drivers/acpi/scan.c:
+git grep -w acpi_sleep_proc_init | grep -q -v -F -e '.h:' -e drivers/acpi/proc.c:
+grep 'EXPORT_SYMBOL.*(ec_burst_enable)' 'weak.* ec_burst_enable' /c/kernel-tests/src/linux/drivers/acpi/ec.c
+grep 'EXPORT_SYMBOL.*(ec_burst_disable)' 'weak.* ec_burst_disable' /c/kernel-tests/src/linux/drivers/acpi/ec.c
+git grep -w acpi_ec_add_query_handler | grep -q -v -F -e '.h:' -e drivers/acpi/ec.c:
+git grep -w acpi_ec_remove_query_handler | grep -q -v -F -e '.h:' -e drivers/acpi/ec.c:
+git grep -w event_is_open | grep -q -v -F -e '.h:' -e drivers/acpi/event.c:
+git grep -w acpi_sysfs_init | grep -q -v -F -e '.h:' -e drivers/acpi/sysfs.c:
+git grep -w acpi_debugfs_dir | grep -q -v -F -e '.h:' -e drivers/acpi/debugfs.c:
+git grep -w acpi_debugfs_init | grep -q -v -F -e '.h:' -e drivers/acpi/debugfs.c:
+git grep -w acpi_lock_ac_dir | grep -q -v -F -e '.h:' -e drivers/acpi/cm_sbs.c:
+git grep -w acpi_unlock_ac_dir | grep -q -v -F -e '.h:' -e drivers/acpi/cm_sbs.c:
+git grep -w acpi_lock_battery_dir | grep -q -v -F -e '.h:' -e drivers/acpi/cm_sbs.c:
+git grep -w acpi_unlock_battery_dir | grep -q -v -F -e '.h:' -e drivers/acpi/cm_sbs.c:
+git grep -w acpi_lid_notifier_register | grep -q -v -F -e '.h:' -e drivers/acpi/button.c:
+git grep -w acpi_lid_notifier_unregister | grep -q -v -F -e '.h:' -e drivers/acpi/button.c:
+git grep -w acpi_lid_open | grep -q -v -F -e '.h:' -e drivers/acpi/button.c:
+git grep -w suspend_nvs_free | grep -q -v -F -e '.h:' -e drivers/acpi/nvs.c:
+git grep -w suspend_nvs_alloc | grep -q -v -F -e '.h:' -e drivers/acpi/nvs.c:
+git grep -w suspend_nvs_save | grep -q -v -F -e '.h:' -e drivers/acpi/nvs.c:
+git grep -w suspend_nvs_restore | grep -q -v -F -e '.h:' -e drivers/acpi/nvs.c:
+git grep -w dlm_add_lkb_callback | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_rem_lkb_callback | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_add_cb | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_callback_work | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_callback_start | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_callback_stop | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_callback_suspend | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+git grep -w dlm_callback_resume | grep -q -v -F -e '.h:' -e fs/dlm/ast.c:
+grep 'EXPORT_SYMBOL.*(ahci_em_messages)' 'weak.* ahci_em_messages' /c/kernel-tests/src/linux/drivers/ata/libahci.c
+git grep -w sysctl_sctp_mem | grep -q -v -F -e '.h:' -e net/sctp/protocol.c:
+git grep -w sysctl_sctp_rmem | grep -q -v -F -e '.h:' -e net/sctp/protocol.c:
+git grep -w sysctl_sctp_wmem | grep -q -v -F -e '.h:' -e net/sctp/protocol.c:
+git grep -w lcd_init | grep -q -v -F -e '.h:' -e drivers/staging/panel/panel.c:
+git grep -w panel_init | grep -q -v -F -e '.h:' -e drivers/staging/panel/panel.c:
+git grep -w zcache_preloads | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_new_client | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_pampd_create | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_dstmem | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_new_pool | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_autocreate_pool | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_cleancache_register_ops | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w zcache_frontswap_register_ops | grep -q -v -F -e '.h:' -e drivers/staging/ramster/zcache-main.c:
+git grep -w cops_probe | grep -q -v -F -e '.h:' -e drivers/net/appletalk/cops.c:
+git grep -w ltpc_probe | grep -q -v -F -e '.h:' -e drivers/net/appletalk/ltpc.c:
+: /dev/shm/make-it-static-e93d083f42a126b5ad8137b5f0e8d6f900b332b8-i386-allmodconfig.log
+: /dev/shm/make-it-static-e93d083f42a126b5ad8137b5f0e8d6f900b332b8-i386-allmodconfig.log
+ERR: line=drivers/acpi/acpica/acglobal.h:396:17: sparse: symbol 'acpi_method_count' was not declared. Should it be static? file= symbol=acpi_method_count
+ERR: line=drivers/acpi/acpica/acglobal.h:398:17: sparse: symbol 'acpi_sci_count' was not declared. Should it be static? file= symbol=acpi_sci_count
+git grep -w acpi_gbl_default_address_spaces | grep -q -v -F -e '.h:' -e drivers/acpi/acpica/evhandler.c:
+: /dev/shm/make-it-static-536ff06aba714c1d2d53cfca86b1a2e455842387-i386-allmodconfig.log
+: /dev/shm/make-it-static-536ff06aba714c1d2d53cfca86b1a2e455842387-i386-allmodconfig.log
+: /dev/shm/make-it-static-6a099c63650e50ebf7d1259b859a3d230aec4207-i386-allmodconfig.log
+: /dev/shm/make-it-static-6a099c63650e50ebf7d1259b859a3d230aec4207-i386-allmodconfig.log
+: /dev/shm/make-it-static-338b0bf3b400de38e4ce414dd7154e22656136ff-i386-allmodconfig.log
+: /dev/shm/make-it-static-338b0bf3b400de38e4ce414dd7154e22656136ff-i386-allmodconfig.log
+: /dev/shm/make-it-static-16c906e51c6f08a15763a85b5686e1ded35e77ab-i386-allmodconfig.log
+: /dev/shm/make-it-static-16c906e51c6f08a15763a85b5686e1ded35e77ab-i386-allmodconfig.log
+: /dev/shm/make-it-static-152834694dcb90d3088bc77fa436755c66553929-i386-allmodconfig.log
+: /dev/shm/make-it-static-152834694dcb90d3088bc77fa436755c66553929-i386-allmodconfig.log
+: /dev/shm/make-it-static-1757d902b029a29dfcef63609964385cf8865b5a-i386-allmodconfig.log
+: /dev/shm/make-it-static-1757d902b029a29dfcef63609964385cf8865b5a-i386-allmodconfig.log
+grep 'EXPORT_SYMBOL.*(sdhci_disable_irq_wakeups)' 'weak.* sdhci_disable_irq_wakeups' /c/kernel-tests/src/linux/drivers/mmc/host/sdhci.c
+: /dev/shm/make-it-static-9e2d493e74aca105aa86de56dbf80a0a654c4c53-i386-allmodconfig.log
+: /dev/shm/make-it-static-9e2d493e74aca105aa86de56dbf80a0a654c4c53-i386-allmodconfig.log

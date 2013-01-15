@@ -1,0 +1,3 @@
+fs/affs/inode.c:200 affs_write_inode() Error invalid range -1 to -65536
+
+2012-09-07 22:42:04 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

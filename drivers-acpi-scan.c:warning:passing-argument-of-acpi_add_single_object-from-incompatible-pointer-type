@@ -1,0 +1,3 @@
+drivers/acpi/scan.c:1435:3: warning: passing argument 5 of 'acpi_add_single_object' from incompatible pointer type [enabled by default]
+
+2012-09-26 12:48:02 bee thermal:next:5d8d708 um-allyesconfig f4a821c

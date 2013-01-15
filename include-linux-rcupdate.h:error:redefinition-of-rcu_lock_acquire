@@ -1,0 +1,6 @@
+include/linux/rcupdate.h:286:20: error: redefinition of 'rcu_lock_acquire'
+
+2012-09-06 08:28:23 lkp-mb01 rcu:rcu:idle:dea42dc i386-randconfig-m011 f105e7d
+2012-09-07 07:54:54 bee rcu:rcu:next:5e9c338 x86_64-allyesconfig f105e7d
+2012-09-07 08:41:15 kbuild rcu:dev.2012.09.05a:5e9c338 x86_64-allmodconfig f105e7d
+2012-09-07 09:09:20 bee rcu:idle.2012.09.04a:dea42dc x86_64-allyesdebian f105e7d

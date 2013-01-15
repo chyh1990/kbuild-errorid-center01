@@ -1,0 +1,3 @@
+drivers/gpu/drm/vmwgfx/vmwgfx_resource.c:109:13: sparse: context imbalance in 'vmw_resource_release' - unexpected unlock
+
+2013-01-09 13:03:14 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

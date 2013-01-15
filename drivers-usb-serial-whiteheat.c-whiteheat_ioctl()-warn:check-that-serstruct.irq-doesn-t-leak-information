@@ -1,0 +1,3 @@
+drivers/usb/serial/whiteheat.c:473 whiteheat_ioctl() warn: check that 'serstruct.irq' doesn't leak information
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

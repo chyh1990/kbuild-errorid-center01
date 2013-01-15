@@ -1,0 +1,3 @@
+arch/x86/kernel/microcode_intel_early.c:160 get_matching_model_microcode() warn: 'mc_saved_tmp' puts 512 bytes on stack
+
+2012-12-01 10:31:03 kbuild devel-kbuild-i386-2012-12-01-09-35:ea7cdc6 i386-allyesconfig ea7cdc6

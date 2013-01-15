@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/netfilter/nfnetlink_log.c:488 __build_packet_message() error: we previously assumed 'skb->dev' could be null (see line 476)
+
+2013-01-07 12:24:54 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

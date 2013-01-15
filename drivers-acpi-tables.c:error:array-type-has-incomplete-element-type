@@ -1,0 +1,3 @@
+drivers/acpi/tables.c:43:31: error: array type has incomplete element type
+
+2012-09-26 12:49:01 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

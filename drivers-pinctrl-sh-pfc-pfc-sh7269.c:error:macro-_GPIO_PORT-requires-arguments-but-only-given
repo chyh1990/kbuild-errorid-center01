@@ -1,0 +1,21 @@
+drivers/pinctrl/sh-pfc/pfc-sh7269.c:1457:16: error: macro "_GPIO_PORT" requires 2 arguments, but only 1 given
+
+2013-01-04 03:51:37 lkp-mb01 devel-lkp-mb01-blackfin-2013-01-04-03-27:f8474bf sh-rsk7269_defconfig f8474bf
+2013-01-04 08:31:52 lkp-mb01 pinchartl-fbdev:pinmux-dt:b9e023a sh-rsk7269_defconfig b9e023a
+2013-01-09 06:57:41 lkp-mb01 pinchartl-fbdev:pinmux-dt:81b225f sh-rsk7269_defconfig 81b225f
+2013-01-09 07:47:05 lkp-mb01 pinchartl-fbdev:pinmux-pinctrl:a48a33a sh-rsk7269_defconfig a48a33a
+2013-01-09 10:30:55 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e sh-rsk7269_defconfig 219523e
+2013-01-09 11:07:00 lkp-mb01 pinchartl-fbdev:pinmux-pinctrl:dd9928c sh-rsk7269_defconfig dd9928c
+2013-01-09 21:41:13 lkp-mb01 renesas:next:12a7bdc sh-rsk7269_defconfig 12a7bdc
+2013-01-09 23:28:44 lkp-mb01 renesas:pfc4:ea247f0 sh-rsk7269_defconfig ea247f0
+2013-01-10 00:07:34 lkp-mb01 renesas:soc3:bdcc814 sh-rsk7269_defconfig bdcc814
+2013-01-10 09:37:44 lkp-mb01 renesas:next:40249b4 sh-rsk7269_defconfig 40249b4
+2013-01-10 14:15:54 lkp-mb01 renesas:next:d3ed82d sh-rsk7269_defconfig d3ed82d
+2013-01-10 14:50:37 lkp-mb01 renesas:pfc4:a819895 sh-rsk7269_defconfig a819895
+2013-01-10 15:29:55 lkp-mb01 renesas:soc3:357e817 sh-rsk7269_defconfig 357e817
+2013-01-10 17:26:23 lkp-mb01 renesas:boards:a625586 sh-rsk7269_defconfig a625586
+2013-01-10 17:54:00 lkp-mb01 renesas:pfc3:acb43f7 sh-rsk7269_defconfig acb43f7
+2013-01-10 22:35:56 lkp-mb01 pinchartl-fbdev:pinmux-dt:5172c24 sh-rsk7269_defconfig 5172c24
+2013-01-11 16:38:04 lkp-mb01 renesas:next:8a15713 sh-rsk7269_defconfig 8a15713
+2013-01-14 15:55:18 lkp-mb01 next:master:586a9ca sh-rsk7269_defconfig 586a9ca
+2013-01-14 16:35:23 lkp-mb01 next:akpm:17e836d sh-rsk7269_defconfig 17e836d

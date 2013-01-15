@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-taos-evm.c:80:4: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:08:35 bee samsung:v4l-next:fa54a52 x86_64-randconfig-x063 1cd2c27

@@ -1,0 +1,3 @@
+drivers/w1/masters/ds2490.c:621 ds_write_byte() Error invalid range 1 to 0
+
+2012-09-12 11:58:53 kbuild security:next:a40695e i386-allyesconfig a40695e

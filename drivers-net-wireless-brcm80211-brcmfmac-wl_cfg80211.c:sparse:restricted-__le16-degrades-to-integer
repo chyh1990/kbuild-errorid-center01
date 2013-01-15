@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:750:33: sparse: restricted __le16 degrades to integer
+
+2012-09-14 22:37:18 snb iwlwifi:master:99f314c i386-allmodconfig e756af5

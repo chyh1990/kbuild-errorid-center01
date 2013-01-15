@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_cp.c:94:40: sparse: incorrect type in assignment (different base types)
+
+2013-01-09 13:10:37 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

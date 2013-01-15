@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/sdio_chip.c:249:17: warning: array subscript is above array bounds [-Warray-bounds]
+
+2012-09-21 08:57:07 snb signal:master:d38625a x86_64-randconfig-s365 88499d5

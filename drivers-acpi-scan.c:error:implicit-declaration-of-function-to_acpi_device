@@ -1,0 +1,3 @@
+drivers/acpi/scan.c:74:9: error: implicit declaration of function 'to_acpi_device' [-Werror=implicit-function-declaration]
+
+2012-09-26 12:49:03 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

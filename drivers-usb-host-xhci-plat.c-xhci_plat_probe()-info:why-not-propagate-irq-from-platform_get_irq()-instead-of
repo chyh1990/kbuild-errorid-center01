@@ -1,0 +1,3 @@
+drivers/usb/host/xhci-plat.c:101 xhci_plat_probe() info: why not propagate 'irq' from platform_get_irq() instead of -19?
+
+2012-09-12 11:57:22 kbuild security:next:a40695e i386-allyesconfig a40695e

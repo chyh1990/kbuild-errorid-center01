@@ -1,0 +1,3 @@
+fs/nfs/nfsroot.c:232:3: warning: pointer targets in passing argument 1 of 'root_nfs_parse_options' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:36:39 bee nfs:testing:f743c73 x86_64-allyesconfig a9c310a

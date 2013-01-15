@@ -1,0 +1,5 @@
+ERROR: ".pci_next_resource_idx" [drivers/pci/hotplug/pciehp.ko] undefined!
+
+2012-09-04 06:58:14 kbuild yinghai:for-pci-for-each-res-addon-v2:fad110b powerpc-allmodconfig a7c9187
+2012-09-15 16:24:54 kbuild yinghai:master:156b34a powerpc-allmodconfig 3f79a3b
+2012-09-16 06:16:05 kbuild yinghai:for-x86-irq:c0c1cc6 powerpc-allmodconfig 6130217

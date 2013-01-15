@@ -1,0 +1,3 @@
+drivers/acpi/power.c:90:28: sparse: symbol 'acpi_power_get_context' was not declared. Should it be static?
+
+2013-01-12 09:31:48 snb devel-snb-i386-2013-01-12-09-12:89ff1f5 i386-allmodconfig 89ff1f5

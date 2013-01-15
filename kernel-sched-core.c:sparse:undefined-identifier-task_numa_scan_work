@@ -1,0 +1,3 @@
+kernel/sched/core.c:1574:44: sparse: undefined identifier 'task_numa_scan_work'
+
+2012-12-01 16:07:38 snb tip:master:a8669c8 i386-allmodconfig a8669c8

@@ -1,0 +1,3 @@
+drivers/scsi/scsi_debug.c:3227:1: sparse: symbol 'driver_attr_removable' was not declared. Should it be static?
+
+2012-09-18 21:09:46 snb scsi:misc:3add2e9 i386-allmodconfig 3add2e9

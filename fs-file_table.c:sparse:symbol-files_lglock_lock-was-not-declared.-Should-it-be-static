@@ -1,0 +1,3 @@
+fs/file_table.c:39:1: sparse: symbol 'files_lglock_lock' was not declared. Should it be static?
+
+2013-01-09 13:14:56 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

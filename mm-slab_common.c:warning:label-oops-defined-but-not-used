@@ -1,0 +1,3 @@
+mm/slab_common.c:101:1: warning: label 'oops' defined but not used [-Wunused-label]
+
+2012-09-10 15:10:44 snb glommer-memcg:kmemcg-slab:b20a4ab i386-alldefconfig 3bc226b

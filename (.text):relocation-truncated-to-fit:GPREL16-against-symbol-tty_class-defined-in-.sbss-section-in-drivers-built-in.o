@@ -1,0 +1,4 @@
+(.text+0x2251c): relocation truncated to fit: GPREL16 against symbol `tty_class' defined in .sbss section in drivers/built-in.o
+
+2012-10-05 05:40:44 inn internal-bluetooth-hs:master:c89ce1b alpha-defconfig a4ed534
+2012-10-05 05:40:44 inn internal-bluetooth-hs:master:c89ce1b alpha-defconfig a4ed534 email notified

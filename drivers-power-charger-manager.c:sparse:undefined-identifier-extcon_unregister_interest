@@ -1,0 +1,3 @@
+drivers/power/charger-manager.c:1637:25: sparse: undefined identifier 'extcon_unregister_interest'
+
+2012-11-20 20:11:21 snb devel-snb-i386-2012-11-20-19-43:04f0a30 i386-allmodconfig 04f0a30

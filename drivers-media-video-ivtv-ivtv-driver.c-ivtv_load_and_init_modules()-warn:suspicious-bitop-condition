@@ -1,0 +1,3 @@
+drivers/media/video/ivtv/ivtv-driver.c:946 ivtv_load_and_init_modules() warn: suspicious bitop condition
+
+2012-09-07 22:42:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,8 @@
+include/acpi/actbl3.h:526:2: error: unknown type name 'ACPI_RASF_PARAMETER_BLOCK'
+
+2013-01-11 21:36:55 bee acpica:acpica-zetalog:402fc45 x86_64-allyesconfig a3aef64
+2013-01-11 21:37:19 bee x86_64 email notified
+2013-01-11 21:46:30 kbuild devel-kbuild-i386-2013-01-11-21-35:ba2b1e0 i386-allyesconfig ba2b1e0
+2013-01-11 21:57:26 snb devel-snb-i386-2013-01-11-21-48:47592cd i386-alldefconfig 47592cd
+2013-01-11 22:19:38 bee devel-bee-i386-2013-01-11-21-53:76e01b8 i386-randconfig-b030 76e01b8
+2013-01-11 22:28:57 hive devel-hive-ia64-2013-01-11-22-22:b2d08e3 ia64-alldefconfig b2d08e3

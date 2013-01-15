@@ -1,0 +1,6 @@
+kernel/audit.o:audit.c:(.text+0x13ab): first defined here
+
+2012-12-12 16:05:54 snb devel-snb-x86_64-2012-12-12-15-50:9b48b76 x86_64-randconfig-s451 9b48b76
+2012-12-12 16:05:52 bee devel-bee-x86_64-2012-12-12-15-50:dd45af5 x86_64-nfsroot dd45af5
+2012-12-12 16:13:50 lkp-mb01 devel-lkp-mb01-i386-2012-12-12-15-51:bad7d43 i386-randconfig-m012 bad7d43
+2012-12-12 16:16:22 bee devel-bee-i386-2012-12-12-15-50:a18dc2e i386-randconfig-b877 a18dc2e

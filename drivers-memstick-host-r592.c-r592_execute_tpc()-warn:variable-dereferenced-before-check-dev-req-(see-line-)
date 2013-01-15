@@ -1,0 +1,3 @@
+drivers/memstick/host/r592.c:461 r592_execute_tpc() warn: variable dereferenced before check 'dev->req' (see line 457)
+
+2013-01-09 13:27:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

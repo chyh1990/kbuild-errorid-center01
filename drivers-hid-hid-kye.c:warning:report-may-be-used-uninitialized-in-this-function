@@ -1,0 +1,3 @@
+drivers/hid/hid-kye.c:364:22: warning: 'report' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-30 19:29:54 bee i386 /cc/kernel-tests/commit-list/crypto:master:76f16f8 76f16f83ee520d6c10356b0f6ff592441a6f08bd

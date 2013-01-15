@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_drv.h:1435:17: warning: 'reg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-20 10:39:29 inn internal-hle:hsw:pmu2:8a59aba x86_64-randconfig-i024 8a59aba

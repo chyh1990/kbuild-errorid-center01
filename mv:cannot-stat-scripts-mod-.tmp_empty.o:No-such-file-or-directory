@@ -1,0 +1,3 @@
+mv: cannot stat `scripts/mod/.tmp_empty.o': No such file or directory
+
+2012-09-04 01:41:36 bee tip:master:433ed0e x86_64-allyesconfig a5325e9

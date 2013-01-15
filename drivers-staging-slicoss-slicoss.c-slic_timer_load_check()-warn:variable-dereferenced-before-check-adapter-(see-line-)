@@ -1,0 +1,3 @@
+drivers/staging/slicoss/slicoss.c:906 slic_timer_load_check() warn: variable dereferenced before check 'adapter' (see line 904)
+
+2013-01-09 13:27:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+ipc/compat.c:376:542: warning: 'msgp' is used uninitialized in this function [-Wuninitialized]
+
+2012-09-19 19:22:39 snb cr:crtools-3.6-rc5:36cd026 x86_64-randconfig-s351 36cd026
+2012-09-19 19:27:57 snb x86_64 email notified

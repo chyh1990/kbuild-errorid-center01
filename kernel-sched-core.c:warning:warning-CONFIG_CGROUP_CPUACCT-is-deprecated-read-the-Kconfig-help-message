@@ -1,0 +1,4 @@
+kernel/sched/core.c:8572:2: warning: #warning CONFIG_CGROUP_CPUACCT is deprecated, read the Kconfig help message [-Wcpp]
+
+2012-09-20 04:46:59 bee cgroup:review-deprecate-cpuacct:60b1816 x86_64-allyesdebian 60b1816
+2012-09-20 04:49:56 bee x86_64 email notified

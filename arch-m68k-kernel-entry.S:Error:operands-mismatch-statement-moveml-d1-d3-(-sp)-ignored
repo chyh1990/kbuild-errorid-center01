@@ -1,0 +1,4 @@
+arch/m68k/kernel/entry.S:117: Error: operands mismatch -- statement `moveml %d1-%d3,-(%sp)' ignored
+
+2012-09-08 21:54:53 snb signal:master:aad206f m68k-m5475evb_defconfig 28ba6e3
+2012-09-09 02:02:59 snb signal:master:b33f90c m68k-m5475evb_defconfig ae75cc5

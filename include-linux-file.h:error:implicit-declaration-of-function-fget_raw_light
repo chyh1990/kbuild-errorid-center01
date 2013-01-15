@@ -1,0 +1,4 @@
+include/linux/file.h:53:9: error: implicit declaration of function 'fget_raw_light' [-Werror=implicit-function-declaration]
+
+2012-09-27 14:06:18 kbuild vfs:for-next:49de614 x86_64-allmodconfig a5b470b
+2012-09-27 14:13:52 kbuild x86_64 email notified

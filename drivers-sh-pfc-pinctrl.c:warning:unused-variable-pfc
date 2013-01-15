@@ -1,0 +1,3 @@
+drivers/sh/pfc/pinctrl.c:279:17: warning: unused variable 'pfc' [-Wunused-variable]
+
+2012-07-24 12:07:49 snb arm /cc/kernel-tests/commit-list/linus:master:f0a08fc 47b170af84d18b736bb35932823ec01cfcfe1967

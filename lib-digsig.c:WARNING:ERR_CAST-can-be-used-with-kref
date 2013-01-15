@@ -1,0 +1,3 @@
+lib/digsig.c:225:9-16: WARNING: ERR_CAST can be used with kref
+
+2012-08-17 20:10:17 snb digsig:working:8d76104 i386-allmodconfig 0624e57

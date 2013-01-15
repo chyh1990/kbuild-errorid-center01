@@ -1,0 +1,3 @@
+arch/x86/kernel/nmi.c:283:17: warning: expression using sizeof bool
+
+2012-09-07 22:41:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

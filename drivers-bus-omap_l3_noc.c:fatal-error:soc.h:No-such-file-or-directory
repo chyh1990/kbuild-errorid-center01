@@ -1,0 +1,6 @@
+drivers/bus/omap_l3_noc.c:31:17: fatal error: soc.h: No such file or directory
+
+2012-09-20 00:25:27 snb arm-soc:for-next:8ebc882 arm-omap2plus_defconfig 8ebc882
+2012-09-20 11:57:53 snb omap-dt:for_3.7:dts_part2:3414ab9 arm-omap2plus_defconfig 3414ab9
+2012-09-20 16:12:32 snb next:akpm:7e926d7 arm-omap2plus_defconfig 7e926d7
+2012-10-02 10:56:29 snb linus:master:9cd11c0 arm-omap2plus_defconfig 9cd11c0

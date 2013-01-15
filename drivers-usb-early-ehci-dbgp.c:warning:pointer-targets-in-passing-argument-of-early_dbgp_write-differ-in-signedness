@@ -1,0 +1,3 @@
+drivers/usb/early/ehci-dbgp.c:1038:2: warning: pointer targets in passing argument 2 of 'early_dbgp_write' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:26 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

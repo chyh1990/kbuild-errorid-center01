@@ -1,0 +1,3 @@
+drivers/video/matrox/matroxfb_Ti3026.c:306:2: warning: pointer targets in passing argument 4 of 'Ti3026_calcclock' differ in signedness [-Wpointer-sign]
+
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x070 a6df3fd

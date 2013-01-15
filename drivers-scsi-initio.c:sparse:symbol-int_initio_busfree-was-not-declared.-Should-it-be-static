@@ -1,0 +1,3 @@
+drivers/scsi/initio.c:1858:5: sparse: symbol 'int_initio_busfree' was not declared. Should it be static?
+
+2013-01-09 13:08:05 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

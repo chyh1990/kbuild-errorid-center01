@@ -1,0 +1,14 @@
+kernel/signal.c:3177:5: error: conflicting types for '__compat_save_altstack'
+
+2012-11-21 04:43:19 hive signal:master:c8377f5 x86_64-randconfig-h291 c8377f5
+2012-11-21 04:49:13 snb devel-snb-x86_64-2012-11-21-04-40:1ba6d49 x86_64-randconfig-s301 1ba6d49
+2012-11-21 05:00:40 hive devel-hive-mips-2012-11-21-04-34:8888b2d mips-fuloong2e_defconfig 8888b2d
+2012-11-21 05:01:08 kbuild devel-kbuild-powerpc-2012-11-21-04-40:dc66aad powerpc-allmodconfig dc66aad
+2012-11-21 05:12:27 kbuild devel-kbuild-x86_64-2012-11-21-05-04:cf8da61 x86_64-allmodconfig cf8da61
+2012-11-21 05:48:09 bee signal:master:8038217 x86_64-allyesdebian 8038217
+2012-11-21 05:53:36 snb devel-snb-x86_64-2012-11-21-05-35:6796d78 x86_64-randconfig-s301 6796d78
+2012-11-21 06:08:24 hive devel-hive-x86_64-2012-11-21-05-59:ec96315 x86_64-randconfig-h291 ec96315
+2012-11-21 06:26:21 hive devel-hive-mips-2012-11-21-05-49:15d8368 mips-fuloong2e_defconfig 15d8368
+2012-11-21 06:42:08 bee devel-bee-sparc64-2012-11-21-06-24:2963617 powerpc-chroma_defconfig 2963617
+2012-11-21 06:43:08 kbuild devel-kbuild-powerpc-2012-11-21-06-32:dddd3b4 powerpc-allmodconfig dddd3b4
+2012-11-21 07:16:38 snb devel-snb-arm-2012-11-21-05-35:583a53c tile-tilegx_defconfig 583a53c

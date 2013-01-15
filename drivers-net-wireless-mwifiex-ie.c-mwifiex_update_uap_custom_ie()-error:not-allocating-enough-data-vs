@@ -1,0 +1,3 @@
+drivers/net/wireless/mwifiex/ie.c:163 mwifiex_update_uap_custom_ie() error: not allocating enough data 4196 vs 262
+
+2012-10-19 01:59:15 kbuild tip:master:db7d985 i386-allyesconfig db7d985

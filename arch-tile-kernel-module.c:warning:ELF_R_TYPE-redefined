@@ -1,0 +1,3 @@
+arch/tile/kernel/module.c:30:0: warning: "ELF_R_TYPE" redefined [enabled by default]
+
+2012-09-07 16:17:55 snb next:akpm:d28e1f3 tile-tilegx_defconfig 4d0e8b7

@@ -1,0 +1,3 @@
+include/linux/bitops.h:164 fls_long() info: ignoring unreachable code.
+
+2012-11-05 18:51:01 kbuild yuanhan:kfifo:e1d4930 i386-allyesconfig e1d4930

@@ -1,0 +1,4 @@
+arch/powerpc/platforms/powernv/pci-ioda.c:1164:13: error: 'struct pci_dev' has no member named 'pcie_type'
+
+2012-09-11 10:52:31 kbuild pci:next:488f54c powerpc-allmodconfig 488f54c
+2012-09-11 10:52:31 kbuild powerpc email notified

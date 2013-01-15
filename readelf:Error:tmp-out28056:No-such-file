@@ -1,0 +1,3 @@
+readelf: Error: '/tmp/out28056': No such file
+
+2012-08-11 09:03:55 hive ia64 /cc/kernel-tests/commit-list/tty:tty-linus:7d9739c b53cc0fadef59583a9056c973e639852bed47e73

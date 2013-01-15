@@ -1,0 +1,4 @@
+include/net/xfrm.h:730:6: error: unknown type name 'kuidt_t'
+
+2012-08-23 10:35:38 hive userns:userns-always-map-user-v47:ec9c45e x86_64-randconfig-h761 681df08
+2012-08-23 10:35:44 hive x86_64 email notified

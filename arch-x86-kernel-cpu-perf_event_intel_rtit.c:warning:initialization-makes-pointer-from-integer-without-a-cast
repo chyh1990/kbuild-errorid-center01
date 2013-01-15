@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:104:15: warning: initialization makes pointer from integer without a cast [enabled by default]
+
+2012-10-09 16:29:29 inn internal-ashishki:rtit-proto:ff40f57 x86_64-randconfig-i010 6bd0bd6

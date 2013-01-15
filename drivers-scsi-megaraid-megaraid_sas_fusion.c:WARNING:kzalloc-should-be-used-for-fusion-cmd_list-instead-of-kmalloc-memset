@@ -1,0 +1,4 @@
+drivers/scsi/megaraid/megaraid_sas_fusion.c:465:20-27: WARNING: kzalloc should be used for fusion -> cmd_list, instead of kmalloc/memset
+
+2012-08-24 21:05:37 snb scsi:for-next:fec178b i386-allmodconfig fec178b
+2012-08-24 21:27:39 snb i386 email notified

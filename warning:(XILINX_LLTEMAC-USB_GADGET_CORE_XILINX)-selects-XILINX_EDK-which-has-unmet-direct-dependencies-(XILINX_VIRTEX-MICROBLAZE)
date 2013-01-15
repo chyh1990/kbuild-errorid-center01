@@ -1,0 +1,3 @@
+warning: (XILINX_LLTEMAC && USB_GADGET_CORE_XILINX) selects XILINX_EDK which has unmet direct dependencies (XILINX_VIRTEX || MICROBLAZE)
+
+2012-12-11 16:52:41 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690

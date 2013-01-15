@@ -1,0 +1,15 @@
+sound/pci/ice1712/psc724.c:417:5: error: 'struct snd_ice1712' has no member named 'pm_resume'
+
+2012-10-17 16:06:33 snb sound:master:afa64e8 x86_64-randconfig-s080 afa64e8
+2012-10-17 16:50:02 snb sound-unstable:master:b2173ce x86_64-randconfig-s080 b2173ce
+2012-10-17 16:54:29 snb sound:for-next:a2af050 x86_64-randconfig-s080 77b0b25
+2012-10-21 02:44:46 bee devel-bee-i386-2012-10-21-01-30:fab9009 i386-randconfig-b277 fab9009
+2012-10-21 16:28:59 bee sound:master:5cab771 i386-randconfig-b277 5cab771
+2012-10-21 16:30:18 bee sound:for-next:4d4ca1e i386-randconfig-b277 4d4ca1e
+2012-10-21 16:49:24 bee sound:master:f44c019 i386-randconfig-b277 f44c019
+2012-10-21 16:52:15 bee sound:for-next:950f40f i386-randconfig-b277 950f40f
+2012-10-21 17:02:23 bee sound:master:76227bd i386-randconfig-b277 76227bd
+2012-10-21 17:03:36 bee sound:for-next:999fc9f i386-randconfig-b277 999fc9f
+2012-10-21 20:27:51 bee sound:master:9af2776 i386-randconfig-b277 9af2776
+2012-10-21 20:29:11 bee sound:for-next:7a75e74 i386-randconfig-b277 7a75e74
+2012-10-21 22:21:03 bee sound-unstable:master:124c56e i386-randconfig-b277 124c56e

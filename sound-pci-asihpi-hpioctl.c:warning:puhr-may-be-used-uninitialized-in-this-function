@@ -1,0 +1,3 @@
+sound/pci/asihpi/hpioctl.c:297:17: warning: 'puhr' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-20 00:49:13 bee rcu:nocb.2012.09.19a:ea163d5 i386-randconfig-b042 ea163d5

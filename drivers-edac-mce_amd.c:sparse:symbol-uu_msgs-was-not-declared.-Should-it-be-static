@@ -1,0 +1,3 @@
+drivers/edac/mce_amd.c:68:12: sparse: symbol 'uu_msgs' was not declared. Should it be static?
+
+2012-12-21 11:46:22 snb devel-snb-i386-2012-12-21-10-46:a7b1304 i386-allmodconfig a7b1304

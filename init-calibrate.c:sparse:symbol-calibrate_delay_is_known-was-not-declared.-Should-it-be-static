@@ -1,0 +1,3 @@
+init/calibrate.c:257:47: sparse: symbol 'calibrate_delay_is_known' was not declared. Should it be static?
+
+2013-01-09 13:13:45 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

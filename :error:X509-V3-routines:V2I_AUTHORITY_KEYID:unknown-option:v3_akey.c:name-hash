@@ -1,0 +1,4 @@
+46938183435048:error:22077078:X509 V3 routines:V2I_AUTHORITY_KEYID:unknown option:v3_akey.c:143:name=hash
+
+2012-09-22 21:20:31 kbuild modsign:modsign-post-KS:54b842c i386-allyesconfig 54b842c
+2012-09-25 04:18:02 kbuild modsign:modsign-post-KS:8d4f626 x86_64-allmodconfig 798049d

@@ -1,0 +1,3 @@
+drivers/scsi/ipr.c:8700:16: warning: array subscript is above array bounds [-Warray-bounds]
+
+2012-12-17 19:18:53 bee scsi:for-next:7ff768a i386-randconfig-x243 7af0de3

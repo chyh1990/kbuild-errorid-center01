@@ -1,0 +1,3 @@
+drivers/isdn/i4l/isdn_common.c:1308 isdn_ioctl() warn: function puts 544 bytes on stack
+
+2013-01-09 13:27:46 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nouveau_drm.c:235 nouveau_drm_probe() Error invalid range 4096 to -1
+
+2012-09-19 00:36:24 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19
+2012-09-19 01:21:34 kbuild i386 email notified

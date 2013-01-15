@@ -1,0 +1,3 @@
+drivers/cpufreq/cpufreq.c:881:2: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+
+2013-01-12 21:58:32 snb pm:linux-next:6da2315 x86_64-randconfig-s637 85b6538

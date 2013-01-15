@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8996.c:1984:32: warning: 'fratio' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 17:29:58 bee yinghai:for-pci-root-bus-hotplug:48da02a i386-randconfig-b032 48da02a

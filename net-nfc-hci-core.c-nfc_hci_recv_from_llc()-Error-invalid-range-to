@@ -1,0 +1,4 @@
+net/nfc/hci/core.c:676 nfc_hci_recv_from_llc() Error invalid range 4096 to -1
+
+2012-09-14 08:37:03 kbuild nfc:nfc-next:73fecc5 i386-allyesconfig 73fecc5
+2012-09-14 08:37:04 kbuild i386 email notified

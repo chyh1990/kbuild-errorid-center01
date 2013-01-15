@@ -1,0 +1,3 @@
+drivers/mfd/twl4030-audio.c:121:5: sparse: symbol 'twl4030_audio_disable_resource' redeclared with different type (originally declared at include/linux/mfd/twl4030-audio.h:268) - incompatible argument 1 (different signedness)
+
+2013-01-09 13:11:48 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

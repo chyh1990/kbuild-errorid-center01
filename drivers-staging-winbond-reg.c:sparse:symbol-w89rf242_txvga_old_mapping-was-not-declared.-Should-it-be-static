@@ -1,0 +1,3 @@
+drivers/staging/winbond/reg.c:718:5: sparse: symbol 'w89rf242_txvga_old_mapping' was not declared. Should it be static?
+
+2013-01-09 13:01:06 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/cb_pcidas.c:1591 cb_pcidas_attach() warn: 'pcidev->irq' was not released on error
+
+2012-09-12 11:57:24 kbuild security:next:a40695e i386-allyesconfig a40695e

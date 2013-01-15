@@ -1,0 +1,3 @@
+kernel/sys.c:1287:10: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-10-12 15:40:30 snb next:master:6b35893 mn10300-asb2364_defconfig 6b35893

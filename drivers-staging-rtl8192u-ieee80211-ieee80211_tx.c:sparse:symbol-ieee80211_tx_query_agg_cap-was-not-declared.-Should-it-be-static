@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_tx.c:306:6: sparse: symbol 'ieee80211_tx_query_agg_cap' was not declared. Should it be static?
+
+2013-01-09 12:51:28 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/acpi/power.c:64:36: warning: 'power_device_ids' defined but not used [-Wunused-variable]
+
+2012-09-26 12:47:58 bee thermal:next:5d8d708 um-allyesconfig f4a821c

@@ -1,0 +1,3 @@
+fs/pstore/ftrace.c:51:2: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-09-11 14:53:23 kbuild next:akpm:e24454b x86_64-allmodconfig 8710aa9

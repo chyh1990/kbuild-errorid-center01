@@ -1,0 +1,5 @@
+make[3]: *** No rule to make target `drivers/staging/sm7xx'.
+
+2012-09-02 21:55:23 bee sound-unstable:master:59627ec x86_64-randconfig-x850 7a73bf9
+2012-09-02 22:03:18 bee sound:master:7a73bf9 x86_64-randconfig-x850 7a73bf9
+2012-09-05 22:53:54 bee hid:for-next:a252af0 x86_64-allyesconfig 72ceeaa

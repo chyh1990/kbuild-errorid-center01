@@ -1,0 +1,4 @@
+net/ipv6/addrconf.c:1143:2-21: iterator with update on line 1203
+
+2012-09-06 20:36:03 snb can:master:7b95241 i386-allmodconfig b3f644f
+2012-09-06 20:36:10 snb i386 email notified

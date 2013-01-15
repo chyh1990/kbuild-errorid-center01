@@ -1,0 +1,4 @@
+arch/powerpc/kernel/pci_64.c:215:20: error: unused variable 'ln' [-Werror=unused-variable]
+
+2012-09-26 10:03:42 bee devel-bee-sparc64-2012-09-26-09-52:38d4563 powerpc-chroma_defconfig 38d4563
+2012-09-26 10:10:43 kbuild devel-kbuild-powerpc-2012-09-26-09-56:0def34c powerpc-defconfig 0def34c

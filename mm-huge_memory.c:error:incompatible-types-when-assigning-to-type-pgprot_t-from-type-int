@@ -1,0 +1,3 @@
+mm/huge_memory.c:1424:7: error: incompatible types when assigning to type 'pgprot_t' from type 'int'
+
+2012-10-18 13:59:18 lkp-mb01 next:master:d646959 s390-allmodconfig d646959

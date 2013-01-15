@@ -1,0 +1,3 @@
+warning: (VIDEO_CX23885 && DVB_USB_DW2102) selects DVB_DS3000 which has unmet direct dependencies (MEDIA_SUPPORT && DVB_CAPTURE_DRIVERS && DVB_CORE && I2C)
+
+2012-09-21 09:58:36 bee nfs:testing:9dfaead x86_64-randconfig-x020 b81b55e

@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_daq_700.c:557:22: sparse: symbol 'dio700_cs_driver' was not declared. Should it be static?
+
+2012-09-17 15:05:08 snb arm-soc:msm:boards:33fcb13 i386-allmodconfig 33fcb13

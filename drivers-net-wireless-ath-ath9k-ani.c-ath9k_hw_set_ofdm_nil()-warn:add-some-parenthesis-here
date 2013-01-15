@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/ani.c:297 ath9k_hw_set_ofdm_nil() warn: add some parenthesis here?
+
+2012-09-07 22:41:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

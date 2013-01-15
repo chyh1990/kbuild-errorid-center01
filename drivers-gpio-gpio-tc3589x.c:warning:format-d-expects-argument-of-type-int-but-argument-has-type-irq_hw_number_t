@@ -1,0 +1,3 @@
+drivers/gpio/gpio-tc3589x.c:264:2: warning: format '%d' expects argument of type 'int', but argument 3 has type 'irq_hw_number_t' [-Wformat]
+
+2012-11-01 00:51:07 hive ux500:dt-snowball:b78d8db x86_64-randconfig-h183 b78d8db

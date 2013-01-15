@@ -1,0 +1,3 @@
+warning: (IA64) selects PM which has unmet direct dependencies (PM_SLEEP || PM_RUNTIME)
+
+2012-07-25 19:17:50 hive ia64 /cc/kernel-tests/commit-list/modsign:devel-x509:a0c3602 e2faf6ee3cc2f8cfe1c18e8d31eaf01fa653fd79

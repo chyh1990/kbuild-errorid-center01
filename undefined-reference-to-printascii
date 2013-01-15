@@ -1,0 +1,10 @@
+(.text+0x8282): undefined reference to `printascii'
+
+2012-10-16 11:18:51 kbuild devel-kbuild-x86_64-2012-10-16-11-13:22017a5 x86_64-allmodconfig 22017a5
+2012-10-16 11:25:35 kbuild devel-kbuild-i386-2012-10-16-11-18:b116d82 i386-allyesconfig b116d82
+2012-10-16 11:26:04 bee stericsson:very-early-printk:fe365f8 powerpc-chroma_defconfig fe365f8
+2012-10-16 11:31:24 bee devel-bee-x86_64-2012-10-16-11-26:d0de2b4 x86_64-allyesdebian d0de2b4
+2012-10-16 11:32:52 snb devel-snb-x86_64-2012-10-16-11-24:1c11640 x86_64-randconfig-s070 1c11640
+2012-10-16 11:32:13 bee devel-bee-i386-2012-10-16-11-23:63fb157 i386-randconfig-b230 63fb157
+2012-10-16 11:46:13 snb devel-snb-i386-2012-10-16-11-44:ac03597 i386-alldefconfig ac03597
+2012-10-19 01:48:50 snb stericsson:very-early-printk:96dd1f6 arm-at91_dt_defconfig 96dd1f6

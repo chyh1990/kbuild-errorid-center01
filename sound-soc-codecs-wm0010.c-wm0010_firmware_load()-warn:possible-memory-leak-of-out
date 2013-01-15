@@ -1,0 +1,3 @@
+sound/soc/codecs/wm0010.c:500 wm0010_firmware_load() warn: possible memory leak of 'out'
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

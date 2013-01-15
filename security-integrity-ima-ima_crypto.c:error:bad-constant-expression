@@ -1,0 +1,4 @@
+security/integrity/ima/ima_crypto.c:50:47: error: bad constant expression
+
+2012-09-11 15:28:24 kbuild digsig:working:eec6995 i386-allyesconfig eec6995
+2012-09-11 16:39:13 kbuild i386 email notified

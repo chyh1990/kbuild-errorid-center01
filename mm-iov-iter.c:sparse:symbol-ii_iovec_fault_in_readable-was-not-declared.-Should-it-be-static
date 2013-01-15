@@ -1,0 +1,3 @@
+mm/iov-iter.c:346:5: sparse: symbol 'ii_iovec_fault_in_readable' was not declared. Should it be static?
+
+2012-10-18 03:14:41 snb shaggy:loop_v3:d6e6003 i386-allmodconfig d6e6003

@@ -1,0 +1,3 @@
+drivers/tty/serial/uartlite.c:641:13: sparse: symbol 'ulite_exit' was not declared. Should it be static?
+
+2013-01-09 13:20:10 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

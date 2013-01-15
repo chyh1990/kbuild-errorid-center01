@@ -1,0 +1,3 @@
+fs/logfs/super.c:43 emergency_read_begin() warn: inconsistent returns mutex:&emergency_mutex: locked (43) unlocked (32,41)
+
+2013-01-09 13:26:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

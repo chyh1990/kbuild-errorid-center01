@@ -1,0 +1,3 @@
+warning: (XEN_FBDEV_FRONTEND) selects INPUT_XEN_KBDDEV_FRONTEND which has unmet direct dependencies (!S390 && !UML && INPUT && INPUT_MISC && XEN)
+
+2013-01-09 12:24:06 bee char-misc:char-misc-next:627ca75 x86_64-randconfig-x903 627ca75

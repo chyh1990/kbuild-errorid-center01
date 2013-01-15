@@ -1,0 +1,3 @@
+include/linux/slab.h:224:45: error: its scope is only this definition or declaration, which is probably not what you want [-Werror]
+
+2012-10-12 23:25:49 lkp-mb01 glommer-memcg:kmemcg-slab:f7dc2a4 sh-allnoconfig f7dc2a4

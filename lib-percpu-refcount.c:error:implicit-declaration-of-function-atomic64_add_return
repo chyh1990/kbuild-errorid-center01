@@ -1,0 +1,6 @@
+lib/percpu-refcount.c:72:3: error: implicit declaration of function 'atomic64_add_return' [-Werror=implicit-function-declaration]
+
+2013-01-09 22:38:26 snb next:master:0f7b07b mn10300-asb2364_defconfig 0f7b07b
+2013-01-11 11:24:53 snb next:master:62406ac mn10300-asb2364_defconfig 62406ac
+2013-01-11 18:20:35 snb next:master:2184115 mn10300-asb2364_defconfig 2184115
+2013-01-12 00:29:46 snb next:akpm:40b6aaa mn10300-asb2364_defconfig 40b6aaa

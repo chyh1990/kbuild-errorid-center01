@@ -1,0 +1,7 @@
+kernel/sched/fair.c:727:28: error: 'struct sched_entity' has no member named 'cfs_rq'
+
+2012-12-26 20:54:54 hive glommer-memcg:cpu_stat-tmp:3a5337f x86_64-randconfig-h014 3a5337f
+2012-12-26 20:53:50 kbuild devel-kbuild-powerpc-2012-12-26-20-41:79ec3d2 powerpc-defconfig 79ec3d2
+2012-12-26 20:58:06 lkp-mb01 devel-lkp-mb01-i386-2012-12-26-20-45:5bb329e i386-randconfig-m041 5bb329e
+2012-12-26 21:11:53 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-26-20-45:89f1c4d sh-sh7785lcr_32bit_defconfig 89f1c4d
+2012-12-26 21:16:53 bee devel-bee-sparc64-2012-12-26-20-42:bdbb3a9 powerpc-gamecube_defconfig bdbb3a9

@@ -1,0 +1,3 @@
+drivers/isdn/pcbit/capi.c:459 capi_decode_conn_ind() warn: returning -1 instead of -ENOMEM is sloppy
+
+2013-01-09 13:27:16 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

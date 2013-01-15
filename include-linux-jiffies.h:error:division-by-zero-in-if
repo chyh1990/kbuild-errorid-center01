@@ -1,0 +1,4 @@
+include/linux/jiffies.h:43:42: error: division by zero in #if
+
+2012-08-19 20:12:46 snb arm-platforms:timers-next:1d64ace arm-allnoconfig 1d64ace
+2012-08-19 20:12:48 snb arm email notified

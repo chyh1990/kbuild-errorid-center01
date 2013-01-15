@@ -1,0 +1,3 @@
+drivers/staging/winbond/reg.c:343:5: sparse: symbol 'maxim_317_power_data_50' was not declared. Should it be static?
+
+2013-01-09 13:01:00 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

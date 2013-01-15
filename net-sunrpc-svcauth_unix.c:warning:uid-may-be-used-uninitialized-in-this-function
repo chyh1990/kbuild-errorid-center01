@@ -1,0 +1,3 @@
+net/sunrpc/svcauth_unix.c:533:14: warning: 'uid' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:19 bee next:akpm:ef2dca2 x86_64-nfsroot ef2dca2

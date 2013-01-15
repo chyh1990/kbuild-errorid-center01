@@ -1,0 +1,3 @@
+drivers/mfd/wm8350-core.c:176:30: sparse: incorrect type in assignment (different base types)
+
+2012-09-01 03:34:49 snb input:next:bd68dfe i386-allmodconfig bd68dfe

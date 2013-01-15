@@ -1,0 +1,3 @@
+fs/quota/quota.c:311:12: warning: 'quotactl_cmd_write' defined but not used [-Wunused-function]
+
+2012-10-15 20:12:54 bee gfs2:master:5d8550f i386-randconfig-b220 5d8550f

@@ -1,0 +1,3 @@
+drivers/staging/android/binder.c:2350:5: warning: 'cmd_name' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-30 19:56:24 snb x86_64 /cc/kernel-tests/commit-list/nf-next:nf-nat3:b2969d4 b2969d44298e26268717a2aa1b93fef9b09734f4

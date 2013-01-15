@@ -1,0 +1,3 @@
+sound/soc/codecs/alc5632.c:172:2: warning: (near initialization for 'alc5632_snd_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:08:26 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

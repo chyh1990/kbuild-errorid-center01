@@ -1,0 +1,4 @@
+drivers/usb/gadget/tcm_usb_gadget.c:2217:9: sparse: advancing past deep designator
+
+2012-09-10 22:33:20 snb balbi-usb:master:d9c8890 i386-allmodconfig 18786da
+2012-09-10 22:33:21 snb i386 email notified

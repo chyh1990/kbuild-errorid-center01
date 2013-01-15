@@ -1,0 +1,3 @@
+net/dns_resolver/dns_key.c:237:2: warning: (near initialization for 'key_type_dns_resolver') [enabled by default]
+
+2012-11-07 12:16:05 lkp-mb01 linus:master:69a8ebf i386-randconfig-m153 69a8ebf

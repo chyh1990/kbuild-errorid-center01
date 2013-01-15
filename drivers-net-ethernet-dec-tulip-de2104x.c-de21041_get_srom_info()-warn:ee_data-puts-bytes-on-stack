@@ -1,0 +1,3 @@
+drivers/net/ethernet/dec/tulip/de2104x.c:1790 de21041_get_srom_info() warn: 'ee_data' puts 518 bytes on stack
+
+2013-01-09 13:26:36 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

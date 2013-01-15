@@ -1,0 +1,3 @@
+drivers/block/xen-blkfront.c:696:6: warning: 'offset' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:52 inn linus:master:974b335 x86_64-randconfig-i365 974b335

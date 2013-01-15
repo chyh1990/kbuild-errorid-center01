@@ -1,0 +1,3 @@
+WARNING: arch/ia64/kernel/err_inject.o(.exit.text+0x191): Section mismatch in reference from the function cleanup_module() to the variable .cpuinit.data:err_inject_cpu_notifier
+
+2012-09-09 16:56:41 hive bluetooth:master:3ca8611 ia64-allmodconfig 9472007

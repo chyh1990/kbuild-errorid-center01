@@ -1,0 +1,3 @@
+drivers/staging/xgifb/vb_init.c:1387 GetXG27FPBits() warn: should this be a bitwise op?
+
+2012-09-07 22:41:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

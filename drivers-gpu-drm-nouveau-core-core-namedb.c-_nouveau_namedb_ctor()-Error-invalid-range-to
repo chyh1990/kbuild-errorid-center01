@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/core/namedb.c:197 _nouveau_namedb_ctor() Error invalid range 4096 to -1
+
+2012-09-19 00:36:21 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19
+2012-09-19 00:58:56 kbuild i386 email notified

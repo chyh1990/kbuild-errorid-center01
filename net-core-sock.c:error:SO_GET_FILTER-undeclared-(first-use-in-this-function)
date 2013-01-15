@@ -1,0 +1,31 @@
+net/core/sock.c:1080:7: error: 'SO_GET_FILTER' undeclared (first use in this function)
+
+2012-11-02 02:11:43 lkp-mb01 devel-lkp-mb01-s390-2012-11-02-01-21:be277da parisc-b180_defconfig be277da
+2012-11-02 02:29:36 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-02-01-21:a777659 xtensa-common_defconfig a777659
+2012-11-02 04:03:18 lkp-mb01 cr:crtools-v3.7-rc2:bdb7885 xtensa-common_defconfig bdb7885
+2012-11-04 23:16:27 lkp-mb01 cr:crtools-v3.7-rc2:7568812 parisc-b180_defconfig 7568812
+2012-11-05 23:06:07 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-05-22-21:ecaeb5c xtensa-common_defconfig ecaeb5c
+2012-11-05 23:29:56 lkp-mb01 devel-lkp-mb01-s390-2012-11-05-23-08:1707157 parisc-b180_defconfig 1707157
+2012-11-12 18:17:08 lkp-mb01 cr:crtools-v3.7-rc5:ad93155 parisc-b180_defconfig ad93155
+2012-11-15 23:12:41 lkp-mb01 devel-lkp-mb01-s390-2012-11-15-22-37:7c3c825 parisc-b180_defconfig 7c3c825
+2012-11-15 23:15:05 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-15-22-34:5abd3d8 xtensa-common_defconfig 5abd3d8
+2012-11-22 21:13:37 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-22-20-38:2c46313 xtensa-common_defconfig 2c46313
+2012-11-22 21:41:31 lkp-mb01 devel-lkp-mb01-s390-2012-11-22-21-05:be02a5f parisc-b180_defconfig be02a5f
+2012-11-27 19:15:03 lkp-mb01 cr:crtools-v3.7-rc7:cb80217 parisc-b180_defconfig cb80217
+2012-11-27 20:21:08 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-27-19-38:b268fc3 xtensa-common_defconfig b268fc3
+2012-11-28 03:12:46 lkp-mb01 cr:crtools-v3.7-rc7:eaf793c parisc-b180_defconfig eaf793c
+2012-11-28 18:08:03 bee devel-bee-x86-2012-11-28-17-03:8e212ff parisc-allyesconfig 8e212ff
+2012-11-29 02:58:27 lkp-mb01 devel-lkp-mb01-s390-2012-11-29-02-16:4b959c7 parisc-b180_defconfig 4b959c7
+2012-11-29 03:12:46 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-29-02-23:a1fa5ed xtensa-common_defconfig a1fa5ed
+2012-11-30 22:31:44 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-30-22-10:1dfb497 xtensa-common_defconfig 1dfb497
+2012-11-30 22:55:15 lkp-mb01 devel-lkp-mb01-s390-2012-11-30-22-09:160b063 parisc-b180_defconfig 160b063
+2012-12-05 00:07:33 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-04-23-21:b9bb261 xtensa-common_defconfig b9bb261
+2012-12-05 00:10:13 lkp-mb01 devel-lkp-mb01-s390-2012-12-04-23-28:fb97e41 parisc-b180_defconfig fb97e41
+2012-12-05 07:35:27 lkp-mb01 devel-lkp-mb01-s390-2012-12-05-07-03:c2560a0 parisc-b180_defconfig c2560a0
+2012-12-05 07:37:51 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-05-07-16:cbb3f77 xtensa-common_defconfig cbb3f77
+2012-12-08 06:15:56 lkp-mb01 devel-lkp-mb01-s390-2012-12-08-05-25:6c67525 parisc-b180_defconfig 6c67525
+2012-12-08 07:29:27 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-08-07-08:aa35fbb xtensa-common_defconfig aa35fbb
+2012-12-11 16:44:20 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-11-15-55:2eaba31 xtensa-common_defconfig 2eaba31
+2012-12-11 18:11:22 lkp-mb01 devel-lkp-mb01-s390-2012-12-11-17-37:77cdc55 parisc-b180_defconfig 77cdc55
+2012-12-13 00:32:36 lkp-mb01 devel-lkp-mb01-s390-2012-12-13-00-11:48e49e0 parisc-b180_defconfig 48e49e0
+2012-12-13 01:09:35 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-13-00-23:9da7530 xtensa-common_defconfig 9da7530

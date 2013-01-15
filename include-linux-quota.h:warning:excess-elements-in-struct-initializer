@@ -1,0 +1,3 @@
+include/linux/quota.h:284: warning: excess elements in struct initializer
+
+2012-09-02 13:17:40 snb userns:userns-always-map-user-v52:3f025b0 avr32-atngw100_defconfig 3a77452

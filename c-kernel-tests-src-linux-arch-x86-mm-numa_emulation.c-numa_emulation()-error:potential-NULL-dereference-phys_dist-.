@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/arch/x86/mm/numa_emulation.c:429 numa_emulation() error: potential NULL dereference 'phys_dist'.
+
+2013-01-07 12:24:56 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

@@ -1,0 +1,3 @@
+sound/soc/codecs/lm4857.c:56:2: warning: pointer targets in passing argument 2 of 'i2c_master_send' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:08:04 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

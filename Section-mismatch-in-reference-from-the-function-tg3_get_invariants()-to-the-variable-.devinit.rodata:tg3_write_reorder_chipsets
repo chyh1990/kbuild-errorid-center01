@@ -1,0 +1,3 @@
+WARNING: drivers/net/ethernet/broadcom/tg3.o(.text+0x166ce): Section mismatch in reference from the function tg3_get_invariants() to the variable .devinit.rodata:tg3_write_reorder_chipsets
+
+2012-12-05 02:37:33 kbuild net-next:master:193c1e4 x86_64-allmodconfig 193c1e4

@@ -1,0 +1,3 @@
+security/integrity/ima/ima_dir.c:143:1: warning: 'ima_dir_collect' uses dynamic stack allocation [enabled by default]
+
+2012-10-31 22:40:24 lkp-mb01 devel-lkp-mb01-s390-2012-10-31-21-31:b9d3535 s390-allmodconfig b9d3535

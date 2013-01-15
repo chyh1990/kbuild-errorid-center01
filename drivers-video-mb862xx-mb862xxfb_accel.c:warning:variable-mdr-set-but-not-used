@@ -1,0 +1,3 @@
+drivers/video/mb862xx/mb862xxfb_accel.c:191:6: warning: variable 'mdr' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 18:19:17 bee omap-dss2:master:e84dc1c x86_64-randconfig-x073 a6df3fd

@@ -1,0 +1,4 @@
+(.text+0x2ac8): undefined reference to `.gfn_to_hva_memslot'
+
+2012-08-24 22:14:57 kbuild kvm:next:4d8b81a powerpc-allmodconfig 4d8b81a
+2012-08-24 22:14:59 kbuild powerpc email notified

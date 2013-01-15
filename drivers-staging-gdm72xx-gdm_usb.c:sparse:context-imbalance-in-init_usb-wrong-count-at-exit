@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/gdm_usb.c:182:12: sparse: context imbalance in 'init_usb' - wrong count at exit
+
+2012-11-27 10:44:21 snb devel-snb-i386-2012-11-27-09-49:b191ebb i386-allmodconfig b191ebb

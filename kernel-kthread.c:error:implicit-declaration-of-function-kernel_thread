@@ -1,0 +1,3 @@
+kernel/kthread.c:192:2: error: implicit declaration of function 'kernel_thread' [-Werror=implicit-function-declaration]
+
+2013-01-11 22:12:31 bee mac80211-next:wip:64d800d x86_64-nfsroot 64d800d

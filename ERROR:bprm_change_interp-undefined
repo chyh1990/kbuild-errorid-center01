@@ -1,0 +1,15 @@
+ERROR: "bprm_change_interp" undefined!
+
+2012-10-25 08:07:16 kbuild kees:interp:4d2f0cf x86_64-allmodconfig 4d2f0cf
+2012-10-25 08:07:17 kbuild x86_64 email notified
+2012-10-25 08:58:10 bee devel-bee-i386-2012-10-25-08-29:c9ffa54 i386-randconfig-b310 c9ffa54
+2012-10-25 09:02:38 snb devel-snb-arm-2012-10-25-08-45:6ca92be arm-imx_v6_v7_defconfig 6ca92be
+2012-10-25 10:34:47 snb devel-snb-i386-2012-10-25-10-24:d433aa4 i386-allmodconfig d433aa4
+2012-10-25 12:11:22 snb devel-snb-x86_64-2012-10-25-12-06:da74aa3 x86_64-randconfig-s145 da74aa3
+2012-10-25 12:13:26 kbuild devel-kbuild-x86_64-2012-10-25-12-03:53e3d04 x86_64-allmodconfig 53e3d04
+2012-10-25 12:32:32 bee devel-bee-i386-2012-10-25-12-20:8aefa27 i386-randconfig-b310 8aefa27
+2012-10-25 12:40:14 lkp-mb01 devel-lkp-mb01-i386-2012-10-25-12-17:61b2b82 i386-randconfig-m052 61b2b82
+2012-10-25 13:20:03 kbuild devel-kbuild-powerpc-2012-10-25-12-56:b9005e0 powerpc-allmodconfig b9005e0
+2012-10-25 13:23:35 snb devel-snb-arm-2012-10-25-13-07:66a1ae3 arm-imx_v6_v7_defconfig 66a1ae3
+2012-10-25 13:24:21 hive devel-hive-x86_64-2012-10-25-13-07:030f0e2 x86_64-randconfig-h144 030f0e2
+2012-10-25 13:22:39 bee devel-bee-sparc64-2012-10-25-13-11:e4bf23a powerpc-corenet64_smp_defconfig e4bf23a

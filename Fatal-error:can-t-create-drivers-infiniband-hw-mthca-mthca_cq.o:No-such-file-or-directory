@@ -1,0 +1,3 @@
+Fatal error: can't create drivers/infiniband/hw/mthca/mthca_cq.o: No such file or directory
+
+2012-09-22 22:21:09 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s371 a1a7e0a

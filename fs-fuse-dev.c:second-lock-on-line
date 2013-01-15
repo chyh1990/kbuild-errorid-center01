@@ -1,0 +1,4 @@
+fs/fuse/dev.c:1941:2-11: second lock on line 1941
+
+2012-08-30 06:13:34 snb fuse:for-next:c7a3f5e i386-allmodconfig 2cad95b
+2012-08-30 06:13:37 snb i386 email notified

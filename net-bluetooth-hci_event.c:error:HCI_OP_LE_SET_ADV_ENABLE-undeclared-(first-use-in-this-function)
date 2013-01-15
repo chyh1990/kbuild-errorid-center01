@@ -1,0 +1,5 @@
+net/bluetooth/hci_event.c:1199:33: error: 'HCI_OP_LE_SET_ADV_ENABLE' undeclared (first use in this function)
+
+2012-11-23 19:51:29 inn internal-bluetooth-hs:master:54d5ffc arm-omap2plus_defconfig 06fb2df
+2012-11-23 19:53:49 inn arm email notified
+2012-11-30 03:24:05 inn internal-bluetooth-hs:master:1a2f0ab i386-allmodconfig 651df29

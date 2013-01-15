@@ -1,0 +1,3 @@
+./arch/x86/kvm/trace.h:764:1: sparse: undefined identifier 'VCLOCK_NONE'
+
+2012-11-27 10:48:53 snb devel-snb-i386-2012-11-27-09-49:b191ebb i386-allmodconfig b191ebb

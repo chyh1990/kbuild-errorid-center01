@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8903.c:752:2: warning: (near initialization for 'rinput_inv_mux.name') [-Wpointer-sign]
+
+2012-09-25 21:05:58 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

@@ -1,0 +1,3 @@
+drivers/usb/storage/isd200.c:1472:14-18: ERROR: reference preceded by free on line 1466
+
+2012-09-06 10:15:57 snb usb:usb-next:f61870e i386-allmodconfig f61870e

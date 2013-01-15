@@ -1,0 +1,4 @@
+drivers/gpu/drm/drm_edid_load.c:220:8-12: ERROR: reference preceded by free on line 179
+
+2012-08-24 12:45:54 snb drm:drm-next:ce5fdd6 i386-allmodconfig 451023d
+2012-08-24 12:46:11 snb i386 email notified

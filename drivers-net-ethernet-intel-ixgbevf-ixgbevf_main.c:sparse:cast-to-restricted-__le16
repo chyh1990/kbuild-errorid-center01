@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/ixgbevf/ixgbevf_main.c:487:36: sparse: cast to restricted __le16
+
+2012-09-01 03:34:03 snb input:next:bd68dfe i386-allmodconfig bd68dfe

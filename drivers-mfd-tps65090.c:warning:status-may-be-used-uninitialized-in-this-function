@@ -1,0 +1,3 @@
+drivers/mfd/tps65090.c:140:11: warning: 'status' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-21 23:05:11 snb mfd:for-next:dd39c98 x86_64-randconfig-s316 c867e53

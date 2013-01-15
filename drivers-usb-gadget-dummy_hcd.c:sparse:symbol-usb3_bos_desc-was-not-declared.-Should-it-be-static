@@ -1,0 +1,3 @@
+drivers/usb/gadget/dummy_hcd.c:1929:12: sparse: symbol 'usb3_bos_desc' was not declared. Should it be static?
+
+2013-01-09 12:54:36 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

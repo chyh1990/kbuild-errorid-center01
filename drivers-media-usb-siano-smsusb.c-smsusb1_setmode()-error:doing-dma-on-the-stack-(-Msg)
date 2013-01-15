@@ -1,0 +1,3 @@
+drivers/media/usb/siano/smsusb.c:287 smsusb1_setmode() error: doing dma on the stack (&Msg)
+
+2013-01-09 13:26:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

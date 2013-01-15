@@ -1,0 +1,4 @@
+kernel/resource.c:470:2: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+
+2012-09-15 11:48:25 lkp-mb01 yinghai:master:156b34a i386-randconfig-m081 549089e
+2012-09-15 11:52:40 lkp-mb01 i386 email notified

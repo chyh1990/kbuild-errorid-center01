@@ -1,0 +1,4 @@
+sound/pci/riptide/riptide.c:1889:7: error: implicit declaration of function 'request_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:27:43 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724
+2012-09-17 17:36:29 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0

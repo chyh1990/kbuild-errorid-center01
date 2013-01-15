@@ -1,0 +1,3 @@
+kernel/printk.c:1110:6: sparse: symbol 'kdb_syslog_data' was not declared. Should it be static?
+
+2012-09-16 09:07:05 snb wireless-next:for-davem:9316f0e i386-allmodconfig 362b056

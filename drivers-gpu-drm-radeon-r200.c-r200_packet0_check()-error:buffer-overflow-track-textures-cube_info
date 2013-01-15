@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/r200.c:271 r200_packet0_check() error: buffer overflow 'track->textures[i]->cube_info' 5 <= 34
+
+2012-09-07 22:42:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

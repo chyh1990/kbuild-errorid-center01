@@ -1,0 +1,4 @@
+fs/quota/quota.c:246: undefined reference to `qid_valid'
+
+2012-09-02 10:15:44 kbuild userns:userns-always-map-user-v52:3f025b0 i386-randconfig-k880 3a77452
+2012-09-02 10:15:45 kbuild i386 email notified

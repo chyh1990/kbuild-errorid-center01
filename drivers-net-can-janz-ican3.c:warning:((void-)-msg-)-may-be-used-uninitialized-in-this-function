@@ -1,0 +1,3 @@
+drivers/net/can/janz-ican3.c:1026:5: warning: '*((void *)&msg+4)' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-11 10:58:11 snb asoc:for-next:1d371d4 x86_64-randconfig-s294 d987569

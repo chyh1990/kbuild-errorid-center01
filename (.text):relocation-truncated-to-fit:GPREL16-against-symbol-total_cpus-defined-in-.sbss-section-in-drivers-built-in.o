@@ -1,0 +1,11 @@
+(.text+0x657f0): relocation truncated to fit: GPREL16 against symbol `total_cpus' defined in .sbss section in drivers/built-in.o
+
+2012-10-03 11:10:37 lkp-mb01 sparc:master:97da37b alpha-defconfig 97da37b
+2012-10-03 11:36:15 lkp-mb01 sparc:master:5da444a alpha-defconfig 5da444a
+2012-10-03 11:42:06 lkp-mb01 net:master:8644994 alpha-defconfig 8644994
+2012-10-03 11:42:06 lkp-mb01 net:master:8644994 alpha-defconfig 8644994 email notified
+2012-10-03 12:48:19 lkp-mb01 infiniband:ummunot:f416824 alpha-defconfig f416824
+2012-10-03 12:54:37 lkp-mb01 infiniband:for-next:71d9c5f alpha-defconfig 71d9c5f
+2012-10-04 17:08:50 lkp-mb01 infiniband:for-next:5f7e21e alpha-defconfig 5f7e21e
+2012-10-09 17:25:44 inn internal-ashishki:rtit-proto:ff40f57 alpha-defconfig 8699a27
+2012-10-29 18:29:15 lkp-mb01 mac80211:master:6dbda2d alpha-defconfig 6dbda2d

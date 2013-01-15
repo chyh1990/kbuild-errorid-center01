@@ -1,0 +1,3 @@
+security/security.c:2058:16: warning: 'order' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-01 09:04:33 bee kees:multi-lsm:e4b44fc x86_64-randconfig-x710 d40abcb

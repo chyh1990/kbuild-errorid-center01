@@ -1,0 +1,3 @@
+fs/ext4/bitmap.c:53:1: warning: 'ext4_inode_bitmap_csum_verify' uses dynamic stack allocation [enabled by default]
+
+2012-07-22 14:46:43 lkp-mb01 s390 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

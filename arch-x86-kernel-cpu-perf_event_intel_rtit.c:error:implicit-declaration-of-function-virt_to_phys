@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:342:2: error: implicit declaration of function 'virt_to_phys' [-Werror=implicit-function-declaration]
+
+2012-10-09 16:29:29 inn internal-ashishki:rtit-proto:ff40f57 x86_64-randconfig-i010 6bd0bd6
+2012-10-09 16:29:38 inn x86_64 email notified

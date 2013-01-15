@@ -1,0 +1,3 @@
+fs/nfsd/nfs4state.c:872:56-66: ERROR: function nfsd4_fc_set_highest_slotid_locked called on line 2155 inside lock on line 2126 but uses GFP_KERNEL
+
+2012-12-05 16:23:46 snb nfs:devel:b155ece i386-allmodconfig b155ece

@@ -1,0 +1,3 @@
+fs/f2fs/recovery.c:224:52: warning: 'sum.<U be0>.<U b48>.ofs_in_node' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-24 06:05:53 snb yinghai:for-x86-boot:8559510 x86_64-randconfig-s542 8559510

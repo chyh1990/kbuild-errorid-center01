@@ -1,0 +1,3 @@
+drivers/regulator/core.c:650:2: warning: pointer targets in passing argument 2 of 'regulator_mode_constrain' differ in signedness [-Wpointer-sign]
+
+2012-09-25 17:03:57 bee mfd:for-next:eebfdc1 x86_64-allyesconfig 41569a1

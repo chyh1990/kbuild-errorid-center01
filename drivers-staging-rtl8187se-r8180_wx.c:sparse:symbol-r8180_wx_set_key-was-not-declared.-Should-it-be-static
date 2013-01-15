@@ -1,0 +1,3 @@
+drivers/staging/rtl8187se/r8180_wx.c:53:5: sparse: symbol 'r8180_wx_set_key' was not declared. Should it be static?
+
+2013-01-09 12:52:21 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

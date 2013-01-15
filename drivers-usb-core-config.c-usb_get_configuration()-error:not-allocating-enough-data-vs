@@ -1,0 +1,3 @@
+drivers/usb/core/config.c:692 usb_get_configuration() error: not allocating enough data 10 vs 9
+
+2013-01-09 13:26:12 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

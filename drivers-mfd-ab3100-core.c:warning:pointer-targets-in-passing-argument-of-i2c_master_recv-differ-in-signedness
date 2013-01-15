@@ -1,0 +1,3 @@
+drivers/mfd/ab3100-core.c:184:2: warning: pointer targets in passing argument 2 of 'i2c_master_recv' differ in signedness [-Wpointer-sign]
+
+2012-09-25 17:04:57 bee mfd:for-next:eebfdc1 x86_64-randconfig-x061 41569a1

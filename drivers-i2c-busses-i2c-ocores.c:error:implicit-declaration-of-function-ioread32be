@@ -1,0 +1,4 @@
+drivers/i2c/busses/i2c-ocores.c:121:2: error: implicit declaration of function 'ioread32be' [-Werror=implicit-function-declaration]
+
+2012-11-17 01:34:23 bee i2c:i2c-embedded:for-next:a000b8c cris-allyesconfig a000b8c
+2012-11-17 01:34:29 bee cris email notified

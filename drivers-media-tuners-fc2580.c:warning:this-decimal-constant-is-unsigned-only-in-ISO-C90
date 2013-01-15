@@ -1,0 +1,3 @@
+drivers/media/tuners/fc2580.c:150:2: warning: this decimal constant is unsigned only in ISO C90 [enabled by default]
+
+2012-09-27 00:19:57 bee samsung:v4l-next:01882ac mips-allyesconfig 384df49

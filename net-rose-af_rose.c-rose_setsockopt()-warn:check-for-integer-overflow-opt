@@ -1,0 +1,3 @@
+net/rose/af_rose.c:420 rose_setsockopt() warn: check for integer overflow 'opt'
+
+2013-01-09 13:27:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

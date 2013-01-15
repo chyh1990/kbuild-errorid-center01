@@ -1,0 +1,3 @@
+mm/memcontrol.c:6128 mem_cgroup_css_online() error: potentially derefencing uninitialized 'memcg'.
+
+2013-01-11 00:48:16 kbuild devel-kbuild-i386-2013-01-11-00-03:c84bbdc i386-allyesconfig c84bbdc

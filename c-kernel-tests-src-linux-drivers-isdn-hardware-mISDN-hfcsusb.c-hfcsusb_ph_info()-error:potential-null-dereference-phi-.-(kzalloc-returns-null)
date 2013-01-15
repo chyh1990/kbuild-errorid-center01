@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/isdn/hardware/mISDN/hfcsusb.c:267 hfcsusb_ph_info() error: potential null dereference 'phi'.  (kzalloc returns null)
+
+2013-01-07 12:25:13 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

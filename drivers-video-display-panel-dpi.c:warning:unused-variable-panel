@@ -1,0 +1,3 @@
+drivers/video/display/panel-dpi.c:35:20: warning: unused variable 'panel' [-Wunused-variable]
+
+2012-11-22 17:23:10 kbuild devel-kbuild-x86_64-2012-11-22-17-17:07fab36 x86_64-allmodconfig 07fab36

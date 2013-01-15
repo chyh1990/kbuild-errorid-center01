@@ -1,0 +1,10 @@
+arch/x86/boot/compressed/../../../../lib/decompress_unlzo.c:34:34: fatal error: lzo/lzo1x_decompress.c: No such file or directory
+
+2012-10-11 02:12:01 bee next:master:c22c5a1 i386-randconfig-b181 c22c5a1
+2012-10-11 04:03:09 bee next:akpm:1091262 i386-randconfig-b181 1091262
+2012-10-11 12:12:11 snb next:master:1f3b59e x86_64-randconfig-s020 1f3b59e
+2012-10-11 12:27:42 snb next:akpm:9e679d9 x86_64-randconfig-s020 2ca1163
+2012-10-12 14:01:28 bee next:master:6b35893 i386-randconfig-b191 6b35893
+2012-10-12 14:04:21 bee next:akpm:04b956f i386-randconfig-b191 04b956f
+2012-10-15 11:00:02 bee next:akpm:a2d7564 i386-randconfig-b220 a2d7564
+2012-10-15 11:05:25 bee next:master:50a723f i386-randconfig-b220 50a723f

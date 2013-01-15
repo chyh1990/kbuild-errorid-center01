@@ -1,0 +1,3 @@
+warning: (KVMTOOL_TEST_ENABLE && AMD_IOMMU) selects PCI_MSI which has unmet direct dependencies (PCI && ARCH_SUPPORTS_MSI)
+
+2012-09-18 13:53:59 bee yinghai:master:483ac9c i386-randconfig-b031 483ac9c

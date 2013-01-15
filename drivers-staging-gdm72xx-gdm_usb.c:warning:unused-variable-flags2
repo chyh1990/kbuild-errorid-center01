@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/gdm_usb.c:319:23: warning: unused variable 'flags2' [-Wunused-variable]
+
+2012-11-27 09:45:29 bee devel-bee-i386-2012-11-27-09-30:7cee734 i386-randconfig-b761 7cee734

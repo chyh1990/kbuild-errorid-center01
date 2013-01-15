@@ -1,0 +1,4 @@
+(.init.text+0x53a0): undefined reference to `screen_info'
+
+2012-09-28 21:49:25 lkp-mb01 calxeda:ubuntu-quantal:c07f157 parisc-defconfig c07f157
+2012-09-28 21:49:25 lkp-mb01 calxeda:ubuntu-quantal:c07f157 parisc-defconfig c07f157 email notified

@@ -1,0 +1,29 @@
+drivers/net/wireless/brcm80211/brcmfmac/usb.c:1512:3: error: implicit declaration of function 'vfree' [-Werror=implicit-function-declaration]
+
+2012-11-17 05:17:07 hive devel-hive-mips-2012-11-17-04-57:3a3bcf0 mips-allmodconfig 3a3bcf0
+2012-11-17 05:30:14 kbuild devel-kbuild-powerpc-2012-11-17-04-53:17eff02 powerpc-allmodconfig 17eff02
+2012-11-17 05:45:45 kbuild devel-kbuild-powerpc-2012-11-17-05-32:24811bb powerpc-allmodconfig 24811bb
+2012-11-17 05:46:47 hive devel-hive-ia64-2012-11-17-05-06:ed03bbf ia64-allmodconfig ed03bbf
+2012-11-17 06:50:31 hive devel-hive-mips-2012-11-17-06-13:f957e8c mips-allmodconfig f957e8c
+2012-11-19 09:36:03 kbuild bluetooth:master:c1d5dc4 powerpc-allmodconfig c1d5dc4
+2012-11-19 22:42:12 kbuild iwlwifi:master:c59b905 powerpc-allmodconfig c59b905
+2012-11-19 22:48:55 hive devel-hive-ia64-2012-11-19-22-25:23b5539 ia64-allmodconfig 23b5539
+2012-11-19 22:52:31 hive devel-hive-mips-2012-11-19-22-21:127713a mips-allmodconfig 127713a
+2012-11-20 01:01:23 hive devel-hive-ia64-2012-11-20-00-37:ad84b89 ia64-allmodconfig ad84b89
+2012-11-20 01:18:01 hive devel-hive-mips-2012-11-20-00-36:d0214fb mips-allmodconfig d0214fb
+2012-11-20 01:28:15 kbuild devel-kbuild-powerpc-2012-11-20-00-44:f94e228 powerpc-allmodconfig f94e228
+2012-11-20 01:44:33 kbuild devel-kbuild-powerpc-2012-11-20-01-30:1f715a7 powerpc-allmodconfig 1f715a7
+2012-11-20 01:55:28 hive devel-hive-ia64-2012-11-20-01-21:343f0b8 ia64-allmodconfig 343f0b8
+2012-11-20 02:06:51 hive devel-hive-mips-2012-11-20-01-21:934b109 mips-allmodconfig 934b109
+2012-11-20 05:29:44 hive devel-hive-ia64-2012-11-20-04-40:1cf3a69 ia64-allmodconfig 1cf3a69
+2012-11-20 05:29:45 hive devel-hive-mips-2012-11-20-04-41:456130d mips-allmodconfig 456130d
+2012-11-20 06:02:01 kbuild devel-kbuild-powerpc-2012-11-20-04-39:747ca68 powerpc-allmodconfig 747ca68
+2012-11-20 06:47:49 kbuild devel-kbuild-powerpc-2012-11-20-06-04:67a4b03 powerpc-allmodconfig 67a4b03
+2012-11-20 06:50:45 hive devel-hive-ia64-2012-11-20-05-33:2d5133b ia64-allmodconfig 2d5133b
+2012-11-20 06:50:47 hive devel-hive-mips-2012-11-20-05-32:3b86a2b mips-allmodconfig 3b86a2b
+2012-11-20 07:39:50 kbuild bluetooth:master:d1244ad powerpc-allmodconfig d1244ad
+2012-11-21 10:15:24 kbuild bluetooth:master:c6f95f6 powerpc-allmodconfig c6f95f6
+2012-11-23 20:53:22 inn internal-bluetooth-hs:master:54d5ffc ia64-allmodconfig d1244ad
+2012-11-24 06:08:05 kbuild bluetooth:master:a0110f4 powerpc-allmodconfig a0110f4
+2012-11-30 09:03:28 inn internal-bluetooth-hs:master:1a2f0ab ia64-allmodconfig a0110f4
+2012-12-12 08:28:52 kbuild bluetooth:master:3101c53 powerpc-allmodconfig 3101c53

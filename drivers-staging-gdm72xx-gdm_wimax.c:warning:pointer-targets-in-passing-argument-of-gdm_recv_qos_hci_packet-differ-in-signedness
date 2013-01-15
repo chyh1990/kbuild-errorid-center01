@@ -1,0 +1,3 @@
+drivers/staging/gdm72xx/gdm_wimax.c:852:3: warning: pointer targets in passing argument 2 of 'gdm_recv_qos_hci_packet' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:32 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

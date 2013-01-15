@@ -1,0 +1,3 @@
+drivers/net/usb/hso.c:2845 hso_get_config_data() error: doing dma on the stack (config_data)
+
+2013-01-09 13:26:12 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

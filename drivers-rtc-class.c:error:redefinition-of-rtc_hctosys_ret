@@ -1,0 +1,3 @@
+drivers/rtc/class.c:47:5: error: redefinition of 'rtc_hctosys_ret'
+
+2012-10-08 15:39:34 bee next:akpm:b9d227b x86_64-allyesdebian b9d227b

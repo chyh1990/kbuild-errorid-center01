@@ -1,0 +1,3 @@
+drivers/spi/spi-topcliff-pch.c:676 pch_spi_set_tx() error: we previously assumed 'data->pkt_tx_buff' could be null (see line 650)
+
+2013-01-09 13:28:09 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

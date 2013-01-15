@@ -1,0 +1,10 @@
+ERROR: "b2c2_flexcop_debug" [drivers/media/pci/b2c2/b2c2-flexcop-pci.ko] undefined!
+
+2012-08-16 20:06:37 kbuild samsung:v4l-fixes:9a6b6fa x86_64-allmodconfig ec29a47
+2012-08-17 03:08:38 kbuild samsung:v4l-next:ddff08c x86_64-allmodconfig 03fda9e
+2012-08-17 16:58:29 kbuild samsung:v4l-exynos-gsc:8ac9447 powerpc-allmodconfig 0c0d06c
+2012-08-18 00:39:47 kbuild samsung:v4l-exynos-gsc:1a66670 x86_64-allmodconfig 1a66670
+2012-08-18 00:41:07 kbuild samsung:v4l-next:d54fe26 x86_64-allmodconfig 2a64924
+2012-08-22 23:45:09 kbuild samsung:v4l-exynos-gsc:2315608 x86_64-allmodconfig 88f8472
+2012-08-24 03:58:47 kbuild samsung:v4l-next:ef7af7e i386-randconfig-k793 ef7af7e
+2012-09-05 23:31:09 snb samsung:v4l-next:14d7cae i386-allmodconfig 290939f

@@ -1,0 +1,3 @@
+drivers/spi/spi-pxa2xx.c:1579 pxa2xx_spi_probe() warn: potential pointer math issue ('drv_data' is a 2080 bit pointer)
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

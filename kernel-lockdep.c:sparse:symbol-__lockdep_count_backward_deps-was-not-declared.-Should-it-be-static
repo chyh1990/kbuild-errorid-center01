@@ -1,0 +1,3 @@
+kernel/lockdep.c:1257:15: sparse: symbol '__lockdep_count_backward_deps' was not declared. Should it be static?
+
+2012-12-18 02:49:08 snb devel-snb-i386-2012-12-18-01-59:8d958eb i386-allmodconfig 8d958eb

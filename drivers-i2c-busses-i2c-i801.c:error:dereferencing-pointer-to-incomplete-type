@@ -1,0 +1,4 @@
+drivers/i2c/busses/i2c-i801.c:1014:21: error: dereferencing pointer to incomplete type
+
+2012-10-08 14:00:50 bee jdelvare-staging:i2c-for-linus:c415b30 parisc-allyesconfig 3ad7ea1
+2012-10-08 14:00:56 bee parisc email notified

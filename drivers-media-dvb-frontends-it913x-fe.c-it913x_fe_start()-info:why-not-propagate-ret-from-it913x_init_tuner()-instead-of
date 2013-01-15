@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/it913x-fe.c:930 it913x_fe_start() info: why not propagate 'ret' from it913x_init_tuner() instead of -19?
+
+2012-09-12 11:58:49 kbuild security:next:a40695e i386-allyesconfig a40695e

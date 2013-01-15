@@ -1,0 +1,6 @@
+net/ipv4/af_inet.c:365:(.text+0x94058): relocation truncated to fit: GPREL16 against symbol `ipv4_config' defined in .sbss section in net/built-in.o
+
+2012-09-05 11:27:00 lkp-mb01 can:led-trigger:eb389c9 alpha-defconfig f16aeea
+2012-09-06 16:10:07 lkp-mb01 ext3:for_testing:19147da alpha-defconfig 38709e9
+2012-09-06 16:40:31 lkp-mb01 ext3:for_linus:9c2fc0d alpha-defconfig 9c2fc0d
+2012-09-06 17:10:29 lkp-mb01 signal:master:4cc1d72 alpha-defconfig 9acb172

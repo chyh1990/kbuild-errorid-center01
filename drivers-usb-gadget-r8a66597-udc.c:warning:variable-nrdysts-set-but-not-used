@@ -1,0 +1,3 @@
+drivers/usb/gadget/r8a66597-udc.c:1467:15: warning: variable 'nrdysts' set but not used [-Wunused-but-set-variable]
+
+2012-09-25 23:03:18 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

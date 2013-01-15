@@ -1,0 +1,29 @@
+mm/huge_memory.c:781:2: error: incompatible type for argument 3 of 'update_mmu_cache_pmd'
+
+2012-10-28 09:03:21 hive next:akpm:822854b mips-allmodconfig 822854b
+2012-10-29 12:48:32 hive next:master:f83c772 mips-allmodconfig f83c772
+2012-10-29 12:53:01 hive next:akpm:4c8b1d3 mips-allmodconfig 4c8b1d3
+2012-10-30 14:58:21 hive next:master:b6cf5cb mips-allmodconfig b6cf5cb
+2012-10-31 08:59:58 hive next:akpm:b1757a8 mips-allmodconfig b1757a8
+2012-11-01 23:02:13 hive next:master:2b1279e mips-allmodconfig 2b1279e
+2012-11-02 11:13:32 hive next:akpm:929d70b mips-allmodconfig 929d70b
+2012-11-02 15:51:42 hive next:master:fc745a3 mips-allmodconfig fc745a3
+2012-11-02 15:52:21 hive next:akpm:210f491 mips-allmodconfig 210f491
+2012-11-03 05:49:49 hive ac100:for-next-thierry:f1f4e22 mips-allmodconfig f1f4e22
+2012-11-05 14:51:52 hive next:master:124414e mips-allmodconfig 124414e
+2012-11-05 15:45:24 hive next:akpm:1c24949 mips-allmodconfig 1c24949
+2012-11-06 14:21:53 hive next:master:6f4f774 mips-allmodconfig 6f4f774
+2012-11-06 14:38:02 hive next:akpm:5b53047 mips-allmodconfig 5b53047
+2012-11-07 13:57:51 hive next:master:12b2c0c mips-allmodconfig 12b2c0c
+2012-11-07 15:00:29 hive next:akpm:5c37733 mips-allmodconfig 5c37733
+2012-11-08 14:12:05 hive next:master:50aa9ee mips-allmodconfig 50aa9ee
+2012-11-08 15:21:18 hive next:akpm:db38463 mips-allmodconfig db38463
+2012-11-09 13:31:05 hive next:master:75e0eba mips-allmodconfig 75e0eba
+2012-11-09 13:58:29 hive next:akpm:6703d59 mips-allmodconfig 6703d59
+2012-11-12 14:22:19 hive next:master:6d6b785 mips-allmodconfig 6d6b785
+2012-11-13 15:36:12 hive next:master:42b895a mips-allmodconfig 42b895a
+2012-11-13 17:09:51 hive next:akpm:61df919 mips-allmodconfig 61df919
+2012-11-15 08:04:19 hive next:master:ebdacea mips-allmodconfig ebdacea
+2012-11-15 16:43:18 hive next:master:3805711 mips-allmodconfig 3805711
+2012-11-25 09:39:15 inn internal-ashishki:ci-watup:56c5627 mips-allmodconfig 6d6b785
+2012-12-04 18:01:13 hive hzhuang1:testing:clkv1:dad178e mips-allmodconfig dad178e

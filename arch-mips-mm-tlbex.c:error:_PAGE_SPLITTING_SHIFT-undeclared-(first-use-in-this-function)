@@ -1,0 +1,4 @@
+arch/mips/mm/tlbex.c:229:2: error: '_PAGE_SPLITTING_SHIFT' undeclared (first use in this function)
+
+2012-11-02 22:51:34 bee mips-sjhill:mips-for-linux-next:37ade66 mips-allyesconfig ed2cd45
+2012-11-02 22:52:08 bee mips email notified

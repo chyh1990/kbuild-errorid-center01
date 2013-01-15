@@ -1,0 +1,4 @@
+kernel/task_work.c:17 task_work_add() Error invalid range 4096 to -1
+
+2012-09-14 15:09:28 kbuild tip:core:urgent:f784e8a i386-allyesconfig f784e8a
+2012-09-14 15:25:11 kbuild i386 email notified

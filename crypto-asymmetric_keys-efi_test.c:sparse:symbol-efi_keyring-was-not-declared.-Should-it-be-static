@@ -1,0 +1,3 @@
+crypto/asymmetric_keys/efi_test.c:20:12: sparse: symbol 'efi_keyring' was not declared. Should it be static?
+
+2012-12-13 09:24:10 snb devel-snb-i386-2012-12-13-08-53:0b52799 i386-allmodconfig 0b52799

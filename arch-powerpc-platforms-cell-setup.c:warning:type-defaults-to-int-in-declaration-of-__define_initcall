@@ -1,0 +1,3 @@
+arch/powerpc/platforms/cell/setup.c:185:1: warning: type defaults to 'int' in declaration of '__define_initcall' [-Wimplicit-int]
+
+2012-10-23 14:25:26 kbuild next:akpm:dbfe081 powerpc-allmodconfig dbfe081

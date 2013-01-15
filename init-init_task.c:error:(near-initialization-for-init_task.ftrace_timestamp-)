@@ -1,0 +1,3 @@
+init/init_task.c:16:8: error: (near initialization for 'init_task.ftrace_timestamp')
+
+2012-12-21 12:12:03 lkp-mb01 dynticks:3.7-nohz1:46209cd i386-randconfig-m033 46209cd

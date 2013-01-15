@@ -1,0 +1,3 @@
+arch/powerpc/platforms/embedded6xx/ls_uart.c:142:1: error: type defaults to 'int' in declaration of '__define_initcall' [-Werror=implicit-int]
+
+2012-10-24 13:23:54 bee next:akpm:234b148 powerpc-linkstation_defconfig 38a0ee7

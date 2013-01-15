@@ -1,0 +1,3 @@
+mm/memory.c:3454:5: sparse: symbol 'do_numa_page' was not declared. Should it be static?
+
+2013-01-09 13:14:45 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

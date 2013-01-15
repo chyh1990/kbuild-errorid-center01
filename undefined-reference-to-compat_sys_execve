@@ -1,0 +1,4 @@
+(.text+0x315d2): undefined reference to `compat_sys_execve'
+
+2012-09-08 19:49:46 lkp-mb01 signal:master:aad206f s390-allmodconfig 97977a0
+2012-09-08 19:49:51 lkp-mb01 s390 email notified

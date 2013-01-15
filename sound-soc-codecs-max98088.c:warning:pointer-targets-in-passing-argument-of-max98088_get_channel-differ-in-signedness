@@ -1,0 +1,3 @@
+sound/soc/codecs/max98088.c:1814:8: warning: pointer targets in passing argument 2 of 'max98088_get_channel' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:06:53 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

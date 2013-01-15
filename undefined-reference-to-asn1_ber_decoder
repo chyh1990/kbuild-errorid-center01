@@ -1,0 +1,3 @@
+(.text+0x8610): undefined reference to `asn1_ber_decoder'
+
+2012-09-22 07:42:02 kbuild modsign:modsign-post-KS:2f07589 x86_64-allmodconfig d201616

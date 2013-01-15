@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event.c:387:3: error: implicit declaration of function 'rtit_event_setup' [-Werror=implicit-function-declaration]
+
+2012-10-09 16:29:41 inn internal-ashishki:rtit-proto:ff40f57 x86_64-randconfig-i018 6bd0bd6
+2012-10-09 16:29:48 inn x86_64 email notified

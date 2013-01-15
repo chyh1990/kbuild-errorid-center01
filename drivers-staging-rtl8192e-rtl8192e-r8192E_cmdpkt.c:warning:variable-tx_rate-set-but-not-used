@@ -1,0 +1,3 @@
+drivers/staging/rtl8192e/rtl8192e/r8192E_cmdpkt.c:173:6: warning: variable 'tx_rate' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 07:12:37 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

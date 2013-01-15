@@ -1,0 +1,3 @@
+arch/arm/mach-imx/mach-armadillo5x0.c:529:2: warning: passing argument 1 of '__raw_readl' makes pointer from integer without a cast [enabled by default]
+
+2012-09-19 11:13:08 inn internal-wfg:0day:bd510f3 arm-imx_v6_v7_defconfig bd510f3

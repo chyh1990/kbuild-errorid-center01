@@ -1,0 +1,3 @@
+drivers/gpu/drm/ast/ast_ttm.c:209:15: sparse: symbol 'ast_ttm_tt_create' was not declared. Should it be static?
+
+2013-01-09 13:13:55 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

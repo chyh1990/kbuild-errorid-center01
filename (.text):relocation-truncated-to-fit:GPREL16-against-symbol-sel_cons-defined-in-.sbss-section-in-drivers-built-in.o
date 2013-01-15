@@ -1,0 +1,4 @@
+(.text+0x37de8): relocation truncated to fit: GPREL16 against symbol `sel_cons' defined in .sbss section in drivers/built-in.o
+
+2012-10-29 12:35:13 lkp-mb01 next:master:f83c772 alpha-defconfig f83c772
+2012-10-29 15:59:21 lkp-mb01 next:akpm:4c8b1d3 alpha-defconfig 4c8b1d3

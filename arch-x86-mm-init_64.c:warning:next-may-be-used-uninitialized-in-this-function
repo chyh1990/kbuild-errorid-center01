@@ -1,0 +1,3 @@
+arch/x86/mm/init_64.c:965:9: warning: 'next' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-14 12:57:56 kbuild next:master:586a9ca x86_64-allmodconfig 586a9ca

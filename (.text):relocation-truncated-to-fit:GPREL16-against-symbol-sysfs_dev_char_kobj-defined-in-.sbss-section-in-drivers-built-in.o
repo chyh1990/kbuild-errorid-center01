@@ -1,0 +1,8 @@
+(.text+0x5ca5c): relocation truncated to fit: GPREL16 against symbol `sysfs_dev_char_kobj' defined in .sbss section in drivers/built-in.o
+
+2012-09-28 13:22:25 lkp-mb01 next:akpm:5ca573b alpha-defconfig 5ca573b
+2012-10-02 17:19:50 lkp-mb01 next:akpm:275c16c alpha-defconfig 275c16c
+2012-10-07 15:19:36 lkp-mb01 devel-lkp-mb01-s390-2012-10-07-14-41:c59be83 alpha-defconfig c59be83
+2012-10-09 09:17:18 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-08-41:7d4ed3a alpha-defconfig 7d4ed3a
+2012-10-09 12:50:36 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-12-05:a83666a alpha-defconfig a83666a
+2012-10-09 15:29:59 lkp-mb01 devel-lkp-mb01-s390-2012-10-09-15-22:4f56498 alpha-defconfig 4f56498

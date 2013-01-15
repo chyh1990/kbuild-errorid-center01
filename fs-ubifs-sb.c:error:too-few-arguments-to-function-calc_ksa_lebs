@@ -1,0 +1,4 @@
+fs/ubifs/sb.c:126:3: error: too few arguments to function 'calc_ksa_lebs'
+
+2012-08-07 02:13:35 bee x86_64 /cc/kernel-tests/commit-list/ubifs:joel:aee0347 26db935fd3400de810282d3a060b3f98804677ae
+2012-08-07 02:13:35 bee x86_64 email notified

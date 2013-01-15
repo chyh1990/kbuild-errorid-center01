@@ -1,0 +1,3 @@
+include/net/ipv6.h:555:24: sparse: incorrect type in assignment (different base types)
+
+2013-01-14 10:06:26 snb net-next:master:dd3332b i386-allmodconfig dd3332b

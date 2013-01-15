@@ -1,0 +1,4 @@
+drivers/ata/sata_qstor.c:607:47: error: 'IORESOURCE_MEM' undeclared (first use in this function)
+
+2012-09-17 17:54:45 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:14:22 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3

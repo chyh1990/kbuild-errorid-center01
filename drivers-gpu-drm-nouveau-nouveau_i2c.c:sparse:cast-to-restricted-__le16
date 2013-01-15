@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_i2c.c:124:31: sparse: cast to restricted __le16
+
+2012-08-30 22:43:07 snb rcu:rcu:next:17da987 i386-allmodconfig c763ab1

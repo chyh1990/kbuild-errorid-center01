@@ -1,0 +1,4 @@
+include/linux/gfp.h:254:2: error: implicit declaration of function 'BUG_ON' [-Werror=implicit-function-declaration]
+
+2012-07-28 06:28:50 bee x86_64 /cc/kernel-tests/commit-list/nfsd:nfsd-next:96d6d59 3b6e2723f32de42028617f2c99b244ccd72cd959
+2012-08-07 01:48:12 snb x86_64 5ab3633d6907018b0b830a720e877c3884d679c3 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:5ab3633

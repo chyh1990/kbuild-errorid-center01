@@ -1,0 +1,3 @@
+drivers/rapidio/devices/tsi721_dma.c:731 tsi721_prep_rio_sg() error: potential NULL dereference 'desc'.
+
+2012-09-07 22:42:03 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

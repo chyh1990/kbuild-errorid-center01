@@ -1,0 +1,3 @@
+warning: (DM_THIN_PROVISIONING) selects DM_BIO_PRISON which has unmet direct dependencies (MD && BLK_DEV_DM && EXPERIMENTAL)
+
+2012-11-06 11:43:25 bee kees:experimental:5b836db i386-randconfig-b635 5b836db

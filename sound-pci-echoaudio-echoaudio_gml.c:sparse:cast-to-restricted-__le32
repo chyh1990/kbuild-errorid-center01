@@ -1,0 +1,3 @@
+sound/pci/echoaudio/echoaudio_gml.c:159:23: sparse: cast to restricted __le32
+
+2013-01-09 13:18:52 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

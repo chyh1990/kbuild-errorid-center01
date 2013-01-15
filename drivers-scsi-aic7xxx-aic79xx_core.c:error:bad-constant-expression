@@ -1,0 +1,3 @@
+drivers/scsi/aic7xxx/aic79xx_core.c:9354:29: error: bad constant expression
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

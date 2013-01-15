@@ -1,0 +1,3 @@
+WARNING: mm/built-in.o(.meminit.text+0x1084): Section mismatch in reference from the function .free_area_init_core.isra.34() to the function .init.text:.set_pageblock_order()
+
+2012-07-23 19:00:35 kbuild powerpc /cc/kernel-tests/commit-list/memcg:since-3.4:2b04e30 a3b267969b92445126c906581af1600c0adcff0e

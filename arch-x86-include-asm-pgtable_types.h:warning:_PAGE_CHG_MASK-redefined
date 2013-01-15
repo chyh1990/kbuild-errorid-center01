@@ -1,0 +1,3 @@
+arch/x86/include/asm/pgtable_types.h:73:0: warning: "_PAGE_CHG_MASK" redefined [enabled by default]
+
+2012-09-26 06:43:17 bee usb:usb-next:655db79 um-allyesconfig 655db79

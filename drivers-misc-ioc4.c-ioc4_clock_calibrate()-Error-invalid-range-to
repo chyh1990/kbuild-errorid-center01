@@ -1,0 +1,3 @@
+drivers/misc/ioc4.c:212 ioc4_clock_calibrate() Error invalid range 517 to 0
+
+2012-09-07 22:41:27 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

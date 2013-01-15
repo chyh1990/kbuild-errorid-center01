@@ -1,0 +1,3 @@
+net/sunrpc/svcsock.c:1516 svc_create_socket() error: potential null dereference 'svsk'.  (svc_setup_socket returns null)
+
+2012-09-12 06:58:08 kbuild nfsd:nfsd-next:fac7a17 i386-allyesconfig fac7a17

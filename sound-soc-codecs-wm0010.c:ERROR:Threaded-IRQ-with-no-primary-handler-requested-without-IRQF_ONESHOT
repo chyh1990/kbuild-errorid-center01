@@ -1,0 +1,4 @@
+sound/soc/codecs/wm0010.c:850:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-25 17:52:40 snb asoc:for-3.7:e3523e0 i386-allmodconfig e3523e0
+2012-08-25 17:52:43 snb i386 email notified

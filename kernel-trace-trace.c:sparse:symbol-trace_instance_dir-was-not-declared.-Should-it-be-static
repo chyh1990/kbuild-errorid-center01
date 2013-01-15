@@ -1,0 +1,4 @@
+kernel/trace/trace.c:4767:15: sparse: symbol 'trace_instance_dir' was not declared. Should it be static?
+
+2012-08-16 18:31:50 snb trace:rfc:multi-buffers-v4:e712fa1 i386-allmodconfig a41cb06
+2012-08-16 18:32:15 snb i386 email notified

@@ -1,0 +1,3 @@
+WARNING: drivers/net/ethernet/dec/tulip/tulip.o(.text+0x6f9b): Section mismatch in reference from the function tulip_init_one() to the variable .devinit.rodata:early_486_chipsets
+
+2012-12-05 02:37:33 kbuild net-next:master:193c1e4 x86_64-allmodconfig 193c1e4

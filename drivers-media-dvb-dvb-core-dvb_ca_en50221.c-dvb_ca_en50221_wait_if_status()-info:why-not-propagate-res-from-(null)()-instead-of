@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-core/dvb_ca_en50221.c:265 dvb_ca_en50221_wait_if_status() info: why not propagate 'res' from (null)() instead of -5?
+
+2012-09-12 11:58:55 kbuild security:next:a40695e i386-allyesconfig a40695e

@@ -1,0 +1,4 @@
+drivers/gpu/drm/ast/ast_main.c:340:2: error: implicit declaration of function 'pci_iomap' [-Werror=implicit-function-declaration]
+
+2012-11-11 06:43:52 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-19 11:30:02 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c

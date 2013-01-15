@@ -1,0 +1,3 @@
+arch/x86/kernel/x86_init.c:30:13: sparse: symbol 'x86_init_pgd_done_noop' was not declared. Should it be static?
+
+2012-09-13 03:18:45 snb xen:linux-next:3153e9a i386-allmodconfig 73090f8

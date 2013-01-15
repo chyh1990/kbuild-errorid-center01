@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:4139:2: warning: format '%d' expects argument of type 'int', but argument 4 has type 'size_t' [-Wformat]
+
+2012-09-29 02:50:14 kbuild wireless-testing:master:96df9f3 powerpc-allmodconfig 96df9f3

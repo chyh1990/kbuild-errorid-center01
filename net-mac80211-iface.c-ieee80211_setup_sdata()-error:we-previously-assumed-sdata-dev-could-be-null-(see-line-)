@@ -1,0 +1,3 @@
+net/mac80211/iface.c:1250 ieee80211_setup_sdata() error: we previously assumed 'sdata->dev' could be null (see line 1212)
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

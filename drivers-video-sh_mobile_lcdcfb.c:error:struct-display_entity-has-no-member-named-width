@@ -1,0 +1,4 @@
+drivers/video/sh_mobile_lcdcfb.c:2604:32: error: 'struct display_entity' has no member named 'width'
+
+2012-11-22 17:31:03 bee pinchartl-fbdev:lcdc-panel:6a7290b sh-allyesconfig 0c20c2c
+2012-11-22 17:31:19 bee sh email notified

@@ -1,0 +1,3 @@
+warning: (NETFILTER_XT_TARGET_NOTRACK) selects NETFILTER_XT_TARGET_CT which has unmet direct dependencies (NET && INET && NETFILTER && NETFILTER_XTABLES && NF_CONNTRACK && (IP_NF_RAW || IP6_NF_RAW) && NETFILTER_ADVANCED)
+
+2013-01-03 05:56:44 bee net:master:612a7c4 x86_64-randconfig-x887 612a7c4

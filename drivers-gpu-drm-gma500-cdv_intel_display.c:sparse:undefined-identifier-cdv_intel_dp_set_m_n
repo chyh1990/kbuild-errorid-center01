@@ -1,0 +1,3 @@
+drivers/gpu/drm/gma500/cdv_intel_display.c:1131:17: sparse: undefined identifier 'cdv_intel_dp_set_m_n'
+
+2012-08-24 12:41:23 snb drm:drm-next:ce5fdd6 i386-allmodconfig f76c0dd

@@ -1,0 +1,23 @@
+arch/cris/arch-v10/kernel/process.c:147:2: error: implicit declaration of function 'current_pt_regs' [-Werror=implicit-function-declaration]
+
+2012-10-15 08:59:31 lkp-mb01 signal:arch-cris:b390891 cris-etrax-100lx_v2_defconfig b390891
+2012-10-31 09:35:07 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-09-21:6eac3f3 cris-etrax-100lx_v2_defconfig 6eac3f3
+2012-11-01 07:28:19 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-06-45:04c11ef cris-etrax-100lx_v2_defconfig 04c11ef
+2012-11-03 09:25:33 lkp-mb01 signal:for-next:f899e0f cris-etrax-100lx_v2_defconfig f899e0f
+2012-11-05 14:52:06 lkp-mb01 next:master:124414e cris-etrax-100lx_v2_defconfig 124414e
+2012-11-05 15:39:34 lkp-mb01 next:akpm:1c24949 cris-etrax-100lx_v2_defconfig 1c24949
+2012-11-06 14:38:48 lkp-mb01 next:master:6f4f774 cris-etrax-100lx_v2_defconfig 6f4f774
+2012-11-06 14:44:49 lkp-mb01 next:akpm:5b53047 cris-etrax-100lx_v2_defconfig 5b53047
+2012-11-07 14:07:31 lkp-mb01 next:master:12b2c0c cris-etrax-100lx_v2_defconfig 12b2c0c
+2012-11-07 14:35:45 lkp-mb01 next:akpm:5c37733 cris-etrax-100lx_v2_defconfig 5c37733
+2012-11-08 14:05:59 lkp-mb01 next:master:50aa9ee cris-etrax-100lx_v2_defconfig 50aa9ee
+2012-11-08 15:32:37 lkp-mb01 next:akpm:db38463 cris-etrax-100lx_v2_defconfig db38463
+2012-11-09 13:45:18 lkp-mb01 next:master:75e0eba cris-etrax-100lx_v2_defconfig 75e0eba
+2012-11-10 05:17:14 lkp-mb01 next:akpm:6703d59 cris-etrax-100lx_v2_defconfig 6703d59
+2012-11-11 02:04:01 lkp-mb01 signal:for-next:3a2bc99 cris-etrax-100lx_v2_defconfig 3a2bc99
+2012-11-11 10:08:53 lkp-mb01 signal:for-next:fae4535 cris-etrax-100lx_v2_defconfig fae4535
+2012-11-14 14:42:00 lkp-mb01 next:master:ebdacea cris-etrax-100lx_v2_defconfig ebdacea
+2012-11-14 18:05:12 lkp-mb01 next:akpm:b7c0f57 cris-etrax-100lx_v2_defconfig b7c0f57
+2012-11-15 16:13:48 lkp-mb01 next:master:3805711 cris-etrax-100lx_v2_defconfig 3805711
+2012-11-20 16:06:12 inn internal-ashishki:ci-watup:56c5627 cris-etrax-100lx_v2_defconfig 6d6b785
+2012-12-04 17:02:33 lkp-mb01 hzhuang1:testing:clkv1:dad178e cris-etrax-100lx_v2_defconfig dad178e

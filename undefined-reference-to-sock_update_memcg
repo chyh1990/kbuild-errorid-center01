@@ -1,0 +1,30 @@
+(.text+0x867f): undefined reference to `sock_update_memcg'
+
+2012-09-24 04:54:53 snb next:akpm:69921c3 x86_64-randconfig-s005 0a7f618
+2012-10-09 23:29:15 lkp-mb01 glommer-memcg:kmemcg-stack:5ef6493 i386-randconfig-m014 5ef6493
+2012-10-10 05:44:37 lkp-mb01 kees:uts-leak:6dc255f i386-randconfig-m014 6dc255f
+2012-10-10 06:28:22 lkp-mb01 kees:uts-leak:2e59848 i386-randconfig-m014 2e59848
+2012-10-10 06:54:39 lkp-mb01 kees:uts-leak:9bd93a4 i386-randconfig-m014 9bd93a4
+2012-10-10 07:22:34 lkp-mb01 kees:uts-leak:9a9f4bb i386-randconfig-m014 9a9f4bb
+2012-10-10 07:24:25 lkp-mb01 ext3:for_testing:6c29c50 i386-randconfig-m014 6c29c50
+2012-10-10 07:51:32 lkp-mb01 net:master:5175a5e i386-randconfig-m014 5175a5e
+2012-10-10 08:05:40 lkp-mb01 signal:proposed-merge:e6eb0e6 i386-randconfig-m014 e6eb0e6
+2012-10-10 12:05:11 lkp-mb01 linus:master:f59b51f i386-randconfig-m014 f59b51f
+2012-10-12 08:42:03 snb vfs:for-next:b0c3540 x86_64-randconfig-s031 2474542
+2012-10-12 09:24:38 hive next:master:1f3b59e x86_64-randconfig-h031 1f3b59e
+2012-10-12 12:05:43 hive tip:x86:uapi:8d2c63c x86_64-randconfig-h031 8d2c63c
+2012-10-12 14:35:53 snb next:akpm:04b956f x86_64-randconfig-s031 f4c9c0e
+2012-10-12 15:58:41 hive pinctrl:devel:effc8f0 x86_64-randconfig-h031 effc8f0
+2012-10-12 18:17:27 snb netdev:master:5d9d01a x86_64-randconfig-s042 5aa8b57
+2012-10-12 19:31:07 hive nfsd:master:a9ca404 x86_64-randconfig-h031 a9ca404
+2012-10-12 20:10:55 hive pinctrl:samsung:acf44df x86_64-randconfig-h031 acf44df
+2012-10-12 20:47:19 hive pinctrl:at91:53f3dbb x86_64-randconfig-h031 53f3dbb
+2012-10-12 22:03:21 snb xen:linux-next:79fef7a x86_64-randconfig-s042 79fef7a
+2012-10-12 22:10:58 snb glommer-memcg:kmemcg-stack:31b2d8e x86_64-randconfig-s042 8fbf58b
+2012-10-12 22:33:32 hive glommer-memcg:kmemcg-slab:f7dc2a4 x86_64-randconfig-h031 f7dc2a4
+2012-10-13 02:50:19 hive net:master:dabdaf0 x86_64-randconfig-h031 dabdaf0
+2012-10-13 04:49:55 lkp-mb01 dm:for-linus:dba1416 i386-randconfig-m041 dba1416
+2012-10-15 15:24:13 hive shawnguo:for-3.8:d905cd3 x86_64-randconfig-h062 d905cd3
+2012-10-15 15:54:56 hive shawnguo:imx:dt-for-3.8:23b91e9 x86_64-randconfig-h062 23b91e9
+2012-10-15 16:48:58 hive shawnguo:imx6-cpuidle:740c61a x86_64-randconfig-h062 740c61a
+2012-10-19 22:36:52 hive glommer-memcg:kmemcg-slab:17257f1 x86_64-randconfig-h093 17257f1

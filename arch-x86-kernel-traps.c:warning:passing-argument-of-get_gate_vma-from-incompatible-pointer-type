@@ -1,0 +1,4 @@
+arch/x86/kernel/traps.c:145:3: warning: passing argument 1 of 'get_gate_vma' from incompatible pointer type [enabled by default]
+
+2012-09-20 07:06:44 bee kees:nx-emu:ba8b141 i386-randconfig-b041 ba8b141
+2012-09-20 07:08:23 bee i386 email notified

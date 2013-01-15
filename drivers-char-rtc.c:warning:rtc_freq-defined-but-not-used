@@ -1,0 +1,3 @@
+drivers/char/rtc.c:192:22: warning: 'rtc_freq' defined but not used [-Wunused-variable]
+
+2013-01-09 12:32:05 inn linus:master:974b335 x86_64-randconfig-n365 974b335

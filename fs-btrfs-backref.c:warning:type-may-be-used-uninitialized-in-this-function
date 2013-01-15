@@ -1,0 +1,3 @@
+fs/btrfs/backref.c:1415:3: warning: 'type' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:05:47 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b032 d0aa742

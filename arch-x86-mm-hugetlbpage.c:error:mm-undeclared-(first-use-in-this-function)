@@ -1,0 +1,5 @@
+arch/x86/mm/hugetlbpage.c:299:20: error: 'mm' undeclared (first use in this function)
+
+2012-11-09 12:47:46 kbuild next:akpm:6703d59 i386-allyesconfig 6703d59
+2012-11-09 19:32:41 bee memcg:since-3.6:f37592d i386-randconfig-b652 f37592d
+2012-11-10 22:01:18 bee memcg:since-3.6:d12449b i386-randconfig-b652 d12449b

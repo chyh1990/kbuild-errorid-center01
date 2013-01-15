@@ -1,0 +1,3 @@
+drivers/net/wireless/libertas/cfg.c:1120 lbs_associate() warn: variable dereferenced before check 'cmd' (see line 1115)
+
+2013-01-09 13:27:44 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

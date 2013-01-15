@@ -1,0 +1,3 @@
+drivers/usb/musb/tusb6010.c:529:28: sparse: no member 'state' in struct usb_phy
+
+2012-09-05 21:50:06 snb balbi-usb:master:8de3474 i386-allmodconfig de4217d

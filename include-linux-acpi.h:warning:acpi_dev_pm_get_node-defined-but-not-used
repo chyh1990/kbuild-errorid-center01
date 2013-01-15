@@ -1,0 +1,3 @@
+include/linux/acpi.h:518: warning: 'acpi_dev_pm_get_node' defined but not used
+
+2012-12-20 10:25:46 snb pm:acpi-scan-temp-new:9970b0a avr32-atngw100_defconfig 9970b0a

@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfad_im.c:363 bfad_im_reset_bus_handler() Error invalid range 4096 to -1
+
+2012-09-07 22:41:43 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

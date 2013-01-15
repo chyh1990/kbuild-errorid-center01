@@ -1,0 +1,4 @@
+WARNING: drivers/md/dm-thin-pool.o(.text+0x53ce): Section mismatch in reference from the function dm_thin_exit() to the function .exit.text:dm_bio_prison_exit()
+
+2012-10-13 04:32:35 bee dm:for-linus:dba1416 x86_64-allyesconfig 44feb38
+2012-10-13 04:32:35 bee x86_64 email notified

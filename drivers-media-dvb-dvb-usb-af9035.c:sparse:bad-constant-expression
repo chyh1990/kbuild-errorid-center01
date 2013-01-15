@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/af9035.c:146:19: sparse: bad constant expression
+
+2012-07-23 21:23:04 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

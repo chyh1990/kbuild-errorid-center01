@@ -1,0 +1,3 @@
+drivers/ide/qd65xx.c:154 qd_find_disk_type() Error invalid range 4096 to -1
+
+2012-09-07 22:41:42 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

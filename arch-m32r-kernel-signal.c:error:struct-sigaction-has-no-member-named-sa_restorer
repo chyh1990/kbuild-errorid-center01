@@ -1,0 +1,3 @@
+arch/m32r/kernel/signal.c:214:34: error: 'struct sigaction' has no member named 'sa_restorer'
+
+2012-12-23 12:15:52 lkp-mb01 signal:master:8fb00aa m32r-m32104ut_defconfig 8fb00aa

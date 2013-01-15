@@ -1,0 +1,3 @@
+fs/ubifs/dir.c:1099:12: warning: 'saved_nlink' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-10 01:53:03 bee perf:perf:core:2814eb0 i386-randconfig-b003 26198c2

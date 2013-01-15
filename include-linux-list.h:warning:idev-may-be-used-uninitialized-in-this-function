@@ -1,0 +1,3 @@
+include/linux/list.h:188:13: warning: 'idev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:05:45 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b032 d0aa742

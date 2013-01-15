@@ -1,0 +1,3 @@
+sound/pci/hda/hda_eld.c:58:14: warning: 'eld_connection_type_names' defined but not used [-Wunused-variable]
+
+2013-01-09 11:47:20 snb devel-snb-x86_64-2013-01-09-11-38:b362afb x86_64-randconfig-s618 b362afb

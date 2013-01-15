@@ -1,0 +1,3 @@
+drivers/staging/iio/accel/adis16204_core.c:296:3: warning: pointer targets in passing argument 3 of 'adis16204_spi_read_reg_16' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:33 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

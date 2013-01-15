@@ -1,0 +1,3 @@
+{standard input}:2117: Error: no such instruction: `jm'
+
+2012-09-20 20:20:36 snb userns:userns-always-map-user-v56:3f6e720 x86_64-randconfig-s364 74a8a10

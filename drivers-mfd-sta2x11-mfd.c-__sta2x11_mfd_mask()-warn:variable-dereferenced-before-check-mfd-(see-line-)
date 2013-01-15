@@ -1,0 +1,3 @@
+drivers/mfd/sta2x11-mfd.c:121 __sta2x11_mfd_mask() warn: variable dereferenced before check 'mfd' (see line 119)
+
+2012-11-20 06:05:23 kbuild devel-kbuild-i386-2012-11-20-04-41:bc69144 i386-allyesconfig bc69144

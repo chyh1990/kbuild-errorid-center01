@@ -1,0 +1,4 @@
+drivers/gpu/drm/i915/i915_sysfs.c:164:19: error: 'struct <anonymous>' has no member named 'l3_remap_info'
+
+2012-09-29 18:55:12 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig f22af27
+2012-09-29 18:55:12 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig f22af27 email notified

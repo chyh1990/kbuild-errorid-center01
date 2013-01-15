@@ -1,0 +1,3 @@
+fs/btrfs/volumes.c:1480 btrfs_rm_device() error: potential NULL dereference 'disk_super'.
+
+2012-09-07 22:41:21 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

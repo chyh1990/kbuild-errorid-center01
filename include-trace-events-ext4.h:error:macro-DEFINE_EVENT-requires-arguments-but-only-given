@@ -1,0 +1,5 @@
+include/trace/events/ext4.h:484:1: error: macro "DEFINE_EVENT" requires 4 arguments, but only 3 given
+
+2012-12-30 00:33:05 kbuild ext4:dev:b977f3e x86_64-allmodconfig fdd2c03
+2012-12-30 00:33:49 kbuild x86_64 email notified
+2012-12-30 01:09:09 snb ext4:dev:8a3be3e x86_64-randconfig-s561 fdd2c03

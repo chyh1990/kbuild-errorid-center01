@@ -1,0 +1,4 @@
+include/linux/mmu_notifier.h:235:38: warning: 'mmun_end' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-07 19:22:32 bee next:akpm:d28e1f3 x86_64-nfsroot 3d1afff
+2012-09-07 19:26:20 bee x86_64 email notified

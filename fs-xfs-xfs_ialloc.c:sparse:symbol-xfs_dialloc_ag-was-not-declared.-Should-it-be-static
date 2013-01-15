@@ -1,0 +1,4 @@
+fs/xfs/xfs_ialloc.c:616:1: sparse: symbol 'xfs_dialloc_ag' was not declared. Should it be static?
+
+2012-07-30 06:16:37 snb i386 /cc/kernel-tests/commit-list/xfs:for-next:9a57fa8 f2ecc5e453134a13c3b2b0f2cac52ab2d5c540d7
+2012-07-30 06:26:54 snb i386 email notified

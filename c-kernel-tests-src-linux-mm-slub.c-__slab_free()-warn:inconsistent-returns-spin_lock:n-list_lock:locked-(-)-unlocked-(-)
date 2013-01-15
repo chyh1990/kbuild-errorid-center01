@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/mm/slub.c:2567 __slab_free() warn: inconsistent returns spin_lock:&n->list_lock: locked (2476,2536) unlocked (2552,2567)
+
+2013-01-07 12:25:21 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

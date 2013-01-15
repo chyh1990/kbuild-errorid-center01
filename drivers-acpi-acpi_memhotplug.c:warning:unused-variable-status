@@ -1,0 +1,3 @@
+drivers/acpi/acpi_memhotplug.c:160:14: warning: unused variable 'status' [-Wunused-variable]
+
+2012-12-17 06:29:35 bee pm:acpi-scan-temp:c225571 x86_64-allyesdebian c225571

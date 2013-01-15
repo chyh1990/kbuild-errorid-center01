@@ -1,0 +1,3 @@
+drivers/usb/chipidea/udc.c:1650 udc_start() warn: variable dereferenced before check 'udc' (see line 1647)
+
+2012-09-07 22:41:36 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

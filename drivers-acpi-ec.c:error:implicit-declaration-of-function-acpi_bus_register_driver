@@ -1,0 +1,3 @@
+drivers/acpi/ec.c:1053:2: error: implicit declaration of function 'acpi_bus_register_driver' [-Werror=implicit-function-declaration]
+
+2012-09-26 12:49:03 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

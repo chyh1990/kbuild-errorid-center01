@@ -1,0 +1,8 @@
+make[4]: *** No rule to make target `sound/soc/codecs/snd-soc-wm-adsp.o', needed by `sound/soc/codecs/built-in.o'.
+
+2012-10-28 04:51:55 kbuild asoc:topic:adsp:2882fcb i386-allyesconfig 2882fcb
+2012-10-28 04:52:00 kbuild i386 email notified
+2012-10-28 05:13:08 kbuild asoc:for-next:5647fab i386-allyesconfig 5647fab
+2012-10-28 05:15:42 kbuild asoc:topic:wm2200:147fe64 i386-allyesconfig 147fe64
+2012-10-28 05:18:10 kbuild asoc:topic:arizona:b6df013 i386-allyesconfig b6df013
+2012-10-28 06:27:42 kbuild asoc:for-next:a22864e i386-allyesconfig a22864e

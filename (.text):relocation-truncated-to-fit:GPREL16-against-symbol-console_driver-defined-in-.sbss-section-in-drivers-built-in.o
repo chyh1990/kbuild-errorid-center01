@@ -1,0 +1,6 @@
+(.text+0x3ee98): relocation truncated to fit: GPREL16 against symbol `console_driver' defined in .sbss section in drivers/built-in.o
+
+2012-10-17 04:54:04 lkp-mb01 arm-soc:test-merge-20121016:409750d alpha-defconfig 409750d
+2012-10-24 08:41:39 lkp-mb01 devel-lkp-mb01-s390-2012-10-24-08-04:40819ab alpha-defconfig 40819ab
+2012-10-30 12:00:57 lkp-mb01 pci:pci:misc:347593e alpha-defconfig 347593e
+2012-10-30 21:15:14 lkp-mb01 devel-lkp-mb01-s390-2012-10-30-20-41:0a393be alpha-defconfig 0a393be

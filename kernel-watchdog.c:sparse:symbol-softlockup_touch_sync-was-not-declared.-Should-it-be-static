@@ -1,0 +1,3 @@
+kernel/watchdog.c:39:8: sparse: symbol 'softlockup_touch_sync' was not declared. Should it be static?
+
+2013-01-09 13:14:04 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

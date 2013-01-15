@@ -1,0 +1,3 @@
+drivers/usb/storage/ene_ub6250.c:1055 ms_lib_free_writebuf() info: redundant null check on info->MS_Lib.blkpag calling kfree()
+
+2012-09-12 11:58:05 kbuild security:next:a40695e i386-allyesconfig a40695e

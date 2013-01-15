@@ -1,0 +1,3 @@
+kernel/rcutree_plugin.h:1966:8: sparse: symbol 'rcu_dyntick_drain' was not declared. Should it be static?
+
+2012-09-16 09:07:03 snb wireless-next:for-davem:9316f0e i386-allmodconfig 362b056

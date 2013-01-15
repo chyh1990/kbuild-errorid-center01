@@ -1,0 +1,3 @@
+drivers/video/backlight/lm3639_bl.c:406:1-3: ERROR: test of a variable/field address
+
+2012-11-05 17:08:39 snb next:akpm:1c24949 i386-allmodconfig 1c24949

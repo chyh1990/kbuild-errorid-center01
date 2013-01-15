@@ -1,0 +1,9 @@
+arch/sparc/kernel/sys_sparc32.c:255:1: error: conflicting types for 'compat_sys_rt_sigaction'
+
+2012-12-23 12:16:07 bee signal:master:8fb00aa sparc64-allnoconfig 8fb00aa
+2012-12-23 18:30:16 bee signal:master:4566f7d sparc64-allnoconfig 4566f7d
+2012-12-24 02:40:25 bee signal:master:3c676cd sparc64-allnoconfig 3c676cd
+2012-12-25 06:55:50 bee signal:master:144d9ef sparc64-allnoconfig 144d9ef
+2012-12-25 07:39:44 bee signal:master:af1833c sparc64-allnoconfig af1833c
+2012-12-25 12:18:06 bee signal:master:a29045d sparc64-allnoconfig a29045d
+2012-12-25 12:41:01 bee signal:master:323a806 sparc64-allnoconfig 323a806

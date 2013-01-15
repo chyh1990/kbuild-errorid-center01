@@ -1,0 +1,3 @@
+drivers/staging/usbip/vhci_tx.c:54 dequeue_from_priv_tx() info: ignoring unreachable code.
+
+2012-09-07 22:42:19 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

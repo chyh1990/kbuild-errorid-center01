@@ -1,0 +1,5 @@
+drivers/gpu/drm/i915/i915_dma.c:1305:2: error: too many arguments to function 'vga_switcheroo_register_client'
+
+2012-09-10 11:15:56 bee drm:drm-opt-power:7f20144 x86_64-nfsroot da023c3
+2012-09-10 11:15:58 bee x86_64 email notified
+2012-09-10 12:48:30 bee drm:drm-opt-power:761d3ed x86_64-nfsroot 7bd5494

@@ -1,0 +1,3 @@
+mm/mmap.c:392:13: sparse: multiple definitions for function 'validate_mm_rb'
+
+2012-12-13 23:13:04 snb next:akpm:41633b2 i386-allmodconfig 41633b2

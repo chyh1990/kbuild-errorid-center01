@@ -1,0 +1,4 @@
+WARNING: drivers/built-in.o(.text+0xc2ab3): Section mismatch in reference from the function twlreg_probe() to the (unknown reference) .devinit.rodata:(unknown)
+
+2012-11-20 09:45:33 snb regulator:topic:hotplug:a502357 x86_64-randconfig-s307 a502357
+2012-11-20 09:45:34 snb x86_64 email notified

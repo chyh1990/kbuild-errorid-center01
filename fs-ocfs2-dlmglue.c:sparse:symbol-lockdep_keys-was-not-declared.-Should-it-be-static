@@ -1,0 +1,3 @@
+fs/ocfs2/dlmglue.c:97:23: sparse: symbol 'lockdep_keys' was not declared. Should it be static?
+
+2013-01-09 12:55:26 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,7 @@
+include/linux/errno.h:4:23: fatal error: asm/errno.h: No such file or directory
+
+2012-09-24 11:13:04 bee omap:devel-late:9cd68fa m68k-allyesconfig 2b026d1
+2012-09-24 11:43:24 bee omap:testing-misc:8af4ad5 m68k-allyesconfig 8fde3af
+2012-09-24 11:47:16 bee omap:testing-board:0984f3f m68k-allyesconfig c810fde
+2012-09-25 17:04:06 bee mfd:for-next:eebfdc1 m68k-allyesconfig 41569a1
+2012-09-25 17:04:06 bee mfd:for-next:eebfdc1 m68k-allyesconfig 41569a1 email notified

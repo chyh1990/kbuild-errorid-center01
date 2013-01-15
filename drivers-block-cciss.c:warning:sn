@@ -1,0 +1,3 @@
+drivers/block/cciss.c:677:18: warning: 'sn[0]' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:06:00 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b035 d0aa742

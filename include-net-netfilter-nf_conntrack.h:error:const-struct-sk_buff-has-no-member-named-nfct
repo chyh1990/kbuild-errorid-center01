@@ -1,0 +1,4 @@
+include/net/netfilter/nf_conntrack.h:157:30: error: 'const struct sk_buff' has no member named 'nfct'
+
+2013-01-03 05:56:42 bee net:master:612a7c4 x86_64-randconfig-x887 612a7c4
+2013-01-03 18:28:29 bee net:master:6602d00 x86_64-randconfig-x887 6602d00

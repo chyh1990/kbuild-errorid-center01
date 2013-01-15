@@ -1,0 +1,3 @@
+lib/debugobjects.c:255:9: warning: unused variable 'hint' [-Wunused-variable]
+
+2012-09-16 21:22:07 inn alexs:master:ce9d293 i386-randconfig-i009 ce9d293

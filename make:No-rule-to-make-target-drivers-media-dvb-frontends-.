@@ -1,0 +1,3 @@
+make[1]: *** No rule to make target `drivers/media/dvb/frontends'.
+
+2012-08-14 23:29:21 bee x86_64 /cc/kernel-tests/commit-list/samsung:v4l_samsung_for_v3.7:880d385 9a0bf528b4d66b605f02634236da085595c22101

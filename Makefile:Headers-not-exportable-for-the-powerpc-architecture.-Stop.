@@ -1,0 +1,4 @@
+Makefile:911: *** Headers not exportable for the powerpc architecture.  Stop.
+
+2012-10-31 17:51:26 kbuild memcg:since-3.6:cad5c69 powerpc-allmodconfig cad5c69
+2012-10-31 19:23:22 kbuild hid:for-3.7:upstream-fixes:8d80da9 powerpc-allmodconfig 8d80da9

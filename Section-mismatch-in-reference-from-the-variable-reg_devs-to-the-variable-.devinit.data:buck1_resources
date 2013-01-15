@@ -1,0 +1,4 @@
+WARNING: vmlinux.o(.data+0x5ca68): Section mismatch in reference from the variable reg_devs to the variable .devinit.data:buck1_resources
+
+2012-09-11 19:03:54 snb mfd:for-next:9235695 x86_64-randconfig-s295 a70abac
+2012-09-11 19:03:57 snb x86_64 email notified

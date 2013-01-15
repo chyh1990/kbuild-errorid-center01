@@ -1,0 +1,3 @@
+WARNING: drivers/dma/dw_dmac.o(.text+0x3ec): Section mismatch in reference from the function .dw_probe() to the function .devinit.text:.dw_dma_parse_dt()
+
+2012-11-30 16:08:10 kbuild next:master:85924a0 powerpc-allmodconfig 85924a0

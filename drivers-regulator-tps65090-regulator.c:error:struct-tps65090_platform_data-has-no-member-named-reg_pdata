@@ -1,0 +1,4 @@
+drivers/regulator/tps65090-regulator.c:169:29: error: 'struct tps65090_platform_data' has no member named 'reg_pdata'
+
+2012-12-17 10:39:32 snb devel-snb-i386-2012-12-17-09-30:d4f92e5 i386-allmodconfig d4f92e5
+2012-12-17 13:32:06 kbuild devel-kbuild-i386-2012-12-17-13-25:fb5b595 i386-allyesconfig fb5b595

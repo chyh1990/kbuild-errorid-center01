@@ -1,0 +1,3 @@
+include/linux/dcache.h:149:11: warning: 'struct inode' declared inside parameter list
+
+2012-10-01 17:43:25 snb devel-snb-arm-2012-10-01-17-19:6180ed1 openrisc-or1ksim_defconfig 6180ed1

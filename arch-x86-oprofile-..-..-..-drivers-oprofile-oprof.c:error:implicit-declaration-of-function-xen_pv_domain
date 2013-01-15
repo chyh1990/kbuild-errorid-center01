@@ -1,0 +1,3 @@
+arch/x86/oprofile/../../../drivers/oprofile/oprof.c:285:2: error: implicit declaration of function 'xen_pv_domain' [-Werror=implicit-function-declaration]
+
+2012-08-18 01:30:04 kbuild xen:devel:oprofile.v1:f0be918 i386-randconfig-k731 f0be918

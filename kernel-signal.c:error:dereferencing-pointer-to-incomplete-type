@@ -1,0 +1,8 @@
+kernel/signal.c:3394:9: error: dereferencing pointer to incomplete type
+
+2012-12-26 08:15:00 hive signal:master:110a27a x86_64-randconfig-h012 110a27a
+2012-12-26 09:12:55 hive signal:master:80e8b45 x86_64-randconfig-h012 80e8b45
+2012-12-26 09:27:03 bee devel-bee-sparc64-2012-12-26-09-03:bf78d0d powerpc-chroma_defconfig bf78d0d
+2012-12-26 09:46:07 kbuild devel-kbuild-powerpc-2012-12-26-08-58:e037503 powerpc-allmodconfig e037503
+2012-12-26 09:56:47 snb devel-snb-arm-2012-12-26-09-00:55848c5 tile-tilegx_defconfig 55848c5
+2012-12-26 10:20:55 lkp-mb01 devel-lkp-mb01-s390-2012-12-26-09-02:93ce1c0 s390-allmodconfig 93ce1c0

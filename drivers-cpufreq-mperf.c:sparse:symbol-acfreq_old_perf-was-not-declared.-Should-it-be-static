@@ -1,0 +1,3 @@
+drivers/cpufreq/mperf.c:10:8: sparse: symbol 'acfreq_old_perf' was not declared. Should it be static?
+
+2013-01-09 13:02:29 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

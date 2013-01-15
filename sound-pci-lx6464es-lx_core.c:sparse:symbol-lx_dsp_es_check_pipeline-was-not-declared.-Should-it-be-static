@@ -1,0 +1,3 @@
+sound/pci/lx6464es/lx_core.c:494:5: sparse: symbol 'lx_dsp_es_check_pipeline' was not declared. Should it be static?
+
+2013-01-09 12:56:00 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

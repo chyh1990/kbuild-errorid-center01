@@ -1,0 +1,4 @@
+drivers/staging/rts_pstor/rtsx.c:397:16-19: ERROR: dev is NULL but dereferenced.
+
+2012-09-19 23:07:59 snb staging:staging-next:95bc359 i386-allmodconfig d084610
+2012-09-19 23:08:01 snb i386 email notified

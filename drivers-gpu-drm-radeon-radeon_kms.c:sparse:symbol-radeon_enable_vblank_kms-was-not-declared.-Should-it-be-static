@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_kms.c:552:5: sparse: symbol 'radeon_enable_vblank_kms' was not declared. Should it be static?
+
+2013-01-09 13:10:53 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

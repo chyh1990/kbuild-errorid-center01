@@ -1,0 +1,5 @@
+make[3]: *** No rule to make target `ubuntu/include/Kbuild'.
+
+2012-09-29 18:38:10 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig 27756fd
+2012-09-29 18:38:23 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig c4c9f06 email notified
+2012-09-29 18:38:24 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+drivers/firewire/net.c:406:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-25 22:41:27 bee firewire:master:52439d6 x86_64-allyesconfig badfcb2

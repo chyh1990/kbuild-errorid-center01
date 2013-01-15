@@ -1,0 +1,3 @@
+net/core/scm.c:273 scm_detach_fds() warn: bitwise AND condition is false here
+
+2013-01-09 13:28:09 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

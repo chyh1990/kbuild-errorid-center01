@@ -1,0 +1,3 @@
+arch/x86/xen/smp.c:260:2: error: implicit declaration of function 'smp_store_boot_cpu_info' [-Werror=implicit-function-declaration]
+
+2012-12-18 13:33:51 kbuild xen:linux-next:9736dea x86_64-allmodconfig 00ce918

@@ -1,0 +1,3 @@
+drivers/staging/vt6656/bssdb.c:502 BSSbInsertToBSSList() error: __builtin_memcpy() 'pBSSList->abyIEs' too small (1024 vs 2340)
+
+2013-01-09 13:26:27 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

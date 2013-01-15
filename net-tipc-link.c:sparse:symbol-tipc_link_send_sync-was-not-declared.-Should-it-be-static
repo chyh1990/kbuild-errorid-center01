@@ -1,0 +1,3 @@
+net/tipc/link.c:958:6: sparse: symbol 'tipc_link_send_sync' was not declared. Should it be static?
+
+2012-11-23 01:16:52 snb paulg:tipc_net-next:ced1164 i386-allmodconfig ced1164

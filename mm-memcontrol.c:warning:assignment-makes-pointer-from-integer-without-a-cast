@@ -1,0 +1,3 @@
+mm/memcontrol.c:3146:9: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-11-21 21:50:08 bee glommer-memcg:kmemcg-slab:82674f9 x86_64-allyesconfig 9a8fe5d

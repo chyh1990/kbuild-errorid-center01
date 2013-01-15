@@ -1,0 +1,3 @@
+drivers/char/ipmi/ipmi_si_intf.c:1027:39: sparse: context imbalance in 'poll' - unexpected unlock
+
+2013-01-09 13:02:30 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

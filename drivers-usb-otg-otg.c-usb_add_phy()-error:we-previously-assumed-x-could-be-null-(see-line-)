@@ -1,0 +1,3 @@
+drivers/usb/otg/otg.c:172 usb_add_phy() error: we previously assumed 'x' could be null (see line 162)
+
+2012-09-07 23:06:17 kbuild mac80211-next:wip:be3090b i386-allyesconfig be3090b

@@ -1,0 +1,4 @@
+drivers/staging/iio/iio_input.c:189 iio_input_probe() error: don't call input_free_device() after input_unregister_device()
+
+2012-09-15 19:02:33 kbuild iio:wip:5c8dd19 i386-allyesconfig 5c8dd19
+2012-09-15 20:50:52 kbuild i386 email notified

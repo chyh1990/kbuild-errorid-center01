@@ -1,0 +1,3 @@
+drivers/isdn/i4l/isdn_net.c:2942 isdn_net_getcfg() error: strcpy() 'lp->master->name' too large for 'cfg->master' (16 vs 10)
+
+2013-01-09 13:27:31 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

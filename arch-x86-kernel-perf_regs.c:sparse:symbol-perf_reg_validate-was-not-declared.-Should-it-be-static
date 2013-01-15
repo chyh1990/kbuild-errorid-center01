@@ -1,0 +1,3 @@
+arch/x86/kernel/perf_regs.c:67:5: sparse: symbol 'perf_reg_validate' was not declared. Should it be static?
+
+2012-08-11 07:27:35 snb i386 /cc/kernel-tests/commit-list/perf:perf:core:2a2e386 c5e63197db519bae1c33e41ea0342a50f39e7a93

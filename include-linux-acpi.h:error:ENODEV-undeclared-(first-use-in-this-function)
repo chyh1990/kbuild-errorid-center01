@@ -1,0 +1,8 @@
+include/linux/acpi.h:467:68: error: 'ENODEV' undeclared (first use in this function)
+
+2012-11-15 09:37:53 snb devel-snb-arm-2012-11-15-09-30:8189814 arm-tegra_defconfig 8189814
+2012-11-15 10:14:33 kbuild devel-kbuild-powerpc-2012-11-15-10-07:393d7fe powerpc-allmodconfig 393d7fe
+2012-11-15 10:15:19 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-15-09-40:dac9919 sh-sh7785lcr_32bit_defconfig dac9919
+2012-11-15 10:26:34 bee devel-bee-x86-2012-11-15-09-18:bff3cb0 i386-randconfig-x051 bff3cb0
+2012-11-15 10:42:52 hive devel-hive-mips-2012-11-15-10-17:7678daf mips-fuloong2e_defconfig 7678daf
+2012-11-15 12:33:59 bee devel-bee-sparc64-2012-11-15-10-14:6bea32e powerpc-chroma_defconfig 6bea32e

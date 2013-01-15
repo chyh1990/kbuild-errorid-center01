@@ -1,0 +1,3 @@
+kernel/module_signing.c:58:3: error: implicit declaration of function 'ERR_CAST' [-Werror=implicit-function-declaration]
+
+2012-09-22 07:12:54 bee modsign:modsign-post-KS:c563cc3 cris-allyesconfig 2d5ea48

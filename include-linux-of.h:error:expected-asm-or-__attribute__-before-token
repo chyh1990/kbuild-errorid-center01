@@ -1,0 +1,4 @@
+include/linux/of.h:81:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+
+2012-07-24 20:12:48 snb openrisc /cc/kernel-tests/commit-list/uapi:uapi-split:09e932d 57d93686d988482f0b183afd1a89d693a760b525
+2012-09-05 00:49:26 snb omap-dss2:work:omap5-dt:73fc80a avr32-atngw100_defconfig 3fc0d2e

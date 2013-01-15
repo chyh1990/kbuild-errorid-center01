@@ -1,0 +1,3 @@
+drivers/acpi/apei/cper.c:371:5: sparse: symbol 'apei_estatus_check_header' was not declared. Should it be static?
+
+2013-01-09 13:02:17 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

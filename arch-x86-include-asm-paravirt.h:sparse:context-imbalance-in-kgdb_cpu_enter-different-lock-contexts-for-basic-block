@@ -1,0 +1,3 @@
+arch/x86/include/asm/paravirt.h:825:16: sparse: context imbalance in 'kgdb_cpu_enter' - different lock contexts for basic block
+
+2013-01-09 13:19:45 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

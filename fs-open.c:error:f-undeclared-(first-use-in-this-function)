@@ -1,0 +1,4 @@
+fs/open.c:424:25: error: 'f' undeclared (first use in this function)
+
+2012-12-14 19:51:51 kbuild digsig:working:811fee0 x86_64-allmodconfig 4cb3f2a
+2012-12-14 20:43:48 kbuild digsig:working:463070a x86_64-allmodconfig 7f41a11

@@ -1,0 +1,3 @@
+arch/powerpc/platforms/cell/setup.c:185:1: error: macro "__define_initcall" passed 3 arguments, but takes just 2
+
+2012-10-23 14:25:26 kbuild next:akpm:dbfe081 powerpc-allmodconfig dbfe081

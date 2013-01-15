@@ -1,0 +1,6 @@
+drivers/usb/otg/gpio_vbus.c:119:17: error: 'struct usb_phy' has no member named 'state'
+
+2012-09-05 21:12:58 kbuild balbi-usb:master:8de3474 i386-randconfig-k911 de4217d
+2012-09-05 22:06:56 kbuild balbi-usb:xceiv:1ba8216 x86_64-allmodconfig 1ba8216
+2012-09-05 22:14:12 kbuild balbi-usb:master:51950da x86_64-allmodconfig 5f6e0c8
+2012-09-07 07:29:29 lkp-mb01 balbi-usb:master:de34e50 i386-randconfig-m021 de4217d

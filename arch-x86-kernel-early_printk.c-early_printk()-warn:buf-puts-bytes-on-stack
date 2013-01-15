@@ -1,0 +1,3 @@
+arch/x86/kernel/early_printk.c:178 early_printk() warn: 'buf' puts 512 bytes on stack
+
+2013-01-09 13:27:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

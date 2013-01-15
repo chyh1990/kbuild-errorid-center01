@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_rx.c:1464 ieee80211_read_qos_info_element() error: __builtin_memcpy() 'element_info->qui' too small (3 vs 7)
+
+2013-01-09 13:26:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

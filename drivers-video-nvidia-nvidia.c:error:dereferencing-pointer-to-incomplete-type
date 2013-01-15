@@ -1,0 +1,4 @@
+drivers/video/nvidia/nvidia.c:983:16: error: dereferencing pointer to incomplete type
+
+2012-09-17 17:55:09 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:30:49 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf

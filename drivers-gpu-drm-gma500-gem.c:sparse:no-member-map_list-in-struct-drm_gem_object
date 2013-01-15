@@ -1,0 +1,3 @@
+drivers/gpu/drm/gma500/gem.c:41:16: sparse: no member 'map_list' in struct drm_gem_object
+
+2012-12-19 08:30:39 snb drm:drm-vma-manager:e8278db i386-allmodconfig e8278db

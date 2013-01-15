@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/cx24110.c:520:40: warning: value computed is not used [-Wunused-value]
+
+2012-09-10 01:03:30 kbuild xen:linux-next:e09f4b3 powerpc-allmodconfig 3c7dc7c

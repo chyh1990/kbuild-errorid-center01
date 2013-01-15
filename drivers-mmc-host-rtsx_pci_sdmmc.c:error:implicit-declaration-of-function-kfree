@@ -1,0 +1,10 @@
+drivers/mmc/host/rtsx_pci_sdmmc.c:472:2: error: implicit declaration of function 'kfree' [-Werror=implicit-function-declaration]
+
+2012-11-19 08:55:43 bee devel-bee-x86-2012-11-19-07-50:7735085 parisc-allyesconfig 7735085
+2012-12-13 23:51:37 bee devel-bee-x86-2012-12-13-22-46:f700e77 parisc-allyesconfig f700e77
+2012-12-14 06:27:49 bee devel-bee-x86-2012-12-14-05-16:377ba50 parisc-allyesconfig 377ba50
+2012-12-14 07:53:23 bee devel-bee-x86-2012-12-14-06-33:b0d0174 parisc-allyesconfig b0d0174
+2012-12-14 14:23:11 bee devel-bee-x86-2012-12-14-12-59:2015d2c parisc-allyesconfig 2015d2c
+2012-12-15 10:32:53 bee devel-bee-x86-2012-12-15-09-27:aaba2fc parisc-allyesconfig aaba2fc
+2012-12-16 07:51:47 bee devel-bee-x86-2012-12-16-05-40:5db8e81 parisc-allyesconfig 5db8e81
+2012-12-20 02:28:37 bee arm-platforms:kvm-arm64:psci:06e95d3 parisc-allyesconfig 985ec35

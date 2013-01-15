@@ -1,0 +1,3 @@
+drivers/media/pci/cx23885/cx23885-417.c:1274:2: warning: pointer targets in passing argument 1 of 'strcpy' differ in signedness [-Wpointer-sign]
+
+2012-09-26 23:19:09 bee samsung:v4l-next:01882ac x86_64-allyesconfig 24e527a

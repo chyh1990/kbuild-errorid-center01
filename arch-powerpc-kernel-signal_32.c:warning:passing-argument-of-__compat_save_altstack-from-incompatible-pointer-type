@@ -1,0 +1,3 @@
+arch/powerpc/kernel/signal_32.c:795:6: warning: passing argument 1 of '__compat_save_altstack' from incompatible pointer type [enabled by default]
+
+2012-11-21 05:01:08 kbuild devel-kbuild-powerpc-2012-11-21-04-40:dc66aad powerpc-allmodconfig dc66aad

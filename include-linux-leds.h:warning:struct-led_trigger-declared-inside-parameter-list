@@ -1,0 +1,3 @@
+include/linux/leds.h:158:18: warning: 'struct led_trigger' declared inside parameter list [enabled by default]
+
+2012-11-18 14:49:02 bee leds:devel:587cb21 x86_64-randconfig-x631 587cb21

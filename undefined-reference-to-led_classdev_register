@@ -1,0 +1,26 @@
+radio-shark2.c:(.text+0x47a5ea): undefined reference to `led_classdev_register'
+
+2012-08-06 04:37:58 bee x86_64 /cc/kernel-tests/commit-list/signal:execve2:73b578f 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee
+2012-08-18 19:05:18 kbuild rcu:rcu:hotplug:14049c8 i386-randconfig-k748 0d7614f
+2012-08-18 19:11:32 kbuild rcu:idle.2012.08.09b:d51aab6 i386-randconfig-k748 27d9548
+2012-08-18 19:17:44 kbuild usb:usb-linus:99f347c i386-randconfig-k748 99f347c
+2012-08-18 19:23:13 kbuild target:queue:e093f8a i386-randconfig-k748 d987569
+2012-08-18 19:24:20 kbuild target:master:74f4cf2 i386-randconfig-k748 74f4cf2
+2012-08-18 19:24:56 kbuild trace:tip:perf:urgent:60916a9 i386-randconfig-k748 3bf671a
+2012-08-18 19:31:09 kbuild md:for-next:eef0978 i386-randconfig-k748 eef0978
+2012-08-18 19:36:58 kbuild kvm:queue:8fbe6a5 i386-randconfig-k748 fe56097
+2012-08-18 19:38:09 kbuild kvm:master:e8143cc i386-randconfig-k748 e7882d6
+2012-08-18 19:44:08 kbuild ext4:origin:89a4e48 i386-randconfig-k748 89a4e48
+2012-08-18 19:44:50 kbuild ext4:dev:7ce46d7 i386-randconfig-k748 7ce46d7
+2012-08-18 19:46:46 kbuild pci:pci:bjorn-cleanup-remove:f757bd1 i386-randconfig-k748 f757bd1
+2012-08-18 19:52:27 kbuild asoc:topic:blackfin:63f49dc i386-randconfig-k748 63f49dc
+2012-08-18 19:58:09 kbuild regulator:topic:drivers:caaaa4f i386-randconfig-k748 caaaa4f
+2012-08-18 20:03:46 kbuild regulator:for-next:4785f97 i386-randconfig-k748 4785f97
+2012-08-26 05:10:36 kbuild asoc:for-3.7:b10be23 i386-randconfig-k814 3b09efd
+2012-08-26 05:28:31 kbuild asoc:topic:omap:db61550 i386-randconfig-k814 db61550
+2012-08-26 05:29:38 kbuild kbuild:for-next:bbd8adb i386-randconfig-k814 bbd8adb
+2012-08-26 05:37:52 kbuild linus:master:e1d33a5 i386-randconfig-k814 aacea90
+2012-08-26 05:54:23 kbuild asoc:for-3.6:4e872a4 i386-randconfig-k814 4e872a4
+2012-08-26 05:55:19 kbuild libata:upstream-fixes:d17d794 i386-randconfig-k814 d17d794
+2012-08-26 05:56:21 kbuild l2-mtd:master:88b9e2c i386-randconfig-k814 2361f73
+2012-08-26 06:25:32 kbuild aa:master:c1ae9d2 i386-randconfig-k814 9ac0990

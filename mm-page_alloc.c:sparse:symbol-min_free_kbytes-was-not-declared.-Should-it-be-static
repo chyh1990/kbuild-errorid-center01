@@ -1,0 +1,3 @@
+mm/page_alloc.c:197:5: sparse: symbol 'min_free_kbytes' was not declared. Should it be static?
+
+2013-01-09 13:14:41 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

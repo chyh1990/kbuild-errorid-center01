@@ -1,0 +1,3 @@
+drivers/acpi/power.c:74:2: warning: (near initialization for 'acpi_power_driver') [enabled by default]
+
+2012-09-26 12:47:58 bee thermal:next:5d8d708 um-allyesconfig f4a821c

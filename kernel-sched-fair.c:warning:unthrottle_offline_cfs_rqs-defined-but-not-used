@@ -1,0 +1,3 @@
+kernel/sched/fair.c:2055:13: warning: 'unthrottle_offline_cfs_rqs' defined but not used [-Wunused-function]
+
+2012-10-15 21:25:25 hive nf-next:nf_tables7:a633263 mips-allmodconfig a633263

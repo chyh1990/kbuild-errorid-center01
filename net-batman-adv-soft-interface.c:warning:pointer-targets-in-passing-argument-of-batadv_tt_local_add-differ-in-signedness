@@ -1,0 +1,3 @@
+net/batman-adv/soft-interface.c:115:3: warning: pointer targets in passing argument 2 of 'batadv_tt_local_add' differ in signedness [-Wpointer-sign]
+
+2012-09-26 01:34:02 bee net:master:78cc88c x86_64-allyesconfig 78cc88c

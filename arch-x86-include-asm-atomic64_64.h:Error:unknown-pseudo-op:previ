@@ -1,0 +1,3 @@
+arch/x86/include/asm/atomic64_64.h:94: Error: unknown pseudo-op: `.previ'
+
+2012-09-21 13:01:22 snb nfs:testing:9dfaead x86_64-randconfig-s365 2db8486

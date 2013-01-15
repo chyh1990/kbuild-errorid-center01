@@ -1,0 +1,3 @@
+samples/kprobes/kretprobe_example.c:87 kretprobe_init() info: why not propagate 'ret' from register_kretprobe() instead of -1?
+
+2012-09-15 10:29:17 kbuild yinghai:master:156b34a i386-allyesconfig 156b34a

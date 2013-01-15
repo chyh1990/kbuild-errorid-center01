@@ -1,0 +1,3 @@
+include/linux/sched.h:2463:37: sparse: context imbalance in 'coredump_wait' - different lock contexts for basic block
+
+2013-01-09 13:15:20 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

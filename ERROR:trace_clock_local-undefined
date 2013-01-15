@@ -1,0 +1,21 @@
+ERROR: "trace_clock_local" [kernel/rcutorture.ko] undefined!
+
+2012-11-17 03:45:37 bee devel-bee-i386-2012-11-17-02-49:65d3647 i386-randconfig-b693 65d3647
+2012-11-17 05:05:24 bee devel-bee-x86-2012-11-17-02-47:580a92e x86_64-randconfig-x634 580a92e
+2012-11-20 11:08:29 hive rcu:dev.2012.11.19a:7e01619 x86_64-randconfig-h291 7e01619
+2012-11-20 11:33:46 bee devel-bee-i386-2012-11-20-11-21:6698c0a i386-randconfig-b711 6698c0a
+2012-11-20 11:42:46 snb devel-snb-arm-2012-11-20-10-58:5b28bcc m68k-allmodconfig 5b28bcc
+2012-11-29 03:34:50 snb rcu:dev.2012.11.28a:ea73bd9 m68k-allmodconfig ea73bd9
+2013-01-06 03:06:28 bee devel-bee-i386-2013-01-06-02-45:b28291e i386-randconfig-b018 b28291e
+2013-01-06 03:09:21 lkp-mb01 devel-lkp-mb01-i386-2013-01-06-02-47:7564c51 i386-randconfig-m111 7564c51
+2013-01-06 03:22:04 snb devel-snb-x86_64-2013-01-06-02-45:0c65a60 x86_64-randconfig-s595 0c65a60
+2013-01-07 12:08:14 snb next:master:4d8b70d x86_64-randconfig-s595 4d8b70d
+2013-01-07 12:40:21 snb next:akpm:e862d51 x86_64-randconfig-s595 7fbc935
+2013-01-08 13:20:56 snb next:master:6477718 x86_64-randconfig-s604 6477718
+2013-01-08 14:00:37 snb next:akpm:736ca5e x86_64-randconfig-s604 8d57abc
+2013-01-10 14:42:02 snb next:master:62406ac x86_64-randconfig-s621 62406ac
+2013-01-10 15:02:54 snb next:akpm:3a95681 x86_64-randconfig-s620 1add0d9
+2013-01-11 02:48:27 lkp-mb01 devel-lkp-mb01-i386-2013-01-11-02-35:ea747cd i386-randconfig-m141 ea747cd
+2013-01-11 02:56:34 snb devel-snb-x86_64-2013-01-11-02-48:3128284 x86_64-randconfig-s620 3128284
+2013-01-14 13:25:45 bee next:master:586a9ca i386-randconfig-b042 586a9ca
+2013-01-14 14:23:36 bee next:akpm:17e836d i386-randconfig-b042 17e836d

@@ -1,0 +1,3 @@
+drivers/misc/vmw_vmci/vmci_host.c:213 drv_cp_harray_to_user() error: we previously assumed 'handle_array' could be null (see line 204)
+
+2013-01-09 09:30:38 kbuild devel-kbuild-i386-2013-01-09-08-55:b69158b i386-allyesconfig b69158b

@@ -1,0 +1,4 @@
+mm/migrate.c:461:2: error: implicit declaration of function 'ksm_migrate_page' [-Werror=implicit-function-declaration]
+
+2012-11-21 21:50:16 bee glommer-memcg:kmemcg-slab:82674f9 sh-allyesconfig 9a8fe5d
+2012-11-21 22:17:56 bee glommer-memcg:kmemcg-slab:126ae19 sh-allyesconfig 86423cc

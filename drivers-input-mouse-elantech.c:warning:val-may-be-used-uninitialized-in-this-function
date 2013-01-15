@@ -1,0 +1,3 @@
+drivers/input/mouse/elantech.c:836:10: warning: 'val' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-06 13:29:19 kbuild ext3:for_next:e5ef783 i386-randconfig-k920 c182ae4

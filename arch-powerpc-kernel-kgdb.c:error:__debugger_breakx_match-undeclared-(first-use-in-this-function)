@@ -1,0 +1,4 @@
+arch/powerpc/kernel/kgdb.c:492:2: error: '__debugger_breakx_match' undeclared (first use in this function)
+
+2013-01-10 16:11:03 kbuild powerpc:next:6138340 powerpc-allmodconfig 6138340
+2013-01-11 18:08:26 kbuild next:akpm:40b6aaa powerpc-allmodconfig 40b6aaa

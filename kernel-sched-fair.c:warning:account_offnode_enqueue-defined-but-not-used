@@ -1,0 +1,3 @@
+kernel/sched/fair.c:1014: warning: 'account_offnode_enqueue' defined but not used
+
+2012-09-28 17:30:10 snb devel-snb-arm-2012-09-28-16-37:f1c631d avr32-atngw100_defconfig f1c631d

@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath5k/debug.c:316 read_file_debug() warn: 'buf' puts 700 bytes on stack
+
+2013-01-09 13:27:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

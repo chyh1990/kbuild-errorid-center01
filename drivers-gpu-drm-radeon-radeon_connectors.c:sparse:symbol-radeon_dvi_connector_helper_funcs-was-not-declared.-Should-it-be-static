@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_connectors.c:1163:35: sparse: symbol 'radeon_dvi_connector_helper_funcs' was not declared. Should it be static?
+
+2012-07-23 21:20:10 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

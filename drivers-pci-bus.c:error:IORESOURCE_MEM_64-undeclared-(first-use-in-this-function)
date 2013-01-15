@@ -1,0 +1,3 @@
+drivers/pci/bus.c:129:21: error: 'IORESOURCE_MEM_64' undeclared (first use in this function)
+
+2012-09-17 17:27:30 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724

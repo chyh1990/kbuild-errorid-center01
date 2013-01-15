@@ -1,0 +1,3 @@
+drivers/staging/ozwpan/ozusbsvc1.c:308:6: sparse: symbol 'oz_usb_handle_ep_data' was not declared. Should it be static?
+
+2013-01-09 13:16:51 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

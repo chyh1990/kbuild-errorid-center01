@@ -1,0 +1,3 @@
+drivers/regulator/max8925-regulator.c:269:51: warning: 'regulator_idx' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-21 19:35:25 lkp-mb01 devel-lkp-mb01-i386-2012-11-21-19-06:b0335f0 i386-randconfig-m003 b0335f0

@@ -1,0 +1,4 @@
+drivers/scsi/qla2xxx/qla_isr.c:1684:56: warning: 'rval' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-15 02:02:58 kbuild scsi:for-next:71cfff4 x86_64-allmodconfig 387fdda
+2012-09-15 02:02:59 kbuild x86_64 email notified

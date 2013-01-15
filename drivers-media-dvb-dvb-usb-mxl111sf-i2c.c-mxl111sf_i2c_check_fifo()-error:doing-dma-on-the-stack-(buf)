@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/mxl111sf-i2c.c:383 mxl111sf_i2c_check_fifo() error: doing dma on the stack (buf)
+
+2012-09-12 11:57:16 kbuild security:next:a40695e i386-allyesconfig a40695e

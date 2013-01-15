@@ -1,0 +1,3 @@
+net/ipv4/tcp_ipv4.c:1463 tcp_v4_conn_req_fastopen() warn: inconsistent returns spin_lock:&((child)->sk_lock.slock): locked (1390) unlocked (1463)
+
+2013-01-09 13:27:39 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

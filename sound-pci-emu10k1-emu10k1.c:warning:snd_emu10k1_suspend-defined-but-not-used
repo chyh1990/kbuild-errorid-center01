@@ -1,0 +1,3 @@
+sound/pci/emu10k1/emu10k1.c:210:12: warning: 'snd_emu10k1_suspend' defined but not used [-Wunused-function]
+
+2012-10-16 04:43:05 hive drm-intel:drm-intel-nightly:98befee ia64-defconfig 98befee

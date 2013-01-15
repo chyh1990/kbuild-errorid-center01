@@ -1,0 +1,3 @@
+drivers/staging/iio/accel/lis3l02dq_ring.c:151:3: warning: pointer targets in passing argument 2 of 'lis3l02dq_get_buffer_element' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:33 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

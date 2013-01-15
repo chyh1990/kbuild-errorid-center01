@@ -1,0 +1,4 @@
+init/init_task.c:16:8: error: (near initialization for 'init_task.mempolicy')
+
+2012-12-21 11:45:40 snb dynticks:3.7-nohz1:46209cd x86_64-randconfig-s522 1b63aea
+2012-12-21 11:49:23 snb x86_64 email notified

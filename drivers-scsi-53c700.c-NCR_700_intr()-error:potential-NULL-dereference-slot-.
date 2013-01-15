@@ -1,0 +1,3 @@
+drivers/scsi/53c700.c:1599 NCR_700_intr() error: potential NULL dereference 'slot'.
+
+2013-01-09 13:26:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

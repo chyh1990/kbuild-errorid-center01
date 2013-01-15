@@ -1,0 +1,3 @@
+net/netfilter/nf_tables_api.c:413:30: sparse: invalid assignment: |=
+
+2012-12-11 10:35:33 snb nf-next:nf_tables8:3cb3000 i386-allmodconfig 3cb3000

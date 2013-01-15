@@ -1,0 +1,4 @@
+drivers/net/wireless/mwifiex/scan.c:1436:4-34: code aligned with following code on line 1438
+
+2012-08-07 05:16:25 snb i386 /cc/kernel-tests/commit-list/wireless-testing:master:e739301 b7525dbd075414ab2dc3742bacdc386f0f1223b2
+2012-08-07 05:16:26 snb i386 email notified

@@ -1,0 +1,3 @@
+net/xfrm/xfrm_ipcomp.c:150:2: warning: pointer targets in passing argument 5 of 'crypto_comp_compress' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:02:50 bee tip:x86:smap:e139e95 x86_64-allyesconfig e139e95

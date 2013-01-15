@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/ar9002_phy.c:558:6: sparse: symbol 'ar9002_hw_spectral_scan_config' was not declared. Should it be static?
+
+2013-01-10 04:07:49 snb wireless-next:master:e93d083 i386-allmodconfig e93d083

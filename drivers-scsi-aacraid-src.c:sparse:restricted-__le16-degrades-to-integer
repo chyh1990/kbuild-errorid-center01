@@ -1,0 +1,3 @@
+drivers/scsi/aacraid/src.c:401:39: sparse: restricted __le16 degrades to integer
+
+2012-09-01 03:34:42 snb input:next:bd68dfe i386-allmodconfig bd68dfe

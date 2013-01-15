@@ -1,0 +1,3 @@
+drivers/acpi/processor_driver.c:381:1: sparse: Expected ; at the end of type declaration
+
+2013-01-05 07:44:13 snb devel-snb-i386-2013-01-05-06-53:bdbc8f2 i386-allmodconfig bdbc8f2

@@ -1,0 +1,3 @@
+sound/pci/hda/patch_realtek.c:2350 alc_build_pcms() error: we previously assumed 'spec->adc_nids' could be null (see line 2265)
+
+2013-01-09 13:27:10 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

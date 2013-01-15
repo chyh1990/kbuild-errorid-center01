@@ -1,0 +1,3 @@
+objdump: '/tmp/out30801.o': No such file
+
+2012-08-11 08:08:58 hive ia64 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b 8c9c1b1388d95859b33bae008cd2d388eb4f0c68

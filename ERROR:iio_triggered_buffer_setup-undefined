@@ -1,0 +1,4 @@
+ERROR: "iio_triggered_buffer_setup" [drivers/iio/adc/max1363.ko] undefined!
+
+2013-01-10 15:00:08 lkp-mb01 next:master:62406ac i386-randconfig-m143 62406ac
+2013-01-10 16:14:57 lkp-mb01 next:akpm:3a95681 i386-randconfig-m143 3a95681

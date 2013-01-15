@@ -1,0 +1,4 @@
+sound/soc/codecs/wm8994.c:3795:9-29: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-08 05:40:24 snb i386 /cc/kernel-tests/commit-list/asoc:for-next:db9b026 3c6c2a997743c48c3ef8abbf3400c4cf6da650fe
+2012-08-08 05:44:16 snb i386 email notified

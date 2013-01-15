@@ -1,0 +1,3 @@
+drivers/ide/ide-cd_verbose.c:268 ide_cd_log_error() warn: always true condition '(sense->sense_key < ( /  + 0)) => (0-15 < 16)'
+
+2013-01-09 13:27:17 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

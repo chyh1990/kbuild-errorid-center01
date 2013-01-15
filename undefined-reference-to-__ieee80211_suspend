@@ -1,0 +1,5 @@
+debugfs.c:(.text+0x17fac3): undefined reference to `__ieee80211_suspend'
+
+2012-09-19 01:17:09 bee mac80211-next:wip:0b7b537 i386-randconfig-b034 0b7b537
+2012-09-19 03:16:43 bee i386 email notified
+2012-10-06 02:33:39 inn internal-bluetooth-hs:master:1521223 i386-randconfig-i166 96e456e

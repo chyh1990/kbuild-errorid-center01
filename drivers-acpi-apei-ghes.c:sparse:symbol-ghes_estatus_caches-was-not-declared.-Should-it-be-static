@@ -1,0 +1,3 @@
+drivers/acpi/apei/ghes.c:183:27: sparse: symbol 'ghes_estatus_caches' was not declared. Should it be static?
+
+2013-01-09 13:02:19 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

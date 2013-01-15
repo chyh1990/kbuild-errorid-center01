@@ -1,0 +1,3 @@
+drivers/regulator/core.c:1754:14: warning: 'val' may be used uninitialized in this function [-Wuninitialized]
+
+2012-07-31 07:32:23 bee i386 /cc/kernel-tests/commit-list/mfd:for-linus:938e05b 938e05bf131334804e08ec4fcd381edfd2d699f6

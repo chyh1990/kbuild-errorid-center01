@@ -1,0 +1,3 @@
+arch/blackfin/include/asm/bfin_twi.h:87:6: warning: "ANOMALY_16000030" is not defined [-Wundef]
+
+2012-07-30 14:32:10 lkp-mb01 blackfin /cc/kernel-tests/commit-list/security:for-linus:e3fea3f f7da9cdf45cbbad5029d4858dcbc0134e06084ed

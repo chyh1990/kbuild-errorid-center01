@@ -1,0 +1,7 @@
+kernel/sched/fair.c:2683:40: error: 'struct cfs_rq' has no member named 'runnable_load_avg'
+
+2012-12-16 19:03:29 bee alexs:master:5511e4c x86_64-randconfig-x800 b02fabf
+2012-12-17 10:33:35 bee alexs:master:3660606 x86_64-randconfig-x810 208a49e
+2012-12-17 11:04:13 snb alexs:master:41f077b x86_64-randconfig-s497 ce36b19
+2012-12-19 17:55:20 bee alexs:master:3f4db0f i386-randconfig-x252 7847399
+2012-12-28 16:11:56 snb alexs:master:6834dfb x86_64-randconfig-s551 747062c

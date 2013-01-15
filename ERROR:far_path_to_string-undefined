@@ -1,0 +1,4 @@
+ERROR: "far_path_to_string" undefined!
+
+2012-11-07 03:52:08 kbuild devel-kbuild-x86_64-2012-11-07-03-46:bcce402 x86_64-allmodconfig bcce402
+2012-11-07 03:57:40 snb devel-snb-i386-2012-11-07-03-55:068ae00 i386-allmodconfig 068ae00

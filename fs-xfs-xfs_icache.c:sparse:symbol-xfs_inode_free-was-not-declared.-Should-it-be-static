@@ -1,0 +1,3 @@
+fs/xfs/xfs_icache.c:101:1: sparse: symbol 'xfs_inode_free' was not declared. Should it be static?
+
+2012-10-25 13:32:30 snb next:master:2253213 i386-allmodconfig 2253213

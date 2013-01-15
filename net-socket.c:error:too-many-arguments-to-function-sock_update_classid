@@ -1,0 +1,4 @@
+net/socket.c:623:2: error: too many arguments to function 'sock_update_classid'
+
+2012-11-07 08:53:37 snb net-next:master:dea0924 x86_64-randconfig-s230 fd9a08a
+2012-11-07 08:54:35 snb x86_64 email notified

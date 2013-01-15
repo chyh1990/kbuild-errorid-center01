@@ -1,0 +1,3 @@
+warning: (PPC_PS3 && PPC_CELLEB) selects USB_OHCI_BIG_ENDIAN_MMIO which has unmet direct dependencies (USB_SUPPORT && USB_OHCI_HCD)
+
+2012-09-03 10:06:34 bee drm:drm-next:65983bd powerpc-allyesconfig 93bb70e

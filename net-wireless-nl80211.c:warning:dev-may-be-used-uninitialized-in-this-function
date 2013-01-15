@@ -1,0 +1,3 @@
+net/wireless/nl80211.c:6450:21: warning: 'dev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 21:55:58 lkp-mb01 i386 /cc/kernel-tests/commit-list/hid:upstream:76c9d8f 76c9d8fe2c7fc34ffc387d8022c5828d6ff9df48

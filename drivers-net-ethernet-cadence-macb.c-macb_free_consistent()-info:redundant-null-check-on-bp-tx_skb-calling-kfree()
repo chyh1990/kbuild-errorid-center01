@@ -1,0 +1,3 @@
+drivers/net/ethernet/cadence/macb.c:691 macb_free_consistent() info: redundant null check on bp->tx_skb calling kfree()
+
+2012-10-27 07:25:11 kbuild netdev-next:master:f019948 i386-allyesconfig f019948

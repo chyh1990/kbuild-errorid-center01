@@ -1,0 +1,3 @@
+drivers/thermal/thermal_sys.c:552 thermal_add_hwmon_sysfs() error: snprintf() is printing too much 20 vs 16
+
+2012-09-07 22:41:28 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

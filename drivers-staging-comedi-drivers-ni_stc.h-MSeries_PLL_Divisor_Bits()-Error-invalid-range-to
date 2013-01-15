@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_stc.h:1203 MSeries_PLL_Divisor_Bits() Error invalid range 256 to 0
+
+2012-09-12 11:57:30 kbuild security:next:a40695e i386-allyesconfig a40695e

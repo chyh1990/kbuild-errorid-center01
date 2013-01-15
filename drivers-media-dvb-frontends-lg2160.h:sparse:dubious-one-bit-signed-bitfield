@@ -1,0 +1,3 @@
+drivers/media/dvb-frontends/lg2160.h:62:33: sparse: dubious one-bit signed bitfield
+
+2013-01-09 13:06:50 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

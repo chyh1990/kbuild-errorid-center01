@@ -1,0 +1,3 @@
+include/net/ipv6.h:375:38: warning: '*((void *)&addr+8)' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:05 inn linus:master:974b335 x86_64-randconfig-n365 974b335

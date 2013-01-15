@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/gp8psk.c:217 gp8psk_bcm4500_reload() error: doing dma on the stack (&buf)
+
+2013-01-09 13:27:28 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

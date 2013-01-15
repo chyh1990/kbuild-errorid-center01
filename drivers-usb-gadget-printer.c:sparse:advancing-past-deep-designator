@@ -1,0 +1,4 @@
+drivers/usb/gadget/printer.c:255:9: sparse: advancing past deep designator
+
+2012-09-10 22:30:19 snb balbi-usb:master:d9c8890 i386-allmodconfig 5a175bb
+2012-09-10 22:30:21 snb i386 email notified

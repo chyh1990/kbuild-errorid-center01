@@ -1,0 +1,3 @@
+WARNING: arch/powerpc/sysdev/built-in.o(.text+0xe154): Section mismatch in reference from the function .ics_rtas_init() to the function .init.text:.xics_register_ics()
+
+2012-07-22 17:04:20 kbuild powerpc /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

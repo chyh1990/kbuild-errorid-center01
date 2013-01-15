@@ -1,0 +1,3 @@
+drivers/usb/serial/pl2303.c:649 pl2303_ioctl() warn: check that 'ser.irq' doesn't leak information
+
+2013-01-09 13:27:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

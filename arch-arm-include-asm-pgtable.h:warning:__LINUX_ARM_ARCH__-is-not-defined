@@ -1,0 +1,3 @@
+arch/arm/include/asm/pgtable.h:210:5: warning: "__LINUX_ARM_ARCH__" is not defined [-Wundef]
+
+2012-09-20 15:15:45 snb rcu:dev.2012.09.18b:34d1e47 arm-imx_v6_v7_defconfig 34d1e47

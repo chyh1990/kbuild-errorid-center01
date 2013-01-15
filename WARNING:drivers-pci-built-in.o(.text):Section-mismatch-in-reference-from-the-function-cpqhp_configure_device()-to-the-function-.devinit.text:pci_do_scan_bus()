@@ -1,0 +1,3 @@
+WARNING: drivers/pci/built-in.o(.text+0x30e97): Section mismatch in reference from the function cpqhp_configure_device() to the function .devinit.text:pci_do_scan_bus()
+
+2012-09-07 22:41:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

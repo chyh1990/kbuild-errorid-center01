@@ -1,0 +1,19 @@
+drivers/irqchip/gic.c:226:2: error: unknown field 'irq_mask' specified in initializer
+
+2012-11-05 23:42:51 snb devel-snb-arm-2012-11-05-23-33:aef342b arm-marzen_defconfig aef342b
+2012-11-09 01:05:26 snb devel-snb-arm-2012-11-09-00-48:936125b arm-marzen_defconfig 936125b
+2012-11-10 01:20:46 snb devel-snb-arm-2012-11-10-01-09:358013f arm-marzen_defconfig 358013f
+2012-11-14 02:37:39 snb devel-snb-arm-2012-11-14-02-29:18202f2 arm-marzen_defconfig 18202f2
+2012-11-15 00:44:16 snb devel-snb-arm-2012-11-15-00-35:d4ceb58 arm-marzen_defconfig d4ceb58
+2012-11-20 00:54:29 snb devel-snb-arm-2012-11-20-00-30:74a33e4 arm-marzen_defconfig 74a33e4
+2012-11-23 01:48:14 snb devel-snb-arm-2012-11-23-01-29:3a840ac arm-marzen_defconfig 3a840ac
+2012-11-24 02:55:57 snb aarch64:soc-armv8-model:214dc67 arm-marzen_defconfig 214dc67
+2012-11-30 02:51:44 snb devel-snb-arm-2012-11-30-02-40:44327aa arm-marzen_defconfig 44327aa
+2012-12-05 23:32:14 snb devel-snb-arm-2012-12-05-23-14:f98a895 arm-marzen_defconfig f98a895
+2012-12-19 02:57:38 snb arm-platforms:kvm-arm64:soc-armv8-kvm:6269f18 arm-marzen_defconfig 6269f18
+2012-12-20 10:38:58 snb arm-platforms:kvm-arm64:soc-armv8-kvm:cc4939b arm-marzen_defconfig cc4939b
+2013-01-02 20:58:27 snb aarch64:soc-armv8-model:3349c32 arm-marzen_defconfig 3349c32
+2013-01-08 00:57:25 snb devel-snb-arm-2013-01-08-00-46:fb972b5 arm-marzen_defconfig fb972b5
+2013-01-11 16:06:04 snb devel-snb-arm-2013-01-11-15-46:06645b3 arm-marzen_defconfig 06645b3
+2013-01-11 17:48:24 snb aarch64:soc-armv8-stable:d1ceb65 arm-marzen_defconfig d1ceb65
+2013-01-11 19:23:13 snb aarch64:soc-armv8-model:7b19e7e arm-marzen_defconfig 7b19e7e

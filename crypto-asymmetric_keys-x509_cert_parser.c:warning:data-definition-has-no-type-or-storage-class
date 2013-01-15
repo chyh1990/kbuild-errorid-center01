@@ -1,0 +1,4 @@
+crypto/asymmetric_keys/x509_cert_parser.c:55:1: warning: data definition has no type or storage class [enabled by default]
+
+2012-10-30 23:36:04 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 637002a
+2012-10-30 23:41:29 kbuild x86_64 email notified

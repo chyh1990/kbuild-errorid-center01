@@ -1,0 +1,3 @@
+drivers/tty/synclink.c:2145:4: warning: pointer targets in passing argument 2 of 'save_tx_buffer_request' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:32:57 bee tty:tty-next:4dac211 x86_64-allyesconfig 4dac211

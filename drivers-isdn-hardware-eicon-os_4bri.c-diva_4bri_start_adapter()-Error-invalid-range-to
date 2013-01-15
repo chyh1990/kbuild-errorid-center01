@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/os_4bri.c:950 diva_4bri_start_adapter() Error invalid range 4096 to -1
+
+2012-09-07 22:41:14 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

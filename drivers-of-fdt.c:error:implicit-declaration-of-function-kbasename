@@ -1,0 +1,4 @@
+drivers/of/fdt.c:490:4: error: implicit declaration of function 'kbasename' [-Werror=implicit-function-declaration]
+
+2012-10-31 23:57:07 bee calxeda:for-next:74d8cec powerpc-chroma_defconfig 74d8cec
+2012-10-31 23:57:07 bee powerpc email notified

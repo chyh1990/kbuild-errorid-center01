@@ -1,0 +1,3 @@
+drivers/media/video/uvc/uvc_v4l2.c:565:10: warning: pointer targets in passing argument 2 of 'usb_make_path' differ in signedness [-Wpointer-sign]
+
+2012-09-27 07:41:07 bee media:v4l_for_linus:89de0f2 powerpc-allyesconfig 48f2adf

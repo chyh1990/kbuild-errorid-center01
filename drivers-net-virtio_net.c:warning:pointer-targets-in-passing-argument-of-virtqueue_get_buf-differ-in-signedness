@@ -1,0 +1,3 @@
+drivers/net/virtio_net.c:247:3: warning: pointer targets in passing argument 2 of 'virtqueue_get_buf' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:30 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

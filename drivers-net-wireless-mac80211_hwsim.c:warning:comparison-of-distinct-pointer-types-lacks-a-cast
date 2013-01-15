@@ -1,0 +1,3 @@
+drivers/net/wireless/mac80211_hwsim.c:437:20: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2013-01-14 11:43:20 hive devel-hive-mips-2013-01-14-10-46:1afab33 mips-allmodconfig 1afab33

@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/pctv452e.c:523 pctv452e_power_ctrl() error: doing dma on the stack (rx)
+
+2012-09-12 11:57:23 kbuild security:next:a40695e i386-allyesconfig a40695e

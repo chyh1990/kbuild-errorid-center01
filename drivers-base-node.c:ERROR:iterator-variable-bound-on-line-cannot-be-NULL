@@ -1,0 +1,4 @@
+drivers/base/node.c:207:36-37: ERROR: iterator variable bound on line 206 cannot be NULL
+
+2012-08-18 20:16:38 snb aa:schednuma2:fd95411 i386-allmodconfig 428f06a
+2012-08-18 20:20:04 snb i386 email notified

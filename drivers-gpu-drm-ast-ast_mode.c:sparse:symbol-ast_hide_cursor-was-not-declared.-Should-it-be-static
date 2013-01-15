@@ -1,0 +1,3 @@
+drivers/gpu/drm/ast/ast_mode.c:979:6: sparse: symbol 'ast_hide_cursor' was not declared. Should it be static?
+
+2013-01-09 13:13:53 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

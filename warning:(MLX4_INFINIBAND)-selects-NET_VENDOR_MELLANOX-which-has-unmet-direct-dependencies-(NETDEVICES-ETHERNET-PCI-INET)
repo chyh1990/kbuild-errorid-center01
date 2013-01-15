@@ -1,0 +1,3 @@
+warning: (MLX4_INFINIBAND) selects NET_VENDOR_MELLANOX which has unmet direct dependencies (NETDEVICES && ETHERNET && PCI && INET)
+
+2012-07-22 15:29:26 hive x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

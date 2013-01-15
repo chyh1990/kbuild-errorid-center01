@@ -1,0 +1,24 @@
+hpet.c:(.text+0x18372): undefined reference to `destroy_irq'
+
+2012-08-21 14:30:59 bee next:akpm:f74c7e6 i386-randconfig-b868 b9b4bb1
+2012-09-18 13:53:58 bee yinghai:master:483ac9c i386-randconfig-b031 483ac9c
+2012-09-18 14:13:12 bee yinghai:for-x86-irq-base:f2c8edd i386-randconfig-b035 f2c8edd
+2012-09-19 11:03:46 inn internal-wfg:0day:bd510f3 i386-randconfig-i010 bd510f3
+2012-10-06 18:37:57 bee yinghai:for-x86-mm:09a914b i386-randconfig-b141 09a914b
+2012-10-21 02:44:43 bee devel-bee-i386-2012-10-21-01-30:fab9009 i386-randconfig-b273 fab9009
+2012-10-25 14:16:01 lkp-mb01 next:master:2253213 i386-randconfig-m062 2253213
+2012-10-29 09:43:16 lkp-mb01 devel-lkp-mb01-i386-2012-10-29-09-27:85223a7 i386-randconfig-m091 85223a7
+2012-12-10 01:29:41 bee tip:master:fa12c00 i386-randconfig-b852 fa12c00
+2012-12-10 09:34:36 bee tip:master:c62f9eb i386-randconfig-b852 c62f9eb
+2012-12-10 18:31:09 bee next:master:5a8bca6 i386-randconfig-b852 5a8bca6
+2012-12-10 18:59:27 bee next:akpm:92146c5 i386-randconfig-b852 92146c5
+2012-12-10 20:34:51 lkp-mb01 devel-lkp-mb01-i386-2012-12-10-20-15:44cf4ca i386-randconfig-m131 44cf4ca
+2012-12-10 20:37:26 bee devel-bee-i386-2012-12-10-20-24:6900c7b i386-randconfig-b852 6900c7b
+2012-12-10 21:11:09 bee tip:master:db3a9c6 i386-randconfig-b852 db3a9c6
+2012-12-11 01:38:43 bee devel-bee-i386-2012-12-11-01-25:d7e3c57 i386-randconfig-b861 d7e3c57
+2012-12-11 04:42:39 bee devel-bee-i386-2012-12-11-03-26:32f30dd i386-randconfig-b861 32f30dd
+2012-12-11 08:14:44 bee devel-bee-i386-2012-12-11-06-08:5721b36 i386-randconfig-b861 5721b36
+2012-12-11 14:20:22 bee next:master:3377153 i386-randconfig-b861 3377153
+2012-12-11 14:32:14 bee next:akpm:13641a2 i386-randconfig-b861 13641a2
+2012-12-11 16:13:37 bee tip:master:18caecb i386-randconfig-b861 18caecb
+2012-12-11 19:00:11 bee tip:master:22b84ec i386-randconfig-b861 22b84ec

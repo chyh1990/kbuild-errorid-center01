@@ -1,0 +1,35 @@
+include/linux/clocksource.h:233:2: error: '__LINUX_ARM_ARCH__' undeclared (first use in this function)
+
+2012-08-19 21:32:58 snb arm-platforms:kvm-arm-v3.6-rc1-hyp-fixes-vgic-2:01f6f63 arm-allnoconfig 6d15463
+2012-08-19 22:16:37 snb arm-platforms:kvm-v11-base-vgic:150c7f9 arm-allnoconfig f0cb8ba
+2012-08-24 07:01:09 snb arm-platforms:kvm-arm-v3.6-rc3-timer:d6e735a arm-allnoconfig 8aba389
+2012-09-06 02:25:40 snb arm-platforms:kvm-arm-v3.6-rc3-timer:24989e4 arm-allnoconfig 8aba389
+2012-09-12 03:28:25 snb arm-platforms:cp15-fixes:e5b3182 arm-allnoconfig e0d0bb2
+2012-09-12 03:57:28 snb arm-platforms:timers-next:437814c arm-allnoconfig 437814c
+2012-09-12 04:08:55 snb arm-platforms:kvm-arm-v3.6-rc3-timer:48e7211 arm-allnoconfig 5694841
+2012-09-12 04:22:30 snb arm-platforms:kvm-perf:01e7a5e arm-allnoconfig 01e7a5e
+2012-09-12 19:06:28 snb arm-platforms:kvm-perf:49a3cb3 arm-allnoconfig cdaa6a4
+2012-09-16 23:14:26 snb arm-platforms:vgic-fixes:6cdc3a6 arm-allnoconfig 6cdc3a6
+2012-09-16 23:43:24 snb arm-platforms:kvm-cleanup:b53e416 arm-allnoconfig b53e416
+2012-09-18 03:09:10 snb arm-platforms:kvm-cleanup:0a09ba7 arm-allnoconfig 0a09ba7
+2012-09-19 17:07:32 snb arm-platforms:kvm-cleanup:b3251da arm-allnoconfig b3251da
+2012-09-19 17:55:05 snb arm-platforms:kvm-cleanup:3a3ff45 arm-allnoconfig 3a3ff45
+2012-09-20 12:02:32 snb next:akpm:7db5e9e arm-allnoconfig 7db5e9e
+2012-09-20 16:04:23 snb next:akpm:7e926d7 arm-allnoconfig 7e926d7
+2012-09-21 22:14:25 snb arm-platforms:kvm-cleanup:b219813 arm-allnoconfig b219813
+2012-09-24 07:45:17 snb next:akpm:69921c3 arm-allnoconfig 69921c3
+2012-09-26 17:59:33 snb arm-platforms:kvm-cleanup:0f220cd arm-allnoconfig 0f220cd
+2012-09-27 22:55:17 snb devel-snb-arm-2012-09-27-22-48:06a6e05 arm-allnoconfig 06a6e05
+2012-09-28 01:45:02 snb devel-snb-arm-2012-09-28-01-42:4c8e245 arm-allnoconfig 4c8e245
+2012-09-30 11:19:03 snb arm-platforms:kvm-cleanup:6e6b45f arm-allnoconfig 6e6b45f
+2012-10-02 02:05:46 snb arm-platforms:kvm-cleanup:c31e87c arm-allnoconfig c31e87c
+2012-10-02 11:44:30 snb shawnguo:for-3.8:41c54ad arm-allnoconfig 41c54ad
+2012-10-02 11:44:30 snb shawnguo:for-3.8:41c54ad arm-allnoconfig 41c54ad email notified
+2012-10-15 15:39:28 snb shawnguo:imx:dt-for-3.8:23b91e9 arm-allnoconfig 23b91e9
+2012-10-15 16:42:32 snb shawnguo:for-3.8:d905cd3 arm-allnoconfig d905cd3
+2012-10-16 03:02:41 snb arm-platforms:kvm-fixes:34bff38 arm-allnoconfig 34bff38
+2012-10-16 03:09:40 snb arm-platforms:kvm-cleanup:d34b049 arm-allnoconfig d34b049
+2012-10-16 21:19:26 snb arm-platforms:kvm-cleanup:3444949 arm-allnoconfig 3444949
+2012-10-17 22:10:45 snb arm-platforms:kvm-cleanup:fadd232 arm-allnoconfig fadd232
+2012-10-19 18:31:04 snb arm-platforms:kvm-perf:bde3588 arm-allnoconfig bde3588
+2012-10-19 18:48:27 snb arm-platforms:kvm-fixes:f14df07 arm-allnoconfig f14df07

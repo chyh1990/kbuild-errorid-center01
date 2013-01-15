@@ -1,0 +1,4 @@
+pd6729.c:(.text+0x1ffbbb8): relocation truncated to fit: R_PPC64_REL24 against symbol `.eeh_check_failure' defined in .text section in arch/powerpc/platforms/built-in.o
+
+2012-09-28 17:35:34 bee pinctrl:for-next:2fe3954 powerpc-allyesconfig 7d66ce7
+2012-09-28 17:40:33 bee powerpc email notified

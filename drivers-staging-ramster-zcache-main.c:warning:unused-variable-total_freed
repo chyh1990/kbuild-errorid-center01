@@ -1,0 +1,3 @@
+drivers/staging/ramster/zcache-main.c:461:46: warning: unused variable 'total_freed' [-Wunused-variable]
+
+2012-09-07 10:45:38 kbuild staging:staging-next:7953e44 x86_64-allmodconfig 7953e44

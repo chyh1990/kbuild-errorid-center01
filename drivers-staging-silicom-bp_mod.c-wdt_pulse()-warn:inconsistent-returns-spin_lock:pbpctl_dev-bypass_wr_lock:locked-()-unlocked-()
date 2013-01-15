@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:1472 wdt_pulse() warn: inconsistent returns spin_lock:&pbpctl_dev->bypass_wr_lock: locked (1276) unlocked (1472)
+
+2013-01-09 13:27:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

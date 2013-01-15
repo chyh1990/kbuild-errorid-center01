@@ -1,0 +1,3 @@
+pd6729.c:(.text+0x1ffd068): relocation truncated to fit: R_PPC64_REL24 against symbol `._mcount' defined in .text section in arch/powerpc/kernel/entry_64.o
+
+2012-09-28 17:35:34 bee pinctrl:for-next:2fe3954 powerpc-allyesconfig 7d66ce7

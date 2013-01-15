@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_tx.c:848:56: sparse: incorrect type in argument 3 (different base types)
+
+2013-01-09 12:51:32 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

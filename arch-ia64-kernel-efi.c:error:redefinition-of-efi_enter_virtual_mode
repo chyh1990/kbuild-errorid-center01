@@ -1,0 +1,4 @@
+arch/ia64/kernel/efi.c:629:1: error: redefinition of 'efi_enter_virtual_mode'
+
+2012-09-28 08:18:16 hive devel-hive-ia64-2012-09-28-07-58:81b7704 ia64-alldefconfig 81b7704
+2012-09-29 02:04:50 hive devel-hive-ia64-2012-09-29-01-49:191cb4e ia64-alldefconfig 191cb4e

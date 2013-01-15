@@ -1,0 +1,3 @@
+drivers/platform/x86/asus-laptop.c:1558 asus_acpi_notify() warn: was || intended here instead of &&?
+
+2012-12-27 02:37:58 kbuild platform-drivers-x86:linux-next:d813c54 i386-allyesconfig d813c54

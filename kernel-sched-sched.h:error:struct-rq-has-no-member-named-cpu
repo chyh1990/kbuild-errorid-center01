@@ -1,0 +1,5 @@
+kernel/sched/sched.h:948:28: error: 'struct rq' has no member named 'cpu'
+
+2012-12-21 11:43:12 hive dynticks:3.7-nohz1:46209cd x86_64-randconfig-h001 46209cd
+2012-12-23 07:23:09 hive dynticks:3.8-rc1-nohz1-pre-for-kbuild-test:1582892 ia64-alldefconfig 1582892
+2012-12-23 10:54:49 hive devel-hive-x86_64-2012-12-23-10-34:1bfe627 x86_64-randconfig-h001 1bfe627

@@ -1,0 +1,4 @@
+drivers/usb/serial/ftdi_sio.c:2110:20-21: WARNING comparing pointer to 0
+
+2012-08-11 15:50:53 snb i386 /cc/kernel-tests/commit-list/usb:usb-linus:b1b552a 7724a1edbe463b06d4e7831a41149ba095b16c53
+2012-08-11 15:56:43 snb i386 email notified

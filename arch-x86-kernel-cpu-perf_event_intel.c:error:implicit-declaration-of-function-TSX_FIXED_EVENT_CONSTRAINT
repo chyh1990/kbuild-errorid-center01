@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel.c:138:2: error: implicit declaration of function 'TSX_FIXED_EVENT_CONSTRAINT' [-Werror=implicit-function-declaration]
+
+2012-09-30 02:47:52 inn internal-hle:hsw:pmu3:38e7b29 x86_64-allmodconfig 565840c
+2012-09-30 02:49:01 inn x86_64 email notified

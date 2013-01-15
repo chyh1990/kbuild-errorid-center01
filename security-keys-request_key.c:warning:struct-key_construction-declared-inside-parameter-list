@@ -1,0 +1,3 @@
+security/keys/request_key.c:51:34: warning: 'struct key_construction' declared inside parameter list [enabled by default]
+
+2012-09-26 06:15:04 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

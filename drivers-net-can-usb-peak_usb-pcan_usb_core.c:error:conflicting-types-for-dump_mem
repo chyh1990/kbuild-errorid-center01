@@ -1,0 +1,5 @@
+drivers/net/can/usb/peak_usb/pcan_usb_core.c:56:6: error: conflicting types for 'dump_mem'
+
+2012-11-11 06:43:41 bee apparmor:v3.6-aa2.8:663d5bb sh-allyesconfig a0d271c
+2012-11-19 11:29:50 bee m68k:m68k-v3.6:9f9e7e5 sh-allyesconfig a0d271c
+2012-11-23 04:53:33 bee logfs:master:3394661 sh-allyesconfig 5b716ac

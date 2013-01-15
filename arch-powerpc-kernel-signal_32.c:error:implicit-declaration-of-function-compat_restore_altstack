@@ -1,0 +1,3 @@
+arch/powerpc/kernel/signal_32.c:878:2: error: implicit declaration of function 'compat_restore_altstack' [-Werror=implicit-function-declaration]
+
+2012-12-23 12:15:51 bee signal:master:8fb00aa powerpc-chroma_defconfig 8fb00aa

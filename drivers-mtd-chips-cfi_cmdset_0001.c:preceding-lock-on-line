@@ -1,0 +1,4 @@
+drivers/mtd/chips/cfi_cmdset_0001.c:820:4-10: preceding lock on line 825
+
+2012-08-30 15:41:20 snb l2-mtd:master:abc3ee8 i386-allmodconfig abc3ee8
+2012-08-30 15:41:23 snb i386 email notified

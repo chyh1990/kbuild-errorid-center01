@@ -1,0 +1,4 @@
+drivers/net/ethernet/mellanox/mlx4/mr.c:134:4: error: implicit declaration of function 'vzalloc' [-Werror=implicit-function-declaration]
+
+2012-08-16 03:54:34 kbuild infiniband:for-next:7d5cdc1 powerpc-allmodconfig 09e22f3
+2012-08-16 03:54:34 kbuild powerpc email notified

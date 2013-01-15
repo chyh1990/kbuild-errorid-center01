@@ -1,0 +1,3 @@
+kernel/rcutree.c:2225 force_quiescent_state() error: potential NULL dereference 'rnp_old'.
+
+2013-01-09 13:26:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

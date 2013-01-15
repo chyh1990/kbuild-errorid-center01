@@ -1,0 +1,3 @@
+sound/soc/codecs/sta529.c:361:29: sparse: symbol 'sta529_codec_driver' was not declared. Should it be static?
+
+2012-07-23 23:01:10 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e 4dd268e1a54e95ed59a38939c1fdc86c0a4ce59f

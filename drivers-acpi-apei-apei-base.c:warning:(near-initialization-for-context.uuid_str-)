@@ -1,0 +1,3 @@
+drivers/acpi/apei/apei-base.c:752:3: warning: (near initialization for 'context.uuid_str') [-Wpointer-sign]
+
+2012-09-26 12:45:48 bee thermal:next:5d8d708 x86_64-allyesconfig f4a821c

@@ -1,0 +1,6 @@
+drivers/usb/musb/musb_core.c:357:21: error: 'struct usb_phy' has no member named 'state'
+
+2012-09-05 21:31:11 kbuild balbi-usb:master:8de3474 x86_64-allmodconfig de4217d
+2012-09-05 22:06:55 kbuild balbi-usb:xceiv:1ba8216 x86_64-allmodconfig 1ba8216
+2012-09-05 22:14:09 kbuild balbi-usb:master:51950da x86_64-allmodconfig 5f6e0c8
+2012-09-09 06:58:29 kbuild balbi-usb:master:de34e50 powerpc-allmodconfig 8de3474

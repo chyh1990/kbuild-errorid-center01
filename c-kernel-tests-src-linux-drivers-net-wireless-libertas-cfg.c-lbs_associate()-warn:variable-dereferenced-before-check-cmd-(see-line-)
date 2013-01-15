@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/wireless/libertas/cfg.c:1120 lbs_associate() warn: variable dereferenced before check 'cmd' (see line 1115)
+
+2013-01-07 12:24:54 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

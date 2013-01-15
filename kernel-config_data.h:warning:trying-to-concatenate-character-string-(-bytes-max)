@@ -1,0 +1,3 @@
+kernel/config_data.h:1:49: warning: trying to concatenate 38184-character string (4095 bytes max)
+
+2012-09-07 22:41:58 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

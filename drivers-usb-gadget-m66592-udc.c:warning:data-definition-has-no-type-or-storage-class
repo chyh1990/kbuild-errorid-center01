@@ -1,0 +1,3 @@
+drivers/usb/gadget/m66592-udc.c:1756:1: warning: data definition has no type or storage class [enabled by default]
+
+2013-01-10 20:32:09 kbuild devel-kbuild-x86_64-2013-01-10-20-25:6c9948b x86_64-allmodconfig 6c9948b

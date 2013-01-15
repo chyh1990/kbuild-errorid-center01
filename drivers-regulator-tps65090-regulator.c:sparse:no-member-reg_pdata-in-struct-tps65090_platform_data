@@ -1,0 +1,3 @@
+drivers/regulator/tps65090-regulator.c:169:43: sparse: no member 'reg_pdata' in struct tps65090_platform_data
+
+2012-12-17 10:46:01 snb devel-snb-i386-2012-12-17-09-30:d4f92e5 i386-allmodconfig d4f92e5

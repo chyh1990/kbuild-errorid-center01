@@ -1,0 +1,3 @@
+drivers/mtd/cmdlinepart.c:113:4: error: implicit declaration of function 'ERR_PTR' [-Werror=implicit-function-declaration]
+
+2012-09-02 19:16:53 bee l2-mtd:master:aab3579 powerpc-corenet64_smp_defconfig aab3579

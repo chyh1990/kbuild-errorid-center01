@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/therm/nv50.c:124 nv50_therm_ctor() Error invalid range 4096 to -1
+
+2012-09-28 07:10:37 kbuild devel-kbuild-i386-2012-09-28-06-29:df12c0a i386-allyesconfig df12c0a

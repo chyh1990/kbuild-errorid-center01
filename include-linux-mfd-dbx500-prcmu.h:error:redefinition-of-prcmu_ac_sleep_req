@@ -1,0 +1,12 @@
+include/linux/mfd/dbx500-prcmu.h:542:20: error: redefinition of 'prcmu_ac_sleep_req'
+
+2012-10-20 18:17:08 snb pinctrl:nomadik-multiplatform:2e88a0f arm-at91_dt_defconfig 2e88a0f
+2012-11-15 17:25:45 bee thermal:thermal:d91462b i386-randconfig-b680 d91462b
+2012-11-15 17:48:46 hive devel-hive-ia64-2012-11-15-17-42:4d3a230 ia64-alldefconfig 4d3a230
+2012-11-15 17:57:49 lkp-mb01 devel-lkp-mb01-i386-2012-11-15-17-41:cb29cf9 i386-randconfig-m021 cb29cf9
+2012-11-15 18:07:07 snb devel-snb-arm-2012-11-15-17-27:7839bb2 arm-marzen_defconfig 7839bb2
+2012-11-15 19:24:09 hive devel-hive-mips-2012-11-15-18-55:a0a48e8 mips-allmodconfig a0a48e8
+2012-11-15 19:44:02 snb devel-snb-x86_64-2012-11-15-19-38:e3613dc x86_64-randconfig-s280 e3613dc
+2012-11-15 19:56:05 snb devel-snb-i386-2012-11-15-19-49:32a01d3 i386-alldefconfig 32a01d3
+2012-11-15 21:22:22 kbuild devel-kbuild-powerpc-2012-11-15-20-49:86ffa03 powerpc-allmodconfig 86ffa03
+2012-11-15 23:49:00 lkp-mb01 devel-lkp-mb01-s390-2012-11-15-22-37:7c3c825 s390-allmodconfig 7c3c825

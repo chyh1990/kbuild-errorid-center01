@@ -1,0 +1,3 @@
+drivers/isdn/hardware/eicon/debug.c:704 DI_format() error: we previously assumed 'pmsg' could be null (see line 697)
+
+2013-01-09 13:26:43 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

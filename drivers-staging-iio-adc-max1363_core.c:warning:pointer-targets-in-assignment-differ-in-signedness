@@ -1,0 +1,3 @@
+drivers/staging/iio/adc/max1363_core.c:664:12: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:33 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

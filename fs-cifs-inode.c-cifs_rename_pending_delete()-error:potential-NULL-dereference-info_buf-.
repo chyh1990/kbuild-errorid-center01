@@ -1,0 +1,3 @@
+fs/cifs/inode.c:1071 cifs_rename_pending_delete() error: potential NULL dereference 'info_buf'.
+
+2013-01-09 13:28:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

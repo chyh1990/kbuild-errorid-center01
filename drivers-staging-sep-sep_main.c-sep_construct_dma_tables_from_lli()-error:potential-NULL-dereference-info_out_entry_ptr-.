@@ -1,0 +1,3 @@
+drivers/staging/sep/sep_main.c:2325 sep_construct_dma_tables_from_lli() error: potential NULL dereference 'info_out_entry_ptr'.
+
+2013-01-09 13:26:23 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

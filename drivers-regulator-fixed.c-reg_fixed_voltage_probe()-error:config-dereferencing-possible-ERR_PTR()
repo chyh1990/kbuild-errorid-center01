@@ -1,0 +1,3 @@
+drivers/regulator/fixed.c:191 reg_fixed_voltage_probe() error: 'config' dereferencing possible ERR_PTR()
+
+2012-09-13 01:34:05 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

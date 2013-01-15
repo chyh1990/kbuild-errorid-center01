@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/fb/nv20.c:98 nv20_fb_ctor() Error invalid range 4096 to -1
+
+2012-09-19 00:36:21 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19

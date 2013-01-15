@@ -1,0 +1,4 @@
+ERROR: "__divdf3" [drivers/gpu/drm/nouveau/nouveau.ko] undefined!
+
+2012-09-27 15:10:03 kbuild devel-kbuild-powerpc-2012-09-27-14-35:bcf5418 powerpc-allmodconfig bcf5418
+2012-09-27 23:42:46 snb nouveau:master:301e77f i386-allmodconfig 301e77f

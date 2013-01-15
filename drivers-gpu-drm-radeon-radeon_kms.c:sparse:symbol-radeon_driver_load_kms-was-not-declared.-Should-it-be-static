@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_kms.c:74:5: sparse: symbol 'radeon_driver_load_kms' was not declared. Should it be static?
+
+2013-01-09 13:10:47 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

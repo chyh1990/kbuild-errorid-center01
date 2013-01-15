@@ -1,0 +1,14 @@
+drivers/leds/leds-tca6507.c:728:2: error: implicit declaration of function 'ERR_PRT' [-Werror=implicit-function-declaration]
+
+2012-12-04 09:37:24 bee leds:devel:08963bc i386-randconfig-b810 08963bc
+2012-12-04 10:57:18 hive devel-hive-x86_64-2012-12-04-10-39:c66ca1c x86_64-randconfig-h394 c66ca1c
+2012-12-04 12:10:05 lkp-mb01 devel-lkp-mb01-i386-2012-12-04-11-52:a570253 i386-randconfig-m094 a570253
+2013-01-03 09:35:59 snb leds:devel:7d1ebb7 x86_64-randconfig-s580 448c919
+2013-01-03 10:10:45 kbuild devel-kbuild-x86_64-2013-01-03-10-04:37f80d8 x86_64-allmodconfig 37f80d8
+2013-01-03 10:13:03 bee devel-bee-i386-2013-01-03-10-06:d5f17b6 i386-randconfig-b990 d5f17b6
+2013-01-03 10:13:28 kbuild devel-kbuild-i386-2013-01-03-10-04:fd17115 i386-allyesconfig fd17115
+2013-01-03 10:18:42 snb devel-snb-x86_64-2013-01-03-10-05:eb8dd37 x86_64-randconfig-s580 eb8dd37
+2013-01-03 10:27:47 snb devel-snb-i386-2013-01-03-10-05:2644d52 i386-allmodconfig 2644d52
+2013-01-03 10:32:45 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-10-16:32dfbd5 i386-randconfig-m094 32dfbd5
+2013-01-03 10:31:28 snb devel-snb-arm-2013-01-03-10-05:fc35478 m68k-allmodconfig fc35478
+2013-01-03 11:35:13 lkp-mb01 devel-lkp-mb01-s390-2013-01-03-10-56:2550631 s390-allmodconfig 2550631

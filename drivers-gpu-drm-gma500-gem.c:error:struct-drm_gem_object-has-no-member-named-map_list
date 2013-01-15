@@ -1,0 +1,5 @@
+drivers/gpu/drm/gma500/gem.c:41:9: error: 'struct drm_gem_object' has no member named 'map_list'
+
+2012-12-19 07:31:47 kbuild drm:drm-vma-manager:e8278db x86_64-allmodconfig e8278db
+2012-12-19 07:31:53 kbuild x86_64 email notified
+2012-12-19 08:24:04 kbuild drm:drm-vma-manager:584e34e x86_64-allmodconfig 77a187b

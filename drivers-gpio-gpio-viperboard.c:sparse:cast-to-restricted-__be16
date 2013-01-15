@@ -1,0 +1,3 @@
+drivers/gpio/gpio-viperboard.c:313:27: sparse: cast to restricted __be16
+
+2013-01-09 13:09:36 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

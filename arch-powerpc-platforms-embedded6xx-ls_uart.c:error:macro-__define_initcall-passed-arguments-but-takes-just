@@ -1,0 +1,4 @@
+arch/powerpc/platforms/embedded6xx/ls_uart.c:142:1: error: macro "__define_initcall" passed 3 arguments, but takes just 2
+
+2012-10-23 13:17:37 bee next:akpm:dbfe081 powerpc-linkstation_defconfig dbfe081
+2012-10-24 13:23:54 bee next:akpm:234b148 powerpc-linkstation_defconfig 38a0ee7

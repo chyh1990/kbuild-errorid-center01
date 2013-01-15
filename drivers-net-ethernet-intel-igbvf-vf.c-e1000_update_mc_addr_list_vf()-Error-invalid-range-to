@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/igbvf/vf.c:229 e1000_update_mc_addr_list_vf() Error invalid range 4096 to -1
+
+2012-09-07 22:42:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

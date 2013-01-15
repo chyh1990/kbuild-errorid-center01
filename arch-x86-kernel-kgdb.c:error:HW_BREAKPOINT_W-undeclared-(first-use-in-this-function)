@@ -1,0 +1,5 @@
+arch/x86/kernel/kgdb.c:667:17: error: 'HW_BREAKPOINT_W' undeclared (first use in this function)
+
+2012-11-06 05:45:16 kbuild devel-kbuild-x86_64-2012-11-06-05-38:e46f314 x86_64-allmodconfig e46f314
+2012-11-06 06:05:13 kbuild devel-kbuild-i386-2012-11-06-05-58:837d531 i386-allyesconfig 837d531
+2012-11-06 06:23:56 snb devel-snb-i386-2012-11-06-06-03:38fd87e i386-allmodconfig 38fd87e

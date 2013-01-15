@@ -1,0 +1,3 @@
+sound/pci/rme9652/hdspm.c:5936 snd_hdspm_hwdep_ioctl() warn: check that 'info.madi_sync_check' doesn't leak information
+
+2013-01-09 13:27:57 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

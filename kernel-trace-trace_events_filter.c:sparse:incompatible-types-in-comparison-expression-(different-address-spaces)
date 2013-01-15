@@ -1,0 +1,3 @@
+kernel/trace/trace_events_filter.c:559:30: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 12:57:55 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/gpu/drm/savage/savage_bci.c:568:24: warning: variable 'aper_rsrc' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 13:59:47 bee drm-intel:drm-intel-nightly:8101b08 x86_64-randconfig-x078 112c375

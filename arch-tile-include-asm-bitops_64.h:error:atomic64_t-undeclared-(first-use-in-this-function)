@@ -1,0 +1,7 @@
+arch/tile/include/asm/bitops_64.h:47:30: error: 'atomic64_t' undeclared (first use in this function)
+
+2012-09-01 22:37:01 snb signal:for-next:fed65c8 tile-tilegx_defconfig 66105ba
+2012-09-01 22:43:41 snb signal:execve2:c3511bd tile-tilegx_defconfig 1000b81
+2012-09-01 22:50:00 snb slave-dma:next:b5f1433 tile-tilegx_defconfig b707c65
+2012-09-01 22:55:12 snb asoc:for-next:ba846b3 tile-tilegx_defconfig c921928
+2012-09-20 10:26:19 snb asoc:for-next:7f0f58f tile-tilegx_defconfig c921928

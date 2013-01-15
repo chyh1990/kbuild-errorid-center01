@@ -1,0 +1,3 @@
+drivers/media/usb/gspca/t613.c:840:13: warning: unused variable 'sd' [-Wunused-variable]
+
+2012-09-24 04:00:03 snb next:akpm:69921c3 x86_64-randconfig-s009 b02fd79

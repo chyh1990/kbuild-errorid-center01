@@ -1,0 +1,3 @@
+drivers/media/pci/dm1105/dm1105.c:1194:1-3: ERROR: test of a variable/field address
+
+2012-11-14 11:27:45 snb devel-snb-i386-2012-11-14-02-33:8bf79d9 i386-allmodconfig 8bf79d9

@@ -1,0 +1,4 @@
+include/linux/sched.h:2241:44: error: 'SS_DISABLE' undeclared (first use in this function)
+
+2013-01-11 15:04:33 bee drm:qxl-kms-test:317157f x86_64-lkp 317157f
+2013-01-11 22:12:29 bee mac80211-next:wip:64d800d x86_64-allyesdebian 64d800d

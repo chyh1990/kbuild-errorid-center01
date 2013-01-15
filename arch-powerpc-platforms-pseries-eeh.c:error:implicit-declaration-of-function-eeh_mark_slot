@@ -1,0 +1,4 @@
+arch/powerpc/platforms/pseries/eeh.c:384:2: error: implicit declaration of function 'eeh_mark_slot' [-Werror=implicit-function-declaration]
+
+2012-09-10 14:29:08 kbuild powerpc:test:6b5e722 powerpc-allmodconfig 5b66352
+2012-09-10 14:29:09 kbuild powerpc email notified

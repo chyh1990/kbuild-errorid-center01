@@ -1,0 +1,4 @@
+pci_root.c:(.text+0x37830): undefined reference to `pci_configure_slot'
+
+2012-09-22 04:41:13 bee pci:pci:taku-acpi-pci-host-bridge-v3:e3faec8 i386-randconfig-b051 e3faec8
+2012-09-22 04:53:18 bee i386 email notified

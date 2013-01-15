@@ -1,0 +1,3 @@
+include/linux/rbtree.h:78:28: warning: 'parent' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:29:59 inn linus:master:974b335 x86_64-randconfig-i362 974b335

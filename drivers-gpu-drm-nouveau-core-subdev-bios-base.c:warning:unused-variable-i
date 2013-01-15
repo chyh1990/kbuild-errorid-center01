@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/subdev/bios/base.c:66:12: warning: unused variable 'i' [-Wunused-variable]
+
+2012-09-14 16:42:02 kbuild nouveau:master:0a5cdb7 powerpc-allmodconfig 08e4708
+2012-09-14 16:42:03 kbuild powerpc email notified

@@ -1,0 +1,7 @@
+net/netfilter/nfnetlink_log.c:494:25: error: 'ARPHRD_SIT' undeclared (first use in this function)
+
+2012-12-17 07:49:37 bee nf:master:252b3e8 i386-randconfig-x237 0c36b48
+2012-12-17 07:49:54 bee i386 email notified
+2012-12-17 08:11:32 snb devel-snb-arm-2012-12-17-07-55:ea4d73e arm-s3c2410_defconfig ea4d73e
+2012-12-17 08:32:44 snb devel-snb-i386-2012-12-17-07-38:1b34c91 i386-defconfig 1b34c91
+2012-12-17 09:15:13 bee devel-bee-i386-2012-12-17-08-17:58ef1a9 i386-randconfig-b901 58ef1a9

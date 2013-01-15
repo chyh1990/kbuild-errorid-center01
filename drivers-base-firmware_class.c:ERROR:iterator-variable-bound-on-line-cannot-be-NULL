@@ -1,0 +1,3 @@
+drivers/base/firmware_class.c:1282:6-9: ERROR: iterator variable bound on line 1269 cannot be NULL
+
+2012-10-23 00:50:43 bee driver-core:driver-core-linus:d28d388 x86_64-allyesdebian d28d388

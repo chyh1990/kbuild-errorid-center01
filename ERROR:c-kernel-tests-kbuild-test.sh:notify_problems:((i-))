@@ -1,0 +1,3 @@
+ERROR# 1: /c/kernel-tests/kbuild-test.sh:95: notify_problems: ((i < 10))
+
+2012-09-19 20:51:55 lkp-mb01 hid:wacom:8908dd8 m32r-mappi3.smp_defconfig 8908dd8

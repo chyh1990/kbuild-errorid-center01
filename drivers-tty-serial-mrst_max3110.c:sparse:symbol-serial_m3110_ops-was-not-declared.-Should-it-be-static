@@ -1,0 +1,3 @@
+drivers/tty/serial/mrst_max3110.c:721:17: sparse: symbol 'serial_m3110_ops' was not declared. Should it be static?
+
+2013-01-09 13:20:12 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

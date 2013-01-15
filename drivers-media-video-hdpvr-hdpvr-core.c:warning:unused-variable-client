@@ -1,0 +1,3 @@
+drivers/media/video/hdpvr/hdpvr-core.c:298:21: warning: unused variable 'client' [-Wunused-variable]
+
+2012-09-21 10:51:21 snb nfs:testing:9dfaead x86_64-randconfig-s365 b81b55e

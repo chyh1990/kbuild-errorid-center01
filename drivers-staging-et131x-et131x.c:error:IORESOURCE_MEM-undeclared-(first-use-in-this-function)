@@ -1,0 +1,4 @@
+drivers/staging/et131x/et131x.c:5253:40: error: 'IORESOURCE_MEM' undeclared (first use in this function)
+
+2012-09-17 18:30:35 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf
+2012-09-17 19:00:16 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

@@ -1,0 +1,3 @@
+drivers/video/backlight/platform_lcd.c:125:12: warning: 'platform_lcd_suspend' defined but not used [-Wunused-function]
+
+2012-10-15 20:12:57 bee gfs2:master:5d8550f i386-randconfig-b229 5d8550f

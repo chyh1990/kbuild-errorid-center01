@@ -1,0 +1,4 @@
+kernel/workqueue.c:1435:22-28: ERROR: invalid reference to the index variable of the iterator on line 1398
+
+2012-08-09 12:23:49 snb i386 /cc/kernel-tests/commit-list/wq:for-3.7:8fcd636 0a13c00e9d4502b8e3fd9260ce781758ff2c3970
+2012-08-09 12:26:43 snb i386 email notified

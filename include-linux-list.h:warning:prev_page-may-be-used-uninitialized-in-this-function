@@ -1,0 +1,3 @@
+include/linux/list.h:44:13: warning: 'prev_page' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 14:54:16 kbuild i386 /cc/kernel-tests/commit-list/tip:x86:boot:bd448d4 9f4e4392cbf72d731a489a3217fe810820b8ba96

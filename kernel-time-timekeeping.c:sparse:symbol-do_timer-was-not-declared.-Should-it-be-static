@@ -1,0 +1,3 @@
+kernel/time/timekeeping.c:1362:6: sparse: symbol 'do_timer' was not declared. Should it be static?
+
+2013-01-09 12:57:56 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

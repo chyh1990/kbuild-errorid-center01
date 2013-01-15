@@ -1,0 +1,3 @@
+include/linux/pm_domain.h:258:2: warning: passing argument 1 of '__pm_genpd_name_add_device' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-08-09 17:10:13 hive sh /cc/kernel-tests/commit-list/pm:linux-next:9ea3f70 3fca1aaa84488678c2b57d9b35259bbd4efd86ca

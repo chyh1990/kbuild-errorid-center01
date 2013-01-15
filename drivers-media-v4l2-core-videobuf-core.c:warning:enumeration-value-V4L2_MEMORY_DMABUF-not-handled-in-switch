@@ -1,0 +1,3 @@
+drivers/media/v4l2-core/videobuf-core.c:402:3: warning: enumeration value 'V4L2_MEMORY_DMABUF' not handled in switch [-Wswitch]
+
+2012-11-13 23:13:43 bee samsung:vb2-dmabuf-for-3.8-origen:1f59549 x86_64-allyesconfig 748fcc1

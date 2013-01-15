@@ -1,0 +1,3 @@
+arch/arm/include/asm/cache.h:22:31: warning: "__LINUX_ARM_ARCH__" is not defined [-Wundef]
+
+2012-09-17 16:46:04 snb drm-intel:drm-intel-nightly:413f77b arm-imx_v6_v7_defconfig 413f77b

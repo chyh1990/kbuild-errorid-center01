@@ -1,0 +1,3 @@
+fs/super.c:672 get_active_super() warn: inconsistent returns spin_lock:&sb_lock: locked (666) unlocked (657,672)
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+include/linux/pm_domain.h:252:2: error: too many arguments to function '__pm_genpd_of_add_device'
+
+2012-08-09 17:10:13 hive sh /cc/kernel-tests/commit-list/pm:linux-next:9ea3f70 3fca1aaa84488678c2b57d9b35259bbd4efd86ca
+2012-08-09 17:10:14 hive sh email notified

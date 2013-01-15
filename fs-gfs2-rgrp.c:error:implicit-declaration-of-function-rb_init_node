@@ -1,0 +1,4 @@
+fs/gfs2/rgrp.c:456:2: error: implicit declaration of function 'rb_init_node' [-Werror=implicit-function-declaration]
+
+2012-08-07 10:53:09 kbuild i386 /cc/kernel-tests/commit-list/next:akpm:429a0cb 609945ecc2fd4aba1b5cb4cb4c98f12ef577b121
+2012-08-07 10:58:16 kbuild i386 email notified

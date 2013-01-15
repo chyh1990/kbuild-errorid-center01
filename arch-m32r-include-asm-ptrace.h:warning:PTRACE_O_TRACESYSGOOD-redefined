@@ -1,0 +1,3 @@
+arch/m32r/include/asm/ptrace.h:117:0: warning: "PTRACE_O_TRACESYSGOOD" redefined [enabled by default]
+
+2012-09-09 16:13:51 hive wireless-testing:master:ce5fe84 m32r-m32104ut_defconfig 362b056

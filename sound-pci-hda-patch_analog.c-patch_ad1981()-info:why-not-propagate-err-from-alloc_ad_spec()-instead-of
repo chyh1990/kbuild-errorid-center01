@@ -1,0 +1,3 @@
+sound/pci/hda/patch_analog.c:1969 patch_ad1981() info: why not propagate 'err' from alloc_ad_spec() instead of -12?
+
+2012-09-12 23:31:22 kbuild sound-unstable:master:f7f42ce i386-allyesconfig f7f42ce

@@ -1,0 +1,3 @@
+arch/arm/include/generated/mach/map.h:1:29: fatal error: mach-prima2/map.h: No such file or directory
+
+2012-09-18 14:20:57 snb yinghai:for-x86-irq-base:f2c8edd arm-prima2_defconfig f2c8edd

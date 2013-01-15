@@ -1,0 +1,3 @@
+drivers/thermal/rcar_thermal.c:214:10: warning: passing argument 3 of 'thermal_zone_device_register' makes integer from pointer without a cast [enabled by default]
+
+2012-10-30 19:30:39 snb devel-snb-arm-2012-10-30-19-14:8baa186 arm-marzen_defconfig 8baa186

@@ -1,0 +1,3 @@
+drivers/net/can/sja1000/sja1000.h:59:0: warning: "REG_SR" redefined [enabled by default]
+
+2012-10-30 17:58:18 bee davinci:v3.8:defconfig:cb5a410 sh-allyesconfig cb5a410

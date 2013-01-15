@@ -1,0 +1,3 @@
+drivers/net/wireless/ti/wlcore/spi.c:311:1: warning: the frame size of 2720 bytes is larger than 2048 bytes [-Wframe-larger-than=]
+
+2012-07-22 18:29:37 hive ia64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

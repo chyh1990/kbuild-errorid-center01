@@ -1,0 +1,7 @@
+ERROR: "sms_ir_event" undefined!
+
+2012-11-13 23:10:21 kbuild samsung:vb2-dmabuf-for-3.8-origen:1f59549 x86_64-allmodconfig 2c4e11b
+2012-11-13 23:56:17 snb devel-snb-i386-2012-11-13-23-43:d164e37 i386-allmodconfig d164e37
+2012-11-16 11:09:34 kbuild samsung:vb2-dmabuf-for-3.8-origen:a2f84e5 x86_64-allmodconfig b9610d4
+2012-11-21 00:21:14 kbuild samsung:vb2-dmabuf-for-3.8-origen:5d46cec x86_64-allmodconfig a88c7a8
+2012-11-22 23:23:26 kbuild samsung:vb2-dmabuf-for-3.8-origen:22aef93 x86_64-allmodconfig 22aef93

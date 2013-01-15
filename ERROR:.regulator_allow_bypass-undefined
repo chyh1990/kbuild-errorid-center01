@@ -1,0 +1,3 @@
+ERROR: ".regulator_allow_bypass" [drivers/extcon/extcon-arizona.ko] undefined!
+
+2012-09-09 12:30:12 kbuild regulator:for-next:91c7abb powerpc-allmodconfig 91c7abb

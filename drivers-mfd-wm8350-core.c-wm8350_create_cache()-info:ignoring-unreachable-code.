@@ -1,0 +1,3 @@
+drivers/mfd/wm8350-core.c:504 wm8350_create_cache() info: ignoring unreachable code.
+
+2012-09-07 22:42:16 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

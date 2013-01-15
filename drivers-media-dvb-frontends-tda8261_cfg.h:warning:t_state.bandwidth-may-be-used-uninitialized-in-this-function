@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/tda8261_cfg.h:68:21: warning: 't_state.bandwidth' may be used uninitialized in this function [-Wuninitialized]
+
+2012-09-18 14:27:13 bee yinghai:for-x86-irq:687b7ca i386-randconfig-b035 687b7ca

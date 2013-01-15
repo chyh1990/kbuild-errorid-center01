@@ -1,0 +1,3 @@
+arch/x86/kvm/vmx.c:1074: Warning: partial line at end of file ignored
+
+2012-09-21 15:38:57 snb nfs:testing:9dfaead x86_64-randconfig-s364 6428dae

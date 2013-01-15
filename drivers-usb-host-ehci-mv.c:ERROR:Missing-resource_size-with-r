@@ -1,0 +1,4 @@
+drivers/usb/host/ehci-mv.c:226:20-23: ERROR: Missing resource_size with r
+
+2012-07-31 05:26:56 snb i386 /cc/kernel-tests/commit-list/linus:master:3e701cd 9fc377799bc9bfd8d5cb35d0d1ea2e2458cbdbb3
+2012-08-11 20:37:48 snb i386 86e4cb35f2260374df4139c2352afe7fe247cb60 /cc/kernel-tests/commit-list/usb:usb-next:4d9e408

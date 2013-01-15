@@ -1,0 +1,3 @@
+net/ipv6/exthdrs_core.c:188:48: sparse: undefined identifier 'OVS_IP6T_FH_F_SKIP_RH'
+
+2012-11-10 10:26:52 snb devel-snb-i386-2012-11-10-09-56:fd45c17 i386-allmodconfig fd45c17

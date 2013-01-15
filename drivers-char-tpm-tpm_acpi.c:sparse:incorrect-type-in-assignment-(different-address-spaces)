@@ -1,0 +1,4 @@
+drivers/char/tpm/tpm_acpi.c:98:14: sparse: incorrect type in assignment (different address spaces)
+
+2012-08-28 06:12:38 snb security:next:f84fdff i386-allmodconfig e5dcd87
+2012-08-28 06:12:39 snb i386 email notified

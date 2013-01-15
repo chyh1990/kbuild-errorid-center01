@@ -1,0 +1,3 @@
+arch/x86/boot/printf.c:298 printf() warn: 'printf_buf' puts 1024 bytes on stack
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

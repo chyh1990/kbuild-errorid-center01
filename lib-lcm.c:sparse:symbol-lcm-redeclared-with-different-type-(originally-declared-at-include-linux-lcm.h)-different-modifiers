@@ -1,0 +1,3 @@
+lib/lcm.c:7:15: sparse: symbol 'lcm' redeclared with different type (originally declared at include/linux/lcm.h:6) - different modifiers
+
+2013-01-09 13:02:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

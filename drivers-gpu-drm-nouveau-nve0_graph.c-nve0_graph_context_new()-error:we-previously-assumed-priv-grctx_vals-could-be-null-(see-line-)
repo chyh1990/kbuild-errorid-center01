@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nve0_graph.c:239 nve0_graph_context_new() error: we previously assumed 'priv->grctx_vals' could be null (see line 232)
+
+2012-09-07 22:41:56 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

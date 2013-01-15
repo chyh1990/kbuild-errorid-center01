@@ -1,0 +1,3 @@
+drivers/gpu/drm/qxl/qxl_cmd.c:416:1-10: second lock on line 416
+
+2012-11-23 15:40:23 snb drm:qxl-kms-test:0340f04 i386-allmodconfig 0340f04

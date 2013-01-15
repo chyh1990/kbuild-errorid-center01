@@ -1,0 +1,3 @@
+microcode_core.c:(.text+0x2c7fe): undefined reference to `nonseekable_open'
+
+2013-01-15 16:12:19 ant yuanhan:kfifo:b2e699c i386-randconfig-a003 c825f15

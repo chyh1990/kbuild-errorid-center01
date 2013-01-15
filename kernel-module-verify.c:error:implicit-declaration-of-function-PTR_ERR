@@ -1,0 +1,3 @@
+kernel/module-verify.c:69:3: error: implicit declaration of function 'PTR_ERR' [-Werror=implicit-function-declaration]
+
+2012-08-16 09:22:33 bee modsign:modsign-rusty:9ed5e36 cris-allyesconfig 580088f

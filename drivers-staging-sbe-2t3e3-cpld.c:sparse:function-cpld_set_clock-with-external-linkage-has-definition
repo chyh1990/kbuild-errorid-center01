@@ -1,0 +1,3 @@
+drivers/staging/sbe-2t3e3/cpld.c:243:13: sparse: function 'cpld_set_clock' with external linkage has definition
+
+2013-01-09 12:55:40 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

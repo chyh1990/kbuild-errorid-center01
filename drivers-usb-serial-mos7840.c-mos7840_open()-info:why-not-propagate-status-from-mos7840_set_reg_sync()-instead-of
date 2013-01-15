@@ -1,0 +1,3 @@
+drivers/usb/serial/mos7840.c:1001 mos7840_open() info: why not propagate 'status' from mos7840_set_reg_sync() instead of -1?
+
+2012-09-12 11:58:45 kbuild security:next:a40695e i386-allyesconfig a40695e

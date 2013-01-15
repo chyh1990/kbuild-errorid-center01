@@ -1,0 +1,3 @@
+arch/x86/mm/init.c:346:3: error: implicit declaration of function 'init_all_memory_mapping' [-Werror=implicit-function-declaration]
+
+2012-10-10 08:10:50 bee yinghai:for-x86-mm:ad37a81 x86_64-allyesdebian ad37a81

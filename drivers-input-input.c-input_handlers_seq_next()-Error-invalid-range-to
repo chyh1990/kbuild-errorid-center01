@@ -1,0 +1,3 @@
+drivers/input/input.c:1124 input_handlers_seq_next() Error invalid range 4096 to -1
+
+2012-09-07 21:58:03 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

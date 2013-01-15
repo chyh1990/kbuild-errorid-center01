@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8994.c:675:256: warning: excess elements in struct initializer [enabled by default]
+
+2012-11-20 11:35:04 kbuild devel-kbuild-i386-2012-11-20-11-28:e115307 i386-allyesconfig e115307

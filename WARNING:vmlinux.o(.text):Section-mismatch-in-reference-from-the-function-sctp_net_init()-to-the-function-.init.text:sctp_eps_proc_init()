@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x89cd62): Section mismatch in reference from the function sctp_net_init() to the function .init.text:sctp_eps_proc_init()
+
+2012-08-20 21:56:21 snb next:akpm:5fb158a x86_64-randconfig-s145 cf1f6ba

@@ -1,0 +1,4 @@
+drivers/media/video/pms.c:1116:2: error: implicit declaration of function 'kfree' [-Werror=implicit-function-declaration]
+
+2012-08-06 15:21:18 bee i386 /cc/kernel-tests/commit-list/digsig:next-ima-dir:4f6c0e1 4f6c0e1d9b38b6071102e24b5a32e26554407984
+2012-08-10 17:02:40 bee i386 6725927bf3c4cf4668e58f809080fc36ba2d873e /cc/kernel-tests/commit-list/digsig:mod_new:042e888

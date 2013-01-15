@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/pcl818.c:1917 pcl818_detach() error: we previously assumed 'devpriv' could be null (see line 1893)
+
+2013-01-09 13:26:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

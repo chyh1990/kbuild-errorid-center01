@@ -1,0 +1,3 @@
+net/rxrpc/ar-ack.c:601 rxrpc_process_rx_queue() Error invalid range 4096 to -1
+
+2012-09-07 21:57:58 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

@@ -1,0 +1,3 @@
+drivers/staging/ccg/ccg.c:824:3: warning: 'err' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-22 18:13:20 inn internal-hle:hsw:pmu2:9d5eb9d i386-randconfig-i052 9d5eb9d

@@ -1,0 +1,3 @@
+drivers/net/ethernet/chelsio/cxgb4/t4_hw.c:441 t4_memory_rw() warn: 'data' puts 2048 bytes on stack
+
+2012-09-29 11:15:53 kbuild wireless-next:for-davem:c487606 i386-allyesconfig c487606

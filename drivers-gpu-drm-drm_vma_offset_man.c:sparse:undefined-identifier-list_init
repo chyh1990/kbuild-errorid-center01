@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_vma_offset_man.c:94:9: sparse: undefined identifier 'list_init'
+
+2012-12-19 12:54:38 snb drm:drm-vma-manager:fe04655 i386-allmodconfig fe04655

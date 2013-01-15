@@ -1,0 +1,3 @@
+drivers/regulator/tps80031-regulator.c:653:33: warning: 'smps_mult' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:01 inn linus:master:974b335 x86_64-randconfig-i369 974b335

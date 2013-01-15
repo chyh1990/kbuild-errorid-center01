@@ -1,0 +1,4 @@
+drivers/mtd/ubi/build.c:658:3: error: 'mtd' undeclared (first use in this function)
+
+2012-08-23 20:40:25 kbuild ubi:linux-next:1259fec i386-randconfig-k781 1259fec
+2012-08-23 21:31:08 hive ubi:linux-next:8eb7106 x86_64-randconfig-h773 8eb7106

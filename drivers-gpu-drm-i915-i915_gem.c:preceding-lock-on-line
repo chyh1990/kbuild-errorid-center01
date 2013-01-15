@@ -1,0 +1,4 @@
+drivers/gpu/drm/i915/i915_gem.c:509:1-7: preceding lock on line 485
+
+2012-08-06 19:05:47 snb i386 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e f424961484cf97c7dc9243d81d8d26072cb570a9
+2012-08-06 19:06:01 snb i386 email notified

@@ -1,0 +1,34 @@
+arch/avr32/kernel/signal.c:303: error: expected statement before ')' token
+
+2012-07-26 13:22:51 snb avr32 /cc/kernel-tests/commit-list/bluetooth:master:8bd38a6 0cfe5d02871f5fe0e793824bc6729c456fe9fedc
+2012-07-26 23:08:24 snb avr32 /cc/kernel-tests/commit-list/mac80211-next:wip:7b0df97 354890fa6c9826aea1222bf115e61fa550d49ada
+2012-07-27 03:19:13 snb avr32 /cc/kernel-tests/commit-list/mac80211-next:wip:44d99c6 9fb9b664fd6ff099a4350f9381c20ad8b0283852
+2012-07-27 11:51:08 snb avr32 /cc/kernel-tests/commit-list/slave-dma:fixes_for-3.7:a2367db a2367db2ec5e7fc6fe93e221e0fcdee81b053daf
+2012-07-27 11:54:45 snb avr32 /cc/kernel-tests/commit-list/slave-dma:for-3.7:dbde5c2 dbde5c2934d10f87cc45ed9a9b95cac6f0c0fdd2
+2012-07-27 21:32:49 snb avr32 /cc/kernel-tests/commit-list/iwlwifi:master:56d65f7 1c8e11e117c28ef6b9591b489f2bbd38894ba811
+2012-07-28 03:54:34 snb avr32 /cc/kernel-tests/commit-list/iwlwifi:master:55a25e2 da0cabb8de68d9dba254810f65aa7146eb5f47b3
+2012-07-28 17:17:26 snb avr32 149003ac317aec093300ea9ef9786b11ecbbabc6 /cc/kernel-tests/commit-list/mac80211-next:wip:ede063a
+2012-07-28 18:42:45 snb avr32 b1af9be5ef77898c05667bb9dbf3b180d91d3292 /cc/kernel-tests/commit-list/block:for-3.6:drivers:b1af9be
+2012-07-28 23:52:36 snb avr32 5e31fc0815a4e2c72b1b495fe7a0d8f9bfb9e4b4 /cc/kernel-tests/commit-list/mac80211:master:5e31fc0
+2012-07-29 01:39:25 snb avr32 96ee34be7a0965a117080a28b2c0cc6d4ee6adb1 /cc/kernel-tests/commit-list/xfs:for-next:824c313
+2012-07-29 23:00:35 snb avr32 1fa850596dcbc1b147948c832eb770d96c78024e /cc/kernel-tests/commit-list/kbuild:misc:1fa8505
+2012-07-29 23:06:56 snb avr32 1925a276afa78c305dacb7f2da11825bffecad44 /cc/kernel-tests/commit-list/kbuild:kconfig:67d34a6
+2012-07-29 23:22:47 snb avr32 85b170eb0737292a92d39ce83d9be883e37c5a17 /cc/kernel-tests/commit-list/kbuild:for-next:85b170e
+2012-07-30 09:55:44 snb avr32 2c59d9f21ca33d3f974f45ae1f730982a85bd908 /cc/kernel-tests/commit-list/nf-next:nf-nat2:2c59d9f
+2012-07-30 11:44:20 snb avr32 f2ecc5e453134a13c3b2b0f2cac52ab2d5c540d7 /cc/kernel-tests/commit-list/xfs:for-next:9a57fa8
+2012-07-30 20:39:19 snb avr32 73a1180e140d45cb9ef5fbab103d3bbfc4c84606 /cc/kernel-tests/commit-list/slab:for-next:73a1180
+2012-07-30 21:23:57 snb avr32 cf49e2c322df08b350d4dd8230fe9e495d369567 /cc/kernel-tests/commit-list/nf-next:nf-nat3:b2969d4
+2012-07-31 10:54:39 snb avr32 7da5bb5e148624cb31c7fb24bd6201ef97edc280 /cc/kernel-tests/commit-list/nf-next:nf-nat4:ac2a06a
+2012-08-02 03:41:15 snb avr32 fe86cdcef73ba19a2246a124f0ddbd19b14fb549 /cc/kernel-tests/commit-list/block:for-3.6:core:80799fb
+2012-08-04 00:16:45 snb avr32 3aa569c3fedbd0d16041d08bf6e89b8c43aee650 /cc/kernel-tests/commit-list/wireless:master:d4e5979
+2012-08-13 02:33:32 snb avr32 fed57cd375ece6d271e45d9ad630c7de632e74b6 /cc/kernel-tests/commit-list/slave-dma:next:c87a9fc
+2012-08-19 17:50:34 snb ath6kl:master:e730483 avr32-atngw100_defconfig 23604ad
+2012-08-25 04:41:08 snb wireless-next:for-davem:f20b621 avr32-atngw100_defconfig 289e550
+2012-08-26 10:22:54 snb ath6kl:ath6kl-next:d9070af avr32-atngw100_defconfig d5ef158
+2012-08-27 22:52:37 snb ath6kl:master:bbb2bf4 avr32-atngw100_defconfig 83f25ab
+2012-09-02 04:29:23 snb ath6kl:master:005292c avr32-atngw100_defconfig 7283481
+2012-09-16 03:58:21 snb wireless-next:for-davem:9316f0e avr32-atngw100_defconfig 362b056
+2012-09-22 03:34:28 snb ath6kl:ath6kl-next:02d51eb avr32-atngw100_defconfig 02d51eb
+2012-09-22 06:57:30 snb can:for-davem:cb8db89 avr32-atngw100_defconfig 362b056
+2012-09-22 06:57:30 snb can:for-davem:cb8db89 avr32-atngw100_defconfig 362b056 email notified
+2012-09-22 06:57:32 snb avr32 email notified

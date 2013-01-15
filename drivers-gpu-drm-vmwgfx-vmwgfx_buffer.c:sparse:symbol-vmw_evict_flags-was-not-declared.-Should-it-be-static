@@ -1,0 +1,3 @@
+drivers/gpu/drm/vmwgfx/vmwgfx_buffer.c:245:6: sparse: symbol 'vmw_evict_flags' was not declared. Should it be static?
+
+2013-01-09 13:03:15 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

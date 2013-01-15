@@ -1,0 +1,3 @@
+net/sunrpc/xprtrdma/rpc_rdma.c:226 rpcrdma_create_chunks() error: we previously assumed 'cur_wchunk' could be null (see line 207)
+
+2013-01-09 13:26:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

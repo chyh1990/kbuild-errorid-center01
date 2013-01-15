@@ -1,0 +1,5 @@
+mm/slab_common.c:156: undefined reference to `sysfs_slab_add'
+
+2012-09-05 17:29:29 kbuild slab:for-next:da9f26d i386-randconfig-k917 96d17b7
+2012-09-10 16:55:51 bee glommer-memcg:kmemcg-stack:d9458f9 i386-randconfig-b000 b3f7979
+2012-09-12 01:08:49 hive slab:for-next:8162231 sh-allnoconfig 278b1bb

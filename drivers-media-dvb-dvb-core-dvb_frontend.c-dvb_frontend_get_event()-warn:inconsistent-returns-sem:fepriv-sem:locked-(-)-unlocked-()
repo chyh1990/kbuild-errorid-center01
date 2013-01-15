@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-core/dvb_frontend.c:270 dvb_frontend_get_event() warn: inconsistent returns sem:&fepriv->sem: locked (244,251,262,270) unlocked (259)
+
+2012-09-12 11:58:55 kbuild security:next:a40695e i386-allyesconfig a40695e

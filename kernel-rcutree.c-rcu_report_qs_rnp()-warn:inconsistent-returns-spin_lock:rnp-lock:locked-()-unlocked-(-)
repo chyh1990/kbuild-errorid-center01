@@ -1,0 +1,3 @@
+kernel/rcutree.c:1725 rcu_report_qs_rnp() warn: inconsistent returns spin_lock:&rnp->lock: locked (1725) unlocked (1693,1704)
+
+2013-01-09 13:26:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

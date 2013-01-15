@@ -1,0 +1,4 @@
+drivers/scsi/bfa/bfad_bsg.c:3054:29-30: WARNING comparing pointer to 0
+
+2012-09-20 16:33:35 snb scsi:for-next:cea6340 i386-allmodconfig 9f8057d
+2012-09-20 16:33:41 snb i386 email notified

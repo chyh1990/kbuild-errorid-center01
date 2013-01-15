@@ -1,0 +1,3 @@
+drivers/net/wireless/ti/wlcore/main.c:2138:1-7: preceding lock on line 2108
+
+2012-09-16 20:10:48 snb l2-mtd:master:70f389f i386-allmodconfig 70f389f

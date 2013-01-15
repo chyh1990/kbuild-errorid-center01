@@ -1,0 +1,6 @@
+net/built-in.o:(.rodata+0x1c50): undefined reference to `tcp_tso_segment'
+
+2012-11-16 07:07:56 snb devel-snb-x86_64-2012-11-16-06-59:976eed4 x86_64-randconfig-s280 976eed4
+2012-11-16 07:27:16 hive devel-hive-x86_64-2012-11-16-07-11:6337601 x86_64-randconfig-h273 6337601
+2012-11-16 07:34:24 bee devel-bee-i386-2012-11-16-07-21:1fa9064 i386-randconfig-b691 1fa9064
+2012-11-16 07:58:19 snb devel-snb-arm-2012-11-16-07-32:ac0a1a7 arm-spear13xx_defconfig ac0a1a7

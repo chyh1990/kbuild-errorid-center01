@@ -1,0 +1,3 @@
+drivers/usb/host/isp1362.h:729:3: warning: statement with no effect [-Wunused-value]
+
+2012-09-25 23:03:26 bee samsung:v4l-next:fa54a52 cris-allyesconfig 1cd2c27

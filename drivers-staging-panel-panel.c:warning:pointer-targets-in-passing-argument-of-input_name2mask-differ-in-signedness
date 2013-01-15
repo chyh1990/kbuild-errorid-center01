@@ -1,0 +1,3 @@
+drivers/staging/panel/panel.c:1990:9: warning: pointer targets in passing argument 4 of 'input_name2mask' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:35 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

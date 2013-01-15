@@ -1,0 +1,4 @@
+drivers/scsi/mpt2sas/mpt2sas_scsih.c:2500:1-7: preceding lock on line 2367
+
+2012-09-18 21:46:29 snb scsi:misc:3add2e9 i386-allmodconfig 433d717
+2012-09-18 21:46:31 snb i386 email notified

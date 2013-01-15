@@ -1,0 +1,3 @@
+security/integrity/ima/ima_appraise.c:119:32: sparse: cast truncates bits from constant value (100 becomes 0)
+
+2012-09-19 11:02:42 inn internal-wfg:0day:bd510f3 i386-allmodconfig bd510f3

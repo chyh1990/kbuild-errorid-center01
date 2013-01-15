@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/amplc_pci230.c:1422:9: sparse: context imbalance in 'pci230_ao_inttrig_scan_begin' - different lock contexts for basic block
+
+2012-09-09 03:48:27 snb hid:picolcd:02d9be1 i386-allmodconfig 02d9be1

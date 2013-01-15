@@ -1,0 +1,10 @@
+drivers/regulator/twl-regulator.c:1230:3: error: implicit declaration of function 'kfree' [-Werror=implicit-function-declaration]
+
+2012-08-16 01:13:56 kbuild regulator:topic:drivers:3eb4cb2 i386-randconfig-k715 537fbe9
+2012-08-16 01:30:44 kbuild regulator:for-next:72430b1 i386-randconfig-k715 72430b1
+2012-08-16 13:42:47 kbuild next:akpm:d85532e i386-randconfig-k715 ac6fab2
+2012-08-16 20:17:09 snb regulator:topic:drivers:d299229 arm-omap2plus_defconfig 537fbe9
+2012-08-17 19:11:53 kbuild next:akpm:a96005b i386-randconfig-k734 ac6fab2
+2012-08-18 08:14:15 snb regulator:for-next:4785f97 arm-omap2plus_defconfig 72430b1
+2012-08-29 02:44:53 kbuild regulator:topic:drivers:ba02dfd i386-randconfig-k830 0ffff5a
+2012-09-01 02:13:18 kbuild regulator:for-next:6250ed8 i386-randconfig-k869 ffee190

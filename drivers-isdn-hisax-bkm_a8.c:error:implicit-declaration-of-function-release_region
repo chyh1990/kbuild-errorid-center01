@@ -1,0 +1,5 @@
+drivers/isdn/hisax/bkm_a8.c:193:2: error: implicit declaration of function 'release_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 18:14:48 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3
+2012-09-17 18:44:16 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355
+2012-09-17 19:01:03 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

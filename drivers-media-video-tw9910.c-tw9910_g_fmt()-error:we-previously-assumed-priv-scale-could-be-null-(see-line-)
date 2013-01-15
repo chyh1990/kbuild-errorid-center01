@@ -1,0 +1,3 @@
+drivers/media/video/tw9910.c:709 tw9910_g_fmt() error: we previously assumed 'priv->scale' could be null (see line 701)
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

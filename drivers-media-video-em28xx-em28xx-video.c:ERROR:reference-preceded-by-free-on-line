@@ -1,0 +1,4 @@
+drivers/media/video/em28xx/em28xx-video.c:2269:17-20: ERROR: reference preceded by free on line 2267
+
+2012-08-17 04:14:39 snb samsung:v4l-exynos-gsc:8ac9447 i386-allmodconfig 876cb14
+2012-08-17 04:14:42 snb i386 email notified

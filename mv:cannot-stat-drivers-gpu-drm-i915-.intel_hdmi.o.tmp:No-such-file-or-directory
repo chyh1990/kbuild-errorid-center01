@@ -1,0 +1,4 @@
+mv: cannot stat `drivers/gpu/drm/i915/.intel_hdmi.o.tmp': No such file or directory
+
+2012-09-28 23:51:35 bee drm-intel:drm-intel-nightly:15f22f5 x86_64-randconfig-x078 17dc925
+2012-09-28 23:51:38 bee x86_64 email notified

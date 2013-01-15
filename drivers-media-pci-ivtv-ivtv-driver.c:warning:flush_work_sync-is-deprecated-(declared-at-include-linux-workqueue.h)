@@ -1,0 +1,3 @@
+drivers/media/pci/ivtv/ivtv-driver.c:307:2: warning: 'flush_work_sync' is deprecated (declared at include/linux/workqueue.h:448) [-Wdeprecated-declarations]
+
+2012-09-26 18:32:04 kbuild next:akpm:dad0019 x86_64-allmodconfig 3a6f463

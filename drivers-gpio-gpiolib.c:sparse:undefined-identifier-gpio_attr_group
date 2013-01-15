@@ -1,0 +1,3 @@
+drivers/gpio/gpiolib.c:785:50: sparse: undefined identifier 'gpio_attr_group'
+
+2012-12-24 00:29:47 snb lpc32xx:blockgpio:38921aa i386-allmodconfig 38921aa

@@ -1,0 +1,8 @@
+lib/pSeries-reconfig-notifier-error-inject.c:4:34: fatal error: asm/pSeries_reconfig.h: No such file or directory
+
+2012-11-15 13:07:21 kbuild devel-kbuild-powerpc-2012-11-15-12-56:15e1d21 powerpc-allmodconfig 15e1d21
+2012-11-15 13:39:01 kbuild powerpc:next:cedddd8 powerpc-allmodconfig cedddd8
+2012-11-25 21:47:57 kbuild galak-powerpc:next:1723d90 powerpc-allmodconfig 1723d90
+2012-11-26 07:08:22 kbuild devel-kbuild-powerpc-2012-11-26-06-35:fdeaf1b powerpc-allmodconfig fdeaf1b
+2012-11-27 01:39:38 kbuild next:akpm:bf7daca powerpc-allmodconfig bf7daca
+2012-11-29 14:42:36 kbuild powerpc:next:1a9bd45 powerpc-allmodconfig 1a9bd45

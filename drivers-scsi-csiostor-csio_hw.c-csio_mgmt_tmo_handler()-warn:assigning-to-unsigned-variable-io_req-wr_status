@@ -1,0 +1,3 @@
+drivers/scsi/csiostor/csio_hw.c:4088 csio_mgmt_tmo_handler() warn: assigning (-110) to unsigned variable 'io_req->wr_status'
+
+2013-01-09 13:26:40 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

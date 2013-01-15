@@ -1,0 +1,3 @@
+WARNING: drivers/tty/built-in.o(.data+0x7154): Section mismatch in reference from the variable serial_mux_driver to the function .init.text:mux_probe()
+
+2012-09-26 08:39:25 bee tty:tty-next:4dac211 parisc-allyesconfig 4dac211

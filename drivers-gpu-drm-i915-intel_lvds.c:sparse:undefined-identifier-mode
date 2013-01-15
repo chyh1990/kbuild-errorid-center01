@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_lvds.c:1098:55: sparse: undefined identifier 'mode'
+
+2012-11-23 07:23:19 snb devel-snb-i386-2012-11-23-06-51:5747eee i386-allmodconfig 5747eee

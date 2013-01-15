@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_ds.c:623:10: warning: format '%llx' expects argument of type 'long long unsigned int', but argument 2 has type 'long unsigned int' [-Wformat]
+
+2012-09-15 20:08:53 snb hle:hsw:pmu2:454c8f1 x86_64-randconfig-s321 454c8f1
+2012-09-15 20:08:55 snb x86_64 email notified

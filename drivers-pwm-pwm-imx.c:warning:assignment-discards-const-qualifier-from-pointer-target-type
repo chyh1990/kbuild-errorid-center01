@@ -1,0 +1,3 @@
+drivers/pwm/pwm-imx.c:281:7: warning: assignment discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-12-17 04:30:09 snb imx:work:efikasb:4de3051 arm-imx_v6_v7_defconfig 4de3051

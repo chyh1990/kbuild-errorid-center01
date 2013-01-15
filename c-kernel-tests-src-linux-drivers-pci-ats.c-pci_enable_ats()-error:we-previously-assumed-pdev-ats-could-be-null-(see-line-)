@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/pci/ats.c:77 pci_enable_ats() error: we previously assumed 'pdev->ats' could be null (see line 71)
+
+2013-01-07 12:25:10 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

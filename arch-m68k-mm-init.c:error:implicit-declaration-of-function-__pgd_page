@@ -1,0 +1,3 @@
+arch/m68k/mm/init.c:209:4: error: implicit declaration of function '__pgd_page' [-Werror=implicit-function-declaration]
+
+2013-01-07 10:02:21 snb devel-snb-arm-2013-01-07-09-59:fc2d9b8 m68k-m5475evb_defconfig fc2d9b8

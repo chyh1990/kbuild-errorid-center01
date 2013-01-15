@@ -1,0 +1,4 @@
+drivers/mfd/max8925-core.c:817:10: error: too few arguments to function 'mfd_add_devices'
+
+2012-09-17 00:18:00 bee hzhuang1:testing:88pm860x:8711111 i386-randconfig-b013 8711111
+2012-09-17 00:58:12 bee i386 email notified

@@ -1,0 +1,4 @@
+kernel/rcutree_trace.c:186:27: error: 'struct rcu_state' has no member named 'expedited_stoppedcpus'
+
+2012-10-24 08:11:33 bee rcu:rcu:tracing:06253e2 x86_64-allyesconfig 06253e2
+2012-10-24 08:33:55 lkp-mb01 devel-lkp-mb01-i386-2012-10-24-08-21:abca2b6 i386-randconfig-m044 abca2b6

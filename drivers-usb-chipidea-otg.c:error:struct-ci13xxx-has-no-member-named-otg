@@ -1,0 +1,4 @@
+drivers/usb/chipidea/otg.c:54:4: error: 'struct ci13xxx' has no member named 'otg'
+
+2012-12-17 03:49:20 bee imx:work:efikasb:4de3051 x86_64-allyesconfig 919553e
+2012-12-17 03:50:11 bee x86_64 email notified

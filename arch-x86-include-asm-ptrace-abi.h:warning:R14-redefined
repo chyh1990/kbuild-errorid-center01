@@ -1,0 +1,3 @@
+arch/x86/include/asm/ptrace-abi.h:29:0: warning: "R14" redefined [enabled by default]
+
+2012-08-10 10:43:38 bee um /cc/kernel-tests/commit-list/next:akpm:203e014 26522ae441ac0d2203ee9bfe91297e526c628c75

@@ -1,0 +1,9 @@
+mm/internal.h:377:3: error: implicit declaration of function 'atomic_dec_if_positive' [-Werror=implicit-function-declaration]
+
+2012-09-13 22:28:22 hive memcg:since-3.5:d64f22e m32r-mappi3.smp_defconfig d64f22e
+2012-09-14 00:31:38 hive m32r email notified
+2012-09-14 03:54:11 lkp-mb01 next:akpm:d660ebb alpha-defconfig a4aad12
+2012-09-17 19:44:16 bee memcg:since-3.5:37567d0 sparc-defconfig 37567d0
+2012-09-17 19:54:15 snb pinctrl:for-next:c31a00c m68k-allmodconfig c31a00c
+2012-09-18 03:08:25 bee glommer-memcg:kmemcg-stack:9875da3 sparc-defconfig 9875da3
+2012-09-18 03:12:41 bee glommer-memcg:kmemcg-slab:8c3300f sparc-defconfig 8c3300f

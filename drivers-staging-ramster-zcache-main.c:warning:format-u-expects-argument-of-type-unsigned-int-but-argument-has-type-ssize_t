@@ -1,0 +1,4 @@
+drivers/staging/ramster/zcache-main.c:357:2: warning: format '%u' expects argument of type 'unsigned int', but argument 2 has type 'ssize_t' [-Wformat]
+
+2012-11-05 01:31:32 kbuild konrad-mm:devel:zcache.v3:1a303f5 x86_64-allmodconfig 7769f5c
+2012-11-05 01:33:34 kbuild x86_64 email notified

@@ -1,0 +1,4 @@
+yenta_socket.c:(.text+0x1ffa4ac): relocation truncated to fit: R_PPC64_REL24 against symbol `.request_threaded_irq' defined in .text section in kernel/built-in.o
+
+2012-09-27 13:23:49 bee powerpc:next:7844663 powerpc-allyesconfig b92a66a
+2012-09-28 19:36:29 bee firewire:for-next:4d50c44 powerpc-allyesconfig 35202f7

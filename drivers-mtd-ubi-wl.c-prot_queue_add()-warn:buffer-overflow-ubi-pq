@@ -1,0 +1,3 @@
+drivers/mtd/ubi/wl.c:336 prot_queue_add() warn: buffer overflow 'ubi->pq' 10 <= 10
+
+2012-09-07 22:42:11 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

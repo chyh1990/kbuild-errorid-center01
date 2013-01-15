@@ -1,0 +1,3 @@
+warning: (BLK_DEV_RBD && CEPH_FS) selects CEPH_LIB which has unmet direct dependencies (NET && INET && EXPERIMENTAL)
+
+2012-11-02 02:19:32 bee linus:master:8c23f40 i386-randconfig-b610 8c23f40

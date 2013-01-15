@@ -1,0 +1,3 @@
+drivers/media/tuners/mxl5005s.c:3906 mxl5005s_writeregs() error: buffer overflow 'datatable' 104 <= s32max
+
+2013-01-09 13:27:57 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

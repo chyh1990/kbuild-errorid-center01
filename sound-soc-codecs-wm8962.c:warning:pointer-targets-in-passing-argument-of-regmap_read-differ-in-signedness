@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8962.c:3021:7: warning: pointer targets in passing argument 3 of 'regmap_read' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:06:34 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

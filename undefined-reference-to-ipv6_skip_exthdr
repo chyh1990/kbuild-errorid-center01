@@ -1,0 +1,14 @@
+(.text+0xbf5d5): undefined reference to `ipv6_skip_exthdr'
+
+2012-11-16 12:27:34 bee net-next:master:d4d0d35 i386-randconfig-b692 d4d0d35
+2012-11-16 15:27:19 lkp-mb01 devel-lkp-mb01-i386-2012-11-16-15-08:e824c0d i386-randconfig-m035 e824c0d
+2012-11-17 02:19:04 lkp-mb01 devel-lkp-mb01-i386-2012-11-17-01-47:6ca77e7 i386-randconfig-m035 6ca77e7
+2012-11-17 02:21:02 bee devel-bee-i386-2012-11-17-01-46:2522835 i386-randconfig-b692 2522835
+2012-11-17 02:47:03 bee devel-bee-i386-2012-11-17-02-32:6fb6b18 i386-randconfig-b692 6fb6b18
+2012-11-17 02:54:09 lkp-mb01 devel-lkp-mb01-i386-2012-11-17-02-33:2b4abc2 i386-randconfig-m035 2b4abc2
+2012-11-17 03:45:37 bee devel-bee-i386-2012-11-17-02-49:65d3647 i386-randconfig-b692 65d3647
+2012-11-17 04:49:49 lkp-mb01 devel-lkp-mb01-i386-2012-11-17-04-15:75c3d40 i386-randconfig-m035 75c3d40
+2012-11-17 06:21:02 bee devel-bee-i386-2012-11-17-05-05:28cad51 i386-randconfig-b692 28cad51
+2012-11-17 06:23:48 bee devel-bee-x86-2012-11-17-05-16:7c13ad7 x86_64-randconfig-x631 7c13ad7
+2012-11-18 11:25:52 bee net-next:master:e8e55d9 i386-randconfig-b707 e8e55d9
+2012-11-18 11:28:12 snb net-next:master:5082dfb x86_64-randconfig-s293 5082dfb

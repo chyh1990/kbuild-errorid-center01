@@ -1,0 +1,3 @@
+include/asm-generic/dma-mapping-common.h:93:18: warning: 'dma_addr' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-03 12:00:27 snb next:master:3696068 x86_64-randconfig-s581 3696068

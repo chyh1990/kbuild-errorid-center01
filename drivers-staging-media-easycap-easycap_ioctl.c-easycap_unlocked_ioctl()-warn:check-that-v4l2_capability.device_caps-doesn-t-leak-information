@@ -1,0 +1,3 @@
+drivers/staging/media/easycap/easycap_ioctl.c:1072 easycap_unlocked_ioctl() warn: check that 'v4l2_capability.device_caps' doesn't leak information
+
+2012-09-12 11:57:34 kbuild security:next:a40695e i386-allyesconfig a40695e

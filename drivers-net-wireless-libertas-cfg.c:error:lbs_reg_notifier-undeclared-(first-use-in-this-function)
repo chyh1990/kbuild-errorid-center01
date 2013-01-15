@@ -1,0 +1,11 @@
+drivers/net/wireless/libertas/cfg.c:2167:30: error: 'lbs_reg_notifier' undeclared (first use in this function)
+
+2013-01-12 08:07:16 snb devel-snb-arm-2013-01-12-08-02:fc6b884 arm-omap2plus_defconfig fc6b884
+2013-01-12 08:08:32 kbuild devel-kbuild-x86_64-2013-01-12-08-00:2d6e1db x86_64-allmodconfig 2d6e1db
+2013-01-12 08:21:16 kbuild devel-kbuild-powerpc-2013-01-12-08-00:2763482 powerpc-allmodconfig 2763482
+2013-01-12 08:54:32 kbuild devel-kbuild-i386-2013-01-12-08-23:13e0c57 i386-allyesconfig 13e0c57
+2013-01-12 09:30:24 snb devel-snb-i386-2013-01-12-09-12:89ff1f5 i386-allmodconfig 89ff1f5
+2013-01-12 11:57:19 bee devel-bee-x86_64-2013-01-12-10-13:5bd6f95 x86_64-allyesdebian 5bd6f95
+2013-01-14 10:48:06 hive devel-hive-x86_64-2013-01-14-10-18:b70d552 x86_64-randconfig-h001 b70d552
+2013-01-14 11:43:10 hive devel-hive-mips-2013-01-14-10-46:1afab33 mips-allmodconfig 1afab33
+2013-01-14 12:30:45 hive devel-hive-ia64-2013-01-14-11-17:4648fb6 ia64-allmodconfig 4648fb6

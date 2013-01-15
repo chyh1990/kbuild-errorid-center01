@@ -1,0 +1,3 @@
+kernel/printk.c:67:1: sparse: symbol 'log_wait' was not declared. Should it be static?
+
+2013-01-09 13:14:03 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

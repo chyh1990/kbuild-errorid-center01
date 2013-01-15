@@ -1,0 +1,3 @@
+drivers/platform/x86/asus-wmi.c:892:17: sparse: undefined identifier 'rfkill_set_led_trigger_name'
+
+2012-08-18 13:36:41 snb platform-drivers-x86:linux-next:973713e i386-allmodconfig 154a7a7

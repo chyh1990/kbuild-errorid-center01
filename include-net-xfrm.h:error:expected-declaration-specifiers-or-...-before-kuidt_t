@@ -1,0 +1,4 @@
+include/net/xfrm.h:730: error: expected declaration specifiers or '...' before 'kuidt_t'
+
+2012-08-27 00:42:59 snb userns:userns-always-map-user-v47:ec9c45e avr32-atngw100_defconfig 681df08
+2012-08-27 00:43:02 snb avr32 email notified

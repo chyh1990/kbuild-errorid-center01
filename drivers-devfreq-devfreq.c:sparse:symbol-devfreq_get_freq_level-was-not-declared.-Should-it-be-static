@@ -1,0 +1,4 @@
+drivers/devfreq/devfreq.c:75:5: sparse: symbol 'devfreq_get_freq_level' was not declared. Should it be static?
+
+2012-08-31 00:07:37 snb samsung:devfreq-for-next:90609cd i386-allmodconfig 4b77f78
+2012-08-31 00:09:32 snb i386 email notified

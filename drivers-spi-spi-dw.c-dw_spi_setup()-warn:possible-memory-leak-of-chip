@@ -1,0 +1,3 @@
+drivers/spi/spi-dw.c:678 dw_spi_setup() warn: possible memory leak of 'chip'
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

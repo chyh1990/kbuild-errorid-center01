@@ -1,0 +1,3 @@
+drivers/usb/serial/ti_usb_3410_5052.c:1362 ti_get_serial_info() warn: check that 'ret_serial.irq' doesn't leak information
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/target/tcm_fc/tfc_io.c:141 ft_queue_data_in() error: potential NULL dereference 'fp'.
+
+2013-01-09 13:27:57 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

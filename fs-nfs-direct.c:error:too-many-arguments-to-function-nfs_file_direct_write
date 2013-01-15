@@ -1,0 +1,6 @@
+fs/nfs/direct.c:144:5: error: too many arguments to function 'nfs_file_direct_write'
+
+2012-10-17 23:25:22 lkp-mb01 shaggy:loop_v3:b8ee8b4 i386-randconfig-m015 b8ee8b4
+2012-10-18 01:27:12 hive devel-hive-mips-2012-10-18-00-43:1676efa mips-allmodconfig 1676efa
+2012-10-18 03:10:56 snb shaggy:loop_v3:d6e6003 i386-allmodconfig d6e6003
+2012-10-18 03:57:08 kbuild shaggy:loop_v3_old:b8ee8b4 powerpc-allmodconfig b8ee8b4

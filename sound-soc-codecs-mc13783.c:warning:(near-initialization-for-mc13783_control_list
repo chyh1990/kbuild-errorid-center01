@@ -1,0 +1,3 @@
+sound/soc/codecs/mc13783.c:578:2: warning: (near initialization for 'mc13783_control_list[0].name') [-Wpointer-sign]
+
+2012-09-25 21:06:43 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

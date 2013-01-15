@@ -1,0 +1,3 @@
+drivers/usb/gadget/usbstring.c:64:4: warning: pointer targets in passing argument 1 of 'utf8s_to_utf16s' differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:18 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

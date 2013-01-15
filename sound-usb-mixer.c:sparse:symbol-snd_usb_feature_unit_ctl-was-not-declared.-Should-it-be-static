@@ -1,0 +1,3 @@
+sound/usb/mixer.c:1128:25: sparse: symbol 'snd_usb_feature_unit_ctl' was not declared. Should it be static?
+
+2013-01-09 13:16:17 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

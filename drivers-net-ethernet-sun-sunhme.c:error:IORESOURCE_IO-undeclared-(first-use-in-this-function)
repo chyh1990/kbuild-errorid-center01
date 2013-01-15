@@ -1,0 +1,4 @@
+drivers/net/ethernet/sun/sunhme.c:2997:37: error: 'IORESOURCE_IO' undeclared (first use in this function)
+
+2012-09-17 17:26:57 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724
+2012-09-17 18:42:57 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

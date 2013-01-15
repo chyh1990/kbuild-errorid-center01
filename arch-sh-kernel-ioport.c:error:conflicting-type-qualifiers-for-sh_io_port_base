@@ -1,0 +1,9 @@
+arch/sh/kernel/ioport.c:14:15: error: conflicting type qualifiers for 'sh_io_port_base'
+
+2012-09-21 17:05:16 lkp-mb01 next:akpm:69921c3 sh-titan_defconfig 69921c3
+2012-09-21 18:52:22 lkp-mb01 sh email notified
+2012-09-25 10:07:34 lkp-mb01 next:akpm:a9ee2e3 sh-sh7785lcr_32bit_defconfig a9ee2e3
+2012-09-26 14:03:43 lkp-mb01 next:akpm:e9cadb8 sh-sh7785lcr_32bit_defconfig e9cadb8
+2012-10-02 12:11:51 snb shawnguo:for-3.8:41c54ad sh-sh7785lcr_32bit_defconfig 41c54ad
+2012-10-15 15:35:24 lkp-mb01 shawnguo:for-3.8:d905cd3 sh-sh7785lcr_32bit_defconfig d905cd3
+2012-10-15 16:54:51 lkp-mb01 shawnguo:imx:dt-for-3.8:23b91e9 sh-sh7785lcr_32bit_defconfig 23b91e9

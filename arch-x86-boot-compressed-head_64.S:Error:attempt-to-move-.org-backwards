@@ -1,0 +1,4 @@
+arch/x86/boot/compressed/head_64.S:215: Error: attempt to move .org backwards
+
+2012-11-16 17:11:56 kbuild yinghai:for-x86-boot:ac4eb43 x86_64-allmodconfig 85aafd5
+2012-11-16 17:24:40 kbuild x86_64 email notified

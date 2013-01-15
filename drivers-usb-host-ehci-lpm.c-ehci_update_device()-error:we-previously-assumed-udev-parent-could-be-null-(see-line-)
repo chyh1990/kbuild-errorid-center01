@@ -1,0 +1,3 @@
+drivers/usb/host/ehci-lpm.c:95 ehci_update_device() error: we previously assumed 'udev->parent' could be null (see line 92)
+
+2012-10-26 03:45:48 kbuild usb:usb-next:b717727 i386-allyesconfig b717727

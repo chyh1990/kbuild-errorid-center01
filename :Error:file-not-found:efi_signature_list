@@ -1,0 +1,4 @@
+/tmp/ccIeV2M2.s:5: Error: file not found: efi_signature_list
+
+2012-12-13 07:23:42 bee modsign:modsign-post-KS:830c2df um-allyesconfig 830c2df
+2012-12-13 07:23:57 bee um email notified

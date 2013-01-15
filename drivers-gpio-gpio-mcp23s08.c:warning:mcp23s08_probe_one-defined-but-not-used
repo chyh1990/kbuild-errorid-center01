@@ -1,0 +1,3 @@
+drivers/gpio/gpio-mcp23s08.c:370:12: warning: 'mcp23s08_probe_one' defined but not used [-Wunused-function]
+
+2012-10-16 05:04:06 snb linus:master:3ce9e53 x86_64-randconfig-s076 3ce9e53

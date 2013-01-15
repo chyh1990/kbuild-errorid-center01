@@ -1,0 +1,3 @@
+drivers/net/ethernet/ti/tlan.c:258:47: sparse: context imbalance in 'tlan_finish_reset' - unexpected unlock
+
+2013-01-09 13:00:37 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

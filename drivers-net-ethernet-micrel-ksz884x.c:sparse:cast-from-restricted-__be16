@@ -1,0 +1,3 @@
+drivers/net/ethernet/micrel/ksz884x.c:4885:48: sparse: cast from restricted __be16
+
+2012-09-01 03:32:01 snb input:next:bd68dfe i386-allmodconfig bd68dfe

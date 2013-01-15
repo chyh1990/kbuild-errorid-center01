@@ -1,0 +1,4 @@
+security/integrity/digsig.c:64:55: sparse: bad constant expression
+
+2012-08-06 14:55:19 snb i386 /cc/kernel-tests/commit-list/digsig:next-ima-module:80a0d05 d75b9d9fc6f3a815c7f7329e7d4163d5c6645431
+2012-08-06 14:55:20 snb i386 email notified

@@ -1,0 +1,4 @@
+drivers/gpu/drm/i915/i915_debugfs.c:1959:6: warning: unused variable 'ret' [-Wunused-variable]
+
+2012-08-12 04:12:03 kbuild x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:ffedf45 ffedf4590c151968e7881e0bbf340da648dfd072
+2012-08-12 04:12:04 kbuild x86_64 email notified

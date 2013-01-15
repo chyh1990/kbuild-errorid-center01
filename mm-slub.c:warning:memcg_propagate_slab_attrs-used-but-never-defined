@@ -1,0 +1,4 @@
+mm/slub.c:3968:13: warning: 'memcg_propagate_slab_attrs' used but never defined [enabled by default]
+
+2012-10-12 22:31:47 bee glommer-memcg:kmemcg-slab:f7dc2a4 x86_64-randconfig-x214 f57e507
+2012-10-12 22:31:48 bee x86_64 email notified

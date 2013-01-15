@@ -1,0 +1,3 @@
+drivers/infiniband/ulp/srpt/ib_srpt.c:3824 srpt_tpg_store_enable() info: why not propagate 'ret' from kstrtoul() instead of -22?
+
+2012-09-11 23:55:00 kbuild balbi-usb:master:970b59c i386-allyesconfig 970b59c

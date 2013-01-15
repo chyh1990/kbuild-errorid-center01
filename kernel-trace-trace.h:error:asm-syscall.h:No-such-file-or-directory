@@ -1,0 +1,3 @@
+kernel/trace/trace.h:16:47: error: asm/syscall.h: No such file or directory
+
+2012-11-17 01:02:56 snb devel-snb-arm-2012-11-17-00-38:b73750d avr32-atngw100_defconfig b73750d

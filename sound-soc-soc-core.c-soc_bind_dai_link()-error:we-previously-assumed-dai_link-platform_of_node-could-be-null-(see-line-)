@@ -1,0 +1,4 @@
+sound/soc/soc-core.c:901 soc_bind_dai_link() error: we previously assumed 'dai_link->platform_of_node' could be null (see line 887)
+
+2012-09-11 09:15:48 kbuild asoc:for-next:bffb28a i386-allyesconfig bffb28a
+2012-09-11 10:45:27 kbuild i386 email notified

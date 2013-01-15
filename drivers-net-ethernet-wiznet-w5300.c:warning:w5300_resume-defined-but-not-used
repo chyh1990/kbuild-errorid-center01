@@ -1,0 +1,3 @@
+drivers/net/ethernet/wiznet/w5300.c:688:12: warning: 'w5300_resume' defined but not used [-Wunused-function]
+
+2012-10-15 23:50:04 hive arm-perf:hugetlb:devel:17aea8e ia64-allmodconfig 17aea8e

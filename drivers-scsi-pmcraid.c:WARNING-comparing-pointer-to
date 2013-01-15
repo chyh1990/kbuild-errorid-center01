@@ -1,0 +1,4 @@
+drivers/scsi/pmcraid.c:4939:34-35: WARNING comparing pointer to 0
+
+2012-08-18 19:33:56 snb wq:review-wq-always-nrt:3e2a425 i386-allmodconfig 8028237
+2012-08-18 19:37:11 snb i386 email notified

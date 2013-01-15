@@ -1,0 +1,13 @@
+kernel/sched/fair.c:932:55: error: call to '__build_bug_failed' declared with attribute error: BUILD_BUG failed
+
+2012-12-17 07:59:36 inn linus:master:3d59eeb x86_64-randconfig-n226 3d59eeb
+2012-12-17 09:41:54 inn linus:master:2a74dbb x86_64-randconfig-n226 2a74dbb
+2012-12-17 10:26:42 inn linus:master:aed606e x86_64-randconfig-n226 aed606e
+2012-12-17 12:07:59 inn linus:master:a4f1de1 x86_64-randconfig-n226 2dfea38
+2012-12-18 11:56:05 bee memcg:since-3.7:8f4571d x86_64-nfsroot 8f4571d
+2012-12-18 19:25:49 snb digsig:working:0ac05c1 x86_64-randconfig-s505 19e65cd
+2012-12-18 19:50:18 snb integrity:next-ima-uuid-policy:c2f26cd x86_64-randconfig-s505 0123382
+2012-12-18 19:52:38 snb integrity:next-ima-uuid-policy:7a61396 x86_64-randconfig-s505 7a61396
+2012-12-18 21:09:19 snb digsig:working:fd2f88b x86_64-randconfig-s505 3107832
+2012-12-18 22:41:03 snb digsig:working:19b9fa0 x86_64-randconfig-s505 27511f9
+2012-12-20 03:36:58 snb paulg:power-trace-delete:0e49dc9 x86_64-randconfig-s512 0e49dc9

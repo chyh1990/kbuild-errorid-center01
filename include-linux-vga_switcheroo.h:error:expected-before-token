@@ -1,0 +1,5 @@
+include/linux/vga_switcheroo.h:83:120: error: expected ';' before '}' token
+
+2012-09-12 14:29:15 bee drm:drm-opt-pwr:75c2c97 x86_64-nfsroot 8952007
+2012-09-12 14:29:17 bee x86_64 email notified
+2012-09-12 15:01:49 hive drm:drm-opt-pwr:e31113b ia64-allmodconfig 8952007

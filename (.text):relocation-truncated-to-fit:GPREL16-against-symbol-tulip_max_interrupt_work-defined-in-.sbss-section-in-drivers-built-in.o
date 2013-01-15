@@ -1,0 +1,3 @@
+(.text+0xb669c): relocation truncated to fit: GPREL16 against symbol `tulip_max_interrupt_work' defined in .sbss section in drivers/built-in.o
+
+2012-10-01 16:32:19 kbuild hid:multitouch:f5ff4e1 alpha-defconfig f5ff4e1

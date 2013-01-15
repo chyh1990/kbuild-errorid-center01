@@ -1,0 +1,4 @@
+drivers/isdn/hisax/elsa_cs.c:110:20: error: dereferencing pointer to incomplete type
+
+2012-09-17 18:14:49 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3
+2012-09-17 19:01:05 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

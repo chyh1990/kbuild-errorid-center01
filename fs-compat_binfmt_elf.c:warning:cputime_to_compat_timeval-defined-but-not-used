@@ -1,0 +1,3 @@
+fs/compat_binfmt_elf.c:58:13: warning: 'cputime_to_compat_timeval' defined but not used [-Wunused-function]
+
+2012-10-15 20:15:53 hive gfs2:master:5d8550f x86_64-randconfig-h061 5d8550f

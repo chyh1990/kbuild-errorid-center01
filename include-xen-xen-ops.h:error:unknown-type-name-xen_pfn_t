@@ -1,0 +1,4 @@
+include/xen/xen-ops.h:29:11: error: unknown type name 'xen_pfn_t'
+
+2012-10-30 12:57:09 bee xen:devel:pvh.v6:a50658f x86_64-randconfig-x370 3b4afca
+2012-10-30 12:57:19 bee x86_64 email notified

@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb-v2/af9015.c:602:1: warning: 'af9015_read_config' uses dynamic stack allocation [enabled by default]
+
+2013-01-07 13:47:16 lkp-mb01 next:master:4d8b70d s390-allmodconfig 4d8b70d

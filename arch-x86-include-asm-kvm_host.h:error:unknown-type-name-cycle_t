@@ -1,0 +1,3 @@
+arch/x86/include/asm/kvm_host.h:568:2: error: unknown type name 'cycle_t'
+
+2012-11-27 10:11:28 hive devel-hive-x86_64-2012-11-27-09-57:87fca80 x86_64-randconfig-h344 87fca80

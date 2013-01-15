@@ -1,0 +1,7 @@
+mm/huge_memory.c:1509:2: error: implicit declaration of function 'get_pmd_huge_pte' [-Werror=implicit-function-declaration]
+
+2012-10-20 08:56:43 bee tip:numa:core:aacc9ac x86_64-allyesconfig aacc9ac
+2012-10-20 09:17:28 bee tip:numa:core:9744d79 x86_64-allyesconfig 9744d79
+2012-10-20 10:49:25 snb devel-snb-i386-2012-10-20-10-21:3cac520 i386-allmodconfig 3cac520
+2012-11-27 16:00:02 kbuild next:akpm:8c02459 x86_64-allmodconfig b395043
+2012-11-28 15:10:06 kbuild next:akpm:bd3b426 x86_64-allmodconfig f24b072

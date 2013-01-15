@@ -1,0 +1,3 @@
+drivers/of/base.c:261:7: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-09-25 18:57:09 bee slave-dma:topic:dmaengine_dt:678bd86 x86_64-allyesconfig 678bd86

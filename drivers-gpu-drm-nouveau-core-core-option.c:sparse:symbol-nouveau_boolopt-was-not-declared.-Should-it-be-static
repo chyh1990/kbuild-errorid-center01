@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/core/option.c:64:1: sparse: symbol 'nouveau_boolopt' was not declared. Should it be static?
+
+2012-08-06 15:48:15 snb i386 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d 03d7aaaf3db3a3a50684e4748e4a9bf4adef1c38

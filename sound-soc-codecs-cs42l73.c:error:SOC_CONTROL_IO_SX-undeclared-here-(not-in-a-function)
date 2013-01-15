@@ -1,0 +1,7 @@
+sound/soc/codecs/cs42l73.c:401:2: error: 'SOC_CONTROL_IO_SX' undeclared here (not in a function)
+
+2012-11-20 11:26:27 kbuild devel-kbuild-x86_64-2012-11-20-11-21:02fe63f x86_64-allmodconfig 02fe63f
+2012-11-20 11:35:03 kbuild devel-kbuild-i386-2012-11-20-11-28:e115307 i386-allyesconfig e115307
+2012-11-20 12:05:10 kbuild devel-kbuild-powerpc-2012-11-20-11-40:0ee8a93 powerpc-allmodconfig 0ee8a93
+2012-11-20 12:10:26 hive devel-hive-mips-2012-11-20-11-58:39a0033 mips-allmodconfig 39a0033
+2012-11-20 12:34:57 snb devel-snb-i386-2012-11-20-12-24:8dc3f04 i386-allmodconfig 8dc3f04

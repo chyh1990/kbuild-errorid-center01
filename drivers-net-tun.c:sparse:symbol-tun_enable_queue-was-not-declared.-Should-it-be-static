@@ -1,0 +1,3 @@
+drivers/net/tun.c:399:19: sparse: symbol 'tun_enable_queue' was not declared. Should it be static?
+
+2012-12-15 04:47:30 snb net:master:e133b53 i386-allmodconfig e133b53

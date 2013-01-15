@@ -1,0 +1,4 @@
+drivers/gpu/drm/ast/ast_mode.c:578:64-65: disable: first occurrence line 583, second occurrence line 585
+
+2012-08-06 19:10:02 snb i386 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e d2d9a2931022e85b7e76df4ef62f78e4d4cee9f4
+2012-08-06 19:10:27 snb i386 email notified

@@ -1,0 +1,8 @@
+net/sctp/proc.c:219:33: error: 'struct seq_net_private' has no member named 'net'
+
+2012-08-16 03:04:51 kbuild wireless-next:for-davem:1669891 i386-randconfig-k710 1669891
+2012-08-16 13:39:48 kbuild next:akpm:d85532e i386-randconfig-k710 ac6fab2
+2012-08-17 19:12:38 kbuild next:akpm:a96005b i386-randconfig-k739 ac6fab2
+2012-08-22 04:35:56 bee wireless-next:for-davem:1d76efe x86_64-lkp 2ea2149
+2012-08-22 07:49:16 snb batman:batman-adv:next:185d3da x86_64-randconfig-s155 2ea2149
+2012-08-22 12:24:31 bee batman:batman-adv:next:b73f3b0 i386-randconfig-b868 2ea2149

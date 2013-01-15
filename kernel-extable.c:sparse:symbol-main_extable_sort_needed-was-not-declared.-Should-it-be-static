@@ -1,0 +1,3 @@
+kernel/extable.c:39:16: sparse: symbol 'main_extable_sort_needed' was not declared. Should it be static?
+
+2013-01-09 13:14:18 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

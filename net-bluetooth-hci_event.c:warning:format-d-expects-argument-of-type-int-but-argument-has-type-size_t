@@ -1,0 +1,4 @@
+net/bluetooth/hci_event.c:886:3: warning: format '%d' expects argument of type 'int', but argument 3 has type 'size_t' [-Wformat]
+
+2012-09-28 04:59:49 kbuild bluetooth:master:392f44d x86_64-allmodconfig 903e454
+2012-09-28 04:59:50 kbuild x86_64 email notified

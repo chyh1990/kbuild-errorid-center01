@@ -1,0 +1,3 @@
+warning: (DRM_I915 && STUB_POULSBO && ACER_WMI) selects ACPI_VIDEO which has unmet direct dependencies (ACPI && X86 && BACKLIGHT_CLASS_DEVICE && VIDEO_OUTPUT_CONTROL && INPUT)
+
+2012-07-22 14:29:44 hive ia64 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

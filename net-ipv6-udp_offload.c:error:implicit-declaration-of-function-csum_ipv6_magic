@@ -1,0 +1,7 @@
+net/ipv6/udp_offload.c:29:2: error: implicit declaration of function 'csum_ipv6_magic' [-Werror=implicit-function-declaration]
+
+2012-11-16 07:38:55 bee devel-bee-sparc64-2012-11-16-07-21:3426ef4 powerpc-chroma_defconfig 3426ef4
+2012-11-16 07:58:01 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-16-07-40:c706452 blackfin-BF526-EZBRD_defconfig c706452
+2012-11-16 07:57:47 kbuild devel-kbuild-powerpc-2012-11-16-07-02:b410bfd powerpc-allmodconfig b410bfd
+2012-11-16 07:58:21 snb devel-snb-arm-2012-11-16-07-32:ac0a1a7 avr32-atngw100_defconfig ac0a1a7
+2012-11-16 09:22:32 lkp-mb01 devel-lkp-mb01-s390-2012-11-16-08-27:f61185f s390-allmodconfig f61185f

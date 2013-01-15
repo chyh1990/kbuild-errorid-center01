@@ -1,0 +1,6 @@
+block/cfq-iosched.c:1279:2: error: implicit declaration of function 'cfqg_parent' [-Werror=implicit-function-declaration]
+
+2012-12-15 06:29:00 bee cgroup:blkcg-cfq-hierarchy:a783531 x86_64-randconfig-x792 c45dc20
+2012-12-15 06:29:16 bee x86_64 email notified
+2012-12-15 06:39:23 snb devel-snb-arm-2012-12-15-06-18:53e4667 arm-imx_v6_v7_defconfig 53e4667
+2012-12-15 06:40:37 kbuild devel-kbuild-powerpc-2012-12-15-06-21:5c8953e powerpc-defconfig 5c8953e

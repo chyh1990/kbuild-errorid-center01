@@ -1,0 +1,3 @@
+drivers/acpi/scan.c:319:2: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+
+2012-09-26 12:48:02 bee thermal:next:5d8d708 um-allyesconfig f4a821c

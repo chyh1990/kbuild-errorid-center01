@@ -1,0 +1,3 @@
+drivers/net/wireless/rt2x00/rt2800usb.c:164:22: sparse: incompatible types in comparison expression (different modifiers)
+
+2012-10-25 13:34:05 snb next:master:2253213 i386-allmodconfig 2253213

@@ -1,0 +1,3 @@
+drivers/usb/serial/ftdi_sio.c:1574 store_event_char() info: why not propagate 'rv' from usb_control_msg() instead of -5?
+
+2012-09-12 11:58:37 kbuild security:next:a40695e i386-allyesconfig a40695e

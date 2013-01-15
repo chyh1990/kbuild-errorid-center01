@@ -1,0 +1,3 @@
+block/blk-core.c:1588:8-14: WARNING: PTR_RET can be used
+
+2012-10-22 08:01:58 bee md:for-next:8814c65 x86_64-allyesdebian 8814c65

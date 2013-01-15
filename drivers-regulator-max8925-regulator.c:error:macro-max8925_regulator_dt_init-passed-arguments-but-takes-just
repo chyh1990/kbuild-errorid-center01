@@ -1,0 +1,7 @@
+drivers/regulator/max8925-regulator.c:311:64: error: macro "max8925_regulator_dt_init" passed 4 arguments, but takes just 3
+
+2012-11-07 17:45:31 bee regulator:topic:max8925:22c247e x86_64-allyesconfig 22c247e
+2012-11-07 17:45:38 bee x86_64 email notified
+2012-11-07 18:19:16 hive devel-hive-x86_64-2012-11-07-18-07:52c5252 x86_64-randconfig-h231 52c5252
+2012-11-07 18:23:20 kbuild devel-kbuild-i386-2012-11-07-18-13:e2a68da i386-allyesconfig e2a68da
+2012-11-07 19:19:07 snb devel-snb-x86_64-2012-11-07-19-08:7ad186d x86_64-randconfig-s248 7ad186d

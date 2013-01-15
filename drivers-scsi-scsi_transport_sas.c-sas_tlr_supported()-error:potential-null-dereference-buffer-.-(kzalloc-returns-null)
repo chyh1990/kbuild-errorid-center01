@@ -1,0 +1,3 @@
+drivers/scsi/scsi_transport_sas.c:394 sas_tlr_supported() error: potential null dereference 'buffer'.  (kzalloc returns null)
+
+2013-01-09 13:26:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

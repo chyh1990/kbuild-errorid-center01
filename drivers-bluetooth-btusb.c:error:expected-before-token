@@ -1,0 +1,4 @@
+drivers/bluetooth/btusb.c:97:2: error: expected '}' before '{' token
+
+2012-09-19 07:34:44 kbuild bluetooth:master:493969c x86_64-allmodconfig 493969c
+2012-09-19 07:56:54 kbuild x86_64 email notified

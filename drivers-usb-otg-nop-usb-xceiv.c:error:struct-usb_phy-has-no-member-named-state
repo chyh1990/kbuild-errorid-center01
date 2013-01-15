@@ -1,0 +1,7 @@
+drivers/usb/otg/nop-usb-xceiv.c:78:10: error: 'struct usb_phy' has no member named 'state'
+
+2012-09-05 21:12:58 kbuild balbi-usb:master:8de3474 i386-randconfig-k911 de4217d
+2012-09-05 22:06:20 bee balbi-usb:xceiv:1ba8216 x86_64-allyesdebian 1ba8216
+2012-09-05 22:14:12 kbuild balbi-usb:master:51950da x86_64-allmodconfig 5f6e0c8
+2012-09-05 22:47:28 snb balbi-usb:xceiv:de4217d m68k-allmodconfig de4217d
+2012-09-09 06:58:30 kbuild balbi-usb:master:de34e50 powerpc-allmodconfig 8de3474

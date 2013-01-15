@@ -1,0 +1,3 @@
+drivers/input/misc/ad714x-i2c.c:22:12: warning: 'ad714x_i2c_resume' defined but not used [-Wunused-function]
+
+2012-10-15 23:50:05 hive arm-perf:hugetlb:devel:17aea8e ia64-allmodconfig 17aea8e

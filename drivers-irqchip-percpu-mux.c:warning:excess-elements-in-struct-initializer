@@ -1,0 +1,3 @@
+drivers/irqchip/percpu-mux.c:72:2: warning: excess elements in struct initializer [enabled by default]
+
+2012-11-21 19:37:30 bee arm-perf:irq:a39b766 s390-allyesconfig a39b766

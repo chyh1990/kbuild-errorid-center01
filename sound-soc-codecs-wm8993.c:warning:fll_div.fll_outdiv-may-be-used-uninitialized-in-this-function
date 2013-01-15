@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8993.c:534:29: warning: 'fll_div.fll_outdiv' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:01 inn linus:master:974b335 x86_64-randconfig-i369 974b335

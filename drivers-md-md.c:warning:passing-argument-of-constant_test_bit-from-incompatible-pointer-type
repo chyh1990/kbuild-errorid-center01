@@ -1,0 +1,3 @@
+drivers/md/md.c:7582:6: warning: passing argument 2 of 'constant_test_bit' from incompatible pointer type [enabled by default]
+
+2012-11-20 07:57:36 bee md:for-next:ef59c07 i386-randconfig-x070 ef59c07

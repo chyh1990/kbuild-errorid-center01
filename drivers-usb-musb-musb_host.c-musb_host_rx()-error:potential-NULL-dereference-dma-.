@@ -1,0 +1,3 @@
+drivers/usb/musb/musb_host.c:1619 musb_host_rx() error: potential NULL dereference 'dma'.
+
+2013-01-09 13:26:19 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

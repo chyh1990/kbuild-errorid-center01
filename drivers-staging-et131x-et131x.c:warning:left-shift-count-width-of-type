@@ -1,0 +1,3 @@
+drivers/staging/et131x/et131x.c:3540:5: warning: left shift count >= width of type [enabled by default]
+
+2012-10-23 07:20:50 bee staging:staging-next:40991e4 i386-randconfig-b291 40991e4

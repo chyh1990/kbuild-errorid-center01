@@ -1,0 +1,3 @@
+Makefile:911: *** Headers not exportable for the parisc architecture.  Stop.
+
+2012-10-31 18:27:04 lkp-mb01 hid:for-3.7:upstream-fixes:8d80da9 parisc-b180_defconfig 8d80da9

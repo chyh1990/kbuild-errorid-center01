@@ -1,0 +1,6 @@
+sound/pci/hda/hda_intel.c:2455:4: error: implicit declaration of function 'snd_hda_power_sync' [-Werror=implicit-function-declaration]
+
+2012-08-20 19:00:20 bee sound-unstable:master:d5509e8 x86_64-allyesdebian 747e360
+2012-08-21 09:40:26 kbuild sound-unstable:master:c8b5d6a powerpc-allmodconfig 747e360
+2012-08-21 16:17:10 snb sound-unstable:master:f7b0959 i386-allmodconfig 747e360
+2012-08-24 07:46:13 snb sound-unstable:master:0ecfbe2 i386-allmodconfig 747e360

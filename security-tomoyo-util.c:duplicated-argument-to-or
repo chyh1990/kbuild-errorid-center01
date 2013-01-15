@@ -1,0 +1,4 @@
+security/tomoyo/util.c:326:8-19: duplicated argument to && or ||
+
+2012-08-14 15:28:18 snb i386 /cc/kernel-tests/commit-list/next:akpm:9c45dbb 276a6bc7255b65e30930d8be010fe3df574133b1
+2012-08-14 15:28:20 snb i386 email notified

@@ -1,0 +1,3 @@
+drivers/base/firmware_class.c:72:28: sparse: incorrect type in argument 2 (different address spaces)
+
+2012-10-04 14:22:00 snb next:master:4f22dc6 i386-allmodconfig 4f22dc6

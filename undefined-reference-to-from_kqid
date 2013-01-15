@@ -1,0 +1,3 @@
+quota.c:(.text+0x14dc66): undefined reference to `from_kqid'
+
+2012-09-02 15:14:31 snb userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-s241 c0bde06

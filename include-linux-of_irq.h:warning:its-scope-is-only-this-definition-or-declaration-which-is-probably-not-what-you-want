@@ -1,0 +1,3 @@
+include/linux/of_irq.h:82:7: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2012-12-19 16:40:06 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig fc2d67e

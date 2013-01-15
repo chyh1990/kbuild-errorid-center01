@@ -1,0 +1,3 @@
+include/linux/of_mdio.h:54:16: sparse: symbol 'of_mdio_find_bus' was not declared. Should it be static?
+
+2012-09-04 00:52:36 snb can:master:d7ceb47 i386-allmodconfig e92bdf4

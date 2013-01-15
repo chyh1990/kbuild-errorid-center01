@@ -1,0 +1,3 @@
+net/ipv6/ipv6_sockglue.c:1152 do_ipv6_getsockopt() warn: check that 'mtuinfo.ip6m_mtu' doesn't leak information
+
+2013-01-09 13:27:45 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

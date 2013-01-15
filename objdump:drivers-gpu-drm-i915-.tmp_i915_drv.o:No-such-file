@@ -1,0 +1,4 @@
+objdump: 'drivers/gpu/drm/i915/.tmp_i915_drv.o': No such file
+
+2012-09-28 23:49:55 bee drm-intel:drm-intel-nightly:15f22f5 x86_64-allyesconfig b56747a
+2012-09-28 23:49:56 bee x86_64 email notified

@@ -1,0 +1,3 @@
+include/asm-generic/io.h:182:4: warning: passing argument 1 of 'zpci_read_u32' makes pointer from integer without a cast [enabled by default]
+
+2013-01-09 12:49:10 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

@@ -1,0 +1,16 @@
+drivers/block/loop.c:711:8-15: ERROR: PTR_ERR applied after initialization to constant on line 703
+
+2012-08-12 18:39:50 snb i386 /cc/kernel-tests/commit-list/drm-intel:drm-intel-testing:fa8a017 fa8a0170d1d251a241318e790ab01424f075fd42
+2012-08-12 19:31:01 snb i386 e6b0b6a82f9c93fe3dd060ae54719456474a74a3 /cc/kernel-tests/commit-list/samsung:exynos-drm-fixes-next:870a0e0
+2012-08-15 06:07:10 snb i386 88cfb7b2498d22a7185e0be013b9661fd8f6eab7 /cc/kernel-tests/commit-list/sound:master:5fe80e0
+2012-08-15 09:43:45 snb i386 88cfb7b2498d22a7185e0be013b9661fd8f6eab7 /cc/kernel-tests/commit-list/sound-unstable:master:9f14e7d
+2012-08-15 19:46:51 snb l2-mtd:master:4b5b917 i386-allmodconfig c8d1f9e
+2012-08-16 22:30:16 snb drm-intel:drm-intel-next-queued:65e0871 i386-allmodconfig 6f98466
+2012-08-17 13:37:27 snb samsung:exynos-drm-fixes:e9cab00 i386-allmodconfig 54af56f
+2012-08-17 17:09:19 snb drm-intel:drm-intel-next-queued:83358c8 i386-allmodconfig a22ddff
+2012-08-18 00:48:16 snb samsung:dave-drm-fixes:7444f36 i386-allmodconfig 7444f36
+2012-08-24 17:07:46 snb l2-mtd:master:beac6e5 i386-allmodconfig 2361f73
+2012-08-26 07:06:06 snb kbuild:for-next:bbd8adb i386-allmodconfig bbd8adb
+2012-08-29 16:50:25 snb omap-dss2:work:omap5-dt:a57dfde i386-allmodconfig 4d85f1c
+2012-09-04 22:12:25 snb omap-dss2:work:omap5-dt:73fc80a i386-allmodconfig c50e86c
+2012-09-05 14:54:28 snb input:next:caaa357 i386-allmodconfig e6c3401

@@ -1,0 +1,4 @@
+fs/ubifs/journal.c:768:1-7: preceding lock on line 714
+
+2012-08-26 11:03:13 snb userns:userns-always-map-user-v48:2666a50 i386-allmodconfig 699f5ef
+2012-08-26 11:45:16 snb i386 email notified

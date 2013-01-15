@@ -1,0 +1,4 @@
+include/linux/signal.h:264:8: error: redefinition of 'struct k_sigaction'
+
+2012-12-23 11:17:09 bee signal:master:8fb00aa x86_64-allyesdebian 8fb00aa
+2012-12-23 12:18:20 hive devel-hive-x86_64-2012-12-23-12-16:17c9b9a x86_64-randconfig-h011 17c9b9a

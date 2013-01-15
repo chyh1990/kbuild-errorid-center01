@@ -1,0 +1,3 @@
+drivers/sh/intc/chip.c:104:4: warning: passing argument 2 of '__raw_writew' makes pointer from integer without a cast [enabled by default]
+
+2012-10-30 21:22:18 snb shawnguo:mxs:dt-for-3.8:16d4770 arm-marzen_defconfig 16d4770

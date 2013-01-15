@@ -1,0 +1,3 @@
+drivers/irqchip/percpu-mux.c:71:24: warning: 'percpu_mux' defined but not used [-Wunused-variable]
+
+2012-10-15 22:44:00 bee devel-bee-i386-2012-10-15-22-36:6b54f17 i386-randconfig-b230 6b54f17

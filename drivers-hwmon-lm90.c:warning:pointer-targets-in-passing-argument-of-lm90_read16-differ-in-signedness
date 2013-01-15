@@ -1,0 +1,3 @@
+drivers/hwmon/lm90.c:489:9: warning: pointer targets in passing argument 4 of 'lm90_read16' differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:22 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

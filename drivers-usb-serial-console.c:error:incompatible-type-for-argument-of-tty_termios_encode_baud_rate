@@ -1,0 +1,6 @@
+drivers/usb/serial/console.c:169:4: error: incompatible type for argument 1 of 'tty_termios_encode_baud_rate'
+
+2012-07-28 03:44:12 bee x86_64 /cc/kernel-tests/commit-list/tty:tty-next:d155255 d155255a344c417acad74156654295a2964e6b81
+2012-08-11 04:57:30 bee powerpc c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:fbf1c24
+2012-08-11 22:15:42 snb x86_64 c87985a3ce723995fc7b25e598238d67154108a1 /cc/kernel-tests/commit-list/tty:tty-next:7f0bc6a
+2012-08-15 21:39:02 kbuild tty:tty-next:640de63 i386-randconfig-k714 c87985a

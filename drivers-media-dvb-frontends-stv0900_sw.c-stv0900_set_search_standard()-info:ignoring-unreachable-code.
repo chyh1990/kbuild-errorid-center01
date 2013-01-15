@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/stv0900_sw.c:1741 stv0900_set_search_standard() info: ignoring unreachable code.
+
+2012-09-07 22:41:46 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

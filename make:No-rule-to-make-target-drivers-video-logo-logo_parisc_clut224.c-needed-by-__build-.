@@ -1,0 +1,9 @@
+make[3]: *** No rule to make target `drivers/video/logo/logo_parisc_clut224.c', needed by `__build'.
+
+2012-09-26 01:19:24 bee vexpress:for-tixy:381c556 x86_64-randconfig-x063 cf1a57e
+2012-09-26 03:35:59 bee m68k:m68k-queue:72a7119 x86_64-randconfig-x063 979570e
+2012-09-26 11:54:49 bee samsung:charger-manager-for-next:9ea7889 x86_64-randconfig-x063 979570e
+2012-09-26 11:58:37 bee nouveau:drm-nouveau-fixes:79eee7a x86_64-randconfig-x063 979570e
+2012-09-26 18:19:14 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd
+2012-09-26 18:19:14 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd email notified
+2012-10-01 13:56:41 hive renesas:next:b681273 x86_64-randconfig-h005 b681273

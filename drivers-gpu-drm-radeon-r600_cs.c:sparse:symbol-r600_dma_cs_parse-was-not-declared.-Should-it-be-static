@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/r600_cs.c:2594:5: sparse: symbol 'r600_dma_cs_parse' was not declared. Should it be static?
+
+2013-01-09 13:10:39 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

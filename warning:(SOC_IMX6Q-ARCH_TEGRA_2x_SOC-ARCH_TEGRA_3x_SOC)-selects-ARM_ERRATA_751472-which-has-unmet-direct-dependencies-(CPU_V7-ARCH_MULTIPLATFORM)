@@ -1,0 +1,3 @@
+warning: (SOC_IMX6Q && ARCH_TEGRA_2x_SOC && ARCH_TEGRA_3x_SOC) selects ARM_ERRATA_751472 which has unmet direct dependencies (CPU_V7 && !ARCH_MULTIPLATFORM)
+
+2013-01-03 12:53:47 snb next:master:3696068 arm-imx_v6_v7_defconfig 3696068

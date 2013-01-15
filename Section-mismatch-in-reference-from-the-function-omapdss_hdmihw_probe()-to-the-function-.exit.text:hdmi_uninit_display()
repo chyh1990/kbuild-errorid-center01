@@ -1,0 +1,4 @@
+WARNING: drivers/video/omap2/dss/omapdss.o(.init.text+0x2c1c): Section mismatch in reference from the function omapdss_hdmihw_probe() to the function .exit.text:hdmi_uninit_display.isra.10()
+
+2012-11-06 22:39:21 kbuild omap-dss2:master:14840b9 x86_64-allmodconfig d18bc45
+2012-11-06 22:39:48 kbuild x86_64 email notified

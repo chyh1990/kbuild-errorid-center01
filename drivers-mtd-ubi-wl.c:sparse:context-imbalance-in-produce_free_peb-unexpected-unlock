@@ -1,0 +1,3 @@
+drivers/mtd/ubi/wl.c:277:28: sparse: context imbalance in 'produce_free_peb' - unexpected unlock
+
+2012-10-03 00:39:48 snb ubi:linux-next:9276bf6 i386-allmodconfig 9276bf6

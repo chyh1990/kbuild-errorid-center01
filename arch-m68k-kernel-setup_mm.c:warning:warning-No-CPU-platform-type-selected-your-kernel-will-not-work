@@ -1,0 +1,3 @@
+arch/m68k/kernel/setup_mm.c:48:2: warning: #warning No CPU/platform type selected, your kernel will not work! [-Wcpp]
+
+2012-09-01 22:36:58 snb signal:for-next:fed65c8 m68k-allmodconfig 66105ba

@@ -1,0 +1,3 @@
+fs/reiserfs/journal.c:767 __add_jh() error: potential null dereference 'jh'.  (alloc_jh returns null)
+
+2013-01-09 13:28:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

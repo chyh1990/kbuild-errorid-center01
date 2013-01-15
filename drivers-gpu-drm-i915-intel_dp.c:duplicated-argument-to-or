@@ -1,0 +1,4 @@
+drivers/gpu/drm/i915/intel_dp.c:936:31-32: duplicated argument to & or |
+
+2012-08-12 18:54:00 snb i386 /cc/kernel-tests/commit-list/drm-intel:drm-intel-testing:fa8a017 47ea7542a1ac33ba9f15608d2fca00abcc1c11e5
+2012-08-12 18:54:00 snb i386 email notified

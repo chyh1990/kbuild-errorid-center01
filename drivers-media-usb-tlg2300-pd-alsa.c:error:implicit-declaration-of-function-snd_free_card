@@ -1,0 +1,4 @@
+drivers/media/usb/tlg2300/pd-alsa.c:309:3: error: implicit declaration of function 'snd_free_card' [-Werror=implicit-function-declaration]
+
+2012-09-26 23:26:50 kbuild samsung:v4l-next:01882ac x86_64-allmodconfig da35de6
+2012-09-26 23:26:51 kbuild x86_64 email notified

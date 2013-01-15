@@ -1,0 +1,3 @@
+net/core/pktgen.c:682:9: sparse: undefined identifier '__do_div_asm'
+
+2012-10-02 22:00:42 snb arm-soc:testing:defconfig-warnings:043906f i386-allmodconfig 043906f

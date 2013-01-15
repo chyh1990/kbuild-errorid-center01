@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/ethernet/intel/e100.c:2732 e100_get_strings() error: __builtin_memcpy() '*e100_gstrings_stats' too small (32 vs 992)
+
+2013-01-07 12:25:09 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

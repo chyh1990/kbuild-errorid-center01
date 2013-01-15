@@ -1,0 +1,4 @@
+drivers/gpu/drm/i915/intel_sdvo.c:448:8-10: WARNING: casting value returned by k[cmz]alloc to (u8 *) is useless.
+
+2012-08-09 09:24:59 snb i386 /cc/kernel-tests/commit-list/drm:drm-fixes:d323748 41494cbaeaed07a43e111b323d6da5e1d8dd7936
+2012-08-09 09:25:02 snb i386 email notified

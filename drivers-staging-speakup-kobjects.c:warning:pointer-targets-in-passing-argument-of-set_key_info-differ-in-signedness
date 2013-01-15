@@ -1,0 +1,3 @@
+drivers/staging/speakup/kobjects.c:310:3: warning: pointer targets in passing argument 1 of 'set_key_info' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:42 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

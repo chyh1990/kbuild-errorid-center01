@@ -1,0 +1,3 @@
+WARNING: drivers/built-in.o(.data+0x6bfeb0): Section mismatch in reference from the variable tpci200_pci_drv to the function .devexit.text:tpci200_pci_remove()
+
+2012-09-07 20:09:03 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

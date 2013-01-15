@@ -1,0 +1,3 @@
+drivers/net/wireless/rt2x00/rt2x00dev.c:1289 rt2x00lib_remove_dev() info: redundant null check on rt2x00dev->drv_data calling kfree()
+
+2012-09-11 23:55:00 kbuild balbi-usb:master:970b59c i386-allyesconfig 970b59c

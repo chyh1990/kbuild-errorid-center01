@@ -1,0 +1,10 @@
+drivers/video/of_display_timing.c:124:3: error: implicit declaration of function 'of_get_next_child' [-Werror=implicit-function-declaration]
+
+2012-11-22 17:14:22 bee pinchartl-fbdev:lcdc-panel:6a7290b x86_64-allyesconfig 3a341a6
+2012-11-22 17:15:09 bee x86_64 email notified
+2012-11-22 17:17:31 hive devel-hive-mips-2012-11-22-17-12:3e8582a mips-allmodconfig 3e8582a
+2012-11-22 17:23:09 kbuild devel-kbuild-x86_64-2012-11-22-17-17:07fab36 x86_64-allmodconfig 07fab36
+2012-11-22 17:41:25 kbuild devel-kbuild-i386-2012-11-22-17-27:cda3c50 i386-allyesconfig cda3c50
+2012-11-22 17:46:21 hive devel-hive-ia64-2012-11-22-17-19:69225fb ia64-allmodconfig 69225fb
+2012-11-22 18:03:27 snb devel-snb-i386-2012-11-22-17-29:98fcde7 i386-allmodconfig 98fcde7
+2012-11-22 18:05:52 snb devel-snb-arm-2012-11-22-17-29:554187a m68k-allmodconfig 554187a

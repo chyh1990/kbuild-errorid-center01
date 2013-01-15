@@ -1,0 +1,4 @@
+drivers/net/ethernet/8390/hp.c:129:2: error: implicit declaration of function 'request_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 18:30:44 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf
+2012-09-17 18:59:57 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

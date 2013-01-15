@@ -1,0 +1,5 @@
+drivers/gpu/drm/radeon/radeon_device.c:1096:2: error: too many arguments to function 'vga_switcheroo_register_client'
+
+2012-09-10 12:35:00 hive drm:drm-opt-power:7f20144 ia64-allmodconfig da023c3
+2012-09-10 12:35:01 hive ia64 email notified
+2012-09-10 13:43:59 hive drm:drm-opt-power:761d3ed ia64-allmodconfig 7bd5494

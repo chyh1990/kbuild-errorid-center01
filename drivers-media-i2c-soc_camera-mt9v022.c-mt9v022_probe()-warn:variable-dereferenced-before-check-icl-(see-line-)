@@ -1,0 +1,3 @@
+drivers/media/i2c/soc_camera/mt9v022.c:876 mt9v022_probe() warn: variable dereferenced before check 'icl' (see line 873)
+
+2012-11-24 11:33:28 kbuild samsung:media-for-3.8-vb2-dmabuf:d93c4b8 i386-allyesconfig d93c4b8

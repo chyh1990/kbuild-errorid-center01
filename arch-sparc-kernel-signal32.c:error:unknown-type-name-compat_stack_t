@@ -1,0 +1,3 @@
+arch/sparc/kernel/signal32.c:64:2: error: unknown type name 'compat_stack_t'
+
+2012-12-23 12:16:07 bee signal:master:8fb00aa sparc64-allnoconfig 8fb00aa

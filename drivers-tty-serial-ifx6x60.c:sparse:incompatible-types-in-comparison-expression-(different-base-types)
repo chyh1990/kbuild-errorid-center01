@@ -1,0 +1,3 @@
+drivers/tty/serial/ifx6x60.c:432:38: sparse: incompatible types in comparison expression (different base types)
+
+2012-10-25 13:32:22 snb next:master:2253213 i386-allmodconfig 2253213

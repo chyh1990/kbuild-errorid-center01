@@ -1,0 +1,3 @@
+drivers/video/display/panel-dpi.c:49:1: warning: no return statement in function returning non-void [-Wreturn-type]
+
+2012-11-22 17:17:32 hive devel-hive-mips-2012-11-22-17-12:3e8582a mips-allmodconfig 3e8582a

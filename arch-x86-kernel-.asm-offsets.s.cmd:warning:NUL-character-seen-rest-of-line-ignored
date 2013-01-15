@@ -1,0 +1,3 @@
+arch/x86/kernel/.asm-offsets.s.cmd:3: warning: NUL character seen; rest of line ignored
+
+2012-09-02 18:05:49 bee sound:master:7a73bf9 x86_64-allyesconfig fbcfbf5

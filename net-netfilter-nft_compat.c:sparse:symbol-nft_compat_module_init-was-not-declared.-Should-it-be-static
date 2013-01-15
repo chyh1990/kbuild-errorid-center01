@@ -1,0 +1,3 @@
+net/netfilter/nft_compat.c:497:12: sparse: symbol 'nft_compat_module_init' was not declared. Should it be static?
+
+2012-10-29 16:51:56 snb nf-next:nf_tables-experiments:869f261 i386-allmodconfig 869f261

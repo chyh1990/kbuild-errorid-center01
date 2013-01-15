@@ -1,0 +1,7 @@
+kernel/rcutree.c:808:2: error: implicit declaration of function 'rcu_jiffies_till_stall_check' [-Werror=implicit-function-declaration]
+
+2013-01-11 04:16:43 lkp-mb01 devel-lkp-mb01-blackfin-2013-01-11-03-37:6d8041e m32r-m32104ut_defconfig 6d8041e
+2013-01-11 05:12:33 bee devel-bee-sparc64-2013-01-11-03-55:9205e6c powerpc-gamecube_defconfig 9205e6c
+2013-01-11 11:55:06 snb devel-snb-arm-2013-01-11-11-40:f09abcf arm-prima2_defconfig f09abcf
+2013-01-11 18:20:23 snb next:master:2184115 arm-prima2_defconfig 2184115
+2013-01-12 00:28:37 snb next:akpm:40b6aaa arm-prima2_defconfig 40b6aaa

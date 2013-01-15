@@ -1,0 +1,3 @@
+kernel/rcutree.c:407 rcu_idle_enter() warn: bitwise AND condition is false here
+
+2012-09-07 22:42:16 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

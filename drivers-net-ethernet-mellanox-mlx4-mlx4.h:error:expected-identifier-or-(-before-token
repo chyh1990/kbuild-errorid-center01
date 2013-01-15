@@ -1,0 +1,5 @@
+drivers/net/ethernet/mellanox/mlx4/mlx4.h:695:1: error: expected identifier or '(' before '<<' token
+
+2012-10-01 11:59:21 kbuild infiniband:for-next:c99517c x86_64-allmodconfig 431ee27
+2012-10-01 12:09:34 kbuild x86_64 email notified
+2012-10-01 12:27:38 snb devel-snb-x86_64-2012-10-01-12-18:622becc x86_64-randconfig-s025 622becc

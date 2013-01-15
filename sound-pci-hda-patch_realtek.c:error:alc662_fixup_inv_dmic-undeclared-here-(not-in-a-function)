@@ -1,0 +1,5 @@
+sound/pci/hda/patch_realtek.c:6768:13: error: 'alc662_fixup_inv_dmic' undeclared here (not in a function)
+
+2012-09-29 20:56:03 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig 228b389
+2012-09-29 21:13:23 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig 228b389 email notified
+2012-09-29 21:18:45 kbuild x86_64 email notified

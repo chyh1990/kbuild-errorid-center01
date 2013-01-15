@@ -1,0 +1,3 @@
+drivers/media/video/cx88/cx88-cards.c:1140:35: sparse: Initializer entry defined twice
+
+2012-07-24 02:01:32 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e 9b9f53fc7eec2c39abbe551f3ad29d27680bb9c4

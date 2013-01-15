@@ -1,0 +1,3 @@
+drivers/media/pci/mantis/mantis_vp1033.c:38:4: sparse: symbol 'lgtdqcs001f_inittab' was not declared. Should it be static?
+
+2013-01-09 13:03:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

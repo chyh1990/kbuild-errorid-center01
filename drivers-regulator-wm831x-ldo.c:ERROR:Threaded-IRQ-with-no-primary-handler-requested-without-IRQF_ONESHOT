@@ -1,0 +1,4 @@
+drivers/regulator/wm831x-ldo.c:567:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-08 02:35:46 snb i386 /cc/kernel-tests/commit-list/regulator:topic:drivers:b044b46 2981448ea6a3fd814e5ba7350330d3968becd4e6
+2012-08-08 02:35:47 snb i386 email notified

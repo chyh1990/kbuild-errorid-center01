@@ -1,0 +1,4 @@
+drivers/extcon/extcon-max77693.c:703:8-28: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-09-06 11:17:28 snb samsung:maxim-max77693-bugfix:06efdc0 i386-allmodconfig 06efdc0
+2012-09-06 11:38:47 snb i386 email notified

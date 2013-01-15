@@ -1,0 +1,3 @@
+drivers/hid/hid-logitech-dj.c:459 logi_dj_recv_switch_to_dj_mode() error: not allocating enough data 15 vs 4
+
+2012-10-18 15:35:56 kbuild input:next:f6c0df6 i386-allyesconfig f6c0df6

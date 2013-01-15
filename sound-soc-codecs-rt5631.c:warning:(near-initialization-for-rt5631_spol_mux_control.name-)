@@ -1,0 +1,3 @@
+sound/soc/codecs/rt5631.c:828:2: warning: (near initialization for 'rt5631_spol_mux_control.name') [-Wpointer-sign]
+
+2012-09-25 21:06:41 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

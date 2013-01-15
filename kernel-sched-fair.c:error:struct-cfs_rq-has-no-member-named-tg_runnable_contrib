@@ -1,0 +1,5 @@
+kernel/sched/fair.c:2902:27: error: 'struct cfs_rq' has no member named 'tg_runnable_contrib'
+
+2012-12-02 00:07:21 bee alexs:master:5a17a70 x86_64-randconfig-x711 f535de1
+2012-12-02 00:07:36 bee x86_64 email notified
+2012-12-02 00:34:41 bee alexs:master:5b10f7c powerpc-chroma_defconfig 5b10f7c

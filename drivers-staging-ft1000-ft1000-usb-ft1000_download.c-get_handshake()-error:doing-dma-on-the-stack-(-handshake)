@@ -1,0 +1,3 @@
+drivers/staging/ft1000/ft1000-usb/ft1000_download.c:213 get_handshake() error: doing dma on the stack (&handshake)
+
+2013-01-09 13:26:28 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

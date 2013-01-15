@@ -1,0 +1,3 @@
+drivers/net/wireless/mac80211_hwsim.c:682 mac80211_hwsim_tx_frame_no_nl() warn: variable dereferenced before check 'data->channel' (see line 649)
+
+2012-09-07 22:42:05 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

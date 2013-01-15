@@ -1,0 +1,3 @@
+drivers/video/udlfb.c:1494 dlfb_select_std_channel() error: doing dma on the stack (set_def_chn)
+
+2013-01-09 13:27:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

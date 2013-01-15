@@ -1,0 +1,3 @@
+drivers/rtc/rtc-proc.c:33 is_rtc_hctosys() error: strncmp() '"rtc0"' too small (5 vs 10)
+
+2013-01-09 13:28:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+net/ceph/ceph_common.c:249:7: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-11-07 12:16:04 lkp-mb01 linus:master:69a8ebf i386-randconfig-m153 69a8ebf

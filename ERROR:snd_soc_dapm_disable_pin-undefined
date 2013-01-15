@@ -1,0 +1,4 @@
+ERROR: "snd_soc_dapm_disable_pin" [drivers/regulator/arizona-micsupp.ko] undefined!
+
+2013-01-12 11:50:37 bee devel-bee-i386-2013-01-12-10-11:128114d i386-randconfig-b036 128114d
+2013-01-12 13:40:58 snb devel-snb-x86_64-2013-01-12-13-30:f199a2e x86_64-randconfig-s632 f199a2e

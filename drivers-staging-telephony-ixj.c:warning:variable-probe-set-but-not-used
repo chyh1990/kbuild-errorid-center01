@@ -1,0 +1,3 @@
+drivers/staging/telephony/ixj.c:7692:9: warning: variable 'probe' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 07:12:42 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

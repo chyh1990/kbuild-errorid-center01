@@ -1,0 +1,3 @@
+drivers/hid/hid-logitech-dj.c:442:21-27: ERROR: application of sizeof to pointer
+
+2012-10-06 04:01:10 kbuild tip:sched:numa:b9fb991 i386-allyesconfig b9fb991

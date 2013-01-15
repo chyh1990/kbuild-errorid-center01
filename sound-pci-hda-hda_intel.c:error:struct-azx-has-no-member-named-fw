@@ -1,0 +1,4 @@
+sound/pci/hda/hda_intel.c:3174:6: error: 'struct azx' has no member named 'fw'
+
+2012-08-09 23:32:24 snb i386 /cc/kernel-tests/commit-list/sound-unstable:master:d2dfd82 5cb543dba9867588786f87af2e64fca371b69283
+2012-08-09 23:32:24 snb i386 email notified

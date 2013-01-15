@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/ixgbevf/ixgbevf_main.c:2918 ixgbevf_tx_queue() error: potential NULL dereference 'tx_desc'.
+
+2013-01-09 13:27:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

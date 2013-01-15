@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nv50_gpio.c:53:9: warning: 'reg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-16 17:26:58 snb userns:userns-always-map-user-v54:110c1c1 x86_64-randconfig-s331 bc45dae

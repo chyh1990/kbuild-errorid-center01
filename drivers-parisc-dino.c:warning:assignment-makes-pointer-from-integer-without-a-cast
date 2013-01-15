@@ -1,0 +1,3 @@
+drivers/parisc/dino.c:598:7: warning: assignment makes pointer from integer without a cast [enabled by default]
+
+2012-08-19 19:51:31 lkp-mb01 pci:pci:bjorn-cleanup-remove:f757bd1 parisc-defconfig f757bd1

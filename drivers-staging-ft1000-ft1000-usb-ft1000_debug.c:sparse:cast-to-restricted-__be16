@@ -1,0 +1,3 @@
+drivers/staging/ft1000/ft1000-usb/ft1000_debug.c:700:26: sparse: cast to restricted __be16
+
+2013-01-09 13:13:40 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

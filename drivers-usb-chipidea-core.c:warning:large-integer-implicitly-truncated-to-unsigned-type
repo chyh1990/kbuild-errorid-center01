@@ -1,0 +1,3 @@
+drivers/usb/chipidea/core.c:323:4: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+
+2012-12-17 03:50:39 bee imx:work:efikasb:4de3051 x86_64-allyesconfig 012289b

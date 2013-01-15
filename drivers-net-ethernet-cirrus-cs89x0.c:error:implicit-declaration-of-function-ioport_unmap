@@ -1,0 +1,33 @@
+drivers/net/ethernet/cirrus/cs89x0.c:1688:2: error: implicit declaration of function 'ioport_unmap' [-Werror=implicit-function-declaration]
+
+2012-10-15 22:37:10 snb balbi-usb:fixes:01b8daf m68k-allmodconfig 01b8daf
+2012-10-15 22:46:34 snb devel-snb-arm-2012-10-15-22-39:596ff06 m68k-allmodconfig 596ff06
+2012-10-15 22:49:39 snb l2-mtd:master:ef15412 m68k-allmodconfig ef15412
+2012-10-15 22:59:55 snb arm-perf:for-next:perf:5d64edb m68k-allmodconfig 5d64edb
+2012-10-15 23:03:31 snb nfs:bugfixes:1813bad m68k-allmodconfig 1813bad
+2012-10-15 23:04:07 snb cryptodev:master:ba1ee07 m68k-allmodconfig ba1ee07
+2012-10-15 23:04:48 snb arm-perf:perf:staging:0f903fd m68k-allmodconfig 0f903fd
+2012-10-15 23:05:20 snb arm-perf:perf:updates:d1b996a m68k-allmodconfig d1b996a
+2012-10-15 23:12:43 snb nf-next:nf_tables7:a633263 m68k-allmodconfig a633263
+2012-10-15 23:28:15 snb gfs2:master:5d8550f m68k-allmodconfig 5d8550f
+2012-10-15 23:33:14 snb signal:arch-avr32:5fd0b58 m68k-allmodconfig 5fd0b58
+2012-10-15 23:37:23 snb arm-perf:kvm:mach-virt:160f137 m68k-allmodconfig 160f137
+2012-10-15 23:43:48 snb arm-perf:hugetlb:devel:17aea8e m68k-allmodconfig 17aea8e
+2012-10-15 23:59:29 snb arm-perf:cacheflush:6ee1fdb m68k-allmodconfig 6ee1fdb
+2012-10-16 00:22:27 snb mac80211:master:6863255 m68k-allmodconfig 6863255
+2012-10-16 00:38:46 snb cr:crtools-v3.7-rc1:cbc3004 m68k-allmodconfig cbc3004
+2012-10-16 00:45:35 snb arm-perf:misc-patches:cb7921f m68k-allmodconfig cb7921f
+2012-10-16 00:46:23 snb linus:master:29bb4cc m68k-allmodconfig 29bb4cc
+2012-10-16 01:22:40 snb dynticks:nohz:core:94a5714 m68k-allmodconfig 94a5714
+2012-10-16 01:24:24 snb sound:for-next:ede8d1b m68k-allmodconfig ede8d1b
+2012-10-16 01:25:11 snb sound:master:249dbeb m68k-allmodconfig 249dbeb
+2012-10-16 03:09:32 snb arm-platforms:kvm-fixes:34bff38 m68k-allmodconfig 34bff38
+2012-10-16 03:09:57 snb arm-platforms:kvm-cleanup:d34b049 m68k-allmodconfig d34b049
+2012-10-16 04:04:32 snb drm-intel:drm-intel-nightly:98befee m68k-allmodconfig 98befee
+2012-10-16 04:09:36 snb drm-intel:drm-intel-next-queued:861b675 m68k-allmodconfig 861b675
+2012-10-16 04:39:33 snb yinghai:for-x86-early-quirk-usb:678a023 m68k-allmodconfig 678a023
+2012-10-16 04:54:58 snb wireless:master:bf11315 m68k-allmodconfig bf11315
+2012-10-16 04:55:47 snb linus:master:3ce9e53 m68k-allmodconfig 3ce9e53
+2012-10-16 05:44:37 snb signal:for-next:75dd148 m68k-allmodconfig 75dd148
+2012-10-16 05:53:19 snb arm-tegra:for-3.8:single-zimage:406c123 m68k-allmodconfig 406c123
+2012-10-16 05:54:45 snb arm-tegra:for-3.8:cleanup:5f3ed1a m68k-allmodconfig 5f3ed1a

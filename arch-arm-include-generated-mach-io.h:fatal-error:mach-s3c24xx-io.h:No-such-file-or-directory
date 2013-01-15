@@ -1,0 +1,18 @@
+arch/arm/include/generated/mach/io.h:1:29: fatal error: mach-s3c24xx/io.h: No such file or directory
+
+2012-08-19 20:12:56 snb arm-platforms:timers-next:1d64ace arm-s3c2410_defconfig 1d64ace
+2012-08-19 21:33:00 snb arm-platforms:kvm-arm-v3.6-rc1-hyp-fixes-vgic-2:01f6f63 arm-s3c2410_defconfig 6d15463
+2012-08-19 22:16:39 snb arm-platforms:kvm-v11-base-vgic:150c7f9 arm-s3c2410_defconfig f0cb8ba
+2012-08-24 07:01:12 snb arm-platforms:kvm-arm-v3.6-rc3-timer:d6e735a arm-s3c2410_defconfig 8aba389
+2012-08-26 16:21:03 snb arm-platforms:timers-next:dcaf469 arm-s3c2410_defconfig dcaf469
+2012-09-06 02:25:45 snb arm-platforms:kvm-arm-v3.6-rc3-timer:24989e4 arm-s3c2410_defconfig 8aba389
+2012-09-12 03:28:45 snb arm-platforms:cp15-fixes:e5b3182 arm-s3c2410_defconfig e0d0bb2
+2012-09-12 03:57:31 snb arm-platforms:timers-next:437814c arm-s3c2410_defconfig 437814c
+2012-09-12 04:09:06 snb arm-platforms:kvm-arm-v3.6-rc3-timer:48e7211 arm-s3c2410_defconfig 5694841
+2012-09-12 04:22:49 snb arm-platforms:kvm-perf:01e7a5e arm-s3c2410_defconfig 01e7a5e
+2012-09-12 19:06:32 snb arm-platforms:kvm-perf:49a3cb3 arm-s3c2410_defconfig cdaa6a4
+2012-09-16 23:14:30 snb arm-platforms:vgic-fixes:6cdc3a6 arm-s3c2410_defconfig 6cdc3a6
+2012-09-16 23:43:27 snb arm-platforms:kvm-cleanup:b53e416 arm-s3c2410_defconfig b53e416
+2012-09-18 03:09:21 snb arm-platforms:kvm-cleanup:0a09ba7 arm-s3c2410_defconfig 0a09ba7
+2012-09-18 14:21:02 snb yinghai:for-x86-irq-base:f2c8edd arm-s3c2410_defconfig f2c8edd
+2012-09-19 17:12:12 snb arm-platforms:kvm-cleanup:b3251da arm-s3c2410_defconfig e0d0bb2

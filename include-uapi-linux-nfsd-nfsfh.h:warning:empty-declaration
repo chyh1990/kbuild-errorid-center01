@@ -1,0 +1,3 @@
+include/uapi/linux/nfsd/nfsfh.h:29:1: warning: empty declaration
+
+2012-08-17 15:11:50 snb uapi:uapi-split:ea16d44 openrisc-or1ksim_defconfig 6a90aba

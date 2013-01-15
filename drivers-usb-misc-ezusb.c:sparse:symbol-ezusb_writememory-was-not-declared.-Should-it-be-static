@@ -1,0 +1,3 @@
+drivers/usb/misc/ezusb.c:39:5: sparse: symbol 'ezusb_writememory' was not declared. Should it be static?
+
+2012-09-27 12:58:59 snb usb:usb-next:70c048a i386-allmodconfig 70c048a

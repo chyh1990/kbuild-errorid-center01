@@ -1,0 +1,3 @@
+drivers/staging/line6/pod.c:1236 pod_try_init() info: why not propagate 'err' from line6_dumpreq_init() instead of -12?
+
+2012-09-12 11:57:15 kbuild security:next:a40695e i386-allyesconfig a40695e

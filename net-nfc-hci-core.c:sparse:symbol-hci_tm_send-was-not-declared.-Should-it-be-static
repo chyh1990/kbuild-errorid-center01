@@ -1,0 +1,3 @@
+net/nfc/hci/core.c:653:5: sparse: symbol 'hci_tm_send' was not declared. Should it be static?
+
+2012-10-03 21:53:48 snb nfc:nfc-next:f97d507 i386-allmodconfig f97d507

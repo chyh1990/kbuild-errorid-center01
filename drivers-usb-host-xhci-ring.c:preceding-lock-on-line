@@ -1,0 +1,4 @@
+drivers/usb/host/xhci-ring.c:2236:4-10: preceding lock on line 2319
+
+2012-08-08 05:31:17 snb i386 /cc/kernel-tests/commit-list/xhci:for-usb-linus-3.6:a390a5c a390a5c9b42c25af549d6938803d19f4ff1a3da7
+2012-08-08 05:31:19 snb i386 email notified

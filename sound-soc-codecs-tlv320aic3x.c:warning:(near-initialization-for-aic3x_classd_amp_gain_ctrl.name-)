@@ -1,0 +1,3 @@
+sound/soc/codecs/tlv320aic3x.c:402:2: warning: (near initialization for 'aic3x_classd_amp_gain_ctrl.name') [-Wpointer-sign]
+
+2012-09-25 21:05:41 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

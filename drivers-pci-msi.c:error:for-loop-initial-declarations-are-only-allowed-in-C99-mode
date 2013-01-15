@@ -1,0 +1,9 @@
+drivers/pci/msi.c:345:3: error: 'for' loop initial declarations are only allowed in C99 mode
+
+2012-11-30 23:08:29 hive s390:features:e8a8bb9 x86_64-randconfig-h362 e8a8bb9
+2012-11-30 23:15:19 bee devel-bee-sparc64-2012-11-30-22-54:231f096 powerpc-chroma_defconfig 231f096
+2012-11-30 23:34:17 hive devel-hive-ia64-2012-11-30-23-15:50de4b8 ia64-alldefconfig 50de4b8
+2012-12-01 00:12:25 kbuild devel-kbuild-i386-2012-11-30-23-57:e098935 i386-allyesconfig e098935
+2012-12-01 00:25:09 snb devel-snb-i386-2012-11-30-23-39:339d6c1 i386-allmodconfig 339d6c1
+2012-12-01 00:30:16 kbuild devel-kbuild-powerpc-2012-12-01-00-00:f005524 powerpc-allmodconfig f005524
+2012-12-01 01:21:04 snb devel-snb-arm-2012-12-01-01-06:67d7211 tile-tilegx_defconfig 67d7211

@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/perf_event_intel.c:138:2: warning: missing braces around initializer [-Wmissing-braces]
+
+2012-09-30 02:47:52 inn internal-hle:hsw:pmu3:38e7b29 x86_64-allmodconfig 565840c

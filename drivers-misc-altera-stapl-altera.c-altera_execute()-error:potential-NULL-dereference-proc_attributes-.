@@ -1,0 +1,3 @@
+drivers/misc/altera-stapl/altera.c:477 altera_execute() error: potential NULL dereference 'proc_attributes'.
+
+2012-09-07 22:42:13 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

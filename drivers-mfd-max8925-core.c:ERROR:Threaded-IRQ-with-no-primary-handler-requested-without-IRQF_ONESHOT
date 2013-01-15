@@ -1,0 +1,4 @@
+drivers/mfd/max8925-core.c:691:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-09-17 01:02:57 snb hzhuang1:mfd_pmic:b559935 i386-allmodconfig b559935
+2012-09-17 01:28:26 snb i386 email notified

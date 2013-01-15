@@ -1,0 +1,4 @@
+drivers/gpu/drm/drm_mm.c:629:3: error: implicit declaration of function '__drm_mm_hole_node_end' [-Werror=implicit-function-declaration]
+
+2013-01-08 07:01:54 bee drm-intel:drm-intel-fixes:42f2659 x86_64-allyesconfig 42f2659
+2013-01-08 07:01:58 bee x86_64 email notified

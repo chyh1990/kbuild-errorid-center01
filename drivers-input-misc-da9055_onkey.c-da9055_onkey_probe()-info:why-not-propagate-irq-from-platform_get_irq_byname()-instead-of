@@ -1,0 +1,4 @@
+drivers/input/misc/da9055_onkey.c:87 da9055_onkey_probe() info: why not propagate 'irq' from platform_get_irq_byname() instead of (-22)?
+
+2012-12-17 16:39:36 kbuild input:master:a455e29 i386-allyesconfig a455e29
+2012-12-17 16:41:02 kbuild i386 email notified

@@ -1,0 +1,3 @@
+drivers/base/regmap/regcache-lzo.c:239:9: warning: variable 'blksize' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 19:19:30 bee tip:sched:numa:39d6cb3 x86_64-allyesconfig 39d6cb3

@@ -1,0 +1,3 @@
+drivers/staging/xgifb/vb_init.c:1316 XGIInitNew() warn: the 'SIS_CRT2_PORT_12' macro might need parens
+
+2013-01-09 13:26:27 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

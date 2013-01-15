@@ -1,0 +1,3 @@
+sound/pci/es1968.c:2771 snd_es1968_create() warn: 'pci->irq' was not released on error
+
+2012-09-15 08:22:53 kbuild usb:usb-next:7ebcb33 i386-allyesconfig ba2f9df

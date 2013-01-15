@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel.c:138:9: sparse: undefined identifier 'TSX_FIXED_EVENT_CONSTRAINT'
+
+2012-09-30 03:26:58 inn internal-hle:hsw:pmu3:38e7b29 i386-allmodconfig 565840c
+2012-09-30 03:30:06 inn i386 email notified

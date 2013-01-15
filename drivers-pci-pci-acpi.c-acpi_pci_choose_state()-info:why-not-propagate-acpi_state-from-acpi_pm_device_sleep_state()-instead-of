@@ -1,0 +1,3 @@
+drivers/pci/pci-acpi.c:218 acpi_pci_choose_state() info: why not propagate 'acpi_state' from acpi_pm_device_sleep_state() instead of -1?
+
+2012-09-11 23:54:45 kbuild balbi-usb:master:970b59c i386-allyesconfig 970b59c

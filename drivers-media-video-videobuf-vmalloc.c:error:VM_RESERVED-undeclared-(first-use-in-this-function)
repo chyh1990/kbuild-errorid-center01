@@ -1,0 +1,6 @@
+drivers/media/video/videobuf-vmalloc.c:273:41: error: 'VM_RESERVED' undeclared (first use in this function)
+
+2012-10-05 09:52:21 kbuild glommer-memcg:kmemcg-stack:5ef6493 x86_64-allmodconfig 973b07b
+2012-10-15 17:26:35 snb glommer-memcg:kmemcg-slab:ff42632 i386-allmodconfig ff42632
+2012-10-16 18:52:35 snb glommer-memcg:kmemcg-stack:191f40c x86_64-randconfig-s088 ab54132
+2012-10-28 17:54:15 hive glommer-memcg:tmp-cache-free:c98470c ia64-allmodconfig c98470c

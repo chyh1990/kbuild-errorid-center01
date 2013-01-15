@@ -1,0 +1,4 @@
+arch/um/drivers/mconsole_kern.c:651:2: error: implicit declaration of function 'rcu_switch' [-Werror=implicit-function-declaration]
+
+2012-10-09 16:05:32 snb devel-snb-arm-2012-10-09-15-22:17c93d9 um-defconfig 17c93d9
+2012-11-04 02:08:50 snb dynticks:vtime:generic-v4:8519224 um-defconfig 8519224

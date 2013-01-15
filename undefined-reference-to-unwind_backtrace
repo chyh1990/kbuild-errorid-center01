@@ -1,0 +1,4 @@
+io.c:(.text+0x12b8): undefined reference to `unwind_backtrace'
+
+2012-10-17 17:15:29 snb ukl:efm32:ace3598 arm-imx_v6_v7_defconfig ace3598
+2013-01-11 23:48:30 snb devel-snb-arm-2013-01-11-23-32:ffaab9b arm-imx_v6_v7_defconfig ffaab9b

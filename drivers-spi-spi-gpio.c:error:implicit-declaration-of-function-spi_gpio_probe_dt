@@ -1,0 +1,5 @@
+drivers/spi/spi-gpio.c:404:2: error: implicit declaration of function 'spi_gpio_probe_dt' [-Werror=implicit-function-declaration]
+
+2012-09-20 23:44:53 kbuild broonie-misc:spi-next:337c422 x86_64-allmodconfig 38ab18c
+2012-09-20 23:45:12 kbuild broonie-misc:spi-next:337c422 x86_64-allmodconfig 38e271c email notified
+2012-09-20 23:45:13 kbuild x86_64 email notified

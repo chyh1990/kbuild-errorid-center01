@@ -1,0 +1,5 @@
+drivers/dma/timb_dma.c:134:2: error: implicit declaration of function 'iowrite32' [-Werror=implicit-function-declaration]
+
+2012-11-11 06:43:47 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-19 11:29:58 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c
+2012-11-29 01:25:47 bee slave-dma:topic:dmaengine_dt:d4397a4 xtensa-allyesconfig d4397a4

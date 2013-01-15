@@ -1,0 +1,3 @@
+drivers/cpufreq/cpufreq.c:43:8: sparse: symbol 'cpufreq_cpu_data' was not declared. Should it be static?
+
+2013-01-09 13:02:21 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

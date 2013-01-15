@@ -1,0 +1,3 @@
+drivers/acpi/event.c:121:37: warning: 'struct acpi_device' declared inside parameter list [enabled by default]
+
+2012-09-26 12:47:58 bee thermal:next:5d8d708 um-allyesconfig f4a821c

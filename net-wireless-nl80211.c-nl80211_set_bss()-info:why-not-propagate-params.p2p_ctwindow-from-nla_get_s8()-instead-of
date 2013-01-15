@@ -1,0 +1,3 @@
+net/wireless/nl80211.c:3752 nl80211_set_bss() info: why not propagate 'params.p2p_ctwindow' from nla_get_s8() instead of -22?
+
+2012-11-26 21:07:02 kbuild mac80211-next:wip:c3ca66c i386-allyesconfig c3ca66c

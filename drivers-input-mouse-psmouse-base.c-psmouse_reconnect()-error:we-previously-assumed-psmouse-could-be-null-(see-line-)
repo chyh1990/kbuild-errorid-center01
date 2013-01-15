@@ -1,0 +1,3 @@
+drivers/input/mouse/psmouse-base.c:1480 psmouse_reconnect() error: we previously assumed 'psmouse' could be null (see line 1479)
+
+2012-09-07 22:42:16 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

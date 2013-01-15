@@ -1,0 +1,3 @@
+drivers/scsi/sym53c8xx_2/sym_fw.c:269 sym_fw_setup_bus_addresses() Error invalid range 4096 to -1
+
+2012-09-07 22:41:42 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

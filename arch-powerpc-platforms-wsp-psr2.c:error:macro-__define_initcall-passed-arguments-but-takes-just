@@ -1,0 +1,4 @@
+arch/powerpc/platforms/wsp/psr2.c:66:1: error: macro "__define_initcall" passed 3 arguments, but takes just 2
+
+2012-10-23 13:17:31 bee next:akpm:dbfe081 powerpc-chroma_defconfig dbfe081
+2012-10-24 13:23:48 bee next:akpm:234b148 powerpc-chroma_defconfig 38a0ee7

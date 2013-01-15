@@ -1,0 +1,6 @@
+include/linux/rwsem.h:47:2: error: implicit declaration of function '_elide_abort' [-Werror=implicit-function-declaration]
+
+2012-10-06 10:06:21 inn internal-hle:hle36:combined:c8d7f79 x86_64-allmodconfig 52fd614
+2012-10-06 10:06:24 inn x86_64 email notified
+2012-10-21 15:48:54 inn internal-hle:hle37:spinlock:ffe5748 x86_64-allmodconfig c4fd919
+2012-10-23 23:20:05 inn internal-hle:hle37:spinlock:f9ae3ae x86_64-allmodconfig 2cb84f7

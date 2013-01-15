@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/engine/disp/sornv50.c:59:18: sparse: unknown field name in initializer
+
+2012-11-21 16:06:32 snb devel-snb-i386-2012-11-21-15-26:33f14f6 i386-allmodconfig 33f14f6

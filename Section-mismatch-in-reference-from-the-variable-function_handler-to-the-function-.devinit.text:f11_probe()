@@ -1,0 +1,3 @@
+WARNING: drivers/input/rmi4/rmi_f11.o(.data+0x30): Section mismatch in reference from the variable function_handler to the function .devinit.text:f11_probe()
+
+2012-11-28 14:23:44 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 1326b47

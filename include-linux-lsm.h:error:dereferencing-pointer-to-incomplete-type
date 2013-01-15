@@ -1,0 +1,16 @@
+include/linux/lsm.h:151:25: error: dereferencing pointer to incomplete type
+
+2012-12-01 09:04:33 bee kees:multi-lsm:e4b44fc x86_64-randconfig-x711 d40abcb
+2012-12-01 10:34:25 snb devel-snb-x86_64-2012-12-01-10-27:64aa2dc x86_64-randconfig-s380 64aa2dc
+2012-12-01 10:56:28 bee devel-bee-i386-2012-12-01-10-31:34be223 i386-randconfig-b781 34be223
+2012-12-01 11:34:16 bee devel-bee-i386-2012-12-01-11-29:0befd74 i386-randconfig-b790 0befd74
+2012-12-01 16:10:00 lkp-mb01 devel-lkp-mb01-s390-2012-12-01-15-17:25a4852 parisc-b180_defconfig 25a4852
+2012-12-03 04:44:38 bee devel-bee-i386-2012-12-03-04-35:973a160 i386-randconfig-b800 973a160
+2012-12-03 05:02:43 hive devel-hive-x86_64-2012-12-03-04-45:f6b6665 x86_64-randconfig-h384 f6b6665
+2012-12-03 05:16:32 lkp-mb01 devel-lkp-mb01-s390-2012-12-03-04-34:d2ac461 parisc-b180_defconfig d2ac461
+2012-12-05 01:00:51 snb devel-snb-x86_64-2012-12-05-00-50:c9da8f2 x86_64-randconfig-s415 c9da8f2
+2012-12-05 01:03:08 bee devel-bee-i386-2012-12-05-00-51:ffe6fc0 i386-randconfig-b818 ffe6fc0
+2012-12-05 01:49:30 lkp-mb01 devel-lkp-mb01-s390-2012-12-05-00-56:67f2213 parisc-b180_defconfig 67f2213
+2012-12-07 03:19:55 snb devel-snb-x86_64-2012-12-07-03-07:f6b2d71 x86_64-randconfig-s415 f6b2d71
+2012-12-07 10:24:00 hive devel-hive-x86_64-2012-12-07-03-43:d989c74 x86_64-randconfig-h403 d989c74
+2012-12-07 10:49:35 lkp-mb01 devel-lkp-mb01-s390-2012-12-07-03-43:a73dd53 parisc-b180_defconfig a73dd53

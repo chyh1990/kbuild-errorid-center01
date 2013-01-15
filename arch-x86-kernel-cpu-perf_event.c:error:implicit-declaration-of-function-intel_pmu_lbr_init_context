@@ -1,0 +1,8 @@
+arch/x86/kernel/cpu/perf_event.c:1636:3: error: implicit declaration of function 'intel_pmu_lbr_init_context' [-Werror=implicit-function-declaration]
+
+2012-11-05 08:05:02 inn internal-hle:hle37:combined:1927fbf i386-randconfig-n070 667835d
+2012-11-06 09:29:02 inn internal-hle:hle37:combined:86d8d05 i386-randconfig-n070 861b219
+2012-11-08 16:59:30 inn internal-hle:hle37:combined:246b1d8 x86_64-randconfig-i163 74afd51
+2012-11-08 23:10:42 inn internal-hle:hle37:combined:e751a66 x86_64-randconfig-i163 e3d6d3f
+2012-11-09 06:09:50 inn internal-hle:hle37:combined:d527249 x86_64-randconfig-i163 d527249
+2012-11-09 12:19:43 inn internal-hle:hsw:callstack:9e1d135 x86_64-randconfig-i163 3222d0a

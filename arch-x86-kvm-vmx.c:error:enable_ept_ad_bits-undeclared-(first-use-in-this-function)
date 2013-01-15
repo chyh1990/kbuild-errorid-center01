@@ -1,0 +1,4 @@
+arch/x86/kvm/vmx.c:7331:5: error: 'enable_ept_ad_bits' undeclared (first use in this function)
+
+2012-09-29 21:04:25 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig daac8ca
+2012-09-29 21:04:26 kbuild x86_64 email notified

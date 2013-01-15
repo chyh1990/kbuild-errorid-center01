@@ -1,0 +1,4 @@
+drivers/regulator/core.c:2712:19: error: 'const struct regulator_desc' has no member named 'bypass_mask'
+
+2012-08-29 02:25:19 kbuild regulator:for-next:2476106 x86_64-allmodconfig 1139aca
+2012-08-29 02:25:19 kbuild x86_64 email notified

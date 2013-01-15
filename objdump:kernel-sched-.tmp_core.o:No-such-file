@@ -1,0 +1,8 @@
+objdump: 'kernel/sched/.tmp_core.o': No such file
+
+2012-09-28 21:24:21 bee dynticks:rcu:idle-for-v3.7-take3:9b1bf0f x86_64-allyesconfig 3d10264
+2012-09-28 21:28:46 bee x86_64 email notified
+2012-09-28 22:08:21 bee dynticks:rcu:idle-for-v3.7-take4:b0e7841 x86_64-allyesconfig b0e7841
+2012-09-29 01:29:39 bee aa:autonuma:49e1bcb x86_64-allyesconfig 6399413
+2012-09-29 03:21:17 bee aa:autonuma:c6047ec x86_64-allyesconfig 3346ef4
+2012-09-29 06:42:31 bee aa:autonuma:df02e85 x86_64-allyesconfig ac7a6f9

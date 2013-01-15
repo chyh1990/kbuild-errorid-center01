@@ -1,0 +1,3 @@
+drivers/isdn/hisax/hfc_sx.c:1395:5: sparse: symbol 'setup_hfcsx' was not declared. Should it be static?
+
+2013-01-09 13:11:34 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

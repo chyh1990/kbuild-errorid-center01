@@ -1,0 +1,3 @@
+sound/soc/mid-x86/mfld_machine.c:62:21: sparse: symbol 'mfld_jack' was not declared. Should it be static?
+
+2013-01-09 12:54:41 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

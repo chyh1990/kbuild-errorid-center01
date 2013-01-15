@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/igb/igb_ptp.c:466:36: sparse: cast to restricted __le64
+
+2012-10-20 11:05:25 snb net-next:master:72ec301 i386-allmodconfig 72ec301

@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/mac80211_if.c:1030:2: warning: pointer targets in passing argument 5 of 'brcms_c_attach' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:18 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

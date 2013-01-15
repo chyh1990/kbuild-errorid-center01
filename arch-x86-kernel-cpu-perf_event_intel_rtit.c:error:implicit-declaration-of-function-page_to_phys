@@ -1,0 +1,9 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:75:2: error: implicit declaration of function 'page_to_phys' [-Werror=implicit-function-declaration]
+
+2012-08-02 23:06:45 snb x86_64 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:fd200d2 242a7baa56c1645f9d130c15a0005f8619772fc4
+2012-08-03 20:58:31 snb x86_64 ca04e2ebc4464d86df6a24215adbc36831e68812 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:d15f769
+2012-08-06 22:30:50 snb x86_64 b39859df7f144f27d7c9bc1b9b9a9164deebece9 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:4d53916
+2012-08-07 22:07:19 bee x86_64 1767192ec88f966679e986780b806583de2b14c1 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b02f1c8
+2012-08-08 16:50:42 hive x86_64 0b3522ad2e67986a6b04aafd49590184cf7e25e7 /cc/kernel-tests/commit-list/ashishki:rtit-dummy-linus:1893fc7
+2012-08-10 21:26:35 bee x86_64 1a3dc3241778d71bcd214023eb6f922b687b1927 /cc/kernel-tests/commit-list/ashishki:rtit-dummy-linus:90a8d3c
+2012-10-09 16:29:29 inn internal-ashishki:rtit-proto:ff40f57 x86_64-randconfig-i010 6bd0bd6

@@ -1,0 +1,3 @@
+ERROR: "kmap_to_page" [drivers/virtio/virtio_ring.ko] undefined!
+
+2012-10-17 17:34:07 bee arm-perf:kvm:mach-virt:e90687c i386-randconfig-b249 e90687c

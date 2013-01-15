@@ -1,0 +1,3 @@
+net/dccp/probe.c:71:9: sparse: incompatible types in comparison expression (different base types)
+
+2012-10-25 13:35:09 snb next:master:2253213 i386-allmodconfig 2253213

@@ -1,0 +1,9 @@
+kernel/sched/core.c:2010:3: error: invalid use of undefined type 'struct task_group'
+
+2012-12-26 20:44:13 snb devel-snb-i386-2012-12-26-20-42:67fece4 i386-alldefconfig 67fece4
+2012-12-26 20:54:50 hive glommer-memcg:cpu_stat-tmp:3a5337f x86_64-randconfig-h011 3a5337f
+2012-12-26 20:53:50 kbuild devel-kbuild-powerpc-2012-12-26-20-41:79ec3d2 powerpc-allnoconfig 79ec3d2
+2012-12-26 20:58:06 lkp-mb01 devel-lkp-mb01-i386-2012-12-26-20-45:5bb329e i386-randconfig-m041 5bb329e
+2012-12-26 21:03:52 bee devel-bee-i386-2012-12-26-20-42:852afc6 i386-randconfig-b940 852afc6
+2012-12-26 21:11:37 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-26-20-45:89f1c4d blackfin-BF526-EZBRD_defconfig 89f1c4d
+2012-12-26 21:16:52 bee devel-bee-sparc64-2012-12-26-20-42:bdbb3a9 powerpc-chroma_defconfig bdbb3a9

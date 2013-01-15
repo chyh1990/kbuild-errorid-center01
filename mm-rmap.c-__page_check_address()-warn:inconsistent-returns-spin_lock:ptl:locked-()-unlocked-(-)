@@ -1,0 +1,3 @@
+mm/rmap.c:630 __page_check_address() warn: inconsistent returns spin_lock:ptl: locked (627) unlocked (610,613,619,630)
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

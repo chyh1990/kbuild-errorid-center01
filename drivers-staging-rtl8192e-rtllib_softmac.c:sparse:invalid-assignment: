@@ -1,0 +1,3 @@
+drivers/staging/rtl8192e/rtllib_softmac.c:924:17: sparse: invalid assignment: |=
+
+2013-01-09 12:51:54 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

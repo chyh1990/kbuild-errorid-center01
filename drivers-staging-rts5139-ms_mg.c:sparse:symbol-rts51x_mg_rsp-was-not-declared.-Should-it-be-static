@@ -1,0 +1,3 @@
+drivers/staging/rts5139/ms_mg.c:392:5: sparse: symbol 'rts51x_mg_rsp' was not declared. Should it be static?
+
+2013-01-09 12:54:54 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

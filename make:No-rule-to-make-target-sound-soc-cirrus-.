@@ -1,0 +1,5 @@
+make[1]: *** No rule to make target `sound/soc/cirrus'.
+
+2012-09-23 07:24:45 bee target:for-next:05293e8 x86_64-allyesconfig 9c58b7d
+2012-09-23 07:24:46 bee target:for-next:05293e8 cris-allyesconfig 9c58b7d email notified
+2012-09-23 07:25:14 bee x86_64 email notified

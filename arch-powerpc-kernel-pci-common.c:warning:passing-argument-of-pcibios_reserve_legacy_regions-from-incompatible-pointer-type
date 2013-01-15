@@ -1,0 +1,3 @@
+arch/powerpc/kernel/pci-common.c:1407:4: warning: passing argument 1 of 'pcibios_reserve_legacy_regions' from incompatible pointer type [enabled by default]
+
+2012-09-26 10:10:43 kbuild devel-kbuild-powerpc-2012-09-26-09-56:0def34c powerpc-allmodconfig 0def34c

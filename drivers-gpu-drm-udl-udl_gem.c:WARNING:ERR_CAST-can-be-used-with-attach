@@ -1,0 +1,4 @@
+drivers/gpu/drm/udl/udl_gem.c:304:9-16: WARNING: ERR_CAST can be used with attach
+
+2012-08-16 16:40:35 snb drm-intel:drm-intel-next-queued:d667e8e i386-allmodconfig d667e8e
+2012-08-16 16:40:36 snb i386 email notified

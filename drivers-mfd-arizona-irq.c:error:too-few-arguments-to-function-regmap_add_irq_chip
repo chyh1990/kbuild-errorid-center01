@@ -1,0 +1,4 @@
+drivers/mfd/arizona-irq.c:203:7: error: too few arguments to function 'regmap_add_irq_chip'
+
+2012-08-29 16:37:07 kbuild omap-dss2:work:omap5-dt:a57dfde x86_64-allmodconfig 89a3691
+2012-09-04 22:56:30 kbuild omap-dss2:work:omap5-dt:73fc80a x86_64-allmodconfig f7ea7b8

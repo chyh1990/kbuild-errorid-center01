@@ -1,0 +1,3 @@
+drivers/scsi/mvsas/mv_64xx.c:139:6: sparse: symbol 'mvs_64xx_clear_srs_irq' was not declared. Should it be static?
+
+2013-01-09 13:07:02 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

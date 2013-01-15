@@ -1,0 +1,3 @@
+drivers/media/video/v4l2-dev.c:1011 videodev_init() info: why not propagate 'ret' from __class_register() instead of -5?
+
+2012-09-12 11:56:53 kbuild security:next:a40695e i386-allyesconfig a40695e

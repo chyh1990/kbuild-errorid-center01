@@ -1,0 +1,4 @@
+In file included from arch/x86/boot/compressed/eboot.c:
+
+2012-10-25 22:41:48 kbuild asm-generic:master:8179fe3 i386-allyesconfig 8179fe3
+2012-10-25 22:41:49 kbuild i386 email notified

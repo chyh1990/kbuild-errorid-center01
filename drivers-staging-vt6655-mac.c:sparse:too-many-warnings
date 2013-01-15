@@ -1,0 +1,3 @@
+drivers/staging/vt6655/mac.c:1178:9: sparse: too many warnings
+
+2013-01-09 12:59:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

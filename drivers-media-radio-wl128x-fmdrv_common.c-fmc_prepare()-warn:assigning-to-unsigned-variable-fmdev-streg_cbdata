@@ -1,0 +1,3 @@
+drivers/media/radio/wl128x/fmdrv_common.c:1512 fmc_prepare() warn: assigning (-115) to unsigned variable 'fmdev->streg_cbdata'
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

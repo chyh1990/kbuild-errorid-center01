@@ -1,0 +1,3 @@
+drivers/net/ethernet/qlogic/qlge/qlge_main.c:1657:33: sparse: cast to restricted __be16
+
+2012-09-01 03:30:33 snb input:next:bd68dfe i386-allmodconfig bd68dfe

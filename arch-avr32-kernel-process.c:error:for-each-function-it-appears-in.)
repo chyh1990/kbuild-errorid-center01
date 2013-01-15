@@ -1,0 +1,3 @@
+arch/avr32/kernel/process.c:312: error: for each function it appears in.)
+
+2012-10-15 14:36:44 snb signal:arch-avr32:5c6f3d0 avr32-atngw100_defconfig 5c6f3d0

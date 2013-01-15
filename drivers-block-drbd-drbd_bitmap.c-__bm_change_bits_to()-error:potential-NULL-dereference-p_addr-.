@@ -1,0 +1,4 @@
+drivers/block/drbd/drbd_bitmap.c:1368 __bm_change_bits_to() error: potential NULL dereference 'p_addr'.
+
+2012-09-19 03:21:16 kbuild omap:tmp-merge:1aa6898 i386-allyesconfig 1aa6898
+2012-09-19 03:36:18 kbuild i386 email notified

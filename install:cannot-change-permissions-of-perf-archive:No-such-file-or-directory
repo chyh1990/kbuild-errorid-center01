@@ -1,0 +1,4 @@
+install: cannot change permissions of `perf-archive': No such file or directory
+
+2012-08-10 07:35:47 bee x86_64 /cc/kernel-tests/commit-list/perf:perf:core:b691f64 393be2e3747ea3ef0d2e724115a5f42b2fa50dbd
+2012-08-10 07:35:48 bee x86_64 email notified

@@ -1,0 +1,9 @@
+arch/powerpc/kernel/exceptions-64s.S:1204: Error: attempt to move .org backwards
+
+2013-01-10 16:11:03 kbuild powerpc:next:6138340 powerpc-allmodconfig 6138340
+2013-01-11 15:24:12 kbuild next:master:2184115 powerpc-allmodconfig 2184115
+2013-01-11 18:08:26 kbuild next:akpm:40b6aaa powerpc-allmodconfig 40b6aaa
+2013-01-14 14:19:45 kbuild next:master:586a9ca powerpc-allmodconfig 586a9ca
+2013-01-14 15:08:13 kbuild next:akpm:17e836d powerpc-allmodconfig 17e836d
+2013-01-15 14:05:23 kbuild next:master:371450d powerpc-allmodconfig 371450d
+2013-01-15 15:06:21 kbuild next:akpm:12dd7dc powerpc-allmodconfig 12dd7dc

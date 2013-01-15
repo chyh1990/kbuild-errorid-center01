@@ -1,0 +1,3 @@
+drivers/firewire/core-card.c:479 bm_work() warn: 16 is more than 15 (max 'root_node->max_hops' can be) so this is always the same.
+
+2012-09-07 22:42:12 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

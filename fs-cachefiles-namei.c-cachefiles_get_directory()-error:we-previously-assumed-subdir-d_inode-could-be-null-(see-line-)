@@ -1,0 +1,3 @@
+fs/cachefiles/namei.c:765 cachefiles_get_directory() error: we previously assumed 'subdir->d_inode' could be null (see line 747)
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

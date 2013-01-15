@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/ceph/auth.c:228 ceph_handle_auth_reply() error: potential NULL dereference 'ac->ops'.
+
+2013-01-07 12:24:58 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

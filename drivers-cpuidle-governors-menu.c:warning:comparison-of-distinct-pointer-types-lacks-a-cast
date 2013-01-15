@@ -1,0 +1,3 @@
+drivers/cpuidle/governors/menu.c:268:2: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-10-23 11:24:27 lkp-mb01 pm:linux-next:13f5e2d sh-sh7785lcr_32bit_defconfig 13f5e2d

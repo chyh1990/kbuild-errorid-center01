@@ -1,0 +1,4 @@
+net/mac80211/rx.c:1772:2: error: implicit declaration of function 'ieee80211_vif_is_softamp' [-Werror=implicit-function-declaration]
+
+2012-11-23 23:44:35 inn internal-bluetooth-hs:master:54d5ffc ia64-allmodconfig a7f3db6
+2012-11-30 04:20:59 inn internal-bluetooth-hs:master:1a2f0ab i386-allmodconfig cb4b0f9

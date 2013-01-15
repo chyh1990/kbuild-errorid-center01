@@ -1,0 +1,4 @@
+arch/arm/mm/alignment.c:327:15: warning: 'offset.un' may be used uninitialized in this function [-Wuninitialized]
+
+2012-10-19 08:16:48 snb wq:for-next:e65120f arm-at91_dt_defconfig e65120f
+2012-10-19 08:16:50 snb arm email notified

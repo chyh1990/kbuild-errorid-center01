@@ -1,0 +1,8 @@
+Fatal error: can't create drivers/base/firmware.o: No such file or directory
+
+2012-08-06 18:50:29 bee x86_64 /cc/kernel-tests/commit-list/uapi:uapi-split:a2d1c9e 92d6d09f4fa3b16c1f415a7d0a1a5c8e3d0cd5c8
+2012-09-10 14:27:42 snb signal:for-next:196ea2e x86_64-randconfig-s280 aef82f8
+2012-09-13 13:02:59 bee drm:drm-fixes:b655232 i386-randconfig-b006 5e1782d
+2012-09-22 22:21:03 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s371 a1a7e0a
+2012-09-22 22:21:03 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s371 a1a7e0a email notified
+2012-10-01 13:54:49 hive renesas:next:b681273 x86_64-randconfig-h003 b681273

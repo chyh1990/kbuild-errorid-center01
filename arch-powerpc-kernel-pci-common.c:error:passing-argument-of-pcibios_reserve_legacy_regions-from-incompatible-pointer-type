@@ -1,0 +1,4 @@
+arch/powerpc/kernel/pci-common.c:1407:4: error: passing argument 1 of 'pcibios_reserve_legacy_regions' from incompatible pointer type [-Werror]
+
+2012-09-26 10:03:42 bee devel-bee-sparc64-2012-09-26-09-52:38d4563 powerpc-chroma_defconfig 38d4563
+2012-09-26 10:10:43 kbuild devel-kbuild-powerpc-2012-09-26-09-56:0def34c powerpc-allnoconfig 0def34c

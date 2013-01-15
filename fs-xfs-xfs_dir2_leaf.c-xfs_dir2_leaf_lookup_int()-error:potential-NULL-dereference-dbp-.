@@ -1,0 +1,3 @@
+fs/xfs/xfs_dir2_leaf.c:1494 xfs_dir2_leaf_lookup_int() error: potential NULL dereference 'dbp'.
+
+2013-01-09 13:27:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

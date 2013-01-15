@@ -1,0 +1,3 @@
+net/bridge/br_multicast.c:1187:12: warning: 'max_delay' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:05:46 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b032 d0aa742

@@ -1,0 +1,3 @@
+arch/xtensa/kernel/pci.c:82:11: warning: format '%ld' expects argument of type 'long int', but argument 4 has type 'resource_size_t' [-Wformat]
+
+2012-10-30 17:58:50 bee davinci:v3.8:defconfig:cb5a410 xtensa-allyesconfig cb5a410

@@ -1,0 +1,3 @@
+drivers/char/agp/generic.c:48:5: sparse: symbol 'agp_memory_reserved' was not declared. Should it be static?
+
+2013-01-09 13:08:49 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+arch/x86/kernel/apm_32.c:910:38: sparse: incorrect type in argument 3 (different modifiers)
+
+2012-12-21 13:56:58 snb dynticks:3.7-nohz1:46209cd i386-allmodconfig 46209cd

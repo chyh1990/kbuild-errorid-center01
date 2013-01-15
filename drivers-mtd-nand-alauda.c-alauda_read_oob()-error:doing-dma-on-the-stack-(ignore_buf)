@@ -1,0 +1,3 @@
+drivers/mtd/nand/alauda.c:372 alauda_read_oob() error: doing dma on the stack (ignore_buf)
+
+2013-01-09 13:27:33 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

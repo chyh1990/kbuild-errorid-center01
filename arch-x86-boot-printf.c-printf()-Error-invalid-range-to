@@ -1,0 +1,3 @@
+arch/x86/boot/printf.c:302 printf() Error invalid range 4096 to -1
+
+2012-09-07 23:06:39 kbuild mac80211-next:wip:be3090b i386-allyesconfig be3090b

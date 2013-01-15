@@ -1,0 +1,3 @@
+drivers/media/i2c/msp3400-driver.c:304 msp_set_scart() error: buffer overflow 'scart_names' 8 <= 8
+
+2013-01-09 13:26:14 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

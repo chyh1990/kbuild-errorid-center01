@@ -1,0 +1,3 @@
+security/apparmor/policy_unpack.c:590:8-34: duplicated argument to && or ||
+
+2012-11-11 03:49:55 snb apparmor:v3.6-aa2.8:663d5bb i386-allmodconfig 663d5bb

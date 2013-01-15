@@ -1,0 +1,4 @@
+arch/um/drivers/pcap_user.c:7:18: fatal error: pcap.h: No such file or directory
+
+2012-08-11 07:34:11 bee um /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b 765426e766dac70ed6fd563d908e4e1a20c865dd
+2012-08-11 07:34:12 bee um email notified

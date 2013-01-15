@@ -1,0 +1,3 @@
+drivers/iio/industrialio-core.c:584 iio_device_add_channel_sysfs() error: buffer overflow 'iio_chan_info_postfix' 15 <= 15
+
+2012-09-07 22:41:09 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

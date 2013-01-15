@@ -1,0 +1,3 @@
+drivers/input/touchscreen/mcs5000_ts.c:274:12: warning: 'mcs5000_ts_resume' defined but not used [-Wunused-function]
+
+2012-10-15 22:04:47 hive balbi-usb:fixes:01b8daf x86_64-randconfig-h064 01b8daf

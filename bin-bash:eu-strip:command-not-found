@@ -1,0 +1,4 @@
+/bin/bash: eu-strip: command not found
+
+2012-08-16 09:56:34 kbuild modsign:modsign-rusty:9ed5e36 x86_64-allmodconfig e5861b2
+2012-08-16 09:57:14 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/ieee80211_softmac_wx.c:205:2: warning: pointer targets in passing argument 2 of 'strncpy' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:12:40 bee staging:staging-next:9970eea x86_64-allyesconfig 9970eea

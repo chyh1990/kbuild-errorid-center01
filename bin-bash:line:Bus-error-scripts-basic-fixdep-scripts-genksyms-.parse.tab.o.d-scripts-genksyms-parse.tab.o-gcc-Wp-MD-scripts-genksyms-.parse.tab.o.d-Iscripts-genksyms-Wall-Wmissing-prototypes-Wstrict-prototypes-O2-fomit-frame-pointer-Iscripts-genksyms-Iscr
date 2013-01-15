@@ -1,0 +1,3 @@
+/bin/bash: line 1:  3919 Bus error               scripts/basic/fixdep scripts/genksyms/.parse.tab.o.d scripts/genksyms/parse.tab.o 'gcc -Wp,-MD,scripts/genksyms/.parse.tab.o.d -Iscripts/genksyms -Wall -Wmissing-prototypes -Wstrict-prototypes -O2 -fomit-frame-pointer  -Iscripts/genksyms -Iscripts/genksyms -c -o scripts/genksyms/parse.tab.o scripts/genksyms/parse.tab.c' > scripts/genksyms/.parse.tab.o.tmp
+
+2012-09-02 23:41:53 bee sound-unstable:topic:hda-cleanup:611fe0a x86_64-randconfig-x856 ac190c7

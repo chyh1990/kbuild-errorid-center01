@@ -1,0 +1,12 @@
+net/mac80211/mlme.c:2635:43: error: 'struct ieee80211_local' has no member named 'oper_channel'
+
+2012-09-10 17:37:27 kbuild mac80211-next:wip:0f15417 i386-allyesconfig 0f15417
+2012-09-10 17:39:01 kbuild i386 email notified
+2012-09-10 17:43:04 kbuild mac80211-next:wip:c26d365 x86_64-allmodconfig 5f50e13
+2012-09-11 16:14:52 kbuild mac80211-next:wip:0f433a5 x86_64-allmodconfig ac6244b
+2012-09-11 16:31:34 bee mac80211-next:wip:cd81c8b i386-randconfig-b004 08f7fd0
+2012-09-12 00:12:55 kbuild mac80211-next:wip:f9b42c3 x86_64-allmodconfig 07b2c5c
+2012-09-12 01:10:49 bee mac80211-next:wip:54caf87 x86_64-allyesdebian 07b2c5c
+2012-09-13 15:37:21 bee mac80211-next:wip:6c18fc6 x86_64-allyesdebian 9b54106
+2012-09-13 15:40:01 bee mac80211-next:wip:e5040df x86_64-allyesdebian 33bf83d
+2012-09-13 16:01:47 kbuild mac80211-next:wip:a7f8a4d x86_64-allmodconfig 33bf83d

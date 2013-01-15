@@ -1,0 +1,3 @@
+sound/pci/echoaudio/echoaudio.c:2260 snd_echo_resume() error: __builtin_memcpy() 'commpage_bak' too small (2808 vs 3072)
+
+2013-01-09 13:26:13 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

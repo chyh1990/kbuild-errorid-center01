@@ -1,0 +1,3 @@
+drivers/infiniband/hw/cxgb4/cm.c:2885:19: sparse: too many warnings
+
+2012-12-20 03:36:17 snb devel-snb-i386-2012-12-20-02-31:b48f6fa i386-allmodconfig b48f6fa

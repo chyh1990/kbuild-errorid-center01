@@ -1,0 +1,3 @@
+kernel/signal.c:3127:3: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2012-11-21 04:43:19 hive signal:master:c8377f5 x86_64-randconfig-h291 c8377f5

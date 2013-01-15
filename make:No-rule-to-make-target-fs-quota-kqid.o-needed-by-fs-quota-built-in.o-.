@@ -1,0 +1,3 @@
+make[3]: *** No rule to make target `fs/quota/kqid.o', needed by `fs/quota/built-in.o'.
+
+2012-09-02 10:36:36 bee userns:userns-always-map-user-v52:3f025b0 i386-randconfig-b961 7159b66

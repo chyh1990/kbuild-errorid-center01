@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/instmem/nv40.c:82 nv40_instmem_ctor() warn: 'priv->iomem' was not released on error
+
+2012-09-12 13:30:11 kbuild nouveau:master:f188e84 i386-allyesconfig f188e84

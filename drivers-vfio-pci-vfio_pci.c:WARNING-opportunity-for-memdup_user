@@ -1,0 +1,3 @@
+drivers/vfio/pci/vfio_pci.c:330:10-17: WARNING opportunity for memdup_user
+
+2012-11-01 21:59:05 snb memcg:since-3.6:bbae95c i386-allmodconfig bbae95c

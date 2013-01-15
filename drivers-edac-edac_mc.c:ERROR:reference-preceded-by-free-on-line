@@ -1,0 +1,4 @@
+drivers/edac/edac_mc.c:429:9-23: ERROR: reference preceded by free on line 429
+
+2012-08-09 13:48:38 snb i386 /cc/kernel-tests/commit-list/wq:for-3.7:8fcd636 7adf612cacb5d49778201eb06cc54281570eeb21
+2012-08-09 13:48:39 snb i386 email notified

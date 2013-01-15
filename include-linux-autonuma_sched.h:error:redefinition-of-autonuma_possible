@@ -1,0 +1,4 @@
+include/linux/autonuma_sched.h:55:20: error: redefinition of 'autonuma_possible'
+
+2012-09-28 07:22:14 kbuild aa:autonuma:f6f2b7f x86_64-allmodconfig f73a504
+2012-09-28 07:22:17 kbuild x86_64 email notified

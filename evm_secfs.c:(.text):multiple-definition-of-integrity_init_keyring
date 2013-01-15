@@ -1,0 +1,5 @@
+evm_secfs.c:(.text+0x140): multiple definition of `integrity_init_keyring'
+
+2012-08-06 23:12:42 kbuild i386 /cc/kernel-tests/commit-list/digsig:next-ima-module:a7d2a27 13c112b67029d66003085d6dc10e78b4e78108d0
+2012-08-06 23:25:04 kbuild i386 71d1dd3ee272a0110fa7dd0862f26aa89dadc5ec /cc/kernel-tests/commit-list/digsig:next-ima-dir:3dc0eb5
+2012-08-07 00:01:30 snb x86_64 71d1dd3ee272a0110fa7dd0862f26aa89dadc5ec /cc/kernel-tests/commit-list/digsig:next-ima-dir:444fe7a

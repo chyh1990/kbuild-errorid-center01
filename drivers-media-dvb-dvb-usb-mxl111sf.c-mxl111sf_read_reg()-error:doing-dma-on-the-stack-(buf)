@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/mxl111sf.c:90 mxl111sf_read_reg() error: doing dma on the stack (buf)
+
+2012-09-12 11:57:13 kbuild security:next:a40695e i386-allyesconfig a40695e

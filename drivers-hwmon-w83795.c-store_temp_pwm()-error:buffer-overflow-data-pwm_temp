@@ -1,0 +1,3 @@
+drivers/hwmon/w83795.c:1252 store_temp_pwm() error: buffer overflow 'data->pwm_temp[index]' 4 <= 4
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

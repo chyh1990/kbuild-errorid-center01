@@ -1,0 +1,3 @@
+drivers/net/usb/catc.c:856 catc_probe() error: doing dma on the stack (&i)
+
+2013-01-09 13:27:59 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+arch/x86/kernel/cpu/mcheck/mce-inject.c:96:13: warning: 'mce_irq_ipi' defined but not used [-Wunused-function]
+
+2012-10-15 21:24:26 bee nf-next:nf_tables7:a633263 i386-randconfig-b220 a633263

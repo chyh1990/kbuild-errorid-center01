@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/phy/phy_n.c:18874 wlc_phy_restorecal_nphy() error: potential NULL dereference 'txcal_radio_regs'.
+
+2013-01-09 13:26:16 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

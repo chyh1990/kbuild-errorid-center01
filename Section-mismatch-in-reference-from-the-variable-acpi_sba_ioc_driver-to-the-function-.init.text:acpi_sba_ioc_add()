@@ -1,0 +1,3 @@
+WARNING: arch/ia64/hp/common/built-in.o(.data+0xb0): Section mismatch in reference from the variable acpi_sba_ioc_driver to the function .init.text:acpi_sba_ioc_add()
+
+2012-09-08 10:01:47 hive perf:perf:core:b155a09 ia64-allmodconfig bab57e9

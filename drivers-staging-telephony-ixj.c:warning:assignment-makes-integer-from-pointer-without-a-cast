@@ -1,0 +1,3 @@
+drivers/staging/telephony/ixj.c:7732:13: warning: assignment makes integer from pointer without a cast [enabled by default]
+
+2012-10-26 02:29:43 kbuild pci:pci:misc:334a575 x86_64-allmodconfig f23a277

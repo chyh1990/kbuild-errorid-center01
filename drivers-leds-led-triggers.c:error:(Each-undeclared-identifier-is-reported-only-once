@@ -1,0 +1,4 @@
+drivers/leds/led-triggers.c:109: error: (Each undeclared identifier is reported only once
+
+2012-08-27 17:02:59 snb leds:for-next:eb28c03 avr32-atngw100_defconfig eb28c03
+2012-08-27 17:03:00 snb avr32 email notified

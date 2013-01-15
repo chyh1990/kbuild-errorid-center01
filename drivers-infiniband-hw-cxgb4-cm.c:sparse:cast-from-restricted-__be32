@@ -1,0 +1,3 @@
+drivers/infiniband/hw/cxgb4/cm.c:1506:25: sparse: cast from restricted __be32
+
+2012-12-20 03:36:15 snb devel-snb-i386-2012-12-20-02-31:b48f6fa i386-allmodconfig b48f6fa

@@ -1,0 +1,3 @@
+drivers/net/rionet.c:397 rionet_get_drvinfo() error: strcpy() 'rnet->mport->name' too large for 'info->bus_info' (40 vs 32)
+
+2012-09-07 21:57:23 kbuild signal:master:7a9d47b i386-allyesconfig 7a9d47b

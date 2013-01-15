@@ -1,0 +1,5 @@
+arch/powerpc/platforms/pseries/eeh.c:489:2: error: passing argument 1 of 'eeh_send_failure_event' from incompatible pointer type [-Werror]
+
+2012-09-10 10:46:58 kbuild powerpc:next:4715fed powerpc-defconfig c533b46
+2012-09-10 10:46:59 kbuild powerpc email notified
+2012-09-10 14:29:09 kbuild powerpc:test:6b5e722 powerpc-defconfig 5b66352

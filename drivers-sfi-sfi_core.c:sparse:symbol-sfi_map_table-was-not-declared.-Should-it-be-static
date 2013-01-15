@@ -1,0 +1,3 @@
+drivers/sfi/sfi_core.c:164:25: sparse: symbol 'sfi_map_table' was not declared. Should it be static?
+
+2013-01-09 13:07:41 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

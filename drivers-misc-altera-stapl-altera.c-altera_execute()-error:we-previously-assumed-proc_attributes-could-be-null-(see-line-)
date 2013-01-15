@@ -1,0 +1,3 @@
+drivers/misc/altera-stapl/altera.c:477 altera_execute() error: we previously assumed 'proc_attributes' could be null (see line 329)
+
+2013-01-09 13:26:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

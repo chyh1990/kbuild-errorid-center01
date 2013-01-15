@@ -1,0 +1,3 @@
+drivers/block/drbd/drbd_int.h:2339:0: warning: "__wait_event_lock_irq" redefined [enabled by default]
+
+2012-11-29 15:50:25 bee next:master:a283d97 x86_64-allyesdebian a283d97

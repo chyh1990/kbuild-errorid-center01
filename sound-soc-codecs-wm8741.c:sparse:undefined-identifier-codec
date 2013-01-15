@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8741.c:495:25: sparse: undefined identifier 'codec'
+
+2012-09-11 09:45:01 snb asoc:for-next:bffb28a i386-allmodconfig d978055

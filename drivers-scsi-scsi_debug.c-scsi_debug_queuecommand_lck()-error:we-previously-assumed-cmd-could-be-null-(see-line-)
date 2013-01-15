@@ -1,0 +1,3 @@
+drivers/scsi/scsi_debug.c:3670 scsi_debug_queuecommand_lck() error: we previously assumed 'cmd' could be null (see line 3626)
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

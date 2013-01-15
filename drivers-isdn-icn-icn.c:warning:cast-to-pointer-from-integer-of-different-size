@@ -1,0 +1,3 @@
+drivers/isdn/icn/icn.c:89:3: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2012-10-30 06:06:57 snb m68k:m68k-queue:f8b528c m68k-allmodconfig f8b528c

@@ -1,0 +1,3 @@
+drivers/spi/spi-topcliff-pch.c:1121 pch_spi_handle_dma() Error invalid range 1 to 0
+
+2012-09-07 22:42:19 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

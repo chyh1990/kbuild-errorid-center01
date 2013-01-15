@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb-v2/dvb_usb_core.c:556:5: sparse: symbol 'dvb_usbv2_adapter_frontend_init' was not declared. Should it be static?
+
+2012-08-24 00:02:31 snb samsung:v4l-framesize:b31e987 i386-allmodconfig 3c8c09b

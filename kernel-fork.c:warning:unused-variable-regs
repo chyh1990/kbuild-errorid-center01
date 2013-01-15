@@ -1,0 +1,3 @@
+kernel/fork.c:1537:17: warning: unused variable 'regs' [-Wunused-variable]
+
+2012-10-22 05:13:37 bee signal:for-benh:db72ef1 x86_64-allyesdebian db72ef1

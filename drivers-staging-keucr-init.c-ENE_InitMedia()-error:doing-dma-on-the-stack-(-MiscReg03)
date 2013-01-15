@@ -1,0 +1,3 @@
+drivers/staging/keucr/init.c:23 ENE_InitMedia() error: doing dma on the stack (&MiscReg03)
+
+2013-01-09 13:26:24 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

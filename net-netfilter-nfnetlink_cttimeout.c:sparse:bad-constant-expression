@@ -1,0 +1,3 @@
+net/netfilter/nfnetlink_cttimeout.c:60:67: sparse: bad constant expression
+
+2013-01-09 13:06:40 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,29 @@
+vsprintf.c:(.text+0x17d8): relocation truncated to fit: R_AVR32_16N_PCREL against symbol `_ctype' defined in .text section in lib/lib.a(ctype.o)
+
+2012-10-06 03:41:55 snb linus:master:5f3d2f2 avr32-atngw100_defconfig 5f3d2f2
+2012-10-07 12:16:48 snb acpi:next:558dc6f avr32-atngw100_defconfig 558dc6f
+2012-10-07 13:45:14 snb net:master:acb600d avr32-atngw100_defconfig acb600d
+2012-10-07 14:59:58 snb linus:master:ed5062d avr32-atngw100_defconfig ed5062d
+2012-10-07 17:51:34 snb linus:master:0b8e74c avr32-atngw100_defconfig 0b8e74c
+2012-10-07 22:00:41 snb linus:master:0e51793 avr32-atngw100_defconfig 0e51793
+2012-10-08 03:29:11 snb net:master:9545f4e avr32-atngw100_defconfig 9545f4e
+2012-10-08 03:57:26 snb arm-soc:for-next:0b33162 avr32-atngw100_defconfig 0b33162
+2012-10-08 04:24:51 snb arm-soc:fixes:6852826 avr32-atngw100_defconfig 6852826
+2012-10-08 08:14:40 snb linus:master:d43b716 avr32-atngw100_defconfig d43b716
+2012-10-08 08:17:25 snb arm-soc:fixes:096947f avr32-atngw100_defconfig 096947f
+2012-10-08 08:21:20 snb arm-soc:for-next:fdb1cd7 avr32-atngw100_defconfig fdb1cd7
+2012-10-08 12:23:53 snb devel-snb-arm-2012-10-08-12-14:bf9c924 avr32-atngw100_defconfig bf9c924
+2012-10-08 14:49:51 snb jdelvare-staging:i2c-for-linus:c415b30 avr32-atngw100_defconfig c415b30
+2012-10-09 11:05:27 snb mmc:master:0baf639 avr32-atngw100_defconfig 0baf639
+2012-10-09 11:40:06 snb aarch64:soc-armv8-model:5553522 avr32-atngw100_defconfig 5553522
+2012-10-09 13:28:05 snb net:master:66eef59 avr32-atngw100_defconfig 66eef59
+2012-10-09 15:55:38 snb devel-snb-arm-2012-10-09-15-22:17c93d9 avr32-atngw100_defconfig 17c93d9
+2012-10-10 02:45:53 snb arm-soc:for-next:ab3ee84 avr32-atngw100_defconfig ab3ee84
+2012-10-10 03:55:05 snb arm-soc:fixes-for-rmk:8e7fc18 avr32-atngw100_defconfig 8e7fc18
+2012-10-10 05:01:34 snb arm-soc:fixes:bfbad32 avr32-atngw100_defconfig bfbad32
+2012-10-10 07:13:00 snb userns:for-next:f3d94c2 avr32-atngw100_defconfig f3d94c2
+2012-10-13 10:25:55 snb pci:pci:bjorn-read-only-bar:824e9ba avr32-atngw100_defconfig 824e9ba
+2012-10-16 11:44:54 snb samsung:exynos-drm-fixes:922ad58 avr32-atngw100_defconfig 922ad58
+2012-10-18 20:54:40 snb samsung:exynos-drm-next-iommu:44196c7 avr32-atngw100_defconfig 44196c7
+2012-10-22 12:18:15 snb samsung:exynos-drm-next-iommu:4a7e511 avr32-atngw100_defconfig 4a7e511
+2012-10-23 23:35:56 snb samsung:exynos-drm-next-iommu:4bb1684 avr32-atngw100_defconfig 4bb1684

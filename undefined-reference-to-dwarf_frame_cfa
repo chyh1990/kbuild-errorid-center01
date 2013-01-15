@@ -1,0 +1,4 @@
+tools/perf/util/probe-finder.c:748: undefined reference to `dwarf_frame_cfa'
+
+2012-08-10 03:14:36 bee um /cc/kernel-tests/commit-list/perf:perf:core:b25085b d25dcba8541c1cc31621d5cefce0304dafb9ae4f
+2012-08-12 02:15:26 bee um 71ad0f5e4e361c8bca864c7d09d14b64af6bc2fc /cc/kernel-tests/commit-list/perf:perf:core:26d3302

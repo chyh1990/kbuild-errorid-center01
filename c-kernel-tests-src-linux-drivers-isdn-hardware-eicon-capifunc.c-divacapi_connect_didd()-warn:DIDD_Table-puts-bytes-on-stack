@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/isdn/hardware/eicon/capifunc.c:1056 divacapi_connect_didd() warn: 'DIDD_Table' puts 512 bytes on stack
+
+2013-01-07 12:25:29 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

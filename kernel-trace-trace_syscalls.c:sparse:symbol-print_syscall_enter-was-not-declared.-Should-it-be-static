@@ -1,0 +1,3 @@
+kernel/trace/trace_syscalls.c:81:1: sparse: symbol 'print_syscall_enter' was not declared. Should it be static?
+
+2013-01-09 12:57:50 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

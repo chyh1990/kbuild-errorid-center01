@@ -1,0 +1,3 @@
+drivers/memstick/host/r592.c:861:12: warning: 'r592_resume' defined but not used [-Wunused-function]
+
+2012-10-15 23:50:06 hive arm-perf:hugetlb:devel:17aea8e ia64-allmodconfig 17aea8e

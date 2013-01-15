@@ -1,0 +1,3 @@
+fs/binfmt_elf_fdpic.c:475:12: warning: 'create_elf_fdpic_tables' defined but not used [-Wunused-function]
+
+2012-10-16 17:42:38 lkp-mb01 nouveau:master:92d6a7b blackfin-BF533-EZKIT_defconfig 92d6a7b

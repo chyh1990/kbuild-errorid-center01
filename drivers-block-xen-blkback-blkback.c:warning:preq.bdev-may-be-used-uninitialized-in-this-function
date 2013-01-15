@@ -1,0 +1,3 @@
+drivers/block/xen-blkback/blkback.c:718:19: warning: 'preq.bdev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 12:01:21 snb mmc:mmc-next:7d676a6 x86_64-randconfig-s341 7d676a6

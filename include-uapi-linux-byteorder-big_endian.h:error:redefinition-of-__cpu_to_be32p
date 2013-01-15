@@ -1,0 +1,6 @@
+include/uapi/linux/byteorder/big_endian.h:75:22: error: redefinition of '__cpu_to_be32p'
+
+2012-11-07 03:46:35 lkp-mb01 devel-lkp-mb01-s390-2012-11-07-03-43:46a5f0b s390-allmodconfig 46a5f0b
+2012-11-07 03:50:00 hive devel-hive-mips-2012-11-07-03-41:2d9a372 mips-allmodconfig 2d9a372
+2012-11-07 03:51:51 snb devel-snb-arm-2012-11-07-03-49:6e0c587 m68k-allmodconfig 6e0c587
+2012-11-07 03:55:42 kbuild devel-kbuild-powerpc-2012-11-07-03-47:726c458 powerpc-allmodconfig 726c458

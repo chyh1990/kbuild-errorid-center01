@@ -1,0 +1,4 @@
+fs/ext4/inode.c:2902:2: error: implicit declaration of function 'trace_ext4_journalled_invalidatepage' [-Werror=implicit-function-declaration]
+
+2012-12-30 00:33:05 kbuild ext4:dev:b977f3e x86_64-allmodconfig fdd2c03
+2012-12-30 01:09:09 snb ext4:dev:8a3be3e x86_64-randconfig-s561 fdd2c03

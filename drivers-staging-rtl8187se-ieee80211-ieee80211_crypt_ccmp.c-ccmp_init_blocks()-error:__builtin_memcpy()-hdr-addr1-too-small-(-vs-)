@@ -1,0 +1,3 @@
+drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_ccmp.c:170 ccmp_init_blocks() error: __builtin_memcpy() 'hdr->addr1' too small (6 vs 18)
+
+2013-01-09 13:26:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

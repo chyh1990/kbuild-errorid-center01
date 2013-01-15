@@ -1,0 +1,3 @@
+drivers/net/ethernet/sun/cassini.c:3539 cas_start_dma() warn: we never enter this loop
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

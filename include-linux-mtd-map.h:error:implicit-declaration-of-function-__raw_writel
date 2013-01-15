@@ -1,0 +1,3 @@
+include/linux/mtd/map.h:421:3: error: implicit declaration of function '__raw_writel' [-Werror=implicit-function-declaration]
+
+2012-09-24 11:13:19 bee omap:devel-late:9cd68fa s390-allyesconfig 2b026d1

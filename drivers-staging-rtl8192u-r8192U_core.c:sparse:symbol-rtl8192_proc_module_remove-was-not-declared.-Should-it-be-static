@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/r8192U_core.c:676:6: sparse: symbol 'rtl8192_proc_module_remove' was not declared. Should it be static?
+
+2013-01-09 12:50:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

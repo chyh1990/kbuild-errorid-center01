@@ -1,0 +1,3 @@
+mm/compaction.c:972:47: sparse: context imbalance in 'compact_capture_page' - unexpected unlock
+
+2013-01-09 13:14:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

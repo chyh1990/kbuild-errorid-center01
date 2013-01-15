@@ -1,0 +1,3 @@
+WARNING: drivers/built-in.o(.data+0x1a978): Section mismatch in reference from the variable reg_devs to the variable .devinit.data:ldo16_resources
+
+2012-09-17 00:27:46 snb hzhuang1:mfd_pmic:b559935 x86_64-randconfig-s335 b559935

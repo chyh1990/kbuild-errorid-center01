@@ -1,0 +1,3 @@
+fs/ocfs2/ioctl.c:589 ocfs2_info_freefrag_scan_bitmap() error: we previously assumed 'gb_inode' could be null (see line 585)
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

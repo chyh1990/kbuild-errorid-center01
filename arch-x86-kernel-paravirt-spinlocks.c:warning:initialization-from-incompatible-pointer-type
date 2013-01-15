@@ -1,0 +1,4 @@
+arch/x86/kernel/paravirt-spinlocks.c:39:2: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-10-11 15:51:04 inn internal-hle:hle36:spinlock:60ab6da x86_64-allmodconfig 8c494fa
+2012-10-11 15:51:06 inn x86_64 email notified

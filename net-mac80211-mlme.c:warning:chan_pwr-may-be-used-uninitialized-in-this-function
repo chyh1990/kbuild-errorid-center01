@@ -1,0 +1,3 @@
+net/mac80211/mlme.c:900:2: warning: 'chan_pwr' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:05:46 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b032 d0aa742

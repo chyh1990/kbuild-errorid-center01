@@ -1,0 +1,4 @@
+mm/memcontrol.c:755:6: sparse: symbol 'memcg_flush_cache_create_queue' was not declared. Should it be static?
+
+2012-09-10 18:53:59 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig db85c41
+2012-09-10 18:58:23 snb i386 email notified

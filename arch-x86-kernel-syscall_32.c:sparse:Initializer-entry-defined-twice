@@ -1,0 +1,3 @@
+arch/x86/kernel/syscall_32.c:23:10: sparse: Initializer entry defined twice
+
+2013-01-09 13:15:31 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/media/v4l2-core/v4l2-ioctl.c:828:9: sparse: cannot size expression
+
+2013-01-09 13:09:07 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

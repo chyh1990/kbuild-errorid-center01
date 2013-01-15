@@ -1,0 +1,3 @@
+warning: (GPIO_MVEBU && GPIO_MXC && GPIO_MXS && GPIO_PL061 && GPIO_SPEAR_SPICS && GPIO_STA2X11 && GPIO_PCH && GPIO_ML_IOH && GPIO_SODAVILLE && MFD_JZ4740_ADC) selects GENERIC_IRQ_CHIP which has unmet direct dependencies (HAVE_GENERIC_HARDIRQS)
+
+2013-01-09 12:49:20 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

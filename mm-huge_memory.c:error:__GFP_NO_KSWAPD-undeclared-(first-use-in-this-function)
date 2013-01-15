@@ -1,0 +1,5 @@
+mm/huge_memory.c:801:41: error: '__GFP_NO_KSWAPD' undeclared (first use in this function)
+
+2012-10-20 08:56:43 bee tip:numa:core:aacc9ac x86_64-allyesconfig aacc9ac
+2012-10-20 09:17:28 bee tip:numa:core:9744d79 x86_64-allyesconfig 9744d79
+2012-10-20 10:49:25 snb devel-snb-i386-2012-10-20-10-21:3cac520 i386-allmodconfig 3cac520

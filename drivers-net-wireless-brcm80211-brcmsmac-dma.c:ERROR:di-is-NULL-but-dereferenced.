@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/dma.c:353:20-24: ERROR: di is NULL but dereferenced.
+
+2012-11-29 00:36:47 snb devel-snb-i386-2012-11-28-23-18:f8acb5e i386-allmodconfig f8acb5e

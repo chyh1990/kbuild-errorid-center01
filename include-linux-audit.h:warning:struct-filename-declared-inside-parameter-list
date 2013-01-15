@@ -1,0 +1,4 @@
+include/linux/audit.h:668:41: warning: 'struct filename' declared inside parameter list [enabled by default]
+
+2012-10-12 09:16:40 snb vfs:for-next:b0c3540 x86_64-randconfig-s030 d232461
+2012-10-12 09:16:44 snb x86_64 email notified

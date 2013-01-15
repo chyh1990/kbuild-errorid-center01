@@ -1,0 +1,4 @@
+drivers/power/twl4030_charger.c:536:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-23 19:50:07 snb battery:master:2815b78 i386-allmodconfig 94b05ca
+2012-08-23 19:50:09 snb i386 email notified

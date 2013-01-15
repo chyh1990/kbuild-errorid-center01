@@ -1,0 +1,3 @@
+drivers/net/ethernet/dlink/de620.c:296:7: warning: unused variable 'uflip' [-Wunused-variable]
+
+2012-09-20 10:26:12 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

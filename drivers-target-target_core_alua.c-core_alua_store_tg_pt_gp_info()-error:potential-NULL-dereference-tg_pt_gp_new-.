@@ -1,0 +1,3 @@
+drivers/target/target_core_alua.c:1738 core_alua_store_tg_pt_gp_info() error: potential NULL dereference 'tg_pt_gp_new'.
+
+2013-01-09 13:28:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

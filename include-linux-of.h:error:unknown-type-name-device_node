@@ -1,0 +1,3 @@
+include/linux/of.h:318:1: error: unknown type name 'device_node'
+
+2012-09-04 22:26:42 bee omap-dss2:work:omap5-dt:73fc80a x86_64-allyesdebian 3fc0d2e

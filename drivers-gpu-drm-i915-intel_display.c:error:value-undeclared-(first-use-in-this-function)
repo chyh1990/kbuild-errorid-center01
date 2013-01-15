@@ -1,0 +1,6 @@
+drivers/gpu/drm/i915/intel_display.c:1536:3: error: 'value' undeclared (first use in this function)
+
+2012-12-21 04:36:13 kbuild devel-kbuild-i386-2012-12-21-04-25:98728f9 i386-allyesconfig 98728f9
+2012-12-21 04:45:45 snb devel-snb-i386-2012-12-21-04-25:dd906d2 i386-allmodconfig dd906d2
+2012-12-21 06:01:33 bee devel-bee-i386-2012-12-21-04-35:5fa2135 i386-randconfig-b922 5fa2135
+2012-12-21 06:08:46 bee devel-bee-x86_64-2012-12-21-04-34:f35e867 x86_64-allyesdebian f35e867

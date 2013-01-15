@@ -1,0 +1,4 @@
+drivers/irqchip/percpu-mux.c:132:29: error: 'IRQ_NOAUTOEN' undeclared (first use in this function)
+
+2012-11-21 19:37:30 bee arm-perf:irq:a39b766 s390-allyesconfig a39b766
+2012-11-21 20:24:32 lkp-mb01 devel-lkp-mb01-s390-2012-11-21-19-36:71dcc5b s390-allmodconfig 71dcc5b

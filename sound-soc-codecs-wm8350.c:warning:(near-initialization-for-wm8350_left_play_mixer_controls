@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8350.c:496:2: warning: (near initialization for 'wm8350_left_play_mixer_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:04:17 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

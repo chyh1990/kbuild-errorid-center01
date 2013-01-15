@@ -1,0 +1,3 @@
+drivers/scsi/aic7xxx_old.c:10520:13: sparse: context imbalance in 'aic7xxx_panic_abort' - unexpected unlock
+
+2013-01-09 13:07:51 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

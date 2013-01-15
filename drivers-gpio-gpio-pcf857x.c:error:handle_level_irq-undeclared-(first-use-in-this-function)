@@ -1,0 +1,30 @@
+drivers/gpio/gpio-pcf857x.c:207:6: error: 'handle_level_irq' undeclared (first use in this function)
+
+2013-01-09 12:49:06 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e
+2013-01-10 00:21:48 lkp-mb01 devel-lkp-mb01-s390-2013-01-09-22-14:e300f64 s390-allmodconfig e300f64
+2013-01-10 03:36:34 lkp-mb01 devel-lkp-mb01-s390-2013-01-10-02-28:e3d49e3 s390-allmodconfig e3d49e3
+2013-01-10 10:56:46 lkp-mb01 arm-jcooper:mvebu:fixes:4ea931e s390-allmodconfig 4ea931e
+2013-01-10 12:44:33 lkp-mb01 devel-lkp-mb01-s390-2013-01-10-11-00:a279ba1 s390-allmodconfig a279ba1
+2013-01-10 14:31:58 lkp-mb01 devel-lkp-mb01-s390-2013-01-10-12-48:b738ceb s390-allmodconfig b738ceb
+2013-01-10 16:13:51 lkp-mb01 renesas:next:d3ed82d s390-allmodconfig d3ed82d
+2013-01-10 18:58:31 lkp-mb01 bluetooth:master:a7e80f2 s390-allmodconfig a7e80f2
+2013-01-10 21:07:01 lkp-mb01 shawnguo:imx:dt:ac877bc s390-allmodconfig ac877bc
+2013-01-11 00:57:25 lkp-mb01 renesas:pfc4:a819895 s390-allmodconfig a819895
+2013-01-11 03:22:38 lkp-mb01 pci:next:3f64d92 s390-allmodconfig 3f64d92
+2013-01-11 08:06:40 lkp-mb01 devel-lkp-mb01-s390-2013-01-11-07-30:4401554 s390-allmodconfig 4401554
+2013-01-11 09:55:30 lkp-mb01 x0148406:tmp:6c66848 s390-allmodconfig 6c66848
+2013-01-11 11:38:25 lkp-mb01 pinchartl-fbdev:pinmux-dt:5172c24 s390-allmodconfig 5172c24
+2013-01-11 14:29:22 bee integrity:next-ima-uuid-policy:6249245 s390-allyesconfig 6249245
+2013-01-11 20:22:58 lkp-mb01 renesas:next:8a15713 s390-allmodconfig 8a15713
+2013-01-12 11:30:58 bee asoc:topic:twl:85becda s390-allyesconfig a49f0d1
+2013-01-12 15:49:05 lkp-mb01 net-next:master:00494be s390-allmodconfig 00494be
+2013-01-12 20:01:03 lkp-mb01 staging:staging-next:955e7da s390-allmodconfig 955e7da
+2013-01-12 20:38:01 lkp-mb01 batman:batman-adv:next:1bc32fc s390-allmodconfig 1bc32fc
+2013-01-14 12:48:38 lkp-mb01 net-next:master:25d46f4 s390-allmodconfig 25d46f4
+2013-01-14 16:09:11 lkp-mb01 slave-dma:next:3a95b9f s390-allmodconfig 3a95b9f
+2013-01-14 16:21:40 lkp-mb01 pwm:for-next:0074b49 s390-allmodconfig 0074b49
+2013-01-14 20:59:33 lkp-mb01 x0148406:tmp:96f8f5a s390-allmodconfig 96f8f5a
+2013-01-14 21:11:09 lkp-mb01 broonie-misc:spi-next:f28037d s390-allmodconfig f28037d
+2013-01-15 03:47:21 lkp-mb01 pci:for-linus:d712f68 s390-allmodconfig d712f68
+2013-01-15 08:59:46 lkp-mb01 pci:for-linus:9e16721 s390-allmodconfig 9e16721
+2013-01-15 10:46:05 lkp-mb01 acpica:acpica-201212:8071727 s390-allmodconfig 8071727

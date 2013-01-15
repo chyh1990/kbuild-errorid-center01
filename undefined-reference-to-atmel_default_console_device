@@ -1,0 +1,5 @@
+(.init.text+0x674): undefined reference to `atmel_default_console_device'
+
+2012-09-01 22:35:31 snb signal:for-next:fed65c8 avr32-atngw100_defconfig 66105ba
+2012-09-01 22:43:36 snb signal:execve2:c3511bd avr32-atngw100_defconfig 1000b81
+2012-09-01 22:48:16 snb slave-dma:next:b5f1433 avr32-atngw100_defconfig b707c65

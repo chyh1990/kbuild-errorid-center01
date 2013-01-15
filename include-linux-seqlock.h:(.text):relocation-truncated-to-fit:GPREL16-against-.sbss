@@ -1,0 +1,3 @@
+include/linux/seqlock.h:89:(.text+0x83074): relocation truncated to fit: GPREL16 against `.sbss'
+
+2012-09-06 14:58:16 lkp-mb01 can:led-trigger:eb389c9 alpha-defconfig 8336886

@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/rv515.c:1125 rv515_bandwidth_avivo_update() warn: unsigned '((priority_mark02).full >> 12)' is never less than zero.
+
+2013-01-09 13:28:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.meminit.text+0x144c): Section mismatch in reference from the function .free_area_init_core.isra.40() to the function .init.text:.set_pageblock_order()
+
+2012-10-15 21:24:14 kbuild arm-perf:hugetlb:common:1523983 powerpc-allmodconfig 1523983

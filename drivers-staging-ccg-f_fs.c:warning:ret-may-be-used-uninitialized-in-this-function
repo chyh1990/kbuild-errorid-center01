@@ -1,0 +1,3 @@
+drivers/staging/ccg/f_fs.c:459:8: warning: 'ret' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:32:06 inn linus:master:974b335 x86_64-randconfig-n365 974b335

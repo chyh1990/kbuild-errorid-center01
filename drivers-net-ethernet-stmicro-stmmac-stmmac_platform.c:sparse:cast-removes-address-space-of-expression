@@ -1,0 +1,3 @@
+drivers/net/ethernet/stmicro/stmmac/stmmac_platform.c:193:18: sparse: cast removes address space of expression
+
+2012-09-10 15:24:02 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

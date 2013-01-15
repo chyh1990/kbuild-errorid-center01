@@ -1,0 +1,3 @@
+drivers/infiniband/core/mad.c:852 alloc_send_rmpp_list() error: potential NULL dereference 'seg'.
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

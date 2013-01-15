@@ -1,0 +1,10 @@
+(.text+0x66dc0): relocation truncated to fit: GPREL16 against symbol `sysctl_tcp_stdurg' defined in .sbss section in net/built-in.o
+
+2012-09-15 11:57:31 lkp-mb01 yinghai:master:156b34a alpha-defconfig ede5453
+2012-09-15 13:11:50 lkp-mb01 yinghai:for-x86-irq-base:835d595 alpha-defconfig 4c3db51
+2012-09-15 17:50:23 lkp-mb01 yinghai:for-x86-irq:c0c1cc6 alpha-defconfig a70438b
+2012-09-15 23:50:22 lkp-mb01 yinghai:for-pci-for-each-res-addon:9fd94f5 alpha-defconfig 3a1550b
+2012-09-18 09:37:21 lkp-mb01 yinghai:for-pci-for-each-res-addon:e7b4a70 alpha-defconfig e7b4a70
+2012-09-18 17:41:01 lkp-mb01 yinghai:for-x86-irq:687b7ca alpha-defconfig 687b7ca
+2012-09-20 11:15:34 lkp-mb01 yinghai:for-pci-for-each-res-addon:8f63fa4 alpha-defconfig 8f63fa4
+2012-09-20 11:26:43 lkp-mb01 yinghai:for-iommu:8a3281a alpha-defconfig 8a3281a

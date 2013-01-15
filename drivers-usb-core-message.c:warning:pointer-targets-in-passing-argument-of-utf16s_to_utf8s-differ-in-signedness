@@ -1,0 +1,3 @@
+drivers/usb/core/message.c:834:4: warning: pointer targets in passing argument 4 of 'utf16s_to_utf8s' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:26 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

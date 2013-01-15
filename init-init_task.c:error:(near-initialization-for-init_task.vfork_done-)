@@ -1,0 +1,3 @@
+init/init_task.c:16:8: error: (near initialization for 'init_task.vfork_done')
+
+2012-12-21 11:46:26 hive dynticks:3.7-nohz1:46209cd mips-allnoconfig 46209cd

@@ -1,0 +1,6 @@
+drivers/acpi/device_pm.c:810:5: error: redefinition of 'acpi_dev_resume_early'
+
+2013-01-15 06:47:49 snb devel-snb-x86_64-2013-01-15-06-38:17bc0ba x86_64-randconfig-s645 17bc0ba
+2013-01-15 10:32:51 snb pm:bleeding-edge:76bb560 x86_64-randconfig-s645 0632c81
+2013-01-15 12:18:13 snb next:master:371450d x86_64-randconfig-s645 371450d
+2013-01-15 12:45:55 snb next:akpm:12dd7dc x86_64-randconfig-s645 d50cd7c

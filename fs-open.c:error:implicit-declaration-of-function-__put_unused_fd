@@ -1,0 +1,6 @@
+fs/open.c:1011:2: error: implicit declaration of function '__put_unused_fd' [-Werror=implicit-function-declaration]
+
+2012-08-20 01:23:39 kbuild vfs:master:6ecc22e i386-randconfig-k750 3b9a699
+2012-08-20 01:23:40 kbuild i386 email notified
+2012-09-22 15:39:51 bee vfs:for-next:319074e x86_64-lkp 63e28f4
+2012-10-03 13:14:08 kbuild vfs:for-next:2bd2c19 x86_64-allmodconfig 56007ca

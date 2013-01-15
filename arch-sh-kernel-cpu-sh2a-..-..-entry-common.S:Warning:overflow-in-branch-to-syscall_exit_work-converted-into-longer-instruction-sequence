@@ -1,0 +1,3 @@
+arch/sh/kernel/cpu/sh2a/../../entry-common.S:378: Warning: overflow in branch to syscall_exit_work; converted into longer instruction sequence
+
+2013-01-09 13:23:35 lkp-mb01 next:akpm:ef2dca2 sh-rsk7269_defconfig ef2dca2

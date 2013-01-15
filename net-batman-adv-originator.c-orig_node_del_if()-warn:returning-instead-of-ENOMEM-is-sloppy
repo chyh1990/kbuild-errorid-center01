@@ -1,0 +1,3 @@
+net/batman-adv/originator.c:557 orig_node_del_if() warn: returning -1 instead of -ENOMEM is sloppy
+
+2012-09-13 01:35:45 kbuild xen:stable:late-swiotlb.v3.2:e1826f9 i386-allyesconfig e1826f9

@@ -1,0 +1,4 @@
+init/main.c:163:6: error: '__setup_very_end' undeclared (first use in this function)
+
+2012-10-25 23:18:04 bee ux500:mainline:3868030 x86_64-allyesconfig 5fded1f
+2012-10-25 23:18:21 bee x86_64 email notified

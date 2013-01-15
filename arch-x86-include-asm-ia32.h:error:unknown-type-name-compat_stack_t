@@ -1,0 +1,3 @@
+arch/x86/include/asm/ia32.h:43:2: error: unknown type name 'compat_stack_t'
+
+2013-01-11 15:04:32 bee drm:qxl-kms-test:317157f x86_64-allyesdebian 317157f

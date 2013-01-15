@@ -1,0 +1,3 @@
+pd6729.c:(.text+0x1ffcb8c): relocation truncated to fit: R_PPC64_REL24 against symbol `_restgpr0_29' defined in .text.save.restore section in arch/powerpc/lib/built-in.o
+
+2012-09-28 17:35:34 bee pinctrl:for-next:2fe3954 powerpc-allyesconfig 7d66ce7

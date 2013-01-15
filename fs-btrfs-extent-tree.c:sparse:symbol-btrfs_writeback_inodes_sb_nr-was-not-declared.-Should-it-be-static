@@ -1,0 +1,3 @@
+fs/btrfs/extent-tree.c:3722:6: sparse: symbol 'btrfs_writeback_inodes_sb_nr' was not declared. Should it be static?
+
+2012-12-21 00:57:14 snb devel-snb-i386-2012-12-21-00-29:19e44d4 i386-allmodconfig 19e44d4

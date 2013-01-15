@@ -1,0 +1,3 @@
+drivers/misc/ds1682.c:160:9: warning: pointer targets in passing argument 4 of 'i2c_smbus_read_i2c_block_data' differ in signedness [-Wpointer-sign]
+
+2012-09-27 07:48:19 bee char-misc:char-misc-next:5dc2db0 powerpc-allyesconfig 5dc2db0

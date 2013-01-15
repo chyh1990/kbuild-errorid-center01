@@ -1,0 +1,3 @@
+drivers/md/md.c:7583:7: warning: passing argument 2 of 'test_bit' from incompatible pointer type [enabled by default]
+
+2012-11-20 07:59:44 bee md:for-next:ef59c07 m68k-allyesconfig ef59c07

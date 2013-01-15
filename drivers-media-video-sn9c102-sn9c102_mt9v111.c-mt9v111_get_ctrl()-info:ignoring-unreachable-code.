@@ -1,0 +1,3 @@
+drivers/media/video/sn9c102/sn9c102_mt9v111.c:140 mt9v111_get_ctrl() info: ignoring unreachable code.
+
+2012-09-07 22:41:55 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

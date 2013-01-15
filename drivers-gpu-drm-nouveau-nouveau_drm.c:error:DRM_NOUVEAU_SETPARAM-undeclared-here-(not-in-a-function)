@@ -1,0 +1,8 @@
+drivers/gpu/drm/nouveau/nouveau_drm.c:520:2: error: 'DRM_NOUVEAU_SETPARAM' undeclared here (not in a function)
+
+2012-08-06 16:22:03 snb x86_64 /cc/kernel-tests/commit-list/nouveau:master:088fba1 d41b4528714f130028c30df6a5b7b96df77505eb
+2012-08-13 14:46:49 kbuild x86_64 637b333bb6131d1b197e5812c369df9c998cd2ec /cc/kernel-tests/commit-list/nouveau:master:872dcac
+2012-08-17 12:32:16 bee nouveau:master:b13ea66 i386-randconfig-b825 3a66d8b
+2012-08-17 12:36:08 kbuild nouveau:master:27291a4 i386-randconfig-k728 ce2554d
+2012-08-20 14:27:15 kbuild nouveau:master:f9b495f x86_64-allmodconfig 2dca416
+2012-08-21 07:18:42 kbuild nouveau:master:5e58179 x86_64-allmodconfig a7599aa

@@ -1,0 +1,7 @@
+net/bridge/br_netlink.c:304:2: error: implicit declaration of function 'br_mdb_init' [-Werror=implicit-function-declaration]
+
+2013-01-03 18:21:20 snb net:master:6602d00 x86_64-randconfig-s585 6602d00
+2013-01-03 18:35:21 bee devel-bee-i386-2013-01-03-18-15:9c6f5ee i386-randconfig-b991 9c6f5ee
+2013-01-03 18:39:14 lkp-mb01 devel-lkp-mb01-i386-2013-01-03-18-23:ba12bc8 i386-randconfig-m091 ba12bc8
+2013-01-04 12:19:56 snb next:master:1d4849d x86_64-randconfig-s592 1d4849d
+2013-01-04 12:32:05 bee next:akpm:f7dca8a i386-randconfig-b003 f7dca8a

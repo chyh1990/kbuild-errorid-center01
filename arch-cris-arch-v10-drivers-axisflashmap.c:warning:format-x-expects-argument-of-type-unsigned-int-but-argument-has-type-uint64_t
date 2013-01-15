@@ -1,0 +1,3 @@
+arch/cris/arch-v10/drivers/axisflashmap.c:368:10: warning: format '%x' expects argument of type 'unsigned int', but argument 4 has type 'uint64_t' [-Wformat]
+
+2013-01-09 13:22:34 lkp-mb01 next:akpm:ef2dca2 cris-etrax-100lx_v2_defconfig ef2dca2

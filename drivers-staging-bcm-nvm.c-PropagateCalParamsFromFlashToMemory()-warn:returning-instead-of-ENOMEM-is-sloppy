@@ -1,0 +1,3 @@
+drivers/staging/bcm/nvm.c:1654 PropagateCalParamsFromFlashToMemory() warn: returning -1 instead of -ENOMEM is sloppy
+
+2012-09-14 07:40:26 kbuild xhci:3.5-plus-set-addr:d9c6e53 i386-allyesconfig d9c6e53

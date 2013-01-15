@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/dvm/rs.c:2550 rs_rate_scale_perform() debug: remove_pools: nr_children over 4000 (5964). (sta 4096-max)
+
+2012-09-20 13:44:36 kbuild wq:for-next:f767d86 i386-allyesconfig f767d86

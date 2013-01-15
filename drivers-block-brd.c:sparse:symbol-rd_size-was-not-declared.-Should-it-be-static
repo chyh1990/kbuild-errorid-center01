@@ -1,0 +1,3 @@
+drivers/block/brd.c:433:5: sparse: symbol 'rd_size' was not declared. Should it be static?
+
+2013-01-09 13:03:22 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

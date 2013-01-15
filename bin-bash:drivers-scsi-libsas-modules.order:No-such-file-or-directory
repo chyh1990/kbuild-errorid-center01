@@ -1,0 +1,4 @@
+/bin/bash: drivers/scsi/libsas/modules.order: No such file or directory
+
+2012-09-13 13:03:10 bee drm:drm-fixes:b655232 i386-randconfig-b008 5e1782d
+2012-10-01 13:56:38 hive renesas:next:b681273 x86_64-randconfig-h005 b681273

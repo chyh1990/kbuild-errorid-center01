@@ -1,0 +1,6 @@
+drivers/staging/ft1000/ft1000-pcmcia/ft1000_hw.c:2172:36: error: dereferencing pointer to incomplete type
+
+2012-09-17 17:27:50 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724
+2012-09-17 17:53:45 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac
+2012-09-17 18:30:43 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf
+2012-09-17 19:00:25 kbuild drm-intel:drm-intel-nightly:413f77b i386-allyesconfig 413f77b

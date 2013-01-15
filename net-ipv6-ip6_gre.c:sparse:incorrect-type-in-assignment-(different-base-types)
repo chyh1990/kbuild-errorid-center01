@@ -1,0 +1,3 @@
+net/ipv6/ip6_gre.c:978:26: sparse: incorrect type in assignment (different base types)
+
+2012-09-06 23:59:45 snb can:master:bbe660a i386-allmodconfig 798b2cb

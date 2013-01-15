@@ -1,0 +1,3 @@
+drivers/cpufreq/powernow-k8.c:995:21: sparse: undefined identifier 'find_khz_freq_from_pstate'
+
+2012-09-25 04:18:07 snb devel-snb-i386-2012-09-25-04-02:ea69eb7 i386-allmodconfig ea69eb7

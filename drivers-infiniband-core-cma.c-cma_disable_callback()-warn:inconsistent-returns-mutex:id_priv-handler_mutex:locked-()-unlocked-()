@@ -1,0 +1,3 @@
+drivers/infiniband/core/cma.c:418 cma_disable_callback() warn: inconsistent returns mutex:&id_priv->handler_mutex: locked (418) unlocked (416)
+
+2013-01-09 13:27:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

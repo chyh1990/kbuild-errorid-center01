@@ -1,0 +1,3 @@
+make[3]: Warning: File `scripts/Makefile.host' has modification time 3.5e+08 s in the future/dev/shm/bash-redirect-ia64-allnoconfig: line 1: /dev/shm/build-error-ia64-allnoconfig/12780-12909-132: No space left on device
+
+2012-12-20 10:21:22 hive cgroup:blkcg-cfq-hierarchy:945010d ia64-allnoconfig 945010d

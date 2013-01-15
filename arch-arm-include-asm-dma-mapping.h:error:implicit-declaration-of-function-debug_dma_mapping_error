@@ -1,0 +1,13 @@
+arch/arm/include/asm/dma-mapping.h:94:2: error: implicit declaration of function 'debug_dma_mapping_error' [-Werror=implicit-function-declaration]
+
+2012-10-26 08:22:38 inn linus:master:2ab3f29 arm-allnoconfig 2ab3f29
+2012-10-26 12:04:41 snb devel-snb-arm-2012-10-26-12-04:93b86ac arm-allnoconfig 93b86ac
+2012-10-26 19:34:35 snb tip:x86:boot:6e87f9b arm-allnoconfig 6e87f9b
+2012-10-26 23:26:52 snb devel-snb-arm-2012-10-26-23-19:596ef7e arm-allnoconfig 596ef7e
+2012-10-27 05:59:51 inn internal-yuanhan:master:5c53704 arm-allnoconfig 2fef913
+2012-10-27 06:00:28 inn internal-yuanhan:monster:ced4672 arm-allnoconfig c752423
+2012-10-27 22:38:06 snb tip:x86:ras:003db63 arm-allnoconfig 003db63
+2012-10-28 03:05:57 snb alexs:master:e0e51f3 arm-allnoconfig e0e51f3
+2012-10-28 18:35:23 snb s390:features:2845a77 arm-allnoconfig 2845a77
+2012-10-28 18:55:15 snb s390:fixes:d8e7a33 arm-allnoconfig d8e7a33
+2012-11-07 05:52:01 snb s390:features:8e70fa0 arm-allnoconfig 8e70fa0

@@ -1,0 +1,3 @@
+WARNING: arch/powerpc/mm/built-in.o(.cpuinit.text+0x292): Section mismatch in reference from the function .fake_numa_create_new_node() to the variable .init.data:cmdline
+
+2013-01-10 16:11:03 kbuild powerpc:next:6138340 powerpc-allmodconfig 6138340

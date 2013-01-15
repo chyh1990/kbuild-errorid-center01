@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:2858 disc_port_state_pwron() info: ignoring unreachable code.
+
+2012-09-16 10:35:14 kbuild iio:wip:d6bd040 i386-allyesconfig d6bd040

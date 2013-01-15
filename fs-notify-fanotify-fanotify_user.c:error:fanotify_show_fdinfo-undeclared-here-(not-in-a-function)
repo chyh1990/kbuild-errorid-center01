@@ -1,0 +1,8 @@
+fs/notify/fanotify/fanotify_user.c:436:17: error: 'fanotify_show_fdinfo' undeclared here (not in a function)
+
+2012-11-27 14:38:25 snb next:master:ce2931a x86_64-randconfig-s365 ce2931a
+2012-11-27 14:50:28 bee next:akpm:8c02459 i386-randconfig-b774 8c02459
+2012-11-27 18:10:25 bee cr:crtools-v3.7-rc7:cb80217 x86_64-randconfig-x696 fb5a2cf
+2012-11-28 15:17:11 snb next:master:c2b2c8c x86_64-randconfig-s365 c2b2c8c
+2012-11-28 15:43:29 snb next:akpm:bd3b426 x86_64-randconfig-s365 bd3b426
+2012-11-30 22:04:54 bee cr:crtools-v3.7-rc7:1783f65 x86_64-randconfig-x702 c71a8bc

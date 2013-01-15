@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x3ac555c): Section mismatch in reference from the function azx_probe_continue() to the function .devinit.text:snd_hda_build_pcms()
+
+2012-09-07 20:09:03 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

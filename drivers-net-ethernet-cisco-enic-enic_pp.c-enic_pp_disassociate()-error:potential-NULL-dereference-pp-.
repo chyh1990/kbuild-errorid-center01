@@ -1,0 +1,3 @@
+drivers/net/ethernet/cisco/enic/enic_pp.c:207 enic_pp_disassociate() error: potential NULL dereference 'pp'.
+
+2013-01-09 13:26:19 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

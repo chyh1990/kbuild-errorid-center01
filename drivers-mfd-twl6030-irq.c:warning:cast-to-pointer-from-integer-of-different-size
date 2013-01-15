@@ -1,0 +1,3 @@
+drivers/mfd/twl6030-irq.c:415:9: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2013-01-09 12:32:04 inn linus:master:974b335 x86_64-randconfig-n361 974b335

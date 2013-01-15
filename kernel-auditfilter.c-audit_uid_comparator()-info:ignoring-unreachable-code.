@@ -1,0 +1,4 @@
+kernel/auditfilter.c:1274 audit_uid_comparator() info: ignoring unreachable code.
+
+2012-09-21 10:33:49 kbuild userns:userns-always-map-user-v58:cf7198a i386-allyesconfig cf7198a
+2012-09-21 12:18:24 kbuild i386 email notified

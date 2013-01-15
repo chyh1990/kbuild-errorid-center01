@@ -1,0 +1,3 @@
+drivers/net/wireless/b43legacy/radio.c:359 b43legacy_nrssi_hw_update() warn: 'val' 65535 can't fit into 32767 'tmp'
+
+2013-01-09 13:27:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

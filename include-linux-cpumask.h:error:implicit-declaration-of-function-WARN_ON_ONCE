@@ -1,0 +1,27 @@
+include/linux/cpumask.h:108:2: error: implicit declaration of function 'WARN_ON_ONCE' [-Werror=implicit-function-declaration]
+
+2012-07-23 04:05:56 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-next:2bbdb4f 20ad394edb84e215ec31a46b557c00a790c5443f
+2012-07-23 17:17:36 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:3de93c6 3de93c6af9127d746e0cc39084b94342129876f9
+2012-07-23 17:55:07 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:29bf20b 29bf20bd2bd427062719f8eb090d83393db8a125
+2012-07-23 18:00:38 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-3.6:0ff97eb 0ff97ebf0804d2e519d578fcb4db03f104d2ca8c
+2012-07-23 20:58:04 hive x86_64 /cc/kernel-tests/commit-list/sound:for-next:c1b623d 15d47763b354256053c390a9b7bc9f2b4f197711
+2012-07-23 21:20:37 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:b565cf6 b565cf6cf83ec835e160d10bece043703cc0a9f1
+2012-07-24 02:15:53 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-next:b8edf3e b8edf3e5522735c8ce78b81845f7a1a2d4a08626
+2012-07-24 04:20:47 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:9bf52e6 9bf52e67cc5b233a32ce885623f8556ad986e7d8
+2012-07-24 04:55:11 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:18e0a7d 18e0a7dd17db91c207f3d37f1e409c48fe02663e
+2012-07-25 04:21:12 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-3.6:b817662 c2e1d9073fc98f471067c0257a31b4818306ebe1
+2012-07-25 04:26:20 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-3.7:8e03dee 220230d92b9a531c61c703954df04c91e674fb54
+2012-07-25 16:56:38 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:e8aeaee e8aeaee7b012f1cdb382765d17307445385aa87c
+2012-07-26 00:19:23 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:5e56564 734a238564d9ef9425d669067e435a8e4b10aef8
+2012-07-26 00:45:31 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:f27b926 f27b92651d72e863c308ea5dca5615fc98e38ca6
+2012-07-26 18:44:30 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:1f61a00 f94bfa7aed8f7725f1ddbd9480f150936389ee43
+2012-07-26 18:59:20 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:e6994ae 42d6ab4839799b2f246748ce663d6b023f02bb73
+2012-07-26 21:06:13 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:acbe947 20b46e59dd102665ce7168baa215e5b1ee66b69b
+2012-07-27 01:38:19 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:af33017 af447bd358acd92a8e96b61a3bf7a55c61a642f4
+2012-07-27 04:53:05 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-next-queued:ab3951e ab3951eb74e7c33a2f5b7b64d72e82f1eea61571
+2012-07-27 06:53:11 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-3.7:9542573 aa50fe55ace7451e6ad6812915db367c8cfd3bb3
+2012-07-27 07:08:07 hive x86_64 /cc/kernel-tests/commit-list/asoc:for-next:e13ab2a e13ab2aac7a273a890d18bb482849610be178bc5
+2012-07-27 08:51:57 hive x86_64 /cc/kernel-tests/commit-list/nfsd:nfsd-next:57c8b13 5559b50acdcdcad7e362882d3261bf934c9436f6
+2012-07-27 14:53:16 hive x86_64 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:6af2d18 6af2d180f82151cf3d58952e35a4f96e45bc453a
+2012-08-07 02:08:32 hive x86_64 4f91dd6f27f015f09828e42123bdabce0c8441e6 /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:5ab3633
+2012-08-07 19:51:33 hive x86_64 da612d880fbc598ac0efcef579355fb90d4bca4e /cc/kernel-tests/commit-list/drm-intel:drm-intel-fixes:da612d8

@@ -1,0 +1,3 @@
+net/bluetooth/l2cap_core.c:4572:6: sparse: symbol 'l2cap_physical_cfm' was not declared. Should it be static?
+
+2012-10-25 05:31:14 snb bluetooth:master:77220c6 i386-allmodconfig 77220c6

@@ -1,0 +1,3 @@
+sound/isa/wavefront/wavefront_synth.c:1180 wavefront_send_alias() Error invalid range 4097 to -9223372036854775808
+
+2012-09-07 22:42:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

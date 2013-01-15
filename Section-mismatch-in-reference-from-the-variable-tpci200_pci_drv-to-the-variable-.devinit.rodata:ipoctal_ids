@@ -1,0 +1,3 @@
+WARNING: drivers/staging/ipack/built-in.o(.data+0x100): Section mismatch in reference from the variable tpci200_pci_drv to the variable .devinit.rodata:ipoctal_ids
+
+2012-10-30 17:58:57 bee davinci:v3.8:defconfig:cb5a410 xtensa-allyesconfig cb5a410

@@ -1,0 +1,3 @@
+drivers/scsi/advansys.c:10424:27: warning: 'ADVEEP_3550_Config_Field_IsChar' defined but not used [-Wunused-variable]
+
+2012-07-22 14:53:17 hive mips /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

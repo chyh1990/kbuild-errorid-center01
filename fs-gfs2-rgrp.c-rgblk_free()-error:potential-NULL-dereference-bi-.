@@ -1,0 +1,3 @@
+fs/gfs2/rgrp.c:1428 rgblk_free() error: potential NULL dereference 'bi'.
+
+2012-09-07 22:42:13 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

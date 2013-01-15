@@ -1,0 +1,3 @@
+(.text+0x131223): undefined reference to `i2c_smbus_write_byte_data'
+
+2013-01-04 06:28:11 kbuild devel-kbuild-x86_64-2013-01-04-06-27:cbd4b71 x86_64-allmodconfig cbd4b71

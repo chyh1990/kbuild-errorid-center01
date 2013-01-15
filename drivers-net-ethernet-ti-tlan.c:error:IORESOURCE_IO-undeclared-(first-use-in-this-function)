@@ -1,0 +1,5 @@
+drivers/net/ethernet/ti/tlan.c:512:40: error: 'IORESOURCE_IO' undeclared (first use in this function)
+
+2012-09-17 17:27:08 kbuild balbi-usb:dwc3-hibernation:33dd724 i386-allyesconfig 33dd724
+2012-09-17 17:36:30 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 18:43:57 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

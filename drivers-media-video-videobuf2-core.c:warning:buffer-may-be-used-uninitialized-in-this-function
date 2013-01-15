@@ -1,0 +1,3 @@
+drivers/media/video/videobuf2-core.c:1596:2: warning: 'buffer' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-31 08:59:55 kbuild i386 /cc/kernel-tests/commit-list/ceph:wip-rbd-cleanup:edc240d f94e57d67571ccdef24755c32f8cd4612f34bef4

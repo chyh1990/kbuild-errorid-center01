@@ -1,0 +1,3 @@
+warning: (USB_XUSBPS_DR_OF && XILINX_ZED_USB_OTG) selects USB_ULPI which has unmet direct dependencies (USB_SUPPORT && (USB || USB_GADGET) && ARM)
+
+2012-12-19 17:30:49 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 7e35412

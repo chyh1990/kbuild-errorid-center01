@@ -1,0 +1,4 @@
+security/integrity/digsig.c:64:47: error: bad constant expression
+
+2012-09-11 15:28:09 kbuild digsig:working:eec6995 i386-allyesconfig eec6995
+2012-09-11 16:45:38 kbuild i386 email notified

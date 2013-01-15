@@ -1,0 +1,4 @@
+drivers/tty/synclink_gt.c:160:12: error: conflicting types for 'set_break'
+
+2013-01-10 16:11:03 kbuild powerpc:next:6138340 powerpc-allmodconfig 6138340
+2013-01-11 18:08:25 kbuild next:akpm:40b6aaa powerpc-allmodconfig 40b6aaa

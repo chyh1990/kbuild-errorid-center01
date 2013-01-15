@@ -1,0 +1,4 @@
+drivers/regulator/arizona-ldo1.c:42:16: error: 'regulator_get_bypass_regmap' undeclared here (not in a function)
+
+2012-08-29 02:25:31 kbuild regulator:for-next:2476106 x86_64-allmodconfig 980daf5
+2012-08-29 02:25:31 kbuild x86_64 email notified

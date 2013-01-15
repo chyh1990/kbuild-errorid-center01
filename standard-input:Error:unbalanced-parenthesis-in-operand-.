@@ -1,0 +1,6 @@
+{standard input}:7733: Error: unbalanced parenthesis in operand 1.
+
+2012-09-02 13:12:59 hive userns:userns-always-map-user-v52:3f025b0 x86_64-randconfig-h864 46c4bb1
+2012-09-21 12:42:55 snb arm-soc:mxs:dt2:7aff3fb i386-allmodconfig 7aff3fb
+2012-09-21 12:43:16 snb nfs:testing:9dfaead x86_64-randconfig-s365 e60f6ab
+2013-01-11 14:53:56 hive devel-hive-x86_64-2013-01-11-14-25:cb776fe x86_64-randconfig-h001 cb776fe

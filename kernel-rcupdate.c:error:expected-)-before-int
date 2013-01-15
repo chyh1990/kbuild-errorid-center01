@@ -1,0 +1,6 @@
+kernel/rcupdate.c:424:38: error: expected ')' before 'int'
+
+2012-10-24 07:43:27 bee rcu:rcu:next:1a0ec9c x86_64-allyesconfig 38be7d3
+2012-10-24 08:06:37 bee rcu:stall.2012.10.23c:86fda89 x86_64-allyesconfig 86fda89
+2012-10-24 08:33:53 lkp-mb01 devel-lkp-mb01-i386-2012-10-24-08-21:abca2b6 i386-randconfig-m041 abca2b6
+2012-10-24 08:35:06 snb rcu:rcu:nocb:9e0be6b x86_64-randconfig-s132 38be7d3

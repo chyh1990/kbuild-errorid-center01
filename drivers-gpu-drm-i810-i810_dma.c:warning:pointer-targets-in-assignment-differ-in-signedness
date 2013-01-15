@@ -1,0 +1,3 @@
+drivers/gpu/drm/i810/i810_dma.c:466:2: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-26 13:59:46 bee drm-intel:drm-intel-nightly:8101b08 x86_64-randconfig-x078 112c375

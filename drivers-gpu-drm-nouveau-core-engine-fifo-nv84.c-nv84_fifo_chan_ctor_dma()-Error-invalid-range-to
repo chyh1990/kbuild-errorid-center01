@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/engine/fifo/nv84.c:164 nv84_fifo_chan_ctor_dma() Error invalid range 4096 to -1
+
+2012-09-19 00:36:23 kbuild nouveau:master:ebb0b19 i386-allyesconfig ebb0b19
+2012-09-19 02:20:43 kbuild i386 email notified

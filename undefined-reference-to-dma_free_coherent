@@ -1,0 +1,3 @@
+8250.c:(.text+0xf5a0): undefined reference to `dma_free_coherent'
+
+2012-10-09 17:56:59 inn internal-ashishki:rtit-proto:ff40f57 m32r-usrv_defconfig 8699a27

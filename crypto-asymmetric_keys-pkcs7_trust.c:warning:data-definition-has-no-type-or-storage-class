@@ -1,0 +1,3 @@
+crypto/asymmetric_keys/pkcs7_trust.c:144:1: warning: data definition has no type or storage class [enabled by default]
+
+2012-10-30 23:54:01 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 0bcc9f3

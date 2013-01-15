@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfa_svc.c:1784 bfa_lps_send_set_n2n_pid() error: potential NULL dereference 'm'.
+
+2013-01-09 13:27:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,4 @@
+include/linux/audit.h:536:1: error: expected ';' before '}' token
+
+2012-09-27 16:59:21 kbuild next:akpm:5ca573b x86_64-allmodconfig c687b95
+2012-09-27 17:10:31 kbuild x86_64 email notified

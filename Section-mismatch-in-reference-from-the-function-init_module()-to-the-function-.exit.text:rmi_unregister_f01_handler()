@@ -1,0 +1,4 @@
+WARNING: drivers/input/rmi4/rmi_core.o(.init.text+0xe5): Section mismatch in reference from the function init_module() to the function .exit.text:rmi_unregister_f01_handler()
+
+2012-11-28 14:23:44 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 1326b47
+2012-11-28 14:29:01 kbuild x86_64 email notified

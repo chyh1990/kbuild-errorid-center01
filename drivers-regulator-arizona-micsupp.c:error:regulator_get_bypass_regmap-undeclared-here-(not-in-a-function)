@@ -1,0 +1,4 @@
+drivers/regulator/arizona-micsupp.c:86:16: error: 'regulator_get_bypass_regmap' undeclared here (not in a function)
+
+2012-08-29 02:25:43 kbuild regulator:for-next:2476106 x86_64-allmodconfig 211d6ef
+2012-08-29 02:25:44 kbuild x86_64 email notified

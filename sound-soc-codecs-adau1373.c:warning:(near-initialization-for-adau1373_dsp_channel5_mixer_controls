@@ -1,0 +1,3 @@
+sound/soc/codecs/adau1373.c:527:8: warning: (near initialization for 'adau1373_dsp_channel5_mixer_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:08:45 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

@@ -1,0 +1,3 @@
+drivers/net/ethernet/qlogic/qlcnic/qlcnic_hw.c:1567:60: sparse: cast from restricted __le32
+
+2012-11-18 16:27:54 snb net-next:master:75fe83c i386-allmodconfig 75fe83c

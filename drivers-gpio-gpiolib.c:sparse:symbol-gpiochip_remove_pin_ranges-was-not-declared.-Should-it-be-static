@@ -1,0 +1,3 @@
+drivers/gpio/gpiolib.c:1223:6: sparse: symbol 'gpiochip_remove_pin_ranges' was not declared. Should it be static?
+
+2012-11-06 18:17:11 snb devel-snb-i386-2012-11-06-17-54:3643f81 i386-allmodconfig 3643f81

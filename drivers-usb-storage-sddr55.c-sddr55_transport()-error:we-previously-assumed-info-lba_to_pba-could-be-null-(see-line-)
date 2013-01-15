@@ -1,0 +1,3 @@
+drivers/usb/storage/sddr55.c:946 sddr55_transport() error: we previously assumed 'info->lba_to_pba' could be null (see line 836)
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

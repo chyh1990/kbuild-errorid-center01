@@ -1,0 +1,3 @@
+security/keys/gc.c:49:2: warning: excess elements in struct initializer [enabled by default]
+
+2012-09-26 06:15:03 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

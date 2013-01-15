@@ -1,0 +1,3 @@
+drivers/media/video/tlg2300/pd-main.c:195 poseidon_delete() warn: can 'pd' even be NULL?
+
+2012-09-12 11:57:02 kbuild security:next:a40695e i386-allyesconfig a40695e

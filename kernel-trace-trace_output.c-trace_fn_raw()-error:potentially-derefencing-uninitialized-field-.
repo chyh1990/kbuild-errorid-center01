@@ -1,0 +1,3 @@
+kernel/trace/trace_output.c:950 trace_fn_raw() error: potentially derefencing uninitialized 'field'.
+
+2013-01-09 13:27:49 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

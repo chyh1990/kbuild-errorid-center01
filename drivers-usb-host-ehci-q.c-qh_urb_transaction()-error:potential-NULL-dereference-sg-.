@@ -1,0 +1,3 @@
+drivers/usb/host/ehci-q.c:709 qh_urb_transaction() error: potential NULL dereference 'sg'.
+
+2013-01-09 13:27:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

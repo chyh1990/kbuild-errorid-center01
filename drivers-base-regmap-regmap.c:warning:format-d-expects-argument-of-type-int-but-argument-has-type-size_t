@@ -1,0 +1,4 @@
+drivers/base/regmap/regmap.c:866:4: warning: format '%d' expects argument of type 'int', but argument 5 has type 'size_t' [-Wformat]
+
+2012-10-05 02:01:36 bee regmap:topic:range:123cd1b x86_64-allyesconfig 123cd1b
+2012-10-05 02:01:36 bee x86_64 email notified

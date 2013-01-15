@@ -1,0 +1,6 @@
+drivers/base/firmware_class.c:1169:2: error: 'dpm_list' undeclared (first use in this function)
+
+2012-08-17 05:04:27 kbuild driver-core:driver-core-next:b47a81d i386-randconfig-k725 b47a81d
+2012-08-17 05:12:00 snb driver-core:driver-core-next:1508d81 x86_64-randconfig-s110 1508d81
+2012-08-17 05:18:55 kbuild driver-core:driver-core-next:9baf322 i386-randconfig-k725 9baf322
+2012-08-17 22:54:02 hive driver-core:driver-core-next:c08f677 x86_64-randconfig-h721 c08f677

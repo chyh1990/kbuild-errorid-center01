@@ -1,0 +1,4 @@
+io.c:(.init.text+0x1c80): undefined reference to `init_current_timer_delay'
+
+2012-10-02 11:56:44 snb shawnguo:for-3.8:41c54ad arm-omap2plus_defconfig 41c54ad
+2012-10-15 15:57:10 snb shawnguo:imx:dt-for-3.8:23b91e9 arm-omap2plus_defconfig 23b91e9

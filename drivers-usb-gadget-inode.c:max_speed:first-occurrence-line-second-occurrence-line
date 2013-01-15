@@ -1,0 +1,3 @@
+drivers/usb/gadget/inode.c:1765:48-49: max_speed: first occurrence line 1767, second occurrence line 1769
+
+2012-08-15 18:25:11 snb userns:userns-always-map-user-v46:2715569 i386-allmodconfig 0966557

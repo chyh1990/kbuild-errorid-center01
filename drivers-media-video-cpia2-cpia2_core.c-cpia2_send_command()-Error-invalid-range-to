@@ -1,0 +1,3 @@
+drivers/media/video/cpia2/cpia2_core.c:527 cpia2_send_command() Error invalid range 4096 to -1
+
+2012-09-07 22:42:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

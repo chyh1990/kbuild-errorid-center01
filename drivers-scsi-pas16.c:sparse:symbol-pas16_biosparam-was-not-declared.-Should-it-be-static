@@ -1,0 +1,3 @@
+drivers/scsi/pas16.c:511:5: sparse: symbol 'pas16_biosparam' was not declared. Should it be static?
+
+2013-01-09 13:07:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/scsi/dpt_i2o.c:2244:31: sparse: incorrect type in assignment (different address spaces)
+
+2013-01-09 13:07:47 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

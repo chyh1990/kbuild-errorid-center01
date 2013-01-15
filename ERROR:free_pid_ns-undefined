@@ -1,0 +1,4 @@
+ERROR: "free_pid_ns" [net/ipv6/ipv6.ko] undefined!
+
+2012-08-15 13:19:17 kbuild userns:for-next:0625c88 x86_64-allmodconfig 4f82f45
+2012-08-15 13:19:17 kbuild x86_64 email notified

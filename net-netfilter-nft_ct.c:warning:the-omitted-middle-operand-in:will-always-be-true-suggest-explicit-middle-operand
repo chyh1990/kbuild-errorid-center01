@@ -1,0 +1,3 @@
+net/netfilter/nft_ct.c:77:46: warning: the omitted middle operand in ?: will always be 'true', suggest explicit middle operand [-Wparentheses]
+
+2012-10-28 13:38:18 snb nf-next:nf_tables-experiments:869f261 m68k-allmodconfig 869f261

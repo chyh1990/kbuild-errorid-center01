@@ -1,0 +1,4 @@
+drivers/ata/ahci_platform.c:129:2: warning: initialization discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-29 19:47:36 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig 1b01410
+2012-09-29 19:48:10 kbuild x86_64 email notified

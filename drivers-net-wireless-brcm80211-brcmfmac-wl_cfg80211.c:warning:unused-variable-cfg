@@ -1,0 +1,4 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:3513:30: warning: unused variable 'cfg' [-Wunused-variable]
+
+2012-11-17 07:45:46 snb wireless-next:master:57527f8 x86_64-randconfig-s287 1332e26
+2012-11-17 07:50:11 snb x86_64 email notified

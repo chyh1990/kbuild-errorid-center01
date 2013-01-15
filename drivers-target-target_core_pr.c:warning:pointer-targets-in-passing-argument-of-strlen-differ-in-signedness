@@ -1,0 +1,3 @@
+drivers/target/target_core_pr.c:1953:3: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness [-Wpointer-sign]
+
+2012-09-26 14:12:41 bee block:for-3.7:core:62ac665 x86_64-allyesconfig b87570f

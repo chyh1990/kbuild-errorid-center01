@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_acpi.c:206:3: warning: format '%lu' expects argument of type 'long unsigned int', but argument 2 has type 'size_t' [-Wformat]
+
+2012-10-03 09:08:01 bee drm:drm-next:df86b57 i386-randconfig-b101 df86b57

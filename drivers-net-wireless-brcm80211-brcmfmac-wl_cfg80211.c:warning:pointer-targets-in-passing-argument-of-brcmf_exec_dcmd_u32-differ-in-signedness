@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:416:2: warning: pointer targets in passing argument 3 of 'brcmf_exec_dcmd_u32' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:17 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

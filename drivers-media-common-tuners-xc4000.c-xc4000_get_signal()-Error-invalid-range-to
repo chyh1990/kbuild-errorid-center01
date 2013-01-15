@@ -1,0 +1,3 @@
+drivers/media/common/tuners/xc4000.c:1511 xc4000_get_signal() Error invalid range -8 to -64744
+
+2012-09-07 22:42:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

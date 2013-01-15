@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nouveau_state.c:1214:1-7: ERROR: missing iounmap; ioremap on line 1047 and execution via conditional on line 1100
+
+2012-08-06 15:36:59 snb i386 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d a81c5464f8b880ebf646ffe31c5550dd17ca5174
+2012-08-06 15:37:00 snb i386 email notified

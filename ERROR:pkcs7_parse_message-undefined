@@ -1,0 +1,11 @@
+ERROR: "pkcs7_parse_message" undefined!
+
+2012-10-30 08:55:53 snb modsign:devel-pekey:08a07ab i386-allmodconfig 08a07ab
+2012-10-30 10:49:28 kbuild devel-kbuild-powerpc-2012-10-30-10-30:cd88286 powerpc-allmodconfig cd88286
+2012-10-30 11:57:38 lkp-mb01 devel-lkp-mb01-s390-2012-10-30-10-53:776fdd6 s390-allmodconfig 776fdd6
+2012-10-30 12:24:40 lkp-mb01 devel-lkp-mb01-i386-2012-10-30-11-52:6a08608 i386-randconfig-m101 6a08608
+2012-10-30 12:30:45 bee devel-bee-i386-2012-10-30-12-13:fffa968 i386-randconfig-b361 fffa968
+2012-10-30 23:54:00 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 0bcc9f3
+2012-10-31 00:43:11 lkp-mb01 devel-lkp-mb01-s390-2012-10-31-00-18:e1dc3f1 s390-allmodconfig e1dc3f1
+2012-10-31 01:03:28 snb devel-snb-i386-2012-10-31-00-19:371a70b i386-allmodconfig 371a70b
+2012-10-31 01:04:12 snb devel-snb-arm-2012-10-31-00-02:8236002 m68k-allmodconfig 8236002

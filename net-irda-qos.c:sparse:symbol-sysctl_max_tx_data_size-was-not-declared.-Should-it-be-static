@@ -1,0 +1,3 @@
+net/irda/qos.c:80:14: sparse: symbol 'sysctl_max_tx_data_size' was not declared. Should it be static?
+
+2013-01-09 12:56:33 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

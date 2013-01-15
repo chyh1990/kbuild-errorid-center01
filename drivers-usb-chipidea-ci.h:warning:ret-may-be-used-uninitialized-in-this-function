@@ -1,0 +1,3 @@
+drivers/usb/chipidea/ci.h:183:6: warning: 'ret' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-17 03:50:26 kbuild imx:work:efikasb:4de3051 x86_64-allmodconfig f874046

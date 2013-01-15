@@ -1,0 +1,3 @@
+drivers/input/misc/da9052_onkey.c:91 da9052_onkey_probe() info: why not propagate 'irq' from platform_get_irq_byname() instead of -22?
+
+2012-09-11 23:43:24 kbuild sound-unstable:master:784eee3 i386-allyesconfig 432c641

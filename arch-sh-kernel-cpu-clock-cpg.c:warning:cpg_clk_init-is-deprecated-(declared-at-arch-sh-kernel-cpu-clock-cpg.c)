@@ -1,0 +1,3 @@
+arch/sh/kernel/cpu/clock-cpg.c:73:2: warning: 'cpg_clk_init' is deprecated (declared at arch/sh/kernel/cpu/clock-cpg.c:46) [-Wdeprecated-declarations]
+
+2013-01-09 13:23:37 lkp-mb01 next:akpm:ef2dca2 sh-titan_defconfig ef2dca2

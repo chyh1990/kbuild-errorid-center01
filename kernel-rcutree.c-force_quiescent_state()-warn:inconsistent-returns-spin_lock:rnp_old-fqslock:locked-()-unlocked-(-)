@@ -1,0 +1,3 @@
+kernel/rcutree.c:2234 force_quiescent_state() warn: inconsistent returns spin_lock:&rnp_old->fqslock: locked (2218) unlocked (2230,2234)
+
+2013-01-09 13:26:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

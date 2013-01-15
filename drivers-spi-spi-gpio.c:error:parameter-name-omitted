@@ -1,0 +1,4 @@
+drivers/spi/spi-gpio.c:389:79: error: parameter name omitted
+
+2012-09-20 23:44:53 kbuild broonie-misc:spi-next:337c422 x86_64-allmodconfig 38ab18c
+2012-09-20 23:44:54 kbuild x86_64 email notified

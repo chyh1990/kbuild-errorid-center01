@@ -1,0 +1,3 @@
+fs/nfsd/nfs4callback.c:655:27: sparse: incorrect type in assignment (invalid types)
+
+2012-12-22 14:20:27 snb userns:userns-always-map-user-v80:9e75958 i386-allmodconfig 9e75958

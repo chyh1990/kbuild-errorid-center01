@@ -1,0 +1,3 @@
+drivers/scsi/libiscsi.c:507:9: sparse: incompatible types in comparison expression (different modifiers)
+
+2012-10-25 13:33:18 snb next:master:2253213 i386-allmodconfig 2253213

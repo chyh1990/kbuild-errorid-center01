@@ -1,0 +1,3 @@
+security/smack/smack_lsm.c:221:2-11: code aligned with following code on line 223
+
+2012-07-25 18:02:02 snb i386 /cc/kernel-tests/commit-list/linus:master:bdc0077 e05644e17e744315bce12b0948cdc36910b9a76e

@@ -1,0 +1,3 @@
+drivers/scsi/hpsa.c:1247:4: warning: 'asc' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-10 00:36:22 snb perf:perf:core:2814eb0 x86_64-randconfig-s288 26198c2

@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath9k/main.c:1915 ath9k_wow_add_disassoc_deauth_pattern() warn: function puts 536 bytes on stack
+
+2013-01-09 13:27:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

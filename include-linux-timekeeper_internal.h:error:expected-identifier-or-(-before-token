@@ -1,0 +1,3 @@
+include/linux/timekeeper_internal.h:101:1: error: expected identifier or '(' before '{' token
+
+2012-09-22 06:37:51 snb time:fortglx:3.7:time:f9bb3ff i386-alldefconfig f9bb3ff

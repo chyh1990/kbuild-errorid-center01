@@ -1,0 +1,3 @@
+drivers/input/touchscreen/edt-ft5x06.c:494:11-43: WARNING opportunity for simple_open, see also structure on line 579
+
+2012-09-16 22:45:32 snb arm-soc:fixes:2bc733e i386-allmodconfig 2bc733e

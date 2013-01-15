@@ -1,0 +1,4 @@
+arch/powerpc/platforms/pseries/eeh_pe.c:217:23: error: 'eeh_pe_get' defined but not used [-Werror=unused-function]
+
+2012-09-10 10:32:33 kbuild powerpc:next:4715fed powerpc-defconfig 22f4ab1
+2012-09-10 10:32:34 kbuild powerpc email notified

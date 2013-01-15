@@ -1,0 +1,3 @@
+drivers/scsi/fnic/fnic_scsi.c:303 fnic_queue_wq_copy_desc() error: potential NULL dereference 'rport'.
+
+2013-01-09 13:26:25 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

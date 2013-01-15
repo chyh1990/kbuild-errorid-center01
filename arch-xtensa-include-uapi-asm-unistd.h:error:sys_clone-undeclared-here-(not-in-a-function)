@@ -1,0 +1,19 @@
+arch/xtensa/include/uapi/asm/unistd.h:263:1: error: 'sys_clone' undeclared here (not in a function)
+
+2012-11-01 07:48:42 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-06-45:04c11ef xtensa-common_defconfig 04c11ef
+2012-11-01 11:59:50 lkp-mb01 signal:untested:ceb7239 xtensa-common_defconfig ceb7239
+2012-11-03 08:44:34 lkp-mb01 signal:untested:2acea0d xtensa-common_defconfig 2acea0d
+2012-11-11 01:26:59 lkp-mb01 signal:untested:dea02d9 xtensa-common_defconfig dea02d9
+2012-11-11 04:37:24 lkp-mb01 signal:untested:5c81988 xtensa-common_defconfig 5c81988
+2012-11-17 12:35:23 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-11-53:df2d8ef xtensa-common_defconfig df2d8ef
+2012-11-17 13:32:25 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-12-37:cb861c9 xtensa-common_defconfig cb861c9
+2012-11-17 13:49:02 lkp-mb01 signal:untested:85c66bf xtensa-common_defconfig 85c66bf
+2012-11-18 02:29:14 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-18-02-02:aa6dc2d xtensa-common_defconfig aa6dc2d
+2012-11-18 13:44:57 lkp-mb01 signal:for-michal:a0f8504 xtensa-common_defconfig a0f8504
+2012-11-21 16:54:18 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-21-15-43:6d7fe72 xtensa-common_defconfig 6d7fe72
+2012-11-27 04:09:18 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-27-03-28:5187cbe xtensa-common_defconfig 5187cbe
+2012-11-27 15:32:33 lkp-mb01 next:master:ce2931a xtensa-common_defconfig ce2931a
+2012-11-27 16:23:58 lkp-mb01 next:akpm:8c02459 xtensa-common_defconfig 8c02459
+2012-11-28 16:06:19 lkp-mb01 next:master:c2b2c8c xtensa-common_defconfig c2b2c8c
+2012-11-28 19:46:36 lkp-mb01 next:akpm:bd3b426 xtensa-common_defconfig bd3b426
+2012-12-01 07:46:43 inn internal-ashishki:ci-watup:7a4d9f0 xtensa-common_defconfig a283d97

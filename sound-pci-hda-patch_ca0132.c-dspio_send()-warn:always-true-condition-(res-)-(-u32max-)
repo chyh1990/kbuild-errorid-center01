@@ -1,0 +1,3 @@
+sound/pci/hda/patch_ca0132.c:707 dspio_send() warn: always true condition '(res >= 0) => (0-u32max >= 0)'
+
+2012-12-18 01:04:26 kbuild devel-kbuild-i386-2012-12-17-23-55:c5b54ae i386-allyesconfig c5b54ae

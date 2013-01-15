@@ -1,0 +1,3 @@
+drivers/net/ethernet/mellanox/mlx4/mcg.c:654:14: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2012-10-01 11:59:21 kbuild infiniband:for-next:c99517c x86_64-allmodconfig 431ee27

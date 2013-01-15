@@ -1,0 +1,3 @@
+drivers/dma/intel_mid_dma.c:938:3: warning: pointer targets in passing argument 1 of 'get_ch_index' differ in signedness [-Wpointer-sign]
+
+2012-09-26 19:38:52 bee asoc:for-next:37ebd5b x86_64-randconfig-x074 d0e12f3

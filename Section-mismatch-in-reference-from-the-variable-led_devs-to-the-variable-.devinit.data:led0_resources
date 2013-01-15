@@ -1,0 +1,4 @@
+WARNING: drivers/mfd/88pm860x.o(.data+0x58): Section mismatch in reference from the variable led_devs to the variable .devinit.data:led0_resources
+
+2012-09-11 19:01:16 snb mfd:for-next:9235695 x86_64-randconfig-s295 894fc8f
+2012-09-11 19:01:17 snb x86_64 email notified

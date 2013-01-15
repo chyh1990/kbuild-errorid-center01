@@ -1,0 +1,4 @@
+drivers/regulator/tps6586x-regulator.c:361:8: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2012-11-15 13:35:29 bee regulator:topic:tps6586x:64e4816 powerpc-allyesconfig 64e4816
+2012-11-15 13:35:35 bee powerpc email notified

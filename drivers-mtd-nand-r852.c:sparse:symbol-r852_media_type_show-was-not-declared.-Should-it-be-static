@@ -1,0 +1,3 @@
+drivers/mtd/nand/r852.c:589:9: sparse: symbol 'r852_media_type_show' was not declared. Should it be static?
+
+2013-01-09 12:58:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

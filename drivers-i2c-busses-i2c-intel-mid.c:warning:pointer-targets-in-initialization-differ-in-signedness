@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-intel-mid.c:303:1: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:08:37 bee samsung:v4l-next:fa54a52 x86_64-randconfig-x065 1cd2c27

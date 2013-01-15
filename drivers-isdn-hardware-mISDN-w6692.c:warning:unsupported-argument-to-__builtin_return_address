@@ -1,0 +1,3 @@
+drivers/isdn/hardware/mISDN/w6692.c:1180:2: warning: unsupported argument to '__builtin_return_address' [enabled by default]
+
+2012-07-22 18:29:47 hive ia64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

@@ -1,0 +1,4 @@
+block/cfq-iosched.c:1257:10: error: implicit declaration of function 'cfqg_flat_parent' [-Werror=implicit-function-declaration]
+
+2012-12-15 06:23:53 bee cgroup:blkcg-cfq-hierarchy:a783531 x86_64-randconfig-x792 b59e2f3
+2012-12-15 06:24:13 bee x86_64 email notified

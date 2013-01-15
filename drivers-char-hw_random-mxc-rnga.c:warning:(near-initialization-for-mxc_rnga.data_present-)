@@ -1,0 +1,3 @@
+drivers/char/hw_random/mxc-rnga.c:136:2: warning: (near initialization for 'mxc_rnga.data_present') [enabled by default]
+
+2012-09-19 05:48:55 snb memcg:since-3.5:7f09675 arm-imx_v6_v7_defconfig 7f09675

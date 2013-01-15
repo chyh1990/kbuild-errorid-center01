@@ -1,0 +1,3 @@
+drivers/staging/serqt_usb2/serqt_usb2.c:306:12: warning: variable 'flag_data' set but not used [-Wunused-but-set-variable]
+
+2012-09-26 06:42:29 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

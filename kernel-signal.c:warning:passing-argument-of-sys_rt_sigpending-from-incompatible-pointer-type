@@ -1,0 +1,3 @@
+kernel/signal.c:2712:2: warning: passing argument 1 of 'sys_rt_sigpending' from incompatible pointer type [enabled by default]
+
+2012-12-25 12:15:14 hive signal:master:a29045d x86_64-randconfig-h012 a29045d

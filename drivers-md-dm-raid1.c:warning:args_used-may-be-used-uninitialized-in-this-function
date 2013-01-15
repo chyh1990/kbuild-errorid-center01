@@ -1,0 +1,3 @@
+drivers/md/dm-raid1.c:1048:7: warning: 'args_used' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 13:54:29 bee yinghai:master:483ac9c i386-randconfig-b034 483ac9c

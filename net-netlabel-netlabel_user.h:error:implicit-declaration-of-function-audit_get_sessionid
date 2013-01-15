@@ -1,0 +1,4 @@
+net/netlabel/netlabel_user.h:54:2: error: implicit declaration of function 'audit_get_sessionid' [-Werror=implicit-function-declaration]
+
+2012-09-26 20:58:00 snb next:akpm:dad0019 x86_64-randconfig-s002 f1e2629
+2012-09-26 20:59:03 snb x86_64 email notified

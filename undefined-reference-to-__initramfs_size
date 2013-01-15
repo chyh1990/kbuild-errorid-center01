@@ -1,0 +1,15 @@
+initramfs.c:(.init.text+0x22c1): undefined reference to `__initramfs_size'
+
+2013-01-15 11:18:27 kbuild net:master:daf3ec6 x86_64-allmodconfig daf3ec6
+2013-01-15 11:56:47 kbuild trace:tip:perf:urgent-3:250bfd3 x86_64-allmodconfig 2df8f8a
+2013-01-15 12:12:56 kbuild next:master:371450d x86_64-allmodconfig 371450d
+2013-01-15 12:20:21 kbuild devel-kbuild-x86_64-2013-01-15-12-13:1233fe4 x86_64-allmodconfig 1233fe4
+2013-01-15 12:26:28 kbuild next:akpm:12dd7dc x86_64-allmodconfig d50cd7c
+2013-01-15 12:42:10 kbuild linus:master:406089d x86_64-allmodconfig 406089d
+2013-01-15 13:25:49 kbuild yinghai:for-x86-boot:e6bee79 x86_64-allmodconfig 64cfa5d
+2013-01-15 13:54:32 kbuild kgene-samsung:for-next:4415499 x86_64-allmodconfig 4415499
+2013-01-15 14:24:21 kbuild lunn:mvebu-drivers:60347b7 x86_64-allmodconfig d01cfbc
+2013-01-15 15:04:03 kbuild sound:master:5fb5739 x86_64-allmodconfig 5fb5739
+2013-01-15 15:05:10 kbuild sound:for-linus:2e4c4db x86_64-allmodconfig b98ae27
+2013-01-15 15:32:50 kbuild mpc5xxx:k6-devel-v3.8-rc3:b60871e x86_64-allmodconfig 1e7fb36
+2013-01-15 15:43:54 kbuild sound-unstable:master:6299653 x86_64-allmodconfig 0a93bce

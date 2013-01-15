@@ -1,0 +1,20 @@
+fs/btrfs/send.c:215:4: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-07-26 07:56:40 hive x86_64 /cc/kernel-tests/commit-list/btrfs:for-dave-only:b24baf6 31db9f7c23fbf7e95026143f79645de6507b583b
+2012-07-26 11:10:32 lkp-mb01 s390 /cc/kernel-tests/commit-list/btrfs:next:b24baf6 31db9f7c23fbf7e95026143f79645de6507b583b
+2012-07-27 07:21:06 lkp-mb01 s390 /cc/kernel-tests/commit-list/linus:master:e2aed8d e2aed8dfa50bb061747eeb14e6af099554a03b76
+2012-07-27 08:13:00 hive x86_64 /cc/kernel-tests/commit-list/btrfs:for-linus-merged:55f03c1 b002cc8296771689949243f5c625bd727a2aa6fa
+2012-07-27 08:26:16 hive x86_64 /cc/kernel-tests/commit-list/linus:master:a9197f9 a9197f903f72a81393932d452379c8847fade544
+2012-07-27 09:52:07 lkp-mb01 s390 /cc/kernel-tests/commit-list/linus:master:6ee127b a9197f903f72a81393932d452379c8847fade544
+2012-07-31 12:35:06 snb x86_64 cc685841529b91a3bac0d0ff6bcd6a9aaadede50 /cc/kernel-tests/commit-list/acpi:release:cc68584
+2012-07-31 12:35:30 snb x86_64 46c96c934e9451de8a3ef1a7fd69fa3b34cf1ebd /cc/kernel-tests/commit-list/acpi:next:a72551d
+2012-08-12 00:49:41 kbuild powerpc 31db9f7c23fbf7e95026143f79645de6507b583b /cc/kernel-tests/commit-list/btrfs:for-linus:2e4a324
+2012-08-18 02:09:19 hive josef-btrfs:fsync-work:6792139 mips-allmodconfig be58ae1
+2012-08-25 12:58:22 hive josef-btrfs:master:9405a0b mips-allmodconfig 007766b
+2012-08-28 04:15:10 snb josef-btrfs:master:c4a9a64 m68k-allmodconfig dc90342
+2012-08-29 07:05:29 hive josef-btrfs:master:24c84c9 mips-allmodconfig aade2b6
+2012-08-29 07:50:53 snb btrfs:for-linus:256dd1b x86_64-randconfig-s191 aa2ffd0
+2012-08-29 12:16:58 snb btrfs:send-recv:5c4e935 x86_64-randconfig-s191 66657b3
+2012-08-30 02:51:28 hive josef-btrfs:master:452cb0f mips-allmodconfig 14e435a
+2012-08-31 11:41:36 hive josef-btrfs:master:2e5d002 ia64-allmodconfig dc90342
+2012-09-15 22:17:05 hive btrfs:for-linus:f3a87f1 mips-allmodconfig 6fc823b

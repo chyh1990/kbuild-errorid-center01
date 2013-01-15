@@ -1,0 +1,22 @@
+drivers/mmc/host/sdhci-tegra.c:30:29: fatal error: mach/gpio-tegra.h: No such file or directory
+
+2012-10-16 00:22:26 snb mac80211:master:6863255 arm-tegra_defconfig 6863255
+2012-10-16 07:28:33 snb nf:master:939ccba arm-tegra_defconfig 939ccba
+2012-10-16 11:44:54 snb samsung:exynos-drm-fixes:922ad58 arm-tegra_defconfig 922ad58
+2012-10-18 20:54:39 snb samsung:exynos-drm-next-iommu:44196c7 arm-tegra_defconfig 44196c7
+2012-10-19 02:35:30 snb mac80211:master:279f0f5 arm-tegra_defconfig 279f0f5
+2012-10-22 12:18:14 snb samsung:exynos-drm-next-iommu:4a7e511 arm-tegra_defconfig 4a7e511
+2012-10-22 20:36:29 snb nf-next:master:bcc58c4 arm-tegra_defconfig bcc58c4
+2012-10-23 09:52:26 snb ipvs-next:master:54d83ef arm-tegra_defconfig 54d83ef
+2012-10-23 18:32:38 snb kvm:master:c5e015d arm-tegra_defconfig c5e015d
+2012-10-23 23:35:56 snb samsung:exynos-drm-next-iommu:4bb1684 arm-tegra_defconfig 4bb1684
+2012-10-27 22:24:18 snb kvm-ppc:kvm-ppc-next:4c3d168 arm-tegra_defconfig 4c3d168
+2012-10-28 09:40:42 snb kvm:linux-next:8ca40a7 arm-tegra_defconfig 8ca40a7
+2012-10-28 12:27:49 snb mac80211:for-john:2ac64cd arm-tegra_defconfig 2ac64cd
+2012-10-28 12:30:04 snb mac80211:master:badecb0 arm-tegra_defconfig badecb0
+2012-10-29 18:47:49 snb mac80211:master:6dbda2d arm-tegra_defconfig 6dbda2d
+2012-10-31 06:41:16 snb kvm-ppc:for-upstream:8b5869a arm-tegra_defconfig 8b5869a
+2012-10-31 07:40:07 snb kvm-ppc:kvm-ppc-next:f534a53 arm-tegra_defconfig f534a53
+2012-11-01 01:22:41 snb mac80211:for-john:35f5149 arm-tegra_defconfig 35f5149
+2012-11-03 00:03:29 snb samsung:exynos-drm-next-g2d:9e7ecba arm-tegra_defconfig 9e7ecba
+2012-11-18 00:34:48 snb mac80211:for-john:38c1a01 arm-tegra_defconfig 38c1a01

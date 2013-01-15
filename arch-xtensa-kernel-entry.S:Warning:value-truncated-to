@@ -1,0 +1,3 @@
+arch/xtensa/kernel/entry.S:1545: Warning: value 0xffffffff30000000 truncated to 0x30000000
+
+2012-10-31 17:14:43 lkp-mb01 glommer-memcg:slab-common:kmalloc:b59d450 xtensa-common_defconfig b59d450

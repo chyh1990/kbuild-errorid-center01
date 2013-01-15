@@ -1,0 +1,3 @@
+drivers/idle/i7300_idle.c:423:2: warning: 'got_ctl' is used uninitialized in this function [-Wuninitialized]
+
+2012-09-22 22:46:30 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 70b85ef

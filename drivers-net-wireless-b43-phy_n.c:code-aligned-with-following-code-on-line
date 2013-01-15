@@ -1,0 +1,4 @@
+drivers/net/wireless/b43/phy_n.c:535:1-56: code aligned with following code on line 536
+
+2012-08-07 04:46:56 snb i386 /cc/kernel-tests/commit-list/wireless-testing:master:e739301 572d37a48557e7d38a5d9b5857627bc29f33a26c
+2012-08-07 04:46:57 snb i386 email notified

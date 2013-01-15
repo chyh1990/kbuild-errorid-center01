@@ -1,0 +1,3 @@
+security/keys/request_key.c:86:14: warning: unused variable 'keyring' [-Wunused-variable]
+
+2012-09-26 06:15:04 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

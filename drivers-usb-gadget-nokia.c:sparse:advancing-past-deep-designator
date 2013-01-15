@@ -1,0 +1,3 @@
+drivers/usb/gadget/nokia.c:73:9: sparse: advancing past deep designator
+
+2012-07-23 21:33:23 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

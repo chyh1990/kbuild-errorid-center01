@@ -1,0 +1,3 @@
+drivers/media/video/videobuf-vmalloc.c:273:48: sparse: undefined identifier 'VM_RESERVED'
+
+2012-10-15 17:28:53 snb glommer-memcg:kmemcg-slab:ff42632 i386-allmodconfig ff42632

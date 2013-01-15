@@ -1,0 +1,3 @@
+drivers/firmware/edd.c:553 edd_has_edd30() Error invalid range 4126 to 72
+
+2012-09-07 22:42:15 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

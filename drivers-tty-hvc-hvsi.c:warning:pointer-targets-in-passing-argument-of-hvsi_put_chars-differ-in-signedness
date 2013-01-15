@@ -1,0 +1,3 @@
+drivers/tty/hvc/hvsi.c:852:2: warning: pointer targets in passing argument 2 of 'hvsi_put_chars' differ in signedness [-Wpointer-sign]
+
+2012-09-26 08:39:26 bee tty:tty-next:4dac211 powerpc-allyesconfig 4dac211

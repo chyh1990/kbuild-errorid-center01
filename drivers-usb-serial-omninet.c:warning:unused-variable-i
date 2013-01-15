@@ -1,0 +1,4 @@
+drivers/usb/serial/omninet.c:165:6: warning: unused variable 'i' [-Wunused-variable]
+
+2012-09-18 21:13:53 kbuild usb:usb-next:0776495 x86_64-allmodconfig 0776495
+2012-09-18 22:00:17 kbuild x86_64 email notified

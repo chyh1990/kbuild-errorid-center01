@@ -1,0 +1,3 @@
+crypto/cast6_generic.c:178:11: sparse: symbol 'cast6_s3' was not declared. Should it be static?
+
+2012-08-03 18:14:23 snb i386 /cc/kernel-tests/commit-list/next:akpm:6a01508 218492ab13821d6ba6dbbb2288f5a7026fe9fddd

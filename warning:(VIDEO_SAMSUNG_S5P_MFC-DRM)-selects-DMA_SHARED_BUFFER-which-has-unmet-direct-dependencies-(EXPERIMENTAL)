@@ -1,0 +1,4 @@
+warning: (VIDEO_SAMSUNG_S5P_MFC && DRM) selects DMA_SHARED_BUFFER which has unmet direct dependencies (EXPERIMENTAL)
+
+2012-08-17 11:10:44 hive samsung:v4l-fixes:7bbba59 x86_64-randconfig-h713 7bbba59
+2012-08-17 11:10:46 hive x86_64 email notified

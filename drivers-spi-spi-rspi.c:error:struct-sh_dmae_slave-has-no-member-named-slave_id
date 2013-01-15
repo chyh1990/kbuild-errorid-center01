@@ -1,0 +1,18 @@
+drivers/spi/spi-rspi.c:687:15: error: 'struct sh_dmae_slave' has no member named 'slave_id'
+
+2012-10-30 17:58:18 bee davinci:v3.8:defconfig:cb5a410 sh-allyesconfig cb5a410
+2012-11-04 23:18:24 bee cr:crtools-v3.7-rc2:7568812 sh-allyesconfig 6f0c058
+2012-11-08 23:04:18 bee kgene-samsung:next:gpio-samsung:343db4b sh-allyesconfig 6f0c058
+2012-11-09 15:33:56 bee random:dev:ec8f02d sh-allyesconfig ddffeb8
+2012-11-11 06:43:41 bee apparmor:v3.6-aa2.8:663d5bb sh-allyesconfig a0d271c
+2012-11-13 11:06:52 bee renesas:next:adb5641 sh-allyesconfig ddffeb8
+2012-11-15 16:07:01 bee slab:for-next:f1d58d7 sh-allyesconfig ddffeb8
+2012-11-19 11:29:50 bee m68k:m68k-v3.6:9f9e7e5 sh-allyesconfig a0d271c
+2012-11-19 14:09:57 bee renesas:devel:of:2a19fff sh-allyesconfig ddffeb8
+2012-11-23 04:53:32 bee logfs:master:3394661 sh-allyesconfig 5b716ac
+2012-11-26 12:12:51 bee mmc:mmc-next:1678258 sh-allyesconfig ddffeb8
+2012-11-27 11:51:06 bee renesas:devel:of:9fcbfcf sh-allyesconfig ddffeb8
+2012-11-28 23:37:00 bee iwlwifi-next:master:b4991f3 sh-allyesconfig ddffeb8
+2012-11-29 01:25:33 bee slave-dma:topic:dmaengine_dt:d4397a4 sh-allyesconfig d4397a4
+2012-12-02 23:34:56 bee regulator:topic:tps516312:dbc7051 sh-allyesconfig ddffeb8
+2012-12-03 09:36:36 bee mmc:mmc-next:21b765a sh-allyesconfig ddffeb8

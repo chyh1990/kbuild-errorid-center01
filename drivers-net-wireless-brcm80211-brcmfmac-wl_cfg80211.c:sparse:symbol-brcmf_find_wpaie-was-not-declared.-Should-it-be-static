@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmfmac/wl_cfg80211.c:2677:21: sparse: symbol 'brcmf_find_wpaie' was not declared. Should it be static?
+
+2012-09-29 04:38:34 snb devel-snb-i386-2012-09-29-04-26:2e31642 i386-allmodconfig 2e31642

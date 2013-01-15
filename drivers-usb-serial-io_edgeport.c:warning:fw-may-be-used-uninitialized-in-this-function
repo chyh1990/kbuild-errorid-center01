@@ -1,0 +1,3 @@
+drivers/usb/serial/io_edgeport.c:2866:18: warning: 'fw' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:05:49 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b033 d0aa742

@@ -1,0 +1,3 @@
+fs/xfs/xfs_icache.c:720:1: sparse: symbol '__xfs_inode_clear_reclaim' was not declared. Should it be static?
+
+2012-10-18 13:44:37 snb next:master:d646959 i386-allmodconfig d646959

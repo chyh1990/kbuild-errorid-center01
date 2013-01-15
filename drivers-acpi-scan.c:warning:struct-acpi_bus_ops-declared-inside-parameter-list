@@ -1,0 +1,3 @@
+drivers/acpi/scan.c:1253:14: warning: 'struct acpi_bus_ops' declared inside parameter list [enabled by default]
+
+2012-09-26 12:48:02 bee thermal:next:5d8d708 um-allyesconfig f4a821c

@@ -1,0 +1,5 @@
+kernel/module_signing.c:22:10: error: 'EKEYREJECTED' undeclared (first use in this function)
+
+2012-09-22 22:35:55 kbuild modsign:modsign-post-KS:54b842c x86_64-allmodconfig 9ea83c9
+2012-09-22 22:36:05 kbuild x86_64 email notified
+2012-09-25 04:17:21 kbuild modsign:modsign-post-KS:8d4f626 x86_64-allmodconfig 6977e69

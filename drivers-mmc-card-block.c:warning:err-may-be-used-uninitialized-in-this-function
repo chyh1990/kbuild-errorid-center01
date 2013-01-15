@@ -1,0 +1,3 @@
+drivers/mmc/card/block.c:370:6: warning: 'err' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-10 00:35:57 snb perf:perf:core:2814eb0 x86_64-randconfig-s283 26198c2

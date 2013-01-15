@@ -1,0 +1,9 @@
+kernel/sched/fair.c:3242:2: error: implicit declaration of function 'autonuma_possible' [-Werror=implicit-function-declaration]
+
+2012-09-11 00:46:45 lkp-mb01 aa:autonuma:addeaaa i386-randconfig-m041 23915bb
+2012-09-12 12:33:24 lkp-mb01 aa:autonuma:5a2d5ac i386-randconfig-m061 daf1aa2
+2012-09-13 01:20:20 kbuild aa:autonuma:7375cef x86_64-allmodconfig 21beea9
+2012-09-13 08:27:07 snb aa:autonuma:106e7d3 x86_64-randconfig-s304 58818e4
+2012-09-15 03:00:18 bee aa:autonuma25:63df72b i386-randconfig-b001 2e1b89f
+2012-09-15 23:24:15 lkp-mb01 aa:autonuma:63df72b blackfin-BF561-EZKIT-SMP_defconfig 2e1b89f
+2012-09-28 02:15:42 kbuild aa:autonuma:e7ba2c9 x86_64-allmodconfig bf86c16

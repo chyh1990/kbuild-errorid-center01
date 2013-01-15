@@ -1,0 +1,3 @@
+drivers/usb/serial/usb_wwan.c:496:11: warning: pointer targets in passing argument 5 of 'usb_wwan_setup_urb' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:28 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

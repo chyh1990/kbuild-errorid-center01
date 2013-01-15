@@ -1,0 +1,4 @@
+kernel/irq/irqdomain.c:331:2: error: implicit declaration of function 'of_irq_find_parent' [-Werror=implicit-function-declaration]
+
+2012-09-20 19:04:30 bee ux500:preview-for-next:3cc064b x86_64-allyesdebian 0493987
+2012-09-20 19:04:32 bee x86_64 email notified

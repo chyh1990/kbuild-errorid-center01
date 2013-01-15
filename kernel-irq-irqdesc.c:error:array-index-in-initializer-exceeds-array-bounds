@@ -1,0 +1,7 @@
+kernel/irq/irqdesc.c:244:2: error: array index in initializer exceeds array bounds
+
+2012-09-01 22:36:58 snb signal:for-next:fed65c8 m68k-allmodconfig 66105ba
+2012-09-01 22:43:40 snb signal:execve2:c3511bd m68k-allmodconfig 1000b81
+2012-09-01 22:49:54 snb slave-dma:next:b5f1433 m68k-allmodconfig b707c65
+2012-09-01 22:55:06 snb asoc:for-next:ba846b3 m68k-allmodconfig c921928
+2012-09-20 10:26:10 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

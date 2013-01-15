@@ -1,0 +1,4 @@
+fs/compat_ioctl.c:869:1: error: 'TIOCSRS485' undeclared here (not in a function)
+
+2012-09-22 08:28:23 hive tty:tty-next:ac57e7f mips-fuloong2e_defconfig ac57e7f
+2012-09-22 08:30:38 hive mips email notified

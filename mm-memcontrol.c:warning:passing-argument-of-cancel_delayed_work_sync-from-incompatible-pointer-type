@@ -1,0 +1,4 @@
+mm/memcontrol.c:3177:3: warning: passing argument 1 of 'cancel_delayed_work_sync' from incompatible pointer type [enabled by default]
+
+2012-10-30 21:08:50 kbuild glommer-memcg:kmemcg-slab:e295f6d x86_64-allmodconfig 81ac6b6
+2012-10-30 21:15:04 kbuild x86_64 email notified

@@ -1,0 +1,21 @@
+/bin/bash: keyctl: command not found
+
+2012-09-11 01:53:41 lkp-mb01 digsig:working:eec6995 i386-randconfig-m042 eec6995
+2012-09-11 01:56:10 lkp-mb01 digsig:modsig:7b7ad99 blackfin-BF561-EZKIT-SMP_defconfig 7b7ad99
+2012-09-11 02:46:02 lkp-mb01 digsig:next-integrity:cf059c2 blackfin-BF561-EZKIT-SMP_defconfig 51b743f
+2012-09-13 04:51:51 hive digsig:working:1b7139c m32r-m32104ut_defconfig 6537e2b
+2012-09-13 20:44:01 hive digsig:working:ca88a6a m32r-m32104ut_defconfig 3c880df
+2012-09-14 02:38:38 hive digsig:working:6ae64ea m32r-m32104ut_defconfig 6ae64ea
+2012-09-29 14:04:11 hive digsig:working:4dab799 mips-allmodconfig 4dab799
+2012-10-10 01:09:35 hive devel-hive-ia64-2012-10-10-00-26:c2f231b ia64-allmodconfig c2f231b
+2012-10-31 02:56:33 hive devel-hive-mips-2012-10-31-02-01:d60c4e4 mips-allmodconfig d60c4e4
+2012-10-31 03:01:05 hive devel-hive-ia64-2012-10-31-02-01:68c7dd0 ia64-allmodconfig 68c7dd0
+2012-10-31 22:11:01 hive devel-hive-mips-2012-10-31-21-17:9f7e39a mips-allmodconfig 9f7e39a
+2012-10-31 23:20:54 hive devel-hive-ia64-2012-10-31-22-14:afcf3ad ia64-allmodconfig afcf3ad
+2012-11-02 12:11:32 hive integrity:next-modsig2:8f3398e ia64-allmodconfig 8f3398e
+2012-11-09 20:46:30 hive devel-hive-mips-2012-11-09-20-26:0a3813c mips-allmodconfig 0a3813c
+2012-11-09 21:00:19 hive devel-hive-ia64-2012-11-09-20-32:f4d4dd4 ia64-allmodconfig f4d4dd4
+2012-11-09 22:40:12 hive devel-hive-mips-2012-11-09-22-05:a385e3a mips-allmodconfig a385e3a
+2012-11-09 22:55:17 hive devel-hive-ia64-2012-11-09-22-08:5f20c99 ia64-allmodconfig 5f20c99
+2012-12-05 20:18:29 hive devel-hive-ia64-2012-12-05-19-43:e59846a ia64-allmodconfig e59846a
+2012-12-05 20:21:55 hive devel-hive-mips-2012-12-05-19-43:079fb28 mips-allmodconfig 079fb28

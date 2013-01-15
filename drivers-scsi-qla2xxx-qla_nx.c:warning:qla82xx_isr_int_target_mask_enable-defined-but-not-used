@@ -1,0 +1,4 @@
+drivers/scsi/qla2xxx/qla_nx.c:1964:17: warning: 'qla82xx_isr_int_target_mask_enable' defined but not used [-Wunused-variable]
+
+2012-09-19 10:36:30 inn internal-wfg:0day:bd510f3 x86_64-allmodconfig bd510f3
+2012-09-19 10:36:33 inn x86_64 email notified

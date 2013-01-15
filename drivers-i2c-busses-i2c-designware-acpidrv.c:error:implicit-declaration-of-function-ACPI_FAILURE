@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-designware-acpidrv.c:221:2: error: implicit declaration of function 'ACPI_FAILURE' [-Werror=implicit-function-declaration]
+
+2012-10-09 18:06:35 inn internal-ashishki:rtit-proto:ff40f57 m68k-allmodconfig 8699a27

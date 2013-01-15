@@ -1,0 +1,6 @@
+include/linux/rcupdate.h:445:20: error: redefinition of 'rcu_preempt_sleep_check'
+
+2012-09-06 08:28:28 lkp-mb01 rcu:rcu:idle:dea42dc i386-randconfig-m012 f105e7d
+2012-09-06 08:34:03 lkp-mb01 i386 email notified
+2012-09-07 13:59:05 hive rcu:idle.2012.09.04a:dea42dc mips-allmodconfig f105e7d
+2012-09-09 17:19:16 kbuild rcu:rcu:next:5e9c338 powerpc-allmodconfig f105e7d

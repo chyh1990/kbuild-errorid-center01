@@ -1,0 +1,4 @@
+drivers/tty/cyclades.c:3730:36: error: 'IORESOURCE_IO' undeclared (first use in this function)
+
+2012-09-17 18:14:29 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3
+2012-09-17 18:43:58 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

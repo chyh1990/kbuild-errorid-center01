@@ -1,0 +1,5 @@
+arch/powerpc/kernel/sys_ppc32.c:190:6: error: conflicting types for 'compat_sys_execve'
+
+2012-09-08 02:51:59 bee signal:master:811a655 powerpc-allyesconfig 731affd
+2012-09-08 03:02:38 bee powerpc email notified
+2012-09-08 03:03:26 bee signal:for-next:02f459e powerpc-allyesconfig f558e9c

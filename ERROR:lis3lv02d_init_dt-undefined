@@ -1,0 +1,8 @@
+ERROR: ".lis3lv02d_init_dt" undefined!
+
+2012-10-02 10:44:11 kbuild shawnguo:for-3.8:41c54ad powerpc-allmodconfig 41c54ad
+2012-10-02 10:44:11 kbuild shawnguo:for-3.8:41c54ad powerpc-allmodconfig 41c54ad email notified
+2012-10-02 13:13:52 kbuild shawnguo:imx6-cpuidle:642a431 powerpc-allmodconfig 642a431
+2012-10-11 04:20:49 kbuild shawnguo:imx6-cpuidle:740c61a powerpc-allmodconfig 740c61a
+2012-10-15 16:01:34 kbuild shawnguo:imx:dt-for-3.8:23b91e9 powerpc-allmodconfig 23b91e9
+2012-10-15 16:17:11 kbuild shawnguo:for-3.8:d905cd3 powerpc-allmodconfig d905cd3

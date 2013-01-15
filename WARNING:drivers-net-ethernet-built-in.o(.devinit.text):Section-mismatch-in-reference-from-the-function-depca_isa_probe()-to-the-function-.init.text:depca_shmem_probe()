@@ -1,0 +1,3 @@
+WARNING: drivers/net/ethernet/built-in.o(.devinit.text+0x75c2): Section mismatch in reference from the function depca_isa_probe() to the function .init.text:depca_shmem_probe()
+
+2012-09-07 20:09:04 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

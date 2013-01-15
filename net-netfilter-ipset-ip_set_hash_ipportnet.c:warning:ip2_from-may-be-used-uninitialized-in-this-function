@@ -1,0 +1,3 @@
+net/netfilter/ipset/ip_set_hash_ipportnet.c:284:14: warning: 'ip2_from' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-29 19:43:18 inn linus:master:e9296e8 i386-randconfig-n092 e9296e8

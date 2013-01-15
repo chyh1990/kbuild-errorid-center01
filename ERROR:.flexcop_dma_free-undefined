@@ -1,0 +1,4 @@
+ERROR: ".flexcop_dma_free" [drivers/media/pci/b2c2/b2c2-flexcop-pci.ko] undefined!
+
+2012-08-15 05:04:35 kbuild powerpc /cc/kernel-tests/commit-list/samsung:v4l_samsung_for_v3.7:768ce59 3785bc170f79ef04129731582b468c28e1326d6d
+2012-08-17 16:57:14 kbuild samsung:v4l-exynos-gsc:8ac9447 powerpc-allmodconfig a1b3a6c

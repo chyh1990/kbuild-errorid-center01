@@ -1,0 +1,3 @@
+drivers/scsi/scsi_sysfs.c:201:25: sparse: symbol 'dev_attr_hstate' was not declared. Should it be static?
+
+2013-01-09 13:08:24 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

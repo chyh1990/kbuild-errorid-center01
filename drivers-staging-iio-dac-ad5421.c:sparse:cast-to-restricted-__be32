@@ -1,0 +1,3 @@
+drivers/staging/iio/dac/ad5421.c:154:23: sparse: cast to restricted __be32
+
+2012-09-01 03:33:30 snb input:next:bd68dfe i386-allmodconfig bd68dfe

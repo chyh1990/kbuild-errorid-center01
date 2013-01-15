@@ -1,0 +1,3 @@
+drivers/staging/rts_pstor/xd.c:850 xd_set_unused_block() error: we previously assumed 'zone->free_table' could be null (see line 836)
+
+2012-09-07 22:42:11 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

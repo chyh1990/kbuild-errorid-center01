@@ -1,0 +1,4 @@
+drivers/net/ethernet/fujitsu/fmvj18x_cs.c:251:22: error: dereferencing pointer to incomplete type
+
+2012-09-17 17:36:19 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 17:45:47 kbuild s390:features:08dd20f i386-allyesconfig 08dd20f

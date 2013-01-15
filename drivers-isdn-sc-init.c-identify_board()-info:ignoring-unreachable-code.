@@ -1,0 +1,3 @@
+drivers/isdn/sc/init.c:507 identify_board() info: ignoring unreachable code.
+
+2012-09-07 22:41:13 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

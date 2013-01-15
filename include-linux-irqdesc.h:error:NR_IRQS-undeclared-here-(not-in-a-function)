@@ -1,0 +1,5 @@
+include/linux/irqdesc.h:73:33: error: 'NR_IRQS' undeclared here (not in a function)
+
+2012-10-13 02:54:35 bee dynticks:nohz:printk:f72ce6f sparc-defconfig f72ce6f
+2012-10-23 21:51:50 bee dynticks:nohz:printk-v2:e6d30a6 sparc-defconfig e6d30a6
+2012-10-29 22:40:11 bee dynticks:nohz:printk-v3:084f7fe sparc-defconfig 084f7fe

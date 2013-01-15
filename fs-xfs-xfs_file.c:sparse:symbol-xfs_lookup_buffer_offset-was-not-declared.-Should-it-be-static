@@ -1,0 +1,4 @@
+fs/xfs/xfs_file.c:980:1: sparse: symbol 'xfs_lookup_buffer_offset' was not declared. Should it be static?
+
+2012-08-29 03:52:48 snb xfs:master:b686d1f i386-allmodconfig d126d43
+2012-08-29 03:55:03 snb i386 email notified

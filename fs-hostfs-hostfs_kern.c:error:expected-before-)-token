@@ -1,0 +1,4 @@
+fs/hostfs/hostfs_kern.c:811:56: error: expected ';' before ')' token
+
+2012-08-07 09:53:34 snb um /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 0aec584f1ac07c77770f95c1512055a7713cfc47
+2012-08-07 09:53:35 snb um email notified

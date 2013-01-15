@@ -1,0 +1,4 @@
+include/net/ndisc.h:137:2: error: implicit declaration of function 'hash32_ptr' [-Werror=implicit-function-declaration]
+
+2012-10-01 15:34:41 kbuild cr:crtools-3.6:5bdf2e4 x86_64-allmodconfig 412de72
+2012-10-01 15:34:47 kbuild x86_64 email notified

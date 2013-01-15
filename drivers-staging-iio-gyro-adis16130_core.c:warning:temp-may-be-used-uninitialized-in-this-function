@@ -1,0 +1,3 @@
+drivers/staging/iio/gyro/adis16130_core.c:94:7: warning: 'temp' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-17 17:37:09 inn internal-hle:hsw:pmu2:28bd72f i386-randconfig-i016 28bd72f

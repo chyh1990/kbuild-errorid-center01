@@ -1,0 +1,3 @@
+drivers/isdn/hisax/teles3.c:273:5: sparse: symbol 'setup_teles3' was not declared. Should it be static?
+
+2013-01-09 13:11:24 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,4 @@
+arch/x86/kernel/setup.c:944:2: error: implicit declaration of function 'acpi_initrd_override' [-Werror=implicit-function-declaration]
+
+2012-09-28 10:20:17 snb tip:x86:acpi:4901b40 i386-allnoconfig 4901b40
+2012-10-01 11:34:25 bee tip:x86:acpi:8347bbe x86_64-randconfig-x090 8347bbe

@@ -1,0 +1,3 @@
+fs/dcache.c:560 dput() warn: inconsistent returns spin_lock:&dentry->d_lock: locked (560) unlocked (528,538,555)
+
+2013-01-09 13:28:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

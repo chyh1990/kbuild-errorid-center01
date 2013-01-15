@@ -1,0 +1,3 @@
+drivers/staging/bcm/CmHost.c:1242 DumpCmControlPacket() debug: remove_pools: nr_children over 4000 (5597). (psfCSType 4096-(-1),4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-(-1),4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-s64max,4096-(-1),4096-s64max,4096-s64max,4096-s64max,4096-(-1),4096-s64max,4096-(-1),4096-s64max,)
+
+2012-12-16 04:15:48 kbuild devel-kbuild-i386-2012-12-16-03-07:a88e7b2 i386-allyesconfig a88e7b2

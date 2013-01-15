@@ -1,0 +1,3 @@
+drivers/media/pci/cx18/cx18-streams.c:101:6: sparse: symbol 'cx18_dma_free' was not declared. Should it be static?
+
+2012-08-24 00:01:28 snb samsung:v4l-framesize:b31e987 i386-allmodconfig 3c8c09b

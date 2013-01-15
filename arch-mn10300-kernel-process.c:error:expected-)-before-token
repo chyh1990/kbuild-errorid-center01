@@ -1,0 +1,8 @@
+arch/mn10300/kernel/process.c:231:43: error: expected ')' before ';' token
+
+2012-09-30 13:42:43 snb next:akpm:b97e42d mn10300-asb2364_defconfig b97e42d
+2012-10-02 12:11:49 snb shawnguo:for-3.8:41c54ad mn10300-asb2364_defconfig 41c54ad
+2012-10-02 12:11:49 snb shawnguo:for-3.8:41c54ad mn10300-asb2364_defconfig 41c54ad email notified
+2012-10-07 00:29:07 snb clk:defconfig:0ac7be3 mn10300-asb2364_defconfig 0ac7be3
+2012-10-15 16:15:38 snb shawnguo:imx:dt-for-3.8:23b91e9 mn10300-asb2364_defconfig 23b91e9
+2012-10-15 17:12:21 snb shawnguo:for-3.8:d905cd3 mn10300-asb2364_defconfig d905cd3

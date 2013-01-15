@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/net/wireless/nl80211.c:4710 nl80211_start_sched_scan() error: we previously assumed 'request->ssids' could be null (see line 4635)
+
+2013-01-07 12:24:58 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

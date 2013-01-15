@@ -1,0 +1,3 @@
+drivers/scsi/mpt2sas/mpt2sas_transport.c:824:6-18: ERROR: invalid reference to the index variable of the iterator on line 802
+
+2012-08-24 21:05:37 snb scsi:for-next:fec178b i386-allmodconfig fec178b

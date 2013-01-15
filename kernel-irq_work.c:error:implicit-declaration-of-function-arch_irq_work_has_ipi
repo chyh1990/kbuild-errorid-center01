@@ -1,0 +1,3 @@
+kernel/irq_work.c:72: error: implicit declaration of function 'arch_irq_work_has_ipi'
+
+2012-10-23 21:59:25 snb dynticks:nohz:printk-v2:e6d30a6 avr32-atngw100_defconfig e6d30a6

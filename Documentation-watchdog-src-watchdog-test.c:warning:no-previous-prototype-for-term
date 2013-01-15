@@ -1,0 +1,3 @@
+Documentation/watchdog/src/watchdog-test.c:34:6: warning: no previous prototype for 'term' [-Wmissing-prototypes]
+
+2012-07-22 19:19:44 kbuild x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 a3cba095e2dd1fea09ae1a92a969554ba0ba93ae

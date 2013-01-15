@@ -1,0 +1,6 @@
+sound/soc/codecs/arizona.h:20:21: fatal error: wm_adsp.h: No such file or directory
+
+2012-10-27 03:41:14 kbuild asoc:for-next:4fca811 x86_64-allmodconfig 9f6b8ca
+2012-10-27 03:42:36 kbuild x86_64 email notified
+2012-10-27 16:29:31 kbuild asoc:topic:arizona:165f48a powerpc-allmodconfig 165f48a
+2012-10-28 04:25:15 kbuild asoc:topic:arizona:3c38d6b i386-allyesconfig 3c38d6b

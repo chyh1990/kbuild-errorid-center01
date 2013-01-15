@@ -1,0 +1,3 @@
+kernel/trace/trace.c:492:2: error: 'ARCH_TRACE_CLOCKS' undeclared here (not in a function)
+
+2012-11-02 21:54:33 bee trace:tip:perf:core:9b194e6 i386-randconfig-b612 9b194e6

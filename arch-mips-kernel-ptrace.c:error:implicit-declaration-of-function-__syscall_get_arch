@@ -1,0 +1,11 @@
+arch/mips/kernel/ptrace.c:664:2: error: implicit declaration of function '__syscall_get_arch' [-Werror=implicit-function-declaration]
+
+2012-09-16 19:46:29 hive next:akpm:c7fbd2a mips-allmodconfig c7fbd2a
+2012-09-19 11:29:28 inn internal-wfg:0day:bd510f3 mips-allmodconfig bd510f3
+2012-09-20 09:46:51 hive next:akpm:7db5e9e mips-allnoconfig 7db5e9e
+2012-09-20 16:24:15 hive next:akpm:7e926d7 mips-allnoconfig 7e926d7
+2012-09-21 16:36:53 hive next:akpm:69921c3 mips-allnoconfig 69921c3
+2012-10-02 11:03:24 hive shawnguo:for-3.8:41c54ad mips-allmodconfig 41c54ad
+2012-10-02 11:03:24 hive shawnguo:for-3.8:41c54ad mips-allmodconfig 41c54ad email notified
+2012-10-15 16:21:40 hive shawnguo:imx:dt-for-3.8:23b91e9 mips-allmodconfig 23b91e9
+2012-10-15 17:12:39 hive shawnguo:for-3.8:d905cd3 mips-allmodconfig d905cd3

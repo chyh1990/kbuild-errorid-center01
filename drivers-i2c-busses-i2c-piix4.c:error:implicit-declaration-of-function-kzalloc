@@ -1,0 +1,22 @@
+drivers/i2c/busses/i2c-piix4.c:551:2: error: implicit declaration of function 'kzalloc' [-Werror=implicit-function-declaration]
+
+2012-09-26 22:32:12 bee kvm-ppc:kvm-ppc-next:d265f1e parisc-allyesconfig c3c9e53
+2012-09-27 13:05:44 bee powerpc:next:7844663 parisc-allyesconfig b92a66a
+2012-09-27 13:05:44 bee powerpc:next:7844663 parisc-allyesconfig b92a66a email notified
+2012-09-27 15:57:51 bee thermal:thermal:2491502 parisc-allyesconfig ba55a0d
+2012-09-27 17:48:12 bee thermal:thermal:fb8792b parisc-allyesconfig fb8792b
+2012-09-27 18:40:44 bee thermal:thermal:b81ed51 parisc-allyesconfig b81ed51
+2012-09-27 19:23:04 bee arm-perf:irq:44a7333 parisc-allyesconfig 44a7333
+2012-09-27 21:17:24 bee arm-perf:misc-patches:3da6c03 parisc-allyesconfig 3da6c03
+2012-09-27 22:33:12 bee m68knommu:for-next:a255172 parisc-allyesconfig 944c3d8
+2012-09-27 23:14:26 bee slave-dma:next:fed2574 parisc-allyesconfig fed2574
+2012-09-28 15:21:13 bee tip:x86:mm:fd0f586 parisc-allyesconfig fd0f586
+2012-09-28 17:35:27 bee pinctrl:for-next:2fe3954 parisc-allyesconfig 7d66ce7
+2012-09-28 19:30:58 bee firewire:for-next:4d50c44 parisc-allyesconfig 35202f7
+2012-09-28 20:47:21 bee mmc:mmc-next:0f59ede parisc-allyesconfig e919fd2
+2012-10-02 13:30:01 bee acpi:next:10eaea0 parisc-allyesconfig 23795e5
+2012-10-07 04:54:01 bee acpi:next:3f44ea0 parisc-allyesconfig 3f44ea0
+2012-10-07 23:23:56 bee i2c:i2c-embedded:for-next:d3b64c5 parisc-allyesconfig 0c25aef
+2012-10-08 13:59:26 bee jdelvare-staging:i2c-for-linus:c415b30 parisc-allyesconfig eee543e
+2012-10-08 19:04:36 bee i2c:i2c-embedded:for-next:62885f5 parisc-allyesconfig 102084d
+2012-11-23 04:53:28 bee logfs:master:3394661 parisc-allyesconfig 5b716ac

@@ -1,0 +1,4 @@
+sound/soc/soc-core.c:4139:3-8: WARNING: invalid free of devm_ allocated data
+
+2012-08-03 01:38:12 snb i386 /cc/kernel-tests/commit-list/sound:for-linus:ac190c7 ac190c76680cde6ce379b6be5baf89a970ea13d4
+2012-08-03 01:40:49 snb i386 email notified

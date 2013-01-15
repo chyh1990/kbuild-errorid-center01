@@ -1,0 +1,3 @@
+kernel/rcutree_plugin.h:100:1: warning: the frame size of 20480 bytes is larger than 2048 bytes [-Wframe-larger-than=]
+
+2012-10-28 22:06:16 hive devel-hive-ia64-2012-10-28-21-17:138d85c ia64-allmodconfig 138d85c

@@ -1,0 +1,3 @@
+drivers/video/cyber2000fb.c:344 cyber2000fb_setcolreg() error: buffer overflow 'cfb->palette' 256 <= 504
+
+2013-01-09 13:27:18 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

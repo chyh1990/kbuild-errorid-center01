@@ -1,0 +1,3 @@
+drivers/staging/ced1401/usb1401.c:147:9: sparse: undefined identifier 'usb_buffer_free'
+
+2012-11-01 00:18:45 snb calxeda:for-next:74d8cec i386-allmodconfig 74d8cec

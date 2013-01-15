@@ -1,0 +1,3 @@
+drivers/tty/serial/serial_core.c:2369:2: warning: left shift count >= width of type [enabled by default]
+
+2012-10-31 16:28:50 snb next:master:7c27988 x86_64-randconfig-s200 7c27988

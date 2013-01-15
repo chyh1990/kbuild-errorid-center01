@@ -1,0 +1,3 @@
+fs/ext4/mmp.c:19:1: warning: 'ext4_mmp_csum' uses dynamic stack allocation [enabled by default]
+
+2012-07-22 14:46:48 lkp-mb01 s390 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

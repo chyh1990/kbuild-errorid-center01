@@ -1,0 +1,3 @@
+drivers/pci/hotplug/acpiphp_ibm.c:192 ibm_set_attention_status() error: potential null dereference 'ibm_slot'.  (ibm_slot_from_id returns null)
+
+2013-01-09 13:26:43 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

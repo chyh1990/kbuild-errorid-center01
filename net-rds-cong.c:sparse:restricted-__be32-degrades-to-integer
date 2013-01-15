@@ -1,0 +1,3 @@
+net/rds/cong.c:117:36: sparse: restricted __be32 degrades to integer
+
+2013-01-09 13:11:56 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

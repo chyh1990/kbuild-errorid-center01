@@ -1,0 +1,4 @@
+kernel/signal.c:3119:2: error: implicit declaration of function 'current_user_stack_pointer' [-Werror=implicit-function-declaration]
+
+2012-09-06 15:05:21 lkp-mb01 signal:master:4cc1d72 blackfin-BF533-EZKIT_defconfig 88e560d
+2012-09-06 15:05:23 lkp-mb01 blackfin email notified

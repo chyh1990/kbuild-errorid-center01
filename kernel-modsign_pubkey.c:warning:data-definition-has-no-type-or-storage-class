@@ -1,0 +1,3 @@
+kernel/modsign_pubkey.c:20:1: warning: data definition has no type or storage class [enabled by default]
+
+2012-10-30 23:54:00 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 0bcc9f3

@@ -1,0 +1,3 @@
+mm/filemap_xip.c:212 __xip_unmap() error:  locking inconsistency.  We assume 'mutex:&xip_sparse_mutex' is both locked and unlocked at the start.
+
+2013-01-09 13:27:58 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

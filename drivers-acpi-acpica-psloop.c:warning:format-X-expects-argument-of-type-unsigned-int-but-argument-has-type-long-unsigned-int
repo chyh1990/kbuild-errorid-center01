@@ -1,0 +1,4 @@
+drivers/acpi/acpica/psloop.c:139:4: warning: format '%X' expects argument of type 'unsigned int', but argument 5 has type 'long unsigned int' [-Wformat]
+
+2012-11-15 08:55:34 kbuild pm:acpica:a19ec8a x86_64-allmodconfig 00eb325
+2012-11-15 08:58:06 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/fs/jfs/jfs_txnmgr.c:383 txBegin() error: double lock 'spin_lock:&jfsTxnLock'
+
+2013-01-07 12:24:52 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

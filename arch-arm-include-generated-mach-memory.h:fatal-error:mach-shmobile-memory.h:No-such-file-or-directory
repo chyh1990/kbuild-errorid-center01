@@ -1,0 +1,8 @@
+arch/arm/include/generated/mach/memory.h:1:34: fatal error: mach-shmobile/memory.h: No such file or directory
+
+2012-08-19 20:12:52 snb arm-platforms:timers-next:1d64ace arm-marzen_defconfig 1d64ace
+2012-08-19 21:32:59 snb arm-platforms:kvm-arm-v3.6-rc1-hyp-fixes-vgic-2:01f6f63 arm-marzen_defconfig 6d15463
+2012-08-19 22:16:38 snb arm-platforms:kvm-v11-base-vgic:150c7f9 arm-marzen_defconfig f0cb8ba
+2012-08-24 07:01:11 snb arm-platforms:kvm-arm-v3.6-rc3-timer:d6e735a arm-marzen_defconfig 8aba389
+2012-08-26 16:21:02 snb arm-platforms:timers-next:dcaf469 arm-marzen_defconfig dcaf469
+2012-09-06 02:25:43 snb arm-platforms:kvm-arm-v3.6-rc3-timer:24989e4 arm-marzen_defconfig 8aba389

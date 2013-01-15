@@ -1,0 +1,4 @@
+drivers/mfd/da9052-i2c.c:63:5: error: redefinition of 'da9052_i2c_fix'
+
+2012-11-26 07:44:29 bee mfd:for-linus:354b3ce x86_64-allyesconfig 354b3ce
+2012-11-26 07:45:20 bee x86_64 email notified

@@ -1,0 +1,5 @@
+arch/x86/kvm/pmu.c:242:29: error: 'vcpu' undeclared (first use in this function)
+
+2012-10-25 15:36:34 inn internal-hle:hsw:pmu3:e4df441 x86_64-allmodconfig 25a4d7d
+2012-10-25 15:42:00 inn x86_64 email notified
+2012-10-26 16:49:58 inn internal-hle:hsw:pmu3:12d9d36 x86_64-allmodconfig ed39c97

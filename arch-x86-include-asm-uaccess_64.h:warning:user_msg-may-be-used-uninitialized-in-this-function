@@ -1,0 +1,3 @@
+arch/x86/include/asm/uaccess_64.h:63:5: warning: 'user_msg' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-19 12:59:58 snb aa:autonuma25-MoF:1502976 x86_64-randconfig-s351 1502976

@@ -1,0 +1,3 @@
+net/ipv4/ipmr.c:1921:7: warning: 'mrt' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-27 07:28:46 snb linus:master:ad4b3fb x86_64-randconfig-s557 637704c

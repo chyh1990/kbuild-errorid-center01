@@ -1,0 +1,3 @@
+drivers/acpi/blacklist.c:78:5: warning: "CONFIG_ACPI_BLACKLIST_YEAR" is not defined [-Wundef]
+
+2012-09-26 12:49:06 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

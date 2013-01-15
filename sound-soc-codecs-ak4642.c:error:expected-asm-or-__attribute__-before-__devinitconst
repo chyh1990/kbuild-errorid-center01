@@ -1,0 +1,3 @@
+sound/soc/codecs/ak4642.c:550:46: error: expected '=', ',', ';', 'asm' or '__attribute__' before '__devinitconst'
+
+2013-01-11 14:58:12 bee devel-bee-i386-2013-01-11-12-50:5dd26b5 i386-randconfig-b033 5dd26b5

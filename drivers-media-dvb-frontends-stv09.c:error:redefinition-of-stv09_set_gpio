@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/stv090x.c:4698:5: error: redefinition of 'stv090x_set_gpio'
+
+2012-09-28 15:21:18 bee tip:x86:mm:fd0f586 powerpc-allyesconfig fd0f586

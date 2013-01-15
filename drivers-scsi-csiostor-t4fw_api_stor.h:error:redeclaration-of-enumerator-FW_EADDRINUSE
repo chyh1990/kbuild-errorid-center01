@@ -1,0 +1,11 @@
+drivers/scsi/csiostor/t4fw_api_stor.h:58:2: error: redeclaration of enumerator 'FW_EADDRINUSE'
+
+2012-12-20 02:27:54 kbuild infiniband:for-next:73b32b4 x86_64-allmodconfig f65b56b
+2012-12-20 02:33:03 lkp-mb01 devel-lkp-mb01-i386-2012-12-20-02-12:5804be8 i386-randconfig-m014 5804be8
+2012-12-20 02:45:15 kbuild devel-kbuild-i386-2012-12-20-02-33:bcb3381 i386-allyesconfig bcb3381
+2012-12-20 03:44:00 lkp-mb01 devel-lkp-mb01-s390-2012-12-20-02-12:a9e932d s390-allmodconfig a9e932d
+2012-12-20 03:59:36 kbuild infiniband:for-next:4d4b72d x86_64-allmodconfig 4d4b72d
+2012-12-20 04:44:27 kbuild devel-kbuild-powerpc-2012-12-20-03-54:1bb7312 powerpc-allmodconfig 1bb7312
+2012-12-20 04:46:44 lkp-mb01 devel-lkp-mb01-i386-2012-12-20-04-03:d900a79 i386-randconfig-m014 d900a79
+2012-12-20 05:47:11 kbuild devel-kbuild-i386-2012-12-20-05-23:db55588 i386-allyesconfig db55588
+2012-12-20 06:11:48 lkp-mb01 devel-lkp-mb01-s390-2012-12-20-05-01:ffd70f5 s390-allmodconfig ffd70f5

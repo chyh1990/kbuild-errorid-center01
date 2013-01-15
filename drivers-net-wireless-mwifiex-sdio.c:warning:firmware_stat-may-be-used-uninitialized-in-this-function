@@ -1,0 +1,3 @@
+drivers/net/wireless/mwifiex/sdio.c:854:3: warning: 'firmware_stat' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-10 01:34:29 bee nfs:bugfixes:f39c1bf i386-randconfig-b009 1ae811e

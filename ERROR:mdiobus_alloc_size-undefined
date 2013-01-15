@@ -1,0 +1,6 @@
+ERROR: "mdiobus_alloc_size" undefined!
+
+2013-01-11 14:27:33 bee integrity:next-ima-uuid-policy:6249245 x86_64-randconfig-x915 6249245
+2013-01-11 16:48:19 bee devel-bee-x86-2013-01-11-15-12:876060d x86_64-randconfig-x915 876060d
+2013-01-12 00:36:10 bee devel-bee-x86-2013-01-11-23-15:2fd5590 x86_64-randconfig-x915 2fd5590
+2013-01-12 11:28:55 bee asoc:topic:twl:85becda x86_64-randconfig-x915 a49f0d1

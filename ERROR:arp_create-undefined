@@ -1,0 +1,4 @@
+ERROR: "arp_create" [net/batman-adv/batman-adv.ko] undefined!
+
+2012-10-28 00:01:13 snb batman:batman-adv:next:444e553 x86_64-randconfig-s165 3fb17af
+2012-10-28 00:01:29 snb x86_64 email notified

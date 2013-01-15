@@ -1,0 +1,3 @@
+drivers/misc/apds990x.c:703 apds990x_lux_calib_store() warn: impossible condition '(chip->lux_calib > 65535) => (0-65535 > 65535)'
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

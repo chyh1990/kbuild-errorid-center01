@@ -1,0 +1,3 @@
+kernel/user_namespace.c:157:6: warning: 'first' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-11 05:27:32 bee linus:master:b251f0f i386-randconfig-b664 b251f0f

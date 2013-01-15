@@ -1,0 +1,4 @@
+sound/pci/hda/hda_codec.c:1323:7: error: 'struct hda_codec' has no member named 'd3_stop_clk'
+
+2012-08-24 07:44:06 snb sound-unstable:master:0ecfbe2 i386-defconfig b8dfc46
+2012-08-24 15:57:49 snb next:akpm:2be3ef9 i386-defconfig 9627cc8

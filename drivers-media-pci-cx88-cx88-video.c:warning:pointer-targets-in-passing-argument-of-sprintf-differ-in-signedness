@@ -1,0 +1,3 @@
+drivers/media/pci/cx88/cx88-video.c:1116:2: warning: pointer targets in passing argument 1 of 'sprintf' differ in signedness [-Wpointer-sign]
+
+2012-09-26 23:19:05 bee samsung:v4l-next:01882ac x86_64-allyesconfig 24e527a

@@ -1,0 +1,4 @@
+fs/jffs2/readinode.c:417:16: error: 'struct rb_node' has no member named 'rb_parent_color'
+
+2012-10-05 14:34:55 snb glommer-memcg:kmemcg-stack:5ef6493 x86_64-randconfig-s049 f4a182a
+2012-10-05 14:35:23 snb x86_64 email notified

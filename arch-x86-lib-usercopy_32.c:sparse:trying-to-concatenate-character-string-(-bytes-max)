@@ -1,0 +1,3 @@
+arch/x86/lib/usercopy_32.c:105:24: sparse: trying to concatenate 4674-character string (4095 bytes max)
+
+2013-01-09 13:01:57 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,5 @@
+nfs4state.c:(.text+0x1733a5): undefined reference to `nfs4_set_task_privileged'
+
+2012-11-02 05:57:26 bee devel-bee-x86_64-2012-11-02-05-53:d3dd0b7 x86_64-allyesdebian d3dd0b7
+2012-11-02 06:09:16 bee nfs:devel:4edd254 powerpc-chroma_defconfig 4edd254
+2012-11-02 06:09:34 bee nfs:linux-next:86d750f powerpc-chroma_defconfig 86d750f

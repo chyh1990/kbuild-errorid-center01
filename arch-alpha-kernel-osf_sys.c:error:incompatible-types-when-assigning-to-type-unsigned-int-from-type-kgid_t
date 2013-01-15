@@ -1,0 +1,4 @@
+arch/alpha/kernel/osf_sys.c:282:13: error: incompatible types when assigning to type 'unsigned int' from type 'kgid_t'
+
+2012-08-11 14:59:26 lkp-mb01 alpha /cc/kernel-tests/commit-list/userns:userns-always-map-user-v45:38a0b1b c86f389d599620a2a6998d49772d431b7e08c9ae
+2012-08-13 05:40:05 lkp-mb01 alpha e233b70202d63b3c55f68f777b53765bb7108ce3 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48

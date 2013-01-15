@@ -1,0 +1,3 @@
+drivers/media/dvb/dm1105/dm1105.c:616:9: sparse: incorrect type in argument 1 (different base types)
+
+2012-08-31 20:36:03 snb l2-mtd:master:d545ee4 i386-allmodconfig 1fbc5e9

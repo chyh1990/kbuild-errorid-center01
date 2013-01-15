@@ -1,0 +1,3 @@
+net/sunrpc/auth_unix.c:135 unx_match() error: we previously assumed 'acred->group_info' could be null (see line 129)
+
+2013-01-09 13:27:54 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

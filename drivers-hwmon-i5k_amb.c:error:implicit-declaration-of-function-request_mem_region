@@ -1,0 +1,4 @@
+drivers/hwmon/i5k_amb.c:539:2: error: implicit declaration of function 'request_mem_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:36:35 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 18:43:21 kbuild sound-unstable:master:4349355 i386-allyesconfig 4349355

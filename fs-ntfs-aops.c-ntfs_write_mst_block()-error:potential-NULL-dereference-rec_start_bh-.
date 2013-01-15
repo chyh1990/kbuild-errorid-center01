@@ -1,0 +1,3 @@
+fs/ntfs/aops.c:1102 ntfs_write_mst_block() error: potential NULL dereference 'rec_start_bh'.
+
+2013-01-09 13:27:59 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

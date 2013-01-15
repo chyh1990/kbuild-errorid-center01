@@ -1,0 +1,3 @@
+drivers/scsi/initio.c:2889 initio_probe_one() error: no modifiers for allocation.
+
+2013-01-09 13:27:21 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

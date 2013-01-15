@@ -1,0 +1,4 @@
+ERROR: "qxl_release_add_surf" undefined!
+
+2012-11-28 11:01:45 kbuild drm:qxl-kms-test:4ad24b1 x86_64-allmodconfig 4c0d7b8
+2012-11-28 11:03:42 kbuild x86_64 email notified

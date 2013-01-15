@@ -1,0 +1,4 @@
+drivers/usb/host/pci-quirks.c:863:3-9: ERROR: missing iounmap; ioremap on line 849 and execution via conditional on line 859
+
+2012-09-06 03:55:25 snb xhci:for-usb-linus:2963657 i386-allmodconfig e955a1c
+2012-09-06 09:46:50 snb usb:usb-linus:7f7cd3c i386-allmodconfig 7f7cd3c

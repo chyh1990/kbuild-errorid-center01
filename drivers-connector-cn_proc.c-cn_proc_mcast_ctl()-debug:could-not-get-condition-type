@@ -1,0 +1,3 @@
+drivers/connector/cn_proc.c:312 cn_proc_mcast_ctl() debug: could not get condition type
+
+2012-12-16 18:11:28 kbuild userns:userns-always-map-user-v77:f3032de i386-allyesconfig f3032de

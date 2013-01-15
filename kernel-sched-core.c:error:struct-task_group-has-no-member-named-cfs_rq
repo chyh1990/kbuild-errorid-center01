@@ -1,0 +1,4 @@
+kernel/sched/core.c:2010:25: error: 'struct task_group' has no member named 'cfs_rq'
+
+2012-12-26 21:04:11 snb glommer-memcg:cpu_stat-tmp:3a5337f x86_64-randconfig-s544 7049dc2
+2012-12-26 21:04:26 snb x86_64 email notified

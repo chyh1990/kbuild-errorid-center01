@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_ddi.c:698:77: warning: 'n2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 17:24:15 bee yinghai:for-pci-root-bus-hotplug-part2:b25f70f i386-randconfig-b035 67de07a

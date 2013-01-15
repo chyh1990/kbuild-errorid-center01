@@ -1,0 +1,3 @@
+arch/x86/lib/inat-tables.c:1095:25: sparse: symbol 'inat_group_tables' was not declared. Should it be static?
+
+2012-07-23 21:33:54 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

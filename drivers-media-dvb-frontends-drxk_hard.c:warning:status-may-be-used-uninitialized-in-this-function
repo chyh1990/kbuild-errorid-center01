@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/drxk_hard.c:5467:5: warning: 'status' may be used uninitialized in this function [-Wuninitialized]
+
+2012-07-22 21:13:18 bee sparc /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

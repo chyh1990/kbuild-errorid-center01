@@ -1,0 +1,3 @@
+arch/x86/mm/numa.c:448 numa_set_distance() error: we previously assumed 'numa_distance' could be null (see line 431)
+
+2013-01-09 13:28:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

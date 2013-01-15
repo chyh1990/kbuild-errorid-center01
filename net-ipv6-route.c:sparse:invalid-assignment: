@@ -1,0 +1,3 @@
+net/ipv6/route.c:400:13: sparse: invalid assignment: ^=
+
+2012-10-23 16:19:13 snb netdev-next:master:598e74f i386-allmodconfig 598e74f

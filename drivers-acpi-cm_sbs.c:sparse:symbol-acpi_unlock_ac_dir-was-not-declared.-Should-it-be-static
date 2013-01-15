@@ -1,0 +1,3 @@
+drivers/acpi/cm_sbs.c:61:6: sparse: symbol 'acpi_unlock_ac_dir' was not declared. Should it be static?
+
+2013-01-09 13:19:29 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

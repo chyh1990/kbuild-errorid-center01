@@ -1,0 +1,3 @@
+init/main.c:794:2: error: implicit declaration of function 'current_pt_regs' [-Werror=implicit-function-declaration]
+
+2012-10-12 11:17:52 snb signal:for-next:4fa2077 um-defconfig 4fa2077

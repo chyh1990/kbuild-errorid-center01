@@ -1,0 +1,3 @@
+kernel/workqueue.c:3454 trustee_thread() Error invalid range 4096 to -1
+
+2012-09-21 23:37:28 kbuild memcg:since-3.5:51c6a68 i386-allyesconfig 51c6a68

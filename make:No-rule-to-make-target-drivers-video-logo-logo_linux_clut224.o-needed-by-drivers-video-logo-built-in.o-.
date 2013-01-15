@@ -1,0 +1,8 @@
+make[3]: *** No rule to make target `drivers/video/logo/logo_linux_clut224.o', needed by `drivers/video/logo/built-in.o'.
+
+2012-09-26 01:19:42 bee vexpress:for-tixy:381c556 x86_64-randconfig-x068 cf1a57e
+2012-09-26 03:36:00 bee m68k:m68k-queue:72a7119 x86_64-randconfig-x068 979570e
+2012-09-26 11:54:50 bee samsung:charger-manager-for-next:9ea7889 x86_64-randconfig-x068 979570e
+2012-09-26 11:58:38 bee nouveau:drm-nouveau-fixes:79eee7a x86_64-randconfig-x068 979570e
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd email notified

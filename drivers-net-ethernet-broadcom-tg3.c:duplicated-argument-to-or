@@ -1,0 +1,3 @@
+drivers/net/ethernet/broadcom/tg3.c:4073:8-39: duplicated argument to && or ||
+
+2012-10-04 19:12:48 kbuild mac80211-next:master:ff1b15a i386-allyesconfig ff1b15a

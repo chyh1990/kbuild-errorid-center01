@@ -1,0 +1,3 @@
+include/linux/scatterlist.h:59:30: warning: 'sg' is used uninitialized in this function [-Wuninitialized]
+
+2012-07-28 21:34:00 bee i386 /cc/kernel-tests/commit-list/linus:master:f7da9cd aa0b3b2bee1d3ca8355de76caebf65b836c9bb6e

@@ -1,0 +1,3 @@
+drivers/mfd/tps6586x.c:405:16: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2012-09-25 20:57:10 bee regulator:topic:tps6586x:3006b8d powerpc-allyesconfig 3006b8d

@@ -1,0 +1,3 @@
+drivers/staging/rts_pstor/xd.c:1267 xd_build_l2p_tbl() error: we previously assumed 'xd_card->zone' could be null (see line 1261)
+
+2012-09-07 22:42:11 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

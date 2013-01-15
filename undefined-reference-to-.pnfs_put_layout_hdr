@@ -1,0 +1,4 @@
+nfs4proc.c:(.text+0x171718): undefined reference to `.pnfs_put_layout_hdr'
+
+2012-09-20 11:27:51 bee nfs:testing:c5d13e1 powerpc-chroma_defconfig c5d13e1
+2012-09-20 11:41:32 bee powerpc email notified

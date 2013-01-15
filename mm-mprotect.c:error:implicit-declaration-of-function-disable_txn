@@ -1,0 +1,4 @@
+mm/mprotect.c:265: error: implicit declaration of function 'disable_txn'
+
+2012-11-09 20:44:21 inn internal-hle:hle37:abort-fixes:653b0b7 avr32-atngw100_defconfig ddc6df8
+2012-11-13 00:39:50 inn internal-hle:hle37:abort-fixes:e2ea321 x86_64-randconfig-i000 2dde935

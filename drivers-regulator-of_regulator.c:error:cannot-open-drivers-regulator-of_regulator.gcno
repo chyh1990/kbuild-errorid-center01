@@ -1,0 +1,3 @@
+drivers/regulator/of_regulator.c:1:0: error: cannot open drivers/regulator/of_regulator.gcno
+
+2012-09-13 13:00:38 bee drm:drm-fixes:b655232 i386-randconfig-b000 5e1782d

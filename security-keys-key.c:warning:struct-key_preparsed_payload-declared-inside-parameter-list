@@ -1,0 +1,3 @@
+security/keys/key.c:418:11: warning: 'struct key_preparsed_payload' declared inside parameter list [enabled by default]
+
+2012-09-26 06:15:07 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

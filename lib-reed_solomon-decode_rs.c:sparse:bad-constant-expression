@@ -1,0 +1,3 @@
+lib/reed_solomon/decode_rs.c:36:53: sparse: bad constant expression
+
+2013-01-09 13:07:10 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

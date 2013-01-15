@@ -1,0 +1,3 @@
+fs/ncpfs/dir.c:128:23: warning: unused variable 'sb' [-Wunused-variable]
+
+2013-01-09 12:32:07 inn linus:master:974b335 x86_64-randconfig-n366 974b335

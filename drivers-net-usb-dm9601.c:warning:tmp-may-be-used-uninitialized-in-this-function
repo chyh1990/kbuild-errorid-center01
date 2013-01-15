@@ -1,0 +1,3 @@
+drivers/net/usb/dm9601.c:253:12: warning: 'tmp' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 15:24:27 bee x86_64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

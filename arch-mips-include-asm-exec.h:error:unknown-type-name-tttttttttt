@@ -1,0 +1,3 @@
+arch/mips/include/asm/exec.h:17:1: error: unknown type name 'tttttttttt'
+
+2012-09-30 21:44:22 hive wfg:0day:e736ac7 mips-allmodconfig e736ac7

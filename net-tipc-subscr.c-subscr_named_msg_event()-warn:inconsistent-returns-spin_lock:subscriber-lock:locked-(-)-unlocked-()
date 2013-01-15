@@ -1,0 +1,3 @@
+net/tipc/subscr.c:484 subscr_named_msg_event() warn: inconsistent returns spin_lock:subscriber->lock: locked (444,463) unlocked (484)
+
+2013-01-09 13:26:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

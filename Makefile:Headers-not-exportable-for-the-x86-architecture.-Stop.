@@ -1,0 +1,4 @@
+Makefile:911: *** Headers not exportable for the x86 architecture.  Stop.
+
+2012-10-31 17:47:59 bee memcg:since-3.6:cad5c69 i386-randconfig-b600 cad5c69
+2012-10-31 18:01:49 kbuild hid:for-3.7:upstream-fixes:8d80da9 x86_64-allmodconfig 58ad34b

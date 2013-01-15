@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x6b0409): Section mismatch in reference from the function max8997_i2c_probe() to the variable .devinit.data:max8997_pmic_dt_match
+
+2012-11-22 00:03:44 lkp-mb01 devel-lkp-mb01-i386-2012-11-21-23-38:b62978e i386-randconfig-m002 b62978e

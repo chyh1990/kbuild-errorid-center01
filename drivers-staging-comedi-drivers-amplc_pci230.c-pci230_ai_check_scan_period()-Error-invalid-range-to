@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/amplc_pci230.c:1602 pci230_ai_check_scan_period() Error invalid range 1 to 0
+
+2012-09-12 11:57:15 kbuild security:next:a40695e i386-allyesconfig a40695e

@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/r8192U_dm.c:934:17: sparse: function 'dm_txpower_trackingcallback' with external linkage has definition
+
+2013-01-09 12:50:53 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

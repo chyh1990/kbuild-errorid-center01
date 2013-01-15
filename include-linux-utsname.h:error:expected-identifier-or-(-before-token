@@ -1,0 +1,4 @@
+include/linux/utsname.h:83:1: error: expected identifier or '(' before '{' token
+
+2012-08-07 06:14:41 bee x86_64 /cc/kernel-tests/commit-list/userns:userns-always-map-user-v44:6558c48 09378e15d9e1cfb478659b397f00f63508f30816
+2012-08-07 06:14:43 bee x86_64 email notified

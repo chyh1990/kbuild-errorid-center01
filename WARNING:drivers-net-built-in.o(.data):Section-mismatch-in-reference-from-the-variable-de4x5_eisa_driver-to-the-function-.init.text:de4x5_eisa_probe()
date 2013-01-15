@@ -1,0 +1,3 @@
+WARNING: drivers/net/built-in.o(.data+0x52e60): Section mismatch in reference from the variable de4x5_eisa_driver to the function .init.text:de4x5_eisa_probe()
+
+2012-09-07 20:09:02 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

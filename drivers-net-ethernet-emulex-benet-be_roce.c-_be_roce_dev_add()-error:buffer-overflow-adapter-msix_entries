@@ -1,0 +1,3 @@
+drivers/net/ethernet/emulex/benet/be_roce.c:71 _be_roce_dev_add() error: buffer overflow 'adapter->msix_entries' 13 <= 15
+
+2013-01-09 13:26:30 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

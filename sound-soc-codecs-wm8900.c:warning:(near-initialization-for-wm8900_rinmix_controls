@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8900.c:478:1: warning: (near initialization for 'wm8900_rinmix_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:05:55 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

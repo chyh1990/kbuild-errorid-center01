@@ -1,0 +1,4 @@
+drivers/w1/masters/w1-gpio.c:72:7: error: 'struct w1_gpio_platform_data' has no member named 'ext_pullup_enable_pin'
+
+2012-08-17 02:01:41 kbuild char-misc:char-misc-next:877cdf3 i386-randconfig-k729 5f3d138
+2012-08-17 02:01:42 kbuild i386 email notified

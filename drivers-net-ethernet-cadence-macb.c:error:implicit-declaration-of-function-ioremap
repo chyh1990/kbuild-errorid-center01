@@ -1,0 +1,17 @@
+drivers/net/ethernet/cadence/macb.c:1350:2: error: implicit declaration of function 'ioremap' [-Werror=implicit-function-declaration]
+
+2012-10-27 08:31:14 lkp-mb01 netdev-next:master:f019948 s390-allmodconfig f019948
+2012-10-27 11:23:07 lkp-mb01 netdev-next:master:20dad66 s390-allmodconfig 20dad66
+2012-10-28 08:50:05 lkp-mb01 batman:batman-adv:next:444e553 s390-allmodconfig 444e553
+2012-10-28 23:26:49 lkp-mb01 devel-lkp-mb01-s390-2012-10-28-22-20:266643f s390-allmodconfig 266643f
+2012-10-29 10:43:31 lkp-mb01 net-next:master:a932657 s390-allmodconfig a932657
+2012-10-29 10:55:28 lkp-mb01 nf-next:master:05b4b06 s390-allmodconfig 05b4b06
+2012-10-29 13:04:46 lkp-mb01 next:master:f83c772 s390-allmodconfig f83c772
+2012-10-29 16:04:11 lkp-mb01 next:akpm:4c8b1d3 s390-allmodconfig 4c8b1d3
+2012-10-29 17:04:53 lkp-mb01 arm-perf:hugetlb:do-not-merge-or-build-test-under-pain-of-death:39ead5c s390-allmodconfig 39ead5c
+2012-10-29 18:02:55 lkp-mb01 batman:batman-adv:next:3c11501 s390-allmodconfig 3c11501
+2012-10-30 16:08:33 lkp-mb01 devel-lkp-mb01-s390-2012-10-30-14-47:f522b61 s390-allmodconfig f522b61
+2012-10-30 19:33:32 lkp-mb01 at91:net-next_macb_enhancement3:3269426 s390-allmodconfig 3269426
+2012-10-30 21:15:16 lkp-mb01 devel-lkp-mb01-s390-2012-10-30-20-41:0a393be s390-allmodconfig 0a393be
+2012-11-02 20:30:23 lkp-mb01 nf-next:master:121d1e0 s390-allmodconfig 121d1e0
+2012-11-15 03:04:56 lkp-mb01 devel-lkp-mb01-s390-2012-11-15-02-16:091a62c s390-allmodconfig 091a62c

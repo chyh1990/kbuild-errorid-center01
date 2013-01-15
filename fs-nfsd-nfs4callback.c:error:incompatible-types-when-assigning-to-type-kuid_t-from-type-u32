@@ -1,0 +1,3 @@
+fs/nfsd/nfs4callback.c:655:13: error: incompatible types when assigning to type 'kuid_t' from type 'u32'
+
+2012-12-22 13:34:09 bee userns:userns-always-map-user-v80:9e75958 x86_64-allyesdebian 9e75958

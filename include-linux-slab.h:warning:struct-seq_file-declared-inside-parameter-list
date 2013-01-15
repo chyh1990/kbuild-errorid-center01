@@ -1,0 +1,3 @@
+include/linux/slab.h:224:45: warning: 'struct seq_file' declared inside parameter list [enabled by default]
+
+2012-10-12 22:28:09 bee glommer-memcg:kmemcg-slab:f7dc2a4 cris-allyesconfig 0f901d8

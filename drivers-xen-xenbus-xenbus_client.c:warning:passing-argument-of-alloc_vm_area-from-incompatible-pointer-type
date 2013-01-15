@@ -1,0 +1,3 @@
+drivers/xen/xenbus/xenbus_client.c:485:2: warning: passing argument 2 of 'alloc_vm_area' from incompatible pointer type [enabled by default]
+
+2012-09-26 06:43:19 bee usb:usb-next:655db79 um-allyesconfig 655db79

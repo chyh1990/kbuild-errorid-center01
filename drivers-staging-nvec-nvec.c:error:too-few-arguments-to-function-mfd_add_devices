@@ -1,0 +1,4 @@
+drivers/staging/nvec/nvec.c:840:10: error: too few arguments to function 'mfd_add_devices'
+
+2012-09-20 19:55:17 snb ux500:preview-for-next:3cc064b arm-tegra_defconfig 3cc064b
+2012-09-20 19:56:07 snb arm email notified

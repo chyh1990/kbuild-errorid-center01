@@ -1,0 +1,7 @@
+drivers/usb/core/usb-acpi.c:105:2: error: unknown field 'find_bridge' specified in initializer
+
+2012-09-28 07:33:19 bee yinghai:for-pci-next:31162ac x86_64-allyesdebian 31162ac
+2012-09-28 08:06:34 bee yinghai:for-pci-kill-pci-root-buses:e7ef88f x86_64-allyesdebian e7ef88f
+2012-09-28 09:11:59 snb devel-snb-i386-2012-09-28-09-03:170cc43 i386-allmodconfig 170cc43
+2012-09-28 09:53:58 kbuild devel-kbuild-i386-2012-09-28-09-48:4371181 i386-allyesconfig 4371181
+2012-09-28 11:12:48 hive devel-hive-ia64-2012-09-28-10-26:1c929d2 ia64-allmodconfig 1c929d2

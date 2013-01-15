@@ -1,0 +1,3 @@
+arch/x86/kvm/irq.c:46:18: warning: unused variable 's' [-Wunused-variable]
+
+2012-12-14 19:21:45 kbuild devel-kbuild-x86_64-2012-12-14-19-21:15967c2 x86_64-allmodconfig 15967c2

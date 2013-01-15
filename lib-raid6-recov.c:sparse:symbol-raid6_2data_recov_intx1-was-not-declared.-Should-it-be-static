@@ -1,0 +1,3 @@
+lib/raid6/recov.c:25:6: sparse: symbol 'raid6_2data_recov_intx1' was not declared. Should it be static?
+
+2012-09-16 09:07:34 snb wireless-next:for-davem:9316f0e i386-allmodconfig 362b056

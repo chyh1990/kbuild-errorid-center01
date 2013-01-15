@@ -1,0 +1,3 @@
+Documentation/filesystems/configfs/configfs_example_macros.c:115:1: sparse: symbol 'childless_attr_storeme' was not declared. Should it be static?
+
+2013-01-09 13:09:38 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

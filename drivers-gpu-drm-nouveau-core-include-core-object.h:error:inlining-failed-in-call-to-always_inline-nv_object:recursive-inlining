@@ -1,0 +1,11 @@
+drivers/gpu/drm/nouveau/core/include/core/object.h:31:1: error: inlining failed in call to always_inline 'nv_object.constprop.0': recursive inlining
+
+2012-08-05 10:58:25 bee x86_64 /cc/kernel-tests/commit-list/nouveau:master:05d2e4d 03d7aaaf3db3a3a50684e4748e4a9bf4adef1c38
+2012-08-05 10:58:29 bee x86_64 email notified
+2012-09-10 11:00:46 snb drm:drm-opt-power:5d8ff0b x86_64-randconfig-s282 107328f
+2012-09-10 11:30:09 snb drm:drm-opt-power:7f20144 x86_64-randconfig-s282 ceacc03
+2012-09-10 12:49:39 snb drm:drm-opt-power:761d3ed x86_64-randconfig-s282 ddeb2f1
+2012-09-10 13:07:29 bee drm:drm-opt-power:8ebc93b i386-randconfig-b006 457ad34
+2012-09-12 10:22:15 bee nouveau:master:f188e84 i386-randconfig-b006 5f2fe27
+2012-09-12 16:50:16 bee drm:drm-opt-pwr:e31113b i386-randconfig-b006 398a1bc
+2012-09-12 18:05:29 bee nouveau:master:542e605 i386-randconfig-b006 eb23f73

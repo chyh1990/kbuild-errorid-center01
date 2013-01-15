@@ -1,0 +1,3 @@
+drivers/usb/dwc3/core.c:157:2-7: WARNING: invalid free of devm_ allocated data
+
+2012-11-06 22:18:20 snb balbi-usb:dwc3:7947699 i386-allmodconfig 7947699

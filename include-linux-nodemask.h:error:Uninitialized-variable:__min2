@@ -1,0 +1,3 @@
+include/linux/nodemask.h:239: error: Uninitialized variable: __min2
+
+2012-10-26 00:08:04 kbuild arm-soc:for-next:126d21c i386-allyesconfig 126d21c

@@ -1,0 +1,3 @@
+arch/sh/math-emu/math.c:108:1: warning: left shift count >= width of type [enabled by default]
+
+2012-10-30 17:58:19 bee davinci:v3.8:defconfig:cb5a410 sh-allyesconfig cb5a410

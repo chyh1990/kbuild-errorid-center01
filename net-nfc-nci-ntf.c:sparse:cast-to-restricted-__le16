@@ -1,0 +1,3 @@
+net/nfc/nci/ntf.c:106:31: sparse: cast to restricted __le16
+
+2013-01-09 13:17:03 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

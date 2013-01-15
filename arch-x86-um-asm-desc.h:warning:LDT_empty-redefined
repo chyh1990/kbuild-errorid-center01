@@ -1,0 +1,3 @@
+arch/x86/um/asm/desc.h:6:0: warning: "LDT_empty" redefined [enabled by default]
+
+2012-09-26 06:43:18 bee usb:usb-next:655db79 um-allyesconfig 655db79

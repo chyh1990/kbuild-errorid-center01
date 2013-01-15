@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlwifi/iwl-agn-tx.c:1335 iwlagn_rx_reply_compressed_ba() Error invalid range 4096 to -1
+
+2012-09-07 22:41:37 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

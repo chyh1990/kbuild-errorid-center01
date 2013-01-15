@@ -1,0 +1,4 @@
+drivers/usb/gadget/serial.c:89:22: sparse: cast truncates bits from constant value (24000000 becomes 0)
+
+2012-09-10 23:52:11 snb balbi-usb:master:d9c8890 i386-allmodconfig 7a7322b
+2012-09-10 23:52:16 snb i386 email notified

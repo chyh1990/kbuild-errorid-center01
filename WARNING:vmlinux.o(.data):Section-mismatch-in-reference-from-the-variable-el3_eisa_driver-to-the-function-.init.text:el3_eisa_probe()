@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.data+0x491180): Section mismatch in reference from the variable el3_eisa_driver to the function .init.text:el3_eisa_probe()
+
+2012-09-07 20:09:03 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

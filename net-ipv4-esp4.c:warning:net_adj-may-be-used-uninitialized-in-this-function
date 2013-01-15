@@ -1,0 +1,3 @@
+net/ipv4/esp4.c:477:29: warning: 'net_adj' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-22 17:14:47 hive sh /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

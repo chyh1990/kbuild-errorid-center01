@@ -1,0 +1,3 @@
+drivers/staging/vt6656/main_usb.c:2003:2-27: code aligned with following code on line 2006
+
+2012-09-22 02:37:58 snb ath6kl:master:a47347b i386-allmodconfig a47347b

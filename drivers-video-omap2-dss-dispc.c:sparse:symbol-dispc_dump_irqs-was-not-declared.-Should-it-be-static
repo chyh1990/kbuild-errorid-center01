@@ -1,0 +1,3 @@
+drivers/video/omap2/dss/dispc.c:3320:6: sparse: symbol 'dispc_dump_irqs' was not declared. Should it be static?
+
+2012-11-06 22:48:15 snb devel-snb-i386-2012-11-06-22-37:4eff917 i386-allmodconfig 4eff917

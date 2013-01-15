@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/pcmmio.c:1214:57: sparse: invalid access past the end of 'irq' (4 4)
+
+2012-07-23 21:19:06 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

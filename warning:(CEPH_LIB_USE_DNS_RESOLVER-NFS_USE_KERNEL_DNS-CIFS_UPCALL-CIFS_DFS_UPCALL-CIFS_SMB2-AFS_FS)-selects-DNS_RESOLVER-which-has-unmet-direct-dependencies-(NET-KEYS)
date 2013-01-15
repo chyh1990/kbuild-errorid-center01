@@ -1,0 +1,3 @@
+warning: (CEPH_LIB_USE_DNS_RESOLVER && NFS_USE_KERNEL_DNS && CIFS_UPCALL && CIFS_DFS_UPCALL && CIFS_SMB2 && AFS_FS) selects DNS_RESOLVER which has unmet direct dependencies (NET && KEYS)
+
+2012-11-07 12:16:05 lkp-mb01 linus:master:69a8ebf i386-randconfig-m153 69a8ebf

@@ -1,0 +1,3 @@
+arch/powerpc/kernel/epapr_hcalls.S:30: Error: junk at end of line: `(EV_IDLE))@highest'
+
+2012-10-31 20:19:15 bee kvm-ppc:for-queue:a13890a powerpc-corenet64_smp_defconfig a13890a

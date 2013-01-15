@@ -1,0 +1,3 @@
+warning: (DRM_NOUVEAU) selects ACPI_WMI which has unmet direct dependencies (X86 && X86_PLATFORM_DEVICES && ACPI)
+
+2013-01-09 12:31:30 inn linus:master:974b335 x86_64-randconfig-i364 974b335

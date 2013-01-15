@@ -1,0 +1,3 @@
+mm/compaction.c:237 isolate_freepages_range() error: potential NULL dereference 'zone'.
+
+2012-09-07 22:41:45 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

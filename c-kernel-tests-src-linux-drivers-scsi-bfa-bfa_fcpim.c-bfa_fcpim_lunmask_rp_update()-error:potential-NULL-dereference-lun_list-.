@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/scsi/bfa/bfa_fcpim.c:2193 bfa_fcpim_lunmask_rp_update() error: potential NULL dereference 'lun_list'.
+
+2013-01-07 12:24:54 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

@@ -1,0 +1,3 @@
+fs/proc/stat.c:191:3: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+
+2012-09-28 18:25:40 hive glommer-memcg:slab-common:kmalloc:f957c1e ia64-defconfig f957c1e

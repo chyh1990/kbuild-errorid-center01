@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x98024): Section mismatch in reference from the function .pcibios_add_pci_devices() to the function .devinit.text:.of_rescan_bus()
+
+2012-10-15 01:44:07 kbuild nf-next:nf_tables8:8c4e6c7 powerpc-allmodconfig 8c4e6c7

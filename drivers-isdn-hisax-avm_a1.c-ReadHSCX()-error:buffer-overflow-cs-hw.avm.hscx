@@ -1,0 +1,3 @@
+drivers/isdn/hisax/avm_a1.c:82 ReadHSCX() error: buffer overflow 'cs->hw.avm.hscx' 2 <= 2
+
+2013-01-09 13:26:30 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

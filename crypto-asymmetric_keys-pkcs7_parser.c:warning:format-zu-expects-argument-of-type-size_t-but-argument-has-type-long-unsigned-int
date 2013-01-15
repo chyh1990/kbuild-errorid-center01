@@ -1,0 +1,4 @@
+crypto/asymmetric_keys/pkcs7_parser.c:114:10: warning: format '%zu' expects argument of type 'size_t', but argument 2 has type 'long unsigned int' [-Wformat]
+
+2012-10-30 03:26:34 bee modsign:devel-pekey:23ab624 cris-allyesconfig febcb28
+2012-10-30 03:26:54 bee cris email notified

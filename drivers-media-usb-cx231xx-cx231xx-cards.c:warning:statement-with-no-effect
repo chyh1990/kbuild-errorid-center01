@@ -1,0 +1,3 @@
+drivers/media/usb/cx231xx/cx231xx-cards.c:846:2: warning: statement with no effect [-Wunused-value]
+
+2012-09-22 13:53:38 snb samsung:v4l-framedesc:6e5b54d x86_64-randconfig-s373 8c6f59f

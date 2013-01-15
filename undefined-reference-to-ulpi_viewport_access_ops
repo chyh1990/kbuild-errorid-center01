@@ -1,0 +1,6 @@
+board-trimslice-pinmux.c:(.text+0x8008): undefined reference to `ulpi_viewport_access_ops'
+
+2012-09-19 18:18:12 snb drm-intel:drm-intel-nightly:9d55185 arm-tegra_defconfig 9d55185
+2012-09-19 18:49:29 snb drm-intel:drm-intel-next-queued:a402f54 arm-tegra_defconfig a402f54
+2012-09-19 19:00:30 snb staging:staging-next:5d06e3d arm-tegra_defconfig 5d06e3d
+2012-09-19 19:07:08 snb iwlwifi:master:3217b06 arm-tegra_defconfig 3217b06

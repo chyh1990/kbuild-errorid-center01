@@ -1,0 +1,3 @@
+fs/compat_ioctl.c:870:1: error: 'TIOCGRS485' undeclared here (not in a function)
+
+2012-09-22 08:28:23 hive tty:tty-next:ac57e7f mips-fuloong2e_defconfig ac57e7f

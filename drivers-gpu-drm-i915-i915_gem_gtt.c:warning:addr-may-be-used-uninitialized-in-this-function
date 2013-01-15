@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/i915_gem_gtt.c:52:6: warning: 'addr' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 13:26:22 snb next:akpm:ef2dca2 i386-defconfig ef2dca2

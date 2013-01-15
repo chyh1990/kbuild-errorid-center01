@@ -1,0 +1,3 @@
+drivers/input/touchscreen/edt-ft5x06.c:444 edt_ft5x06_work_mode() info: redundant null check on tsdata->raw_buffer calling kfree()
+
+2012-09-12 11:57:16 kbuild security:next:a40695e i386-allyesconfig a40695e

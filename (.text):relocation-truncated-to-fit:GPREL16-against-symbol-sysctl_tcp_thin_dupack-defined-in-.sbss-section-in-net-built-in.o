@@ -1,0 +1,6 @@
+(.text+0x6d534): relocation truncated to fit: GPREL16 against symbol `sysctl_tcp_thin_dupack' defined in .sbss section in net/built-in.o
+
+2012-09-15 13:11:50 lkp-mb01 yinghai:for-x86-irq-base:835d595 alpha-defconfig 4c3db51
+2012-09-15 14:32:36 lkp-mb01 yinghai:master:156b34a alpha-defconfig 3c94bf7
+2012-09-15 17:50:23 lkp-mb01 yinghai:for-x86-irq:c0c1cc6 alpha-defconfig a70438b
+2012-09-16 00:20:51 lkp-mb01 yinghai:for-pci-for-each-res-addon:9fd94f5 alpha-defconfig 15751b8

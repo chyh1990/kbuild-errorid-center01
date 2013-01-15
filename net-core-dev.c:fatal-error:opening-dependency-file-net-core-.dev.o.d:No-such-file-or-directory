@@ -1,0 +1,3 @@
+net/core/dev.c:6654:1: fatal error: opening dependency file net/core/.dev.o.d: No such file or directory
+
+2012-09-13 13:03:05 bee drm:drm-fixes:b655232 i386-randconfig-b007 5e1782d

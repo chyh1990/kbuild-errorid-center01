@@ -1,0 +1,3 @@
+drivers/net/wireless/ipw2x00/ipw2200.c:8894:2-50: code aligned with following code on line 8896
+
+2012-09-22 02:37:58 snb ath6kl:master:a47347b i386-allmodconfig a47347b

@@ -1,0 +1,36 @@
+lib/idr.c:433:1: error: insn does not satisfy its constraints:
+
+2012-10-30 19:20:27 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-30-18-23:53fc16d h8300-defconfig 53fc16d
+2012-10-31 12:50:09 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-12-17:3fdc8d8 h8300-defconfig 3fdc8d8
+2012-10-31 13:39:52 lkp-mb01 cgroup:review-cgroup-rmdir-updates:9b84932 h8300-defconfig 9b84932
+2012-10-31 13:52:10 lkp-mb01 yuanhan:gpio-fixes:db1a5a0 h8300-defconfig db1a5a0
+2012-10-31 15:14:21 lkp-mb01 glommer-memcg:kmemcg-slab:ea49d87 h8300-defconfig ea49d87
+2012-10-31 16:07:29 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-15-34:3a88a99 h8300-defconfig 3a88a99
+2012-10-31 17:14:34 lkp-mb01 glommer-memcg:slab-common:kmalloc:b59d450 h8300-defconfig b59d450
+2012-10-31 19:45:24 lkp-mb01 drm-intel:drm-intel-next-queued:6b27150 h8300-defconfig 6b27150
+2012-10-31 20:31:42 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-19-58:8853f5a h8300-defconfig 8853f5a
+2012-10-31 21:29:33 lkp-mb01 xen:stable:for-linus-3.7:c8d258a h8300-defconfig c8d258a
+2012-10-31 22:35:02 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-21-55:4db5206 h8300-defconfig 4db5206
+2012-10-31 23:27:03 lkp-mb01 balbi-usb:dwc3:124dafd h8300-defconfig 124dafd
+2012-11-01 00:24:16 lkp-mb01 calxeda:for-next:74d8cec h8300-defconfig 74d8cec
+2012-11-01 01:31:30 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-00-43:5eda1aa h8300-defconfig 5eda1aa
+2012-11-01 01:53:47 lkp-mb01 lpc32xx:blockgpio:651bd68 h8300-defconfig 651bd68
+2012-11-01 02:18:08 lkp-mb01 josef-btrfs:master:27c5fe5 h8300-defconfig 27c5fe5
+2012-11-01 03:10:07 lkp-mb01 cgroup:review-cgroup-rmdir-updates:cb5d38f h8300-defconfig cb5d38f
+2012-11-01 07:28:20 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-06-45:04c11ef h8300-defconfig 04c11ef
+2012-11-01 11:32:03 lkp-mb01 kvm:linux-next:f026399 h8300-defconfig f026399
+2012-11-01 11:55:59 lkp-mb01 signal:untested:ceb7239 h8300-defconfig ceb7239
+2012-11-01 12:14:19 lkp-mb01 signal:arch-m32r:8eae10e h8300-defconfig 8eae10e
+2012-11-01 12:49:50 lkp-mb01 uapi:disintegrate-metag:9773782 h8300-defconfig 9773782
+2012-11-01 13:17:42 lkp-mb01 acpi:next:b63cb74 h8300-defconfig b63cb74
+2012-11-01 13:37:26 lkp-mb01 acpi:release:d91bb17 h8300-defconfig d91bb17
+2012-11-01 14:43:55 lkp-mb01 target:master:dea5f09 h8300-defconfig dea5f09
+2012-11-01 14:50:32 lkp-mb01 drm-intel:drm-intel-nightly:5dc2582 h8300-defconfig 5dc2582
+2012-11-01 15:21:56 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-15-04:66e4afb h8300-defconfig 66e4afb
+2012-11-01 15:49:26 lkp-mb01 cgroup:review-cgroup-rmdir-updates:d2fbc75 h8300-defconfig d2fbc75
+2012-11-01 16:13:47 lkp-mb01 bluetooth:master:537cb3f h8300-defconfig 537cb3f
+2012-11-01 16:39:48 lkp-mb01 hzhuang1:upload:fix:cdf7ed4 h8300-defconfig cdf7ed4
+2012-11-01 17:06:06 lkp-mb01 stable:linux-3.6.y:d724b88 h8300-defconfig d724b88
+2012-11-01 17:52:43 lkp-mb01 ipsec-next:master:810b6d7 h8300-defconfig 810b6d7
+2012-11-01 18:16:55 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-18-00:e332bbf h8300-defconfig e332bbf
+2012-11-01 19:14:11 lkp-mb01 next:master:2b1279e h8300-defconfig 2b1279e

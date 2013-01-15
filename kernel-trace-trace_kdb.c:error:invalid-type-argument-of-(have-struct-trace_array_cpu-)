@@ -1,0 +1,8 @@
+kernel/trace/trace_kdb.c:29:33: error: invalid type argument of '->' (have 'struct trace_array_cpu')
+
+2012-08-14 03:48:51 kbuild x86_64 /cc/kernel-tests/commit-list/trace:rfc:multi-buffers-v4:e712fa1 f46d90989f7d8a90193391899b9f5b6242527f0f
+2012-08-14 03:48:51 kbuild x86_64 email notified
+2012-11-16 23:37:22 bee trace:rfc:multi-buffers-v7:11ac6db x86_64-allyesconfig cf0d511
+2012-11-17 00:18:07 kbuild devel-kbuild-i386-2012-11-17-00-06:4fb1645 i386-allyesconfig 4fb1645
+2012-11-17 01:08:41 snb devel-snb-i386-2012-11-17-00-41:e286e0e i386-allmodconfig e286e0e
+2012-11-17 04:41:32 kbuild devel-kbuild-powerpc-2012-11-17-03-50:cbc51e0 powerpc-allmodconfig cbc51e0

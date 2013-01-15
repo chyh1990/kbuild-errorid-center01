@@ -1,0 +1,3 @@
+drivers/mfd/wm8350-core.c:82:33: sparse: cast to restricted __be16
+
+2012-09-01 03:34:49 snb input:next:bd68dfe i386-allmodconfig bd68dfe

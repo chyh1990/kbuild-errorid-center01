@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfa_svc.c:5224 bfa_sgpg_malloc() error: potentially derefencing uninitialized 'hsgpg'.
+
+2013-01-09 13:27:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

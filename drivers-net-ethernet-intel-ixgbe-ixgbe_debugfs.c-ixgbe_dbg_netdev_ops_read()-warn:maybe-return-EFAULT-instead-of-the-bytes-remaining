@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/ixgbe/ixgbe_debugfs.c:192 ixgbe_dbg_netdev_ops_read() warn: maybe return -EFAULT instead of the bytes remaining?
+
+2012-09-21 20:09:26 kbuild can:master:a1161bc i386-allyesconfig a1161bc

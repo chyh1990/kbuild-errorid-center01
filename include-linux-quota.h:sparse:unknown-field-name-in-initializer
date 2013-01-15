@@ -1,0 +1,3 @@
+include/linux/quota.h:284:18: sparse: unknown field name in initializer
+
+2012-09-02 12:26:25 snb userns:userns-always-map-user-v52:3f025b0 i386-allmodconfig 3a77452

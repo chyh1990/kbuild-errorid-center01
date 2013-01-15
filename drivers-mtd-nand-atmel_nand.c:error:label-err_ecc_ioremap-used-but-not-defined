@@ -1,0 +1,31 @@
+drivers/mtd/nand/atmel_nand.c:1451:4: error: label 'err_ecc_ioremap' used but not defined
+
+2012-08-17 19:34:47 snb l2-mtd:master:e3d17ce arm-at91_dt_defconfig e3d17ce
+2012-08-17 21:38:58 snb l2-mtd:master:5add470 arm-at91_dt_defconfig 737b44e
+2012-08-18 21:58:50 snb l2-mtd:master:fa16c15 arm-at91_dt_defconfig 832b46e
+2012-08-19 19:33:46 snb l2-mtd:master:31311c4 avr32-atstk1006_defconfig b6bc9a4
+2012-08-22 15:18:58 snb next:akpm:a9667f5 avr32-atstk1006_defconfig 91db051
+2012-08-24 19:56:15 snb l2-mtd:master:1f0880e avr32-atstk1006_defconfig 586b275
+2012-08-24 20:15:16 snb l2-mtd:master:05907de avr32-atstk1006_defconfig 1d15a7b
+2012-08-25 01:08:59 snb l2-mtd:master:540b0b1 avr32-atstk1006_defconfig ae7ba6a
+2012-08-25 19:26:46 snb l2-mtd:master:8ef1fd5 avr32-atstk1006_defconfig f656eaa
+2012-08-25 20:08:03 snb l2-mtd:master:b7c3b27 avr32-atstk1006_defconfig 46226a1
+2012-08-25 20:09:58 snb l2-mtd:master:88b9e2c avr32-atstk1006_defconfig 999e403
+2012-08-26 00:53:58 snb next:akpm:2be3ef9 avr32-atstk1006_defconfig 9627cc8
+2012-09-02 01:15:16 snb l2-mtd:master:b2dda3b avr32-atstk1006_defconfig b654a9a
+2012-09-02 23:22:30 snb l2-mtd:master:aab3579 avr32-atstk1006_defconfig 14f44ab
+2012-09-04 07:29:04 snb l2-mtd:master:ea9d312 avr32-atstk1006_defconfig a4d0d31
+2012-09-04 16:09:30 snb l2-mtd:master:e22ac84 avr32-atstk1006_defconfig b9a8c22
+2012-09-04 21:18:19 snb l2-mtd:master:44e42b9 avr32-atstk1006_defconfig 146f55f
+2012-09-07 15:39:24 snb next:akpm:d28e1f3 avr32-atstk1006_defconfig 4d0e8b7
+2012-09-16 07:53:55 snb next:akpm:c7fbd2a avr32-atstk1006_defconfig 52b0f2e
+2012-09-16 20:14:12 snb l2-mtd:master:70f389f avr32-atstk1006_defconfig 70f389f
+2012-09-18 03:27:07 snb next:akpm:a6a55d8 avr32-atstk1006_defconfig a6a55d8
+2012-09-18 22:42:40 snb l2-mtd:master:a124642 arm-at91_dt_defconfig a124642
+2012-09-19 11:10:27 inn internal-wfg:0day:bd510f3 avr32-atstk1006_defconfig bd510f3
+2012-09-20 12:07:52 snb next:akpm:7db5e9e arm-at91_dt_defconfig 7db5e9e
+2012-09-20 16:06:43 snb next:akpm:7e926d7 arm-at91_dt_defconfig 7e926d7
+2012-09-21 22:02:33 snb l2-mtd:master:533b838 arm-at91_dt_defconfig 533b838
+2012-09-22 23:22:54 snb l2-mtd:master:a860131 arm-at91_dt_defconfig a860131
+2012-09-23 00:31:24 snb l2-mtd:master:63dc0a3 arm-at91_dt_defconfig 63dc0a3
+2012-09-24 07:54:13 snb next:akpm:69921c3 arm-at91_dt_defconfig 69921c3

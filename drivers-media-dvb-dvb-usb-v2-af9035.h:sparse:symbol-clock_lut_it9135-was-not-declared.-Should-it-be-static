@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb-v2/af9035.h:74:5: sparse: symbol 'clock_lut_it9135' was not declared. Should it be static?
+
+2012-08-15 14:14:57 snb samsung:v4l_samsung_for_v3.7:768ce59 i386-allmodconfig 087c78a

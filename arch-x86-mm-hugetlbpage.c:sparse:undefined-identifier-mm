@@ -1,0 +1,3 @@
+arch/x86/mm/hugetlbpage.c:299:27: sparse: undefined identifier 'mm'
+
+2012-11-09 20:17:07 snb memcg:since-3.6:f37592d i386-allmodconfig f37592d

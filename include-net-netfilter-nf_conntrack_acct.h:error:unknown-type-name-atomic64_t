@@ -1,0 +1,5 @@
+include/net/netfilter/nf_conntrack_acct.h:18:2: error: unknown type name 'atomic64_t'
+
+2012-09-01 22:49:55 snb slave-dma:next:b5f1433 m68k-allmodconfig b707c65
+2012-09-01 22:55:04 snb asoc:for-next:ba846b3 m68k-allmodconfig c921928
+2012-09-20 10:26:09 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

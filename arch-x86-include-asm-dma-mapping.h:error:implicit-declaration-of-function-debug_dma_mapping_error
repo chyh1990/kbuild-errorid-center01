@@ -1,0 +1,4 @@
+arch/x86/include/asm/dma-mapping.h:50:2: error: implicit declaration of function 'debug_dma_mapping_error' [-Werror=implicit-function-declaration]
+
+2013-01-11 15:04:31 bee drm:qxl-kms-test:317157f x86_64-allyesdebian 317157f
+2013-01-11 22:12:30 bee mac80211-next:wip:64d800d x86_64-allyesdebian 64d800d

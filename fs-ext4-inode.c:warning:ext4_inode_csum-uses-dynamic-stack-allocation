@@ -1,0 +1,3 @@
+fs/ext4/inode.c:75:1: warning: 'ext4_inode_csum' uses dynamic stack allocation [enabled by default]
+
+2012-07-22 14:46:45 lkp-mb01 s390 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

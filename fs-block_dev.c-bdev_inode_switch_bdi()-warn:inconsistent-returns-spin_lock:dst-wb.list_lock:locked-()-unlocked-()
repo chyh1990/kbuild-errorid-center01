@@ -1,0 +1,3 @@
+fs/block_dev.c:71 bdev_inode_switch_bdi() warn: inconsistent returns spin_lock:&dst->wb.list_lock: locked (63) unlocked (71)
+
+2013-01-09 13:27:57 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

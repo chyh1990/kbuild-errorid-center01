@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/ni_pcidio.c:449 nidio_interrupt() error: we previously assumed 'devpriv->di_mite_chan' could be null (see line 438)
+
+2013-01-09 13:27:52 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

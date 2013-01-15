@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_ddi.c:1165:2: warning: 'port' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:48:34 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+ld: cannot open linker script file net/nfc/hci/.tmp_core.ver: No such file or directory
+
+2012-09-29 00:05:44 bee nfc:nfc-next:1ee6dfa x86_64-allyesconfig 05f9dfd

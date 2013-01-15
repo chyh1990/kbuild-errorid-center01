@@ -1,0 +1,3 @@
+drivers/usb/class/cdc-wdm.c:424 wdm_read() info: why not propagate 'rv' from mutex_lock_interruptible_nested() instead of -512?
+
+2012-09-12 11:58:06 kbuild security:next:a40695e i386-allyesconfig a40695e

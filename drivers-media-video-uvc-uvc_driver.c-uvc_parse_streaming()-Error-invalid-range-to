@@ -1,0 +1,3 @@
+drivers/media/video/uvc/uvc_driver.c:732 uvc_parse_streaming() Error invalid range 4096 to -1
+
+2012-09-07 22:42:01 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

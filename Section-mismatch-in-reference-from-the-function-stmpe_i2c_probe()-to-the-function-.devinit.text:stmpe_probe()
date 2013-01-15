@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.text+0x3c19f4): Section mismatch in reference from the function stmpe_i2c_probe() to the function .devinit.text:stmpe_probe()
+
+2012-11-29 05:24:35 snb devel-snb-x86_64-2012-11-29-05-11:2b4eafb x86_64-randconfig-s363 2b4eafb

@@ -1,0 +1,3 @@
+drivers/staging/winbond/phy_calibration.c:153:5: sparse: symbol '_s9_to_s32' was not declared. Should it be static?
+
+2013-01-09 13:00:44 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

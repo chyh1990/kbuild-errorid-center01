@@ -1,0 +1,3 @@
+drivers/media/video/cx231xx/cx231xx-avcore.c:1504 cx231xx_set_Colibri_For_LowIF() error: doing dma on the stack (value)
+
+2012-09-12 11:57:35 kbuild security:next:a40695e i386-allyesconfig a40695e

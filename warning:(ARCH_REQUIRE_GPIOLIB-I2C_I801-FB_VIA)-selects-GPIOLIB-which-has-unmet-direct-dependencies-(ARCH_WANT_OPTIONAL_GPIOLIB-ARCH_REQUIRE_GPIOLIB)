@@ -1,0 +1,3 @@
+warning: (ARCH_REQUIRE_GPIOLIB && I2C_I801 && FB_VIA) selects GPIOLIB which has unmet direct dependencies (ARCH_WANT_OPTIONAL_GPIOLIB || ARCH_REQUIRE_GPIOLIB)
+
+2012-08-07 10:13:44 bee parisc /cc/kernel-tests/commit-list/next:akpm:429a0cb 97606039cadc9ca19c0cc04876aa19811dd9caed

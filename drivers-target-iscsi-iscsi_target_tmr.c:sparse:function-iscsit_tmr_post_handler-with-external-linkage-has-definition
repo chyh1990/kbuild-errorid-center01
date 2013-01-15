@@ -1,0 +1,3 @@
+drivers/target/iscsi/iscsi_target_tmr.c:458:12: sparse: function 'iscsit_tmr_post_handler' with external linkage has definition
+
+2012-07-23 21:32:43 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

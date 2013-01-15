@@ -1,0 +1,3 @@
+drivers/media/dvb/dvb-usb/dibusb-common.c:294 dibusb_dib3000mc_tuner_attach() error: doing dma on the stack ((null))
+
+2012-09-12 11:56:57 kbuild security:next:a40695e i386-allyesconfig a40695e

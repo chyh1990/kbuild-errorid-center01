@@ -1,0 +1,3 @@
+net/batman-adv/unicast.c:268:22: sparse: incorrect type in assignment (different base types)
+
+2012-09-01 03:31:15 snb input:next:bd68dfe i386-allmodconfig bd68dfe

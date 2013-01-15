@@ -1,0 +1,4 @@
+kernel/sched/fair.c:2889:3: warning: 'policy' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-10-28 20:17:49 bee alexs:master:86488a7 x86_64-randconfig-x359 86488a7
+2012-10-28 20:17:50 bee x86_64 email notified

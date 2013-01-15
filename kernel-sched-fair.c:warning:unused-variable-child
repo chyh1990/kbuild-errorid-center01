@@ -1,0 +1,3 @@
+kernel/sched/fair.c:4342:23: warning: unused variable 'child' [-Wunused-variable]
+
+2012-12-17 10:32:14 bee alexs:master:3660606 x86_64-allyesconfig 83565a7

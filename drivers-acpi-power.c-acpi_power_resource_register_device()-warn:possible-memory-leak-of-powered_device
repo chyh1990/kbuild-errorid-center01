@@ -1,0 +1,3 @@
+drivers/acpi/power.c:470 acpi_power_resource_register_device() warn: possible memory leak of 'powered_device'
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

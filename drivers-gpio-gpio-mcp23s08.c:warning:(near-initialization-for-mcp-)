@@ -1,0 +1,3 @@
+drivers/gpio/gpio-mcp23s08.c:302:25: warning: (near initialization for 'mcp') [enabled by default]
+
+2013-01-09 12:49:16 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

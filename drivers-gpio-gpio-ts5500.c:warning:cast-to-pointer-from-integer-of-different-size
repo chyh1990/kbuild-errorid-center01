@@ -1,0 +1,3 @@
+drivers/gpio/gpio-ts5500.c:195:11: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+
+2012-12-22 21:50:51 snb m68k:master:3d3fc8e m68k-allmodconfig 3d3fc8e

@@ -1,0 +1,3 @@
+drivers/scsi/scsi_debug.c:1503 resp_mode_select() warn: 'arr' puts 512 bytes on stack
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

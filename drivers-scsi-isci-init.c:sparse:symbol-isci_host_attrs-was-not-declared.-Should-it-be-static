@@ -1,0 +1,3 @@
+drivers/scsi/isci/init.c:145:25: sparse: symbol 'isci_host_attrs' was not declared. Should it be static?
+
+2013-01-09 12:57:40 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

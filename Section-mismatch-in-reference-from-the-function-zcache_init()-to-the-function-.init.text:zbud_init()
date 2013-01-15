@@ -1,0 +1,3 @@
+WARNING: drivers/staging/ramster/zcache.o(.text+0x2868): Section mismatch in reference from the function zcache_init() to the function .init.text:zbud_init()
+
+2012-11-05 00:53:01 hive konrad-mm:devel:zcache.v3:1a303f5 mips-allmodconfig 1a303f5

@@ -1,0 +1,3 @@
+arch/tile/kernel/compat_signal.c:147:2: error: implicit declaration of function 'compat_restore_altstack'
+
+2012-12-23 12:16:56 snb signal:master:8fb00aa tile-tilegx_defconfig 8fb00aa

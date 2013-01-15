@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:5915:10: sparse: unknown field name in initializer
+
+2012-11-01 00:20:46 snb calxeda:for-next:74d8cec i386-allmodconfig 74d8cec

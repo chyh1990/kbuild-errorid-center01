@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/ix2505v.c:272:22: error: redefinition of 'ix2505v_attach'
+
+2012-09-28 15:21:18 bee tip:x86:mm:fd0f586 powerpc-allyesconfig fd0f586

@@ -1,0 +1,3 @@
+drivers/net/ethernet/brocade/bna/bna_tx_rx.c:2585 bna_rx_destroy() error: potential NULL dereference 'q0'.
+
+2013-01-09 13:27:46 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+fs/reiserfs/journal.c:702:36: sparse: context imbalance in 'add_to_chunk' - unexpected unlock
+
+2013-01-09 13:06:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,6 @@
+drivers/input/misc/sx8634.c:635:22: error: 'NO_IRQ' undeclared (first use in this function)
+
+2012-11-03 04:55:08 kbuild ac100:for-next-thierry:f1f4e22 x86_64-allmodconfig 8ed660d
+2012-11-03 05:09:57 snb devel-snb-i386-2012-11-03-04-54:7e455ac i386-allmodconfig 7e455ac
+2012-11-03 07:04:31 snb devel-snb-arm-2012-11-03-06-28:6aee17f m68k-allmodconfig 6aee17f
+2012-11-03 08:05:38 hive devel-hive-ia64-2012-11-03-07-11:2bb70a4 ia64-allmodconfig 2bb70a4

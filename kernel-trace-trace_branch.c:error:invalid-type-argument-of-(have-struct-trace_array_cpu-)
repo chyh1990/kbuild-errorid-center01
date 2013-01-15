@@ -1,0 +1,4 @@
+kernel/trace/trace_branch.c:54:6: error: invalid type argument of '->' (have 'struct trace_array_cpu')
+
+2012-08-14 03:25:26 hive x86_64 /cc/kernel-tests/commit-list/trace:rfc:multi-buffers-v4:e712fa1 f46d90989f7d8a90193391899b9f5b6242527f0f
+2012-08-14 03:25:28 hive x86_64 email notified

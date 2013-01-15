@@ -1,0 +1,5 @@
+fs/namei.c:3490:37: error: request for member 'name' in something not a structure or union
+
+2012-12-14 19:59:05 kbuild digsig:working:811fee0 x86_64-allmodconfig 1eb7dc1
+2012-12-14 19:59:10 kbuild x86_64 email notified
+2012-12-14 20:44:11 kbuild digsig:working:463070a x86_64-allmodconfig 50b159d

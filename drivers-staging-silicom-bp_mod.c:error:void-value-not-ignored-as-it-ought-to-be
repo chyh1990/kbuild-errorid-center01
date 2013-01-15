@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:7202:6: error: void value not ignored as it ought to be
+
+2012-11-08 12:28:01 snb pci:next:1800377 i386-allmodconfig 1800377

@@ -1,0 +1,3 @@
+drivers/usb/storage/usb.c:482:4-13: duplicated argument to && or ||
+
+2012-09-06 10:15:57 snb usb:usb-next:f61870e i386-allmodconfig f61870e

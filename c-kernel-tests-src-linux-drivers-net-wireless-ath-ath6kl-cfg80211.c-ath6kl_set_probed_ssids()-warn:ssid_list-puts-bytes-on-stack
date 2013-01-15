@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/wireless/ath/ath6kl/cfg80211.c:893 ath6kl_set_probed_ssids() warn: 'ssid_list' puts 544 bytes on stack
+
+2013-01-07 12:25:31 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

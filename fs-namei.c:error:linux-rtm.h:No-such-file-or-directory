@@ -1,0 +1,6 @@
+fs/namei.c:37:23: error: linux/rtm.h: No such file or directory
+
+2012-10-09 07:23:55 inn internal-hle:hle36:combined:48b72d4 avr32-atngw100_defconfig 4061a08
+2012-10-09 07:23:59 inn avr32 email notified
+2012-10-24 19:29:32 inn internal-hle:hle37:abort-fixes:4ea2a40 avr32-atngw100_defconfig b7aa570
+2012-11-09 20:32:51 inn internal-hle:hle37:abort-fixes:653b0b7 avr32-atngw100_defconfig 8c70e78

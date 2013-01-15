@@ -1,0 +1,7 @@
+max1363.c:(.text+0x30b859): undefined reference to `iio_triggered_buffer_setup'
+
+2013-01-12 16:48:38 bee staging:staging-next:955e7da i386-randconfig-b046 955e7da
+2013-01-14 13:25:48 bee next:master:586a9ca i386-randconfig-b046 586a9ca
+2013-01-14 14:23:38 bee next:akpm:17e836d i386-randconfig-b046 17e836d
+2013-01-15 12:27:12 bee next:master:371450d i386-randconfig-b050 371450d
+2013-01-15 13:14:53 bee next:akpm:12dd7dc i386-randconfig-b050 12dd7dc

@@ -1,0 +1,3 @@
+block/partitions/ldm.c:205 ldm_parse_tocblock() error: strncmp() '"config"' too small (7 vs 16)
+
+2013-01-09 13:26:16 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

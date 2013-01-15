@@ -1,0 +1,3 @@
+drivers/input/touchscreen/tsc2005.c:496:59: warning: 'r' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 15:32:11 bee powerpc:test:6b5e722 i386-randconfig-b034 6b5e722

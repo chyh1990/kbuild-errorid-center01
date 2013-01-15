@@ -1,0 +1,3 @@
+drivers/staging/iio/adc/ad7816.c:379:2: error: implicit declaration of function 'gpio_direction_input' [-Werror=implicit-function-declaration]
+
+2012-11-23 04:53:45 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

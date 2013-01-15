@@ -1,0 +1,4 @@
+drivers/scsi/mvumi.c:1880:3: error: implicit declaration of function 'virt_to_bus' [-Werror=implicit-function-declaration]
+
+2012-09-15 00:12:34 kbuild scsi:misc:e1daec5 powerpc-allmodconfig 8b3fa84
+2012-09-15 00:12:35 kbuild powerpc email notified

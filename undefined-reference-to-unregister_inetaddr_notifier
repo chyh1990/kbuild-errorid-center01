@@ -1,0 +1,15 @@
+(.text+0x2744d0): undefined reference to `unregister_inetaddr_notifier'
+
+2012-08-04 22:10:11 hive x86_64 /cc/kernel-tests/commit-list/signal:execve2:f8cdda8 f8cdda8e823c2e8bc87ac8f8ef74594596923613
+2012-08-04 23:45:17 hive x86_64 f3f9f332e231abaf28e14344733b7d000b830f7c /cc/kernel-tests/commit-list/batman:batman-adv:next:a2e6ab6
+2012-08-05 00:07:01 hive x86_64 e7882d6c40874a5b5033ca85f7508a602a60b662 /dev/shm/linus:master:e7882d6
+2012-08-05 02:06:29 bee i386 4cb38750d49010ae72e718d46605ac9ba5a851b4 /cc/kernel-tests/commit-list/linus:master:e7882d6
+2012-08-06 04:23:10 kbuild x86_64 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee /cc/kernel-tests/commit-list/signal:execve2:73b578f
+2012-08-06 07:06:18 kbuild x86_64 1d17d17484d40f2d5b35c79518597a2b25296996 /dev/shm/tip:timers:urgent:1d17d17
+2012-08-06 07:09:23 kbuild x86_64 8a06bf14008fbf55a86105b8569494f4beeb8762 /dev/shm/tip:perf:urgent:8a06bf1
+2012-08-06 07:11:32 kbuild x86_64 1d70c2020f0fcbf31bd1b151d98f55b0d1b1e99d /dev/shm/tip:master:1d70c20
+2012-08-19 19:07:11 kbuild driver-core:driver-core-linus:ebdc828 i386-randconfig-k751 0d7614f
+2012-08-19 19:17:09 kbuild l2-mtd:master:31311c4 i386-randconfig-k751 e62fe1e
+2012-08-19 19:29:29 kbuild tip:x86:urgent:515c7af i386-randconfig-k751 f4ba394
+2012-08-19 19:46:46 kbuild linus:master:6dab7ed i386-randconfig-k751 15fc5de
+2012-09-20 16:47:23 bee mac80211-next:wip:85bcd35 i386-randconfig-b052 85bcd35

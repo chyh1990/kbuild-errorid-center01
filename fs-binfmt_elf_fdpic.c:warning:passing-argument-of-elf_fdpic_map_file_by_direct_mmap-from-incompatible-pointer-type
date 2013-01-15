@@ -1,0 +1,3 @@
+fs/binfmt_elf_fdpic.c:787:3: warning: passing argument 1 of 'elf_fdpic_map_file_by_direct_mmap' from incompatible pointer type [enabled by default]
+
+2012-10-15 11:41:54 lkp-mb01 next:master:50a723f blackfin-BF533-EZKIT_defconfig 50a723f

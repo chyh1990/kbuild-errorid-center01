@@ -1,0 +1,7 @@
+kernel/sched/core.c:2542:41: error: 'struct cfs_rq' has no member named 'runnable_load_avg'
+
+2012-12-16 19:03:29 bee alexs:master:5511e4c x86_64-randconfig-x800 b02fabf
+2012-12-16 19:03:49 bee x86_64 email notified
+2012-12-17 10:33:38 bee alexs:master:3660606 i386-randconfig-x242 208a49e
+2012-12-17 10:45:42 bee alexs:master:41f077b i386-randconfig-x242 41f077b
+2012-12-19 17:55:18 bee alexs:master:3f4db0f x86_64-randconfig-x822 7847399

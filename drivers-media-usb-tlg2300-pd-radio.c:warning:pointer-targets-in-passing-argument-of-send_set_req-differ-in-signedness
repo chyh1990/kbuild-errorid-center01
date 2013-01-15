@@ -1,0 +1,3 @@
+drivers/media/usb/tlg2300/pd-radio.c:46:2: warning: pointer targets in passing argument 4 of 'send_set_req' differ in signedness [-Wpointer-sign]
+
+2012-09-26 23:19:07 bee samsung:v4l-next:01882ac x86_64-allyesconfig 24e527a

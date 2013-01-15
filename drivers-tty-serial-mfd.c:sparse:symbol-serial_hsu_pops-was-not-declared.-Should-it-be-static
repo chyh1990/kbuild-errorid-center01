@@ -1,0 +1,3 @@
+drivers/tty/serial/mfd.c:1183:17: sparse: symbol 'serial_hsu_pops' was not declared. Should it be static?
+
+2013-01-09 13:20:13 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

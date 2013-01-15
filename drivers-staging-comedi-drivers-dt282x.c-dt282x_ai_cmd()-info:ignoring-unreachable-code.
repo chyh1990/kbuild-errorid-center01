@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/dt282x.c:745 dt282x_ai_cmd() info: ignoring unreachable code.
+
+2012-09-07 22:41:35 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

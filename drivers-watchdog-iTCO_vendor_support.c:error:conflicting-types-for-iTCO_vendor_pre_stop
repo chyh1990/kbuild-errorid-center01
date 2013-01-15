@@ -1,0 +1,4 @@
+drivers/watchdog/iTCO_vendor_support.c:311:6: error: conflicting types for 'iTCO_vendor_pre_stop'
+
+2012-09-17 17:36:04 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 17:53:53 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac

@@ -1,0 +1,3 @@
+fs/ocfs2/reservations.c:593 __ocfs2_resv_find_window() error: potentially derefencing uninitialized 'next_resv'.
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

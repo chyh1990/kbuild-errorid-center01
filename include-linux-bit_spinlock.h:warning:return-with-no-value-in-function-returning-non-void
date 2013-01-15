@@ -1,0 +1,3 @@
+include/linux/bit_spinlock.h:49:3: warning: 'return' with no value, in function returning non-void [-Wreturn-type]
+
+2012-11-06 07:54:48 inn internal-hle:hle37:combined:1927fbf i386-alldefconfig 3a846a6

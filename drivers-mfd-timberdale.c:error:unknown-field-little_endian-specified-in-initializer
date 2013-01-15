@@ -1,0 +1,4 @@
+drivers/mfd/timberdale.c:148:2: error: unknown field 'little_endian' specified in initializer
+
+2012-12-11 17:18:07 bee microblaze:petalinux-v12.12:8c5e475 i386-randconfig-b861 8c5e475
+2012-12-19 16:37:13 snb microblaze:xilinx:next:f9d9809 x86_64-randconfig-s501 c350616

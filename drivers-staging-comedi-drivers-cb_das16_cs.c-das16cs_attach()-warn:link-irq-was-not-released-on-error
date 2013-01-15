@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/cb_das16_cs.c:475 das16cs_attach() warn: 'link->irq' was not released on error
+
+2012-09-12 11:57:34 kbuild security:next:a40695e i386-allyesconfig a40695e

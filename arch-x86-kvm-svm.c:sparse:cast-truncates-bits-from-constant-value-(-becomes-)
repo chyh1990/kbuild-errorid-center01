@@ -1,0 +1,3 @@
+arch/x86/kvm/svm.c:656:17: sparse: cast truncates bits from constant value (100000000 becomes 0)
+
+2013-01-09 13:16:02 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/edac/sb_edac.c:1410:31: warning: 'socket' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-21 17:21:54 snb sound:topic:hda-ca0132-dsp:7c74513 x86_64-randconfig-s362 b15be60

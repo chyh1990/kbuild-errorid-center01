@@ -1,0 +1,3 @@
+drivers/usb/serial/usb_wwan.c:505 usb_wwan_port_probe() warn: impossible condition '(port->bulk_out_endpointAddress == -1) => (0-255 == (-1))'
+
+2012-12-16 18:11:17 kbuild userns:userns-always-map-user-v77:f3032de i386-allyesconfig f3032de

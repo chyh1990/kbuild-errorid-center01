@@ -1,0 +1,3 @@
+drivers/usb/chipidea/core.c:417:5: warning: 'ret' may be used uninitialized in this function [-Wuninitialized]
+
+2012-12-17 03:53:52 bee imx:work:efikasb:4de3051 x86_64-randconfig-x802 f874046

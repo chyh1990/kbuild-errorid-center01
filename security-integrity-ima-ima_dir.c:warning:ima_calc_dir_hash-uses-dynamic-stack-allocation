@@ -1,0 +1,3 @@
+security/integrity/ima/ima_dir.c:104:1: warning: 'ima_calc_dir_hash' uses dynamic stack allocation [enabled by default]
+
+2012-10-31 23:21:13 bee digsig:working:5f11cba s390-allyesconfig 2604015

@@ -1,0 +1,4 @@
+drivers/usb/host/built-in.o:(.text+0x4422): first defined here
+
+2012-11-02 01:50:04 kbuild devel-kbuild-i386-2012-11-02-01-33:39d9cdd i386-allyesconfig 39d9cdd
+2012-11-02 14:20:01 kbuild next:akpm:210f491 i386-allyesconfig 210f491

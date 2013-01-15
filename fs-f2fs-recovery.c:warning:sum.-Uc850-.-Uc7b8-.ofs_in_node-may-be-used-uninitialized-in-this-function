@@ -1,0 +1,3 @@
+fs/f2fs/recovery.c:224:52: warning: 'sum.<Uc850>.<Uc7b8>.ofs_in_node' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-12-24 05:14:20 snb yinghai:for-x86-boot:8559510 x86_64-randconfig-s542 f2e1732

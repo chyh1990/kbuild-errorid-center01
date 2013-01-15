@@ -1,0 +1,3 @@
+drivers/usb/gadget/xilinx_udc.c:2417:2: warning: (near initialization for 'usb_of_driver') [enabled by default]
+
+2012-12-11 16:52:41 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690

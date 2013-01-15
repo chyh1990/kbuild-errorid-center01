@@ -1,0 +1,3 @@
+drivers/scsi/hpsa.c:1610 hpsa_get_device_id() warn: returning -1 instead of -ENOMEM is sloppy
+
+2013-01-09 13:27:04 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

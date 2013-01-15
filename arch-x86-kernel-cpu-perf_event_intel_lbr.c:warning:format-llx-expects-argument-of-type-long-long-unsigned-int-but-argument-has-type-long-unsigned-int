@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_lbr.c:349:3: warning: format '%llx' expects argument of type 'long long unsigned int', but argument 5 has type 'long unsigned int' [-Wformat]
+
+2012-11-09 12:44:16 inn internal-hle:hsw:callstack:9e1d135 x86_64-allmodconfig 9e1d135
+2012-11-09 12:44:17 inn x86_64 email notified

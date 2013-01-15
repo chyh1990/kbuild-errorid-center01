@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_ttm.c:289:1: sparse: symbol 'nouveau_ttm_global_init' was not declared. Should it be static?
+
+2012-08-27 13:02:19 snb nouveau:master:fc72098 i386-allmodconfig 7020b3c

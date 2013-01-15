@@ -1,0 +1,3 @@
+drivers/target/target_core_sbc.c:555:34: sparse: incorrect type in assignment (different base types)
+
+2012-11-07 11:22:31 snb devel-snb-i386-2012-11-07-10-59:951d2da i386-allmodconfig 951d2da

@@ -1,0 +1,3 @@
+mm/memcontrol.c:5356 mem_cgroup_swappiness_write() warn: inconsistent returns mutex:&memcg_mutex: locked (5349) unlocked (5337,5340,5356)
+
+2013-01-11 00:48:16 kbuild devel-kbuild-i386-2013-01-11-00-03:c84bbdc i386-allyesconfig c84bbdc

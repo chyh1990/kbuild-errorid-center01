@@ -1,0 +1,3 @@
+drivers/staging/media/lirc/lirc_imon.c:968 imon_probe() warn: possible memory leak of 'context'
+
+2013-01-09 13:26:36 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

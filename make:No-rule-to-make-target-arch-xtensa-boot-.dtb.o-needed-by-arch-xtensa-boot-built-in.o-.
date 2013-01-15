@@ -1,0 +1,20 @@
+make[2]: *** No rule to make target `arch/xtensa/boot/.dtb.o', needed by `arch/xtensa/boot/built-in.o'.
+
+2012-11-29 06:00:21 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-29-05-12:fce75e6 xtensa-common_defconfig fce75e6
+2012-11-29 10:32:52 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-29-09-48:b83140e xtensa-common_defconfig b83140e
+2012-12-01 07:46:43 inn internal-ashishki:ci-watup:7a4d9f0 xtensa-common_defconfig a283d97
+2012-12-01 18:40:19 lkp-mb01 next:master:85924a0 xtensa-common_defconfig 85924a0
+2012-12-03 15:32:14 lkp-mb01 xtensa:for_next:a6eecb1 xtensa-common_defconfig a6eecb1
+2012-12-03 17:52:53 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-03-17-05:918aad0 xtensa-common_defconfig 918aad0
+2012-12-03 20:05:21 lkp-mb01 next:master:e6bdf11 xtensa-common_defconfig e6bdf11
+2012-12-03 20:50:18 lkp-mb01 next:akpm:befe63e xtensa-common_defconfig befe63e
+2012-12-04 18:58:31 lkp-mb01 next:master:176f674 xtensa-common_defconfig 176f674
+2012-12-04 19:20:40 lkp-mb01 next:akpm:d24c041 xtensa-common_defconfig d24c041
+2012-12-05 15:05:12 lkp-mb01 next:master:786c4d6 xtensa-common_defconfig 786c4d6
+2012-12-05 17:27:13 lkp-mb01 next:akpm:a004e1e xtensa-common_defconfig a004e1e
+2012-12-06 17:43:38 lkp-mb01 next:master:cfc4410 xtensa-common_defconfig cfc4410
+2012-12-08 13:01:23 lkp-mb01 next:master:7bd0111 xtensa-common_defconfig 7bd0111
+2012-12-08 13:09:03 lkp-mb01 next:akpm:7253e8a xtensa-common_defconfig 7253e8a
+2012-12-13 10:08:54 lkp-mb01 devel-lkp-mb01-blackfin-2012-12-13-09-36:d471a0e xtensa-common_defconfig d471a0e
+2012-12-13 16:10:41 lkp-mb01 next:master:cf89d08 xtensa-common_defconfig cf89d08
+2012-12-13 17:08:30 lkp-mb01 next:akpm:41633b2 xtensa-common_defconfig 41633b2

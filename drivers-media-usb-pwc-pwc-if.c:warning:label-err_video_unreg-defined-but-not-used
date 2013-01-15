@@ -1,0 +1,3 @@
+drivers/media/usb/pwc/pwc-if.c:1104:1: warning: label 'err_video_unreg' defined but not used [-Wunused-label]
+
+2013-01-09 12:49:09 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

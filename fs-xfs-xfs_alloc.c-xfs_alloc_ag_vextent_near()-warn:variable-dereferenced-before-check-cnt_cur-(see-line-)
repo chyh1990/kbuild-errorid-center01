@@ -1,0 +1,3 @@
+fs/xfs/xfs_alloc.c:1194 xfs_alloc_ag_vextent_near() warn: variable dereferenced before check 'cnt_cur' (see line 1181)
+
+2013-01-13 01:56:11 kbuild devel-kbuild-i386-2013-01-13-01-21:dcc4fce i386-allyesconfig dcc4fce

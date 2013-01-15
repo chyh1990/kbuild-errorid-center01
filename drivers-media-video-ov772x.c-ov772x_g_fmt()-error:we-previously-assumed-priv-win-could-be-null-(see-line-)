@@ -1,0 +1,3 @@
+drivers/media/video/ov772x.c:894 ov772x_g_fmt() error: we previously assumed 'priv->win' could be null (see line 886)
+
+2012-09-07 22:42:17 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,23 @@
+kernel/trace/trace.h:393: error: 'struct task_struct' has no member named 'trace_recursion'
+
+2012-11-03 07:32:42 snb trace:rfc:function-preempt-only:738ac25 avr32-atngw100_defconfig 738ac25
+2012-11-03 07:37:21 lkp-mb01 devel-lkp-mb01-i386-2012-11-03-07-21:34e5b68 i386-randconfig-m123 34e5b68
+2012-11-03 07:43:25 bee devel-bee-i386-2012-11-03-06-52:6202602 i386-randconfig-b624 6202602
+2012-11-03 09:07:42 hive devel-hive-mips-2012-11-03-08-10:cb4fb8c mips-fuloong2e_defconfig cb4fb8c
+2012-11-03 09:09:03 lkp-mb01 devel-lkp-mb01-i386-2012-11-03-08-53:baa4123 i386-randconfig-m131 baa4123
+2012-11-03 11:32:55 hive devel-hive-ia64-2012-11-03-11-15:9af8bc0 ia64-allmodconfig 9af8bc0
+2012-11-03 12:08:02 lkp-mb01 devel-lkp-mb01-s390-2012-11-03-11-56:299c573 parisc-c3000_defconfig 299c573
+2012-11-03 17:56:23 bee devel-bee-x86-2012-11-03-17-00:f70011d parisc-allyesconfig f70011d
+2012-11-15 23:42:15 bee trace:rfc:function-preempt-only-v2:bf9d25e x86_64-randconfig-x626 b4f94de
+2012-11-15 23:56:40 snb devel-snb-arm-2012-11-15-23-37:5db48e2 avr32-atngw100_defconfig 5db48e2
+2012-11-16 00:07:29 lkp-mb01 devel-lkp-mb01-i386-2012-11-15-23-43:d4ec00f i386-randconfig-m024 d4ec00f
+2012-11-16 00:36:54 lkp-mb01 devel-lkp-mb01-s390-2012-11-15-23-52:9bcd853 parisc-c3000_defconfig 9bcd853
+2012-11-16 00:40:46 hive devel-hive-mips-2012-11-16-00-12:9533544 mips-fuloong2e_defconfig 9533544
+2012-11-16 00:41:37 hive devel-hive-ia64-2012-11-16-00-10:bda97c9 ia64-allmodconfig bda97c9
+2012-11-16 01:26:16 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-16-00-40:9ef0531 m32r-m32104ut_defconfig 9ef0531
+2012-11-16 23:34:50 bee trace:rfc:multi-buffers-v7:11ac6db x86_64-randconfig-x626 aac8d09
+2012-11-17 00:02:35 bee devel-bee-i386-2012-11-16-23-52:509ec3e i386-randconfig-b691 509ec3e
+2012-11-17 00:57:45 hive devel-hive-ia64-2012-11-17-00-09:293b004 ia64-allmodconfig 293b004
+2012-11-17 01:02:56 snb devel-snb-arm-2012-11-17-00-38:b73750d avr32-atngw100_defconfig b73750d
+2012-11-17 01:13:20 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-17-00-23:b34132a m32r-m32104ut_defconfig b34132a
+2012-11-17 01:23:30 lkp-mb01 devel-lkp-mb01-s390-2012-11-17-00-23:638ecae parisc-c3000_defconfig 638ecae

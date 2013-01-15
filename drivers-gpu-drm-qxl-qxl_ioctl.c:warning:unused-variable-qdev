@@ -1,0 +1,3 @@
+drivers/gpu/drm/qxl/qxl_ioctl.c:271:21: warning: unused variable 'qdev' [-Wunused-variable]
+
+2012-11-20 10:16:29 kbuild drm:qxl-kms-test:20ac795 x86_64-allmodconfig 939c741

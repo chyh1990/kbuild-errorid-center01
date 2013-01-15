@@ -1,0 +1,3 @@
+drivers/ide/slc90e66.c:110 slc90e66_set_dma_mode() error: buffer overflow 'mwdma_to_pio' 3 <= 31
+
+2013-01-09 13:26:26 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

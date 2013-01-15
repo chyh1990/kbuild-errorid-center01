@@ -1,0 +1,4 @@
+kernel/futex.c:1670:2-8: preceding lock on line 1664
+
+2012-08-13 04:57:05 snb i386 /cc/kernel-tests/commit-list/linus:master:21d2f8d c4e62d67854e247b09ffe763163057237c8b1614
+2012-08-13 04:57:05 snb i386 email notified

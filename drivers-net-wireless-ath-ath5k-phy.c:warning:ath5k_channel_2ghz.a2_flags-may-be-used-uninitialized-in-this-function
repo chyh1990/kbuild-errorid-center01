@@ -1,0 +1,3 @@
+drivers/net/wireless/ath/ath5k/phy.c:1282:29: warning: 'ath5k_channel_2ghz.a2_flags' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-22 16:28:35 snb samsung:v4l-framedesc:6e5b54d x86_64-randconfig-s375 8b03663

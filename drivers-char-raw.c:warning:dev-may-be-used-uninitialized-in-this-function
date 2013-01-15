@@ -1,0 +1,3 @@
+drivers/char/raw.c:231:20: warning: 'dev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:10:23 lkp-mb01 devel-lkp-mb01-i386-2013-01-09-11-54:6b913ee i386-randconfig-m134 6b913ee

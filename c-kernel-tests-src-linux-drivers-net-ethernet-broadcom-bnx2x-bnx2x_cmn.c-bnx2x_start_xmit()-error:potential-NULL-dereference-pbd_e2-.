@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/net/ethernet/broadcom/bnx2x/bnx2x_cmn.c:3605 bnx2x_start_xmit() error: potential NULL dereference 'pbd_e2'.
+
+2013-01-07 12:25:22 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

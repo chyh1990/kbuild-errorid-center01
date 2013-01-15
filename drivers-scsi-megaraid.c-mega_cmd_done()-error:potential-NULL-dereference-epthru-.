@@ -1,0 +1,3 @@
+drivers/scsi/megaraid.c:1596 mega_cmd_done() error: potential NULL dereference 'epthru'.
+
+2013-01-09 13:27:17 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

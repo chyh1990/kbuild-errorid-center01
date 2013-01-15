@@ -1,0 +1,3 @@
+drivers/media/usb/cpia2/cpia2_core.c:927 apply_vp_patch() error: __builtin_memcpy() 'cmd.buffer.block_data' too small (64 vs 255)
+
+2013-01-09 13:28:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

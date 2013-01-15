@@ -1,0 +1,3 @@
+drivers/usb/gadget/audio.c:63:48-49: bDeviceProtocol: first occurrence line 72, second occurrence line 76
+
+2012-10-31 22:08:20 snb devel-snb-i386-2012-10-31-21-47:3e18805 i386-allmodconfig 3e18805

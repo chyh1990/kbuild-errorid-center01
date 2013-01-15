@@ -1,0 +1,3 @@
+sound/pci/echoaudio/indigodj_dsp.c:117:28: sparse: cast to restricted __le32
+
+2013-01-09 13:18:53 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

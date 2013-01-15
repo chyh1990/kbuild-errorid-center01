@@ -1,0 +1,3 @@
+kernel/debug/debug_core.c:495:4: warning: value computed is not used [-Wunused-value]
+
+2012-10-30 17:58:22 bee davinci:v3.8:defconfig:cb5a410 sparc-allyesconfig cb5a410

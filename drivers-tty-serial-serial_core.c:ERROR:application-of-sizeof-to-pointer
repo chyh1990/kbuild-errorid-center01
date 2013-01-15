@@ -1,0 +1,3 @@
+drivers/tty/serial/serial_core.c:643:20-26: ERROR: application of sizeof to pointer
+
+2012-09-06 04:56:03 snb tty:tty-next:f21ec3d i386-allmodconfig f21ec3d

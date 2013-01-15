@@ -1,0 +1,3 @@
+drivers/usb/gadget/xilinx_udc.c:315:2: error: implicit declaration of function 'out_be32' [-Werror=implicit-function-declaration]
+
+2012-12-11 16:52:38 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690

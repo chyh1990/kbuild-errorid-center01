@@ -1,0 +1,3 @@
+drivers/misc/pch_phub.c:223:13: warning: 'pch_phub_restore_reg_conf' defined but not used [-Wunused-function]
+
+2012-10-15 22:44:01 bee devel-bee-i386-2012-10-15-22-36:6b54f17 i386-randconfig-b231 6b54f17

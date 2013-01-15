@@ -1,0 +1,3 @@
+drivers/staging/csr/unifi_pdu_processing.c:3476:6: sparse: symbol 'uf_check_inactivity' was not declared. Should it be static?
+
+2013-01-09 13:04:45 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

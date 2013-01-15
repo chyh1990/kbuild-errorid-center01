@@ -1,0 +1,3 @@
+include/asm-generic/gpio.h:298:10: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+
+2013-01-09 13:22:26 lkp-mb01 next:akpm:ef2dca2 blackfin-TCM-BF537_defconfig ef2dca2

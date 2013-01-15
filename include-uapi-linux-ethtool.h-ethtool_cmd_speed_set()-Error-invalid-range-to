@@ -1,0 +1,3 @@
+include/uapi/linux/ethtool.h:56 ethtool_cmd_speed_set() Error invalid range 65535 to 0
+
+2012-10-02 19:26:57 kbuild uapi:uapi-split:f78f9c7 i386-allyesconfig f78f9c7

@@ -1,0 +1,3 @@
+drivers/staging/media/easycap/easycap_main.c:1141 field2frame() info: why not propagate 'rc' from redaub() instead of -14?
+
+2012-09-12 11:57:25 kbuild security:next:a40695e i386-allyesconfig a40695e

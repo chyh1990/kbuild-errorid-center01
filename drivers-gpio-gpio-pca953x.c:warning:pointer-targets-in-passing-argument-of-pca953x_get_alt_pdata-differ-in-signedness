@@ -1,0 +1,3 @@
+drivers/gpio/gpio-pca953x.c:675:3: warning: pointer targets in passing argument 2 of 'pca953x_get_alt_pdata' differ in signedness [-Wpointer-sign]
+
+2012-09-25 17:03:57 bee mfd:for-next:eebfdc1 x86_64-allyesconfig 41569a1

@@ -1,0 +1,11 @@
+fs/btrfs/backref.c:1586:2: error: implicit declaration of function 'vmalloc' [-Werror=implicit-function-declaration]
+
+2012-08-31 22:47:14 hive josef-btrfs:master:8ccfefe x86_64-randconfig-h842 8ccfefe
+2012-08-31 22:47:15 hive x86_64 email notified
+2012-09-11 05:51:26 snb josef-btrfs:master:6c27991 x86_64-randconfig-s281 17d478b
+2012-09-11 21:07:48 snb josef-btrfs:master:03ae7ae tile-tilegx_defconfig 17d478b
+2012-09-13 00:39:12 snb josef-btrfs:master:c484e3e x86_64-randconfig-s303 07c9575
+2012-09-13 21:02:57 kbuild josef-btrfs:master:6f6f732 powerpc-allmodconfig 2e8431e
+2012-09-13 21:22:10 kbuild josef-btrfs:master:b70f2f9 powerpc-allmodconfig 178227c
+2012-09-14 01:30:01 snb josef-btrfs:master:31710de tile-tilegx_defconfig c0ae80e
+2012-09-16 03:13:14 lkp-mb01 josef-btrfs:master:df147c5 s390-allmodconfig 7b14b08

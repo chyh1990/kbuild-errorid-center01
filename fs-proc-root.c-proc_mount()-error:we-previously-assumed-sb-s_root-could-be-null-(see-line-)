@@ -1,0 +1,3 @@
+fs/proc/root.c:134 proc_mount() error: we previously assumed 'sb->s_root' could be null (see line 123)
+
+2012-09-07 22:41:48 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

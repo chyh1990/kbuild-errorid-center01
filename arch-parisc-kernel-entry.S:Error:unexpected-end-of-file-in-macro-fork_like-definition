@@ -1,0 +1,4 @@
+arch/parisc/kernel/entry.S:1691: Error: unexpected end of file in macro `fork_like' definition
+
+2012-11-01 09:34:50 lkp-mb01 signal:untested:476cf28 parisc-allnoconfig 476cf28
+2012-11-01 10:51:33 lkp-mb01 signal:untested:7e9b6a8 parisc-allnoconfig 7e9b6a8

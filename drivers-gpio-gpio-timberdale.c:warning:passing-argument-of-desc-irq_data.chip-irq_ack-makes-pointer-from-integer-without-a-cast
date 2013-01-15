@@ -1,0 +1,3 @@
+drivers/gpio/gpio-timberdale.c:202:2: warning: passing argument 1 of 'desc->irq_data.chip->irq_ack' makes pointer from integer without a cast [enabled by default]
+
+2013-01-09 12:49:18 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

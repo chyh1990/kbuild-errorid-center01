@@ -1,0 +1,3 @@
+fs/ntfs/compress.c:199:58: error: bad constant expression
+
+2012-09-07 22:41:37 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

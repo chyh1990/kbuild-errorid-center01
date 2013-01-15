@@ -1,0 +1,3 @@
+arch/tile/kernel/compat_signal.c:288:2: warning: passing argument 1 of '__compat_save_altstack' from incompatible pointer type [enabled by default]
+
+2012-11-21 07:16:38 snb devel-snb-arm-2012-11-21-05-35:583a53c tile-tilegx_defconfig 583a53c

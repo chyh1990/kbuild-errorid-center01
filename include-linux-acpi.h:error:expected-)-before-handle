@@ -1,0 +1,4 @@
+include/linux/acpi.h:551: error: expected ')' before 'handle'
+
+2013-01-12 08:07:19 snb devel-snb-arm-2013-01-12-08-02:fc6b884 avr32-atngw100_defconfig fc6b884
+2013-01-12 22:28:38 snb pm:linux-next:6da2315 avr32-atngw100_defconfig 6da2315

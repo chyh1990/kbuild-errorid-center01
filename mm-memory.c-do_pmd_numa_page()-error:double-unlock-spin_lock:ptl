@@ -1,0 +1,3 @@
+mm/memory.c:3593 do_pmd_numa_page() error: double unlock 'spin_lock:ptl'
+
+2013-01-09 13:27:51 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

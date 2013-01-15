@@ -1,0 +1,4 @@
+drivers/staging/iio/iio_hwmon.c:96:21-27: ERROR: application of sizeof to pointer
+
+2012-09-20 00:20:20 snb staging:staging-next:5d06e3d i386-allmodconfig a0e545e
+2012-09-20 00:20:23 snb i386 email notified

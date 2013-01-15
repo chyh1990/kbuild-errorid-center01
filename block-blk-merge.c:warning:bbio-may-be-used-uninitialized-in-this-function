@@ -1,0 +1,3 @@
+block/blk-merge.c:65:2: warning: 'bbio' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:31:26 inn linus:master:974b335 x86_64-randconfig-i364 974b335

@@ -1,0 +1,3 @@
+/bin/bash: line 0: [: -lt: unary operator expected
+
+2012-12-18 11:38:46 lkp-mb01 stable:linux-3.6.y:b2824f4 i386-randconfig-m001 b2824f4

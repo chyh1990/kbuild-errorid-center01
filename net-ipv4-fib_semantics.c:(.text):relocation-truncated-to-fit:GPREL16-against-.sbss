@@ -1,0 +1,15 @@
+net/ipv4/fib_semantics.c:225:(.text+0x9ef10): relocation truncated to fit: GPREL16 against `.sbss'
+
+2012-09-05 08:47:44 lkp-mb01 drm-intel:drm-intel-testing:ef6113a alpha-defconfig fea7a08
+2012-09-05 10:27:57 lkp-mb01 can:led-trigger:eb389c9 alpha-defconfig f20b621
+2012-09-06 03:36:03 lkp-mb01 hwmon:hwmon-next:e0f877a alpha-defconfig b6d86d3
+2012-09-06 07:12:25 lkp-mb01 pm:pm-cpufreq:b632afc alpha-defconfig 56835e6
+2012-09-06 10:48:30 lkp-mb01 wireless-testing:master:7a9ed8d alpha-defconfig 4a8eecb
+2012-09-06 13:29:46 lkp-mb01 char-misc:char-misc-next:9c8dc10 alpha-defconfig 9c8dc10
+2012-09-06 15:24:15 lkp-mb01 drm-intel:drm-intel-fixes:28dcc2d alpha-defconfig c1f0526
+2012-09-06 15:52:13 lkp-mb01 alexs:testing:e9942df alpha-defconfig 7b57a51
+2012-09-06 16:10:07 lkp-mb01 ext3:for_testing:19147da alpha-defconfig 38709e9
+2012-09-06 16:40:31 lkp-mb01 ext3:for_linus:9c2fc0d alpha-defconfig 9c2fc0d
+2012-09-06 16:59:55 lkp-mb01 usb:usb-next:f61870e alpha-defconfig a7bdf7f
+2012-09-06 17:04:18 lkp-mb01 usb:usb-linus:7f7cd3c alpha-defconfig 7f7cd3c
+2012-09-06 17:10:29 lkp-mb01 signal:master:4cc1d72 alpha-defconfig 9acb172

@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/r8192U_core.c:5283:6: sparse: symbol 'query_rxdesc_status' was not declared. Should it be static?
+
+2013-01-09 12:50:39 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

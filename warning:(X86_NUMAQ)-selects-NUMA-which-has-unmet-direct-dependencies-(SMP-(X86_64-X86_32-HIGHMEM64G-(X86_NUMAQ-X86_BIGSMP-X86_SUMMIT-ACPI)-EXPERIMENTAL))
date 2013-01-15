@@ -1,0 +1,3 @@
+warning: (X86_NUMAQ) selects NUMA which has unmet direct dependencies (SMP && (X86_64 || X86_32 && HIGHMEM64G && (X86_NUMAQ || X86_BIGSMP || X86_SUMMIT && ACPI) && EXPERIMENTAL))
+
+2012-07-22 14:50:28 kbuild i386 /cc/kernel-tests/commit-list/tip:x86:boot:bd448d4 9f4e4392cbf72d731a489a3217fe810820b8ba96

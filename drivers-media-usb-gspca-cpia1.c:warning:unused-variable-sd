@@ -1,0 +1,3 @@
+drivers/media/usb/gspca/cpia1.c:1630:13: warning: unused variable 'sd' [-Wunused-variable]
+
+2012-11-13 01:28:52 inn internal-hle:hle37:combined:54a5406 i386-randconfig-i002 3d70f8c

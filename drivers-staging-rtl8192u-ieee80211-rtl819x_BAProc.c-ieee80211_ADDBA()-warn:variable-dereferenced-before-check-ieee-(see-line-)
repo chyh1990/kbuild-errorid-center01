@@ -1,0 +1,3 @@
+drivers/staging/rtl8192u/ieee80211/rtl819x_BAProc.c:117 ieee80211_ADDBA() warn: variable dereferenced before check 'ieee' (see line 114)
+
+2013-01-09 13:27:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

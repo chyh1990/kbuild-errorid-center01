@@ -1,0 +1,3 @@
+drivers/usb/storage/uas.c:679 uas_eh_task_mgmt() warn: inconsistent returns spin_lock:&devinfo->lock: locked (652,658) unlocked (665,671,677,679)
+
+2012-09-27 02:25:14 kbuild devel-kbuild-i386-2012-09-27-01-27:bb926c4 i386-allyesconfig bb926c4

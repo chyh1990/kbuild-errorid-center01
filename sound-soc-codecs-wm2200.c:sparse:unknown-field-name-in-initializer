@@ -1,0 +1,4 @@
+sound/soc/codecs/wm2200.c:2555:10: sparse: unknown field name in initializer
+
+2012-10-28 02:21:58 snb asoc:topic:adsp:55cd1da i386-allmodconfig 55cd1da
+2012-10-28 02:25:54 snb i386 email notified

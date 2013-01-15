@@ -1,0 +1,3 @@
+drivers/staging/vt6655/hostap.c:149 hostap_disable_hostapd() error: use free_netdev() here instead of kfree(pDevice->apdev)
+
+2013-01-09 13:27:06 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

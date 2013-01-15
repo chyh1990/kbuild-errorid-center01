@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/subdev/mxm/base.c:216:3: sparse: symbol '_mxm_shadow' was not declared. Should it be static?
+
+2012-08-07 17:32:27 snb i386 /cc/kernel-tests/commit-list/nouveau:master:088fba1 d41b4528714f130028c30df6a5b7b96df77505eb

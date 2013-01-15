@@ -1,0 +1,3 @@
+fs/nfs/netns.h:27:45: sparse: bad constant expression type
+
+2012-10-02 10:00:36 snb nfs:testing:c6e4f2a i386-allmodconfig c6e4f2a

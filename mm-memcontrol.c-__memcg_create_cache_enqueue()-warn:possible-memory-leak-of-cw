@@ -1,0 +1,3 @@
+mm/memcontrol.c:3275 __memcg_create_cache_enqueue() warn: possible memory leak of 'cw'
+
+2012-10-29 22:52:09 kbuild glommer-memcg:kmemcg-slab:d0437f8 i386-allyesconfig d0437f8

@@ -1,0 +1,3 @@
+arch/x86/kernel/microcode_intel_early.c:299:33: sparse: Using plain integer as NULL pointer
+
+2012-12-01 09:37:35 snb devel-snb-i386-2012-12-01-08-52:9566b34 i386-allmodconfig 9566b34

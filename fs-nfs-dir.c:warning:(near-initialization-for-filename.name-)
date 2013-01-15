@@ -1,0 +1,3 @@
+fs/nfs/dir.c:433:9: warning: (near initialization for 'filename.name') [-Wpointer-sign]
+
+2012-09-25 21:36:39 bee nfs:testing:f743c73 x86_64-allyesconfig a9c310a

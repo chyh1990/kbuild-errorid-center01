@@ -1,0 +1,3 @@
+net/core/skbuff.c:158:6: sparse: symbol '__kmalloc_reserve' was not declared. Should it be static?
+
+2012-07-24 09:02:41 snb i386 /cc/kernel-tests/commit-list/next:akpm:2c57d1e 44d48f56636912dc674d9026de040ef1e17df390

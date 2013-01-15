@@ -1,0 +1,4 @@
+include/linux/compat.h:294:17: error: conflicting types for 'compat_sys_execve'
+
+2012-09-08 03:38:31 snb signal:master:811a655 tile-tilegx_defconfig 731affd
+2012-09-08 03:38:48 snb tile email notified

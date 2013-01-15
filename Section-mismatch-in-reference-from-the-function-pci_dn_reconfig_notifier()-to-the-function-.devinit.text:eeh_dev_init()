@@ -1,0 +1,3 @@
+WARNING: arch/powerpc/platforms/pseries/built-in.o(.text+0x43c4): Section mismatch in reference from the function .pci_dn_reconfig_notifier() to the function .devinit.text:.eeh_dev_init()
+
+2012-10-14 10:57:35 kbuild userns:userns-always-map-user-v69:dbf911b powerpc-allmodconfig dbf911b

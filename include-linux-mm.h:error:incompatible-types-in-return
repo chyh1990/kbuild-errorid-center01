@@ -1,0 +1,4 @@
+include/linux/mm.h:1538: error: incompatible types in return
+
+2012-08-19 07:08:21 snb aa:schednuma2:fd95411 avr32-atngw100_defconfig c69043f
+2012-08-19 07:08:21 snb avr32 email notified

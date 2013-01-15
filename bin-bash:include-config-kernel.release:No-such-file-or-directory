@@ -1,0 +1,12 @@
+/bin/bash: include/config/kernel.release: No such file or directory
+
+2012-08-03 19:25:39 bee x86_64 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:b51a582 57f5876423d5763a25e5a4333a3b3783c49e6628
+2012-09-02 21:30:21 bee l2-mtd:master:aab3579 x86_64-randconfig-x850 2361f73
+2012-09-02 21:45:54 bee sound-unstable:master:59627ec x86_64-randconfig-x852 c810f90
+2012-09-02 22:03:20 bee sound:master:7a73bf9 x86_64-randconfig-x852 7a73bf9
+2012-09-02 23:41:21 bee sound-unstable:topic:hda-cleanup:611fe0a um-allyesconfig ac190c7
+2012-09-04 02:41:46 bee tip:master:433ed0e s390-allyesconfig a5325e9
+2012-09-05 19:54:26 bee hid:for-next:a252af0 x86_64-allyesconfig a5785cc
+2012-09-06 02:25:11 bee can:master:aea8419 i386-allyesconfig 4c29867
+2012-09-06 15:23:46 bee iwlwifi:master:5b7c918 x86_64-randconfig-x873 12bf6f4
+2012-09-06 17:24:11 bee can:master:f05e04d x86_64-allyesconfig 90bcf86

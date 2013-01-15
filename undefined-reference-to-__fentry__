@@ -1,0 +1,4 @@
+(.text+0x1): undefined reference to `__fentry__'
+
+2012-08-14 03:17:21 hive x86_64 /cc/kernel-tests/commit-list/trace:rfc:multi-buffers-v4:e712fa1 7fe0b4da090b72f1bd588f7350ce432d164f262d
+2012-08-14 03:17:22 hive x86_64 email notified

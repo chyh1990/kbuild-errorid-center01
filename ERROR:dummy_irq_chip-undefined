@@ -1,0 +1,24 @@
+ERROR: "dummy_irq_chip" [drivers/gpio/gpio-pcf857x.ko] undefined!
+
+2012-09-14 11:29:22 snb gpio:for-next:c9bcf5c x86_64-randconfig-s313 6e20a0a
+2012-09-15 20:54:24 kbuild gpio:devel:3113e67 x86_64-allmodconfig 6e20a0a
+2012-09-18 10:28:23 lkp-mb01 renesas:next:3e52760 i386-randconfig-m112 3e52760
+2012-09-18 10:36:01 lkp-mb01 renesas:next:2e2e9d5 i386-randconfig-m112 2e2e9d5
+2012-09-18 10:49:38 kbuild renesas:gpio:b7a3ce4 powerpc-allmodconfig b7a3ce4
+2012-09-19 05:45:09 snb gpio:for-next:78c703f x86_64-randconfig-s341 78c703f
+2012-09-19 05:45:58 kbuild gpio:devel:5e969a4 x86_64-allmodconfig 5e969a4
+2012-09-20 15:51:30 kbuild gpio:for-next:d3eca8b x86_64-allmodconfig d3eca8b
+2012-09-20 15:52:32 kbuild gpio:devel:790b520 x86_64-allmodconfig 790b520
+2012-09-25 08:15:05 kbuild renesas:next:cadd90f x86_64-allmodconfig f5e0e9c
+2012-09-25 09:18:14 kbuild devel-kbuild-powerpc-2012-09-25-08-44:8e59792 powerpc-allmodconfig 8e59792
+2012-09-25 10:18:20 kbuild devel-kbuild-powerpc-2012-09-25-09-18:8eb8487 powerpc-allmodconfig 8eb8487
+2012-09-25 11:08:40 kbuild devel-kbuild-powerpc-2012-09-25-10-18:82ac32c powerpc-allmodconfig 82ac32c
+2012-09-26 05:46:23 snb gpio:for-next:6b6fe01 x86_64-randconfig-s006 939d902
+2012-09-26 05:46:23 snb gpio:for-next:6b6fe01 x86_64-randconfig-s006 939d902 email notified
+2012-09-26 10:10:42 kbuild devel-kbuild-powerpc-2012-09-26-09-56:0def34c powerpc-allmodconfig 0def34c
+2012-09-26 10:13:01 snb devel-snb-i386-2012-09-26-09-59:bd092b1 i386-allmodconfig bd092b1
+2012-09-26 10:51:56 hive devel-hive-ia64-2012-09-26-10-00:506a209 ia64-allmodconfig 506a209
+2012-09-28 10:04:41 kbuild renesas:next:918ffa3 x86_64-allmodconfig 822f93b
+2012-10-01 13:35:08 kbuild renesas:next:b681273 x86_64-allmodconfig b6377de
+2012-10-02 14:10:11 kbuild gpio:for-next:901acf5 x86_64-allmodconfig 71fde00
+2012-10-12 13:38:15 bee renesas:next:ab48623 i386-randconfig-b192 ab48623

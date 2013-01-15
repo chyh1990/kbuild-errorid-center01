@@ -1,0 +1,12 @@
+(.text+0x196c6): undefined reference to `acpi_target_system_state'
+
+2012-11-05 14:13:08 snb next:master:124414e x86_64-randconfig-s235 124414e
+2012-11-05 14:34:34 snb next:akpm:1c24949 x86_64-randconfig-s235 be8696a
+2012-11-06 14:09:19 snb next:master:6f4f774 x86_64-randconfig-s235 6f4f774
+2012-11-06 14:20:23 snb next:akpm:5b53047 x86_64-randconfig-s235 41a1f27
+2012-11-07 13:31:46 snb next:master:12b2c0c x86_64-randconfig-s240 12b2c0c
+2012-11-07 13:53:54 snb next:akpm:5c37733 x86_64-randconfig-s240 f1e4774
+2012-11-08 13:18:47 snb next:master:50aa9ee x86_64-randconfig-s240 50aa9ee
+2012-11-08 13:29:15 snb next:akpm:db38463 x86_64-randconfig-s240 f21c550
+2012-11-09 12:48:32 snb next:master:75e0eba x86_64-randconfig-s240 75e0eba
+2012-11-09 12:58:55 snb next:akpm:6703d59 x86_64-randconfig-s240 69ad6bc

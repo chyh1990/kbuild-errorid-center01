@@ -1,0 +1,4 @@
+arch/m32r/kernel/signal.c:106:2: error: implicit declaration of function 'sys_sigaltstack' [-Werror=implicit-function-declaration]
+
+2012-09-21 09:39:18 lkp-mb01 signal:master:d38625a m32r-m32104ut_defconfig d38625a
+2012-09-21 09:57:49 lkp-mb01 m32r email notified

@@ -1,0 +1,3 @@
+drivers/staging/silicom/bp_mod.c:5437:44: sparse: no member 'next' in struct net_device
+
+2012-11-08 12:31:47 snb pci:next:1800377 i386-allmodconfig 1800377

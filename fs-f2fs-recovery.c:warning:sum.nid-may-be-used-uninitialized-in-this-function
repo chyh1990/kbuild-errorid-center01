@@ -1,0 +1,3 @@
+fs/f2fs/recovery.c:224:12: warning: 'sum.nid' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:06:01 bee devel-bee-i386-2013-01-09-11-49:d0aa742 i386-randconfig-b035 d0aa742

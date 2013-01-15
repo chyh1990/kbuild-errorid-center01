@@ -1,0 +1,4 @@
+include/acpi/acpixf.h:55:23: fatal error: acbuffer.h": No such file or directory
+
+2012-10-07 11:26:36 kbuild acpi:next:558dc6f x86_64-allmodconfig 558dc6f
+2012-10-07 16:59:44 snb devel-snb-x86_64-2012-10-07-16-44:69bbc75 x86_64-randconfig-s061 69bbc75

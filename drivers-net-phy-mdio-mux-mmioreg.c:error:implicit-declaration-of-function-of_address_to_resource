@@ -1,0 +1,4 @@
+drivers/net/phy/mdio-mux-mmioreg.c:83:2: error: implicit declaration of function 'of_address_to_resource' [-Werror=implicit-function-declaration]
+
+2012-09-06 19:30:58 hive can:master:7b95241 mips-allmodconfig 798b2cb
+2012-09-07 16:26:21 hive next:akpm:d28e1f3 mips-allmodconfig 313e0e8

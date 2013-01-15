@@ -1,0 +1,3 @@
+mm/compaction.c:217:13: warning: 'compact_capture_page' defined but not used [-Wunused-function]
+
+2012-10-15 22:44:34 bee devel-bee-i386-2012-10-15-22-36:6b54f17 i386-randconfig-b233 6b54f17

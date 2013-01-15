@@ -1,0 +1,3 @@
+drivers/staging/cxt1e1/linux.c:735:1: sparse: symbol 'do_deluser' was not declared. Should it be static?
+
+2013-01-09 13:05:33 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

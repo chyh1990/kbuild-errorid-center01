@@ -1,0 +1,5 @@
+mm/slub.c:216:18: error: 'kmem_cache' undeclared (first use in this function)
+
+2012-09-05 17:23:47 kbuild slab:for-next:da9f26d i386-randconfig-k917 208c435
+2012-09-10 16:20:56 bee glommer-memcg:kmemcg-stack:d9458f9 x86_64-randconfig-x910 d67c455
+2012-09-10 18:22:03 bee glommer-memcg:kmemcg-slab:b20a4ab x86_64-randconfig-x910 6adabe0

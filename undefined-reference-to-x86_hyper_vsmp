@@ -1,0 +1,4 @@
+(.init.rodata+0x4bc): undefined reference to `x86_hyper_vsmp'
+
+2012-08-22 17:15:09 bee tip:x86:platform:c00679a i386-randconfig-b860 c00679a
+2012-08-22 17:19:49 kbuild tip:master:595b3f3 i386-randconfig-k770 595b3f3

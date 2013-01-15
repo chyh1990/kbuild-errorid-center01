@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-ocores.c:334:15: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

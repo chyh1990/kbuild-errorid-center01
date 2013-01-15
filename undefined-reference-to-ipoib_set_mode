@@ -1,0 +1,35 @@
+ipoib_netlink.c:(.text+0x9978bf): undefined reference to `ipoib_set_mode'
+
+2012-10-03 06:40:27 snb kees:yama-stacked:5ec33b8 x86_64-randconfig-s037 aecdc33
+2012-10-03 06:40:28 snb x86_64 email notified
+2012-10-03 06:52:25 snb kees:yama-extras:028b467 x86_64-randconfig-s037 028b467
+2012-10-03 07:22:28 snb kees:yama:25fcb5d x86_64-randconfig-s037 25fcb5d
+2012-10-03 07:29:52 snb kees:module-fd-syscall:03de078 x86_64-randconfig-s037 03de078
+2012-10-03 07:38:14 snb linus:master:06fe918 x86_64-randconfig-s037 06fe918
+2012-10-03 08:46:54 snb kees:pK:c81aa68 x86_64-randconfig-s037 c81aa68
+2012-10-03 08:55:27 snb devel-snb-x86_64-2012-10-03-08-46:0fb6a2c x86_64-randconfig-s037 0fb6a2c
+2012-10-03 09:03:22 snb kees:yama-stacked:1d7929c x86_64-randconfig-s037 7fe0b14
+2012-10-03 09:13:27 snb kees:yama-extras:a3c74e8 x86_64-randconfig-s037 a3c74e8
+2012-10-03 09:21:29 snb kees:yama:9b1c79e x86_64-randconfig-s037 9b1c79e
+2012-10-03 10:57:59 snb devel-snb-x86_64-2012-10-03-10-45:71e6728 x86_64-randconfig-s037 71e6728
+2012-10-03 11:05:08 snb net:master:5316cf9 x86_64-randconfig-s037 5316cf9
+2012-10-03 17:56:11 snb uapi:uapi-split:72541c7 x86_64-randconfig-s037 56d92aa
+2012-10-04 07:02:20 snb cifs:for-next:2a398b8 x86_64-randconfig-s037 eb0ad9c
+2012-10-04 07:19:35 snb omap-pm:for_3.7:fixes:cpufreq:0537510 x86_64-randconfig-s037 16642a2
+2012-10-04 07:42:03 snb userns:for-linus:702e490 x86_64-randconfig-s037 8826532
+2012-10-04 10:19:20 snb devel-snb-x86_64-2012-10-04-10-02:89a1810 x86_64-randconfig-s037 89a1810
+2012-10-04 10:30:51 snb userns:userns-always-map-user-v64:8af30da x86_64-randconfig-s037 3a49431
+2012-10-04 16:00:29 snb devel-snb-x86_64-2012-10-04-15-37:f29ff87 x86_64-randconfig-s037 f29ff87
+2012-10-04 17:13:05 snb userns:for-next:5545730 x86_64-randconfig-s037 5545730
+2012-10-04 17:24:07 snb infiniband:for-next:5f7e21e x86_64-randconfig-s037 7a9a297
+2012-10-04 18:07:50 snb linus:master:612a9aa x86_64-randconfig-s037 612a9aa
+2012-10-06 16:07:45 snb nfs:master:5f3d2f2 x86_64-randconfig-s056 283dbd8
+2012-10-07 03:25:37 snb net-next:master:7fe0b14 x86_64-randconfig-s056 7fe0b14
+2012-10-07 13:36:10 snb net:master:acb600d x86_64-randconfig-s056 acb600d
+2012-10-07 14:36:37 snb linus:master:ed5062d x86_64-randconfig-s056 ed5062d
+2012-10-08 03:46:26 snb net:master:9545f4e x86_64-randconfig-s063 9545f4e
+2012-10-08 09:28:48 snb cifs:for-next:72bd481 x86_64-randconfig-s063 612a9aa
+2012-10-08 14:28:12 snb jdelvare-staging:i2c-for-linus:c415b30 x86_64-randconfig-s063 eee543e
+2012-10-08 15:45:13 snb mips:upstream:2723b7b x86_64-randconfig-s063 2723b7b
+2012-10-23 09:02:50 snb ipvs-next:master:54d83ef x86_64-randconfig-s123 54d83ef
+2012-10-27 20:09:12 snb kvm-ppc:kvm-ppc-next:4c3d168 x86_64-randconfig-s163 4c3d168

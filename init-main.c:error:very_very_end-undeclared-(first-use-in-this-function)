@@ -1,0 +1,6 @@
+init/main.c:163:6: error: '__setup_very_very_end' undeclared (first use in this function)
+
+2012-10-25 23:18:29 bee ux500:mainline:3868030 x86_64-allyesconfig 3868030
+2012-10-26 00:07:53 bee devel-bee-sparc64-2012-10-25-23-45:751daf6 powerpc-chroma_defconfig 751daf6
+2012-10-26 00:52:53 snb devel-snb-i386-2012-10-26-00-51:7a0b28f i386-alldefconfig 7a0b28f
+2012-10-26 01:28:08 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-26-01-10:b246e88 blackfin-BF533-EZKIT_defconfig b246e88

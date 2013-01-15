@@ -1,0 +1,3 @@
+drivers/block/rbd.c:2124:3: warning: 'cur_id' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-17 18:01:39 snb s390:features:08dd20f x86_64-randconfig-s345 08dd20f

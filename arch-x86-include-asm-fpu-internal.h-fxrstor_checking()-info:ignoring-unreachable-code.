@@ -1,0 +1,4 @@
+arch/x86/include/asm/fpu-internal.h:163 fxrstor_checking() info: ignoring unreachable code.
+
+2012-09-19 22:44:11 kbuild tip:master:11546aa i386-allyesconfig 11546aa
+2012-09-19 23:18:20 kbuild i386 email notified

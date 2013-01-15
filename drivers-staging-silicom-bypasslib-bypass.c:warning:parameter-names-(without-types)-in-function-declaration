@@ -1,0 +1,3 @@
+drivers/staging/silicom/bypasslib/bypass.c:483:1: warning: parameter names (without types) in function declaration [enabled by default]
+
+2012-11-08 12:28:03 snb pci:next:1800377 i386-allmodconfig 1800377

@@ -1,0 +1,3 @@
+warning: (ARCH_OMAP4 && ARCH_TEGRA_2x_SOC && ARCH_VEXPRESS_CORTEX_A5_A9_ERRATA) selects ARM_ERRATA_720789 which has unmet direct dependencies (CPU_V7)
+
+2012-09-17 16:46:04 snb drm-intel:drm-intel-nightly:413f77b arm-imx_v6_v7_defconfig 413f77b

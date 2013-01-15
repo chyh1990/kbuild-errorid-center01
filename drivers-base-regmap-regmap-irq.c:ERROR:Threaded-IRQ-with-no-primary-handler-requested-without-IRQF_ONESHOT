@@ -1,0 +1,11 @@
+drivers/base/regmap/regmap-irq.c:330:7-27: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-06 18:48:12 snb i386 /cc/kernel-tests/commit-list/iwlwifi:master:1b9181d 2b328c6532cdbf16d7c035de4e5548998a375c47
+2012-08-08 04:37:01 snb i386 16032624f511b2fac0671cba5e7da40aa7e73a66 /cc/kernel-tests/commit-list/regmap:topic:irq:7a97637
+2012-08-08 04:52:31 snb i386 0eb46ad0c8d60943c1f46cef795fc537fbffd177 /cc/kernel-tests/commit-list/regmap:for-next:e0bf121
+2012-08-19 07:22:21 snb konrad-mm:linux-next:15773b6 i386-allmodconfig 0980bd9
+2012-08-21 11:35:02 snb sound:master:1d0747b i386-allmodconfig f0b433e
+2012-08-24 07:55:45 snb sound-unstable:master:0ecfbe2 i386-allmodconfig f0b433e
+2012-08-26 22:44:26 snb regmap:for-next:c7700f9 i386-allmodconfig 29a4b73
+2012-08-29 16:21:52 snb omap-dss2:work:omap5-dt:a57dfde i386-allmodconfig 88e2289
+2012-09-04 22:12:25 snb omap-dss2:work:omap5-dt:73fc80a i386-allmodconfig c50e86c

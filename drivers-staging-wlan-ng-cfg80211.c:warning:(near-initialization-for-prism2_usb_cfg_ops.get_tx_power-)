@@ -1,0 +1,3 @@
+drivers/staging/wlan-ng/cfg80211.c:736:2: warning: (near initialization for 'prism2_usb_cfg_ops.get_tx_power') [enabled by default]
+
+2012-10-24 18:55:11 bee mac80211-next:wip:f47d5f8 x86_64-allyesdebian f47d5f8

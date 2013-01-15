@@ -1,0 +1,4 @@
+arch/x86/kernel/x86_init.c:135:21: error: 'native_eoi_ioapic_pin' undeclared here (not in a function)
+
+2012-08-08 01:56:20 kbuild i386 /cc/kernel-tests/commit-list/iommu:ioapic-cleanups:25b140f 256a6c84ca44e1e013fe14e3cb3b47ac0e7f4052
+2012-08-08 01:56:22 kbuild i386 email notified

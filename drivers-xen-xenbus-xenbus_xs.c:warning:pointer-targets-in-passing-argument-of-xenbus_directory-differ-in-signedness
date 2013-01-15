@@ -1,0 +1,3 @@
+drivers/xen/xenbus/xenbus_xs.c:378:2: warning: pointer targets in passing argument 4 of 'xenbus_directory' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:29 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

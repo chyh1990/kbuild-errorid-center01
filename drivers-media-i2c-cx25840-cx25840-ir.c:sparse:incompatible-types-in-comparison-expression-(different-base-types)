@@ -1,0 +1,3 @@
+drivers/media/i2c/cx25840/cx25840-ir.c:613:29: sparse: incompatible types in comparison expression (different base types)
+
+2012-10-25 13:32:46 snb next:master:2253213 i386-allmodconfig 2253213

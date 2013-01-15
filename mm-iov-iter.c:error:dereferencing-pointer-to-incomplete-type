@@ -1,0 +1,18 @@
+mm/iov-iter.c:110:3: error: dereferencing pointer to incomplete type
+
+2012-10-17 23:25:22 lkp-mb01 shaggy:loop_v3:b8ee8b4 i386-randconfig-m015 b8ee8b4
+2012-10-18 01:00:56 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-18-00-30:727c857 sh-allnoconfig 727c857
+2012-10-18 03:07:10 bee shaggy:loop_v3:d6e6003 x86_64-randconfig-x262 5b8ee22
+2012-10-18 03:59:40 snb shaggy:loop_v3_old:b8ee8b4 mn10300-asb2364_defconfig b8ee8b4
+2012-10-19 03:42:56 hive shaggy:loop_2012_10_18:568f17f x86_64-randconfig-h091 568f17f
+2012-11-21 08:15:35 bee shaggy:loop_2012_11_20:5ff20fe i386-randconfig-b710 5ff20fe
+2012-11-21 09:54:19 snb devel-snb-x86_64-2012-11-21-09-39:555ca96 x86_64-randconfig-s300 555ca96
+2012-11-21 10:23:11 snb devel-snb-arm-2012-11-21-09-05:04583ac mn10300-asb2364_defconfig 04583ac
+2012-11-21 16:31:33 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-21-15-43:6d7fe72 sh-allnoconfig 6d7fe72
+2012-11-22 02:23:16 bee shaggy:loop_2012_11_21:b283282 i386-randconfig-b720 b283282
+2012-11-22 02:49:54 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-22-02-02:644c957 sh-allnoconfig 644c957
+2012-11-22 03:23:04 snb devel-snb-arm-2012-11-22-02-23:ec6b050 mn10300-asb2364_defconfig ec6b050
+2012-11-22 03:48:04 hive shaggy:loop_v4:2289c3f x86_64-randconfig-h301 2289c3f
+2012-11-22 04:11:35 bee devel-bee-i386-2012-11-22-03-43:6ec37b4 i386-randconfig-b720 6ec37b4
+2012-11-22 04:21:58 snb devel-snb-x86_64-2012-11-22-04-00:1d8ac37 x86_64-randconfig-s315 1d8ac37
+2012-11-22 04:26:15 snb devel-snb-arm-2012-11-22-04-11:8fe3034 mn10300-asb2364_defconfig 8fe3034

@@ -1,0 +1,3 @@
+drivers/media/pci/cx23885/cx23888-ir.c:484 rxclk_rx_s_max_pulse_width() warn: impossible condition '(ns > 4294967295) => (0-u32max > u32max)'
+
+2013-01-09 13:27:39 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

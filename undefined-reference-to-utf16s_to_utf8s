@@ -1,0 +1,8 @@
+(.text+0xda7f3): undefined reference to `utf16s_to_utf8s'
+
+2012-07-29 11:09:28 snb x86_64 /cc/kernel-tests/commit-list/target:for-next-merge:3bdf16c ec5b5767d2414fda4aec5cdbc4a48580d773e3da
+2012-07-29 11:16:24 snb x86_64 74caab72bd730ffd77fc828e1f6d62658d2dbea7 /cc/kernel-tests/commit-list/hwmon:hwmon-staging:74caab7
+2012-08-05 00:45:32 lkp-mb01 i386 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee /cc/kernel-tests/commit-list/signal:execve2:f8cdda8
+2012-08-05 13:43:10 bee i386 4cb38750d49010ae72e718d46605ac9ba5a851b4 /dev/shm/linus:master:e7882d6
+2012-08-05 13:43:21 bee i386 4cb38750d49010ae72e718d46605ac9ba5a851b4 /cc/kernel-tests/commit-list/linus:master:e7882d6
+2012-08-06 12:01:37 kbuild i386 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee /cc/kernel-tests/commit-list/signal:execve2:73b578f

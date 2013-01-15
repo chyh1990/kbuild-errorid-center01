@@ -1,0 +1,3 @@
+(.text+0x23c151): undefined reference to `register_virtio_device'
+
+2012-10-01 09:49:41 bee devel-bee-i386-2012-10-01-09-39:f38fcec i386-randconfig-b102 f38fcec

@@ -1,0 +1,3 @@
+fs/binfmt_elf.c:982:2: warning: operation on 'regs->r1' may be undefined [-Wsequence-point]
+
+2013-01-03 19:10:20 snb hid:for-next:6ef1e89 microblaze-mmu_defconfig 6ef1e89

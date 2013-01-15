@@ -1,0 +1,3 @@
+drivers/hid/hid-sensor-hub.c:598:30: sparse: not enough arguments for function mfd_add_devices
+
+2012-09-19 23:46:59 snb staging:staging-next:5d06e3d i386-allmodconfig 5d06e3d

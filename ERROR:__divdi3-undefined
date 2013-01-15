@@ -1,0 +1,5 @@
+ERROR: "__divdi3" [fs/jfs/jfs.ko] undefined!
+
+2012-09-17 23:09:45 bee next:akpm:a6a55d8 i386-randconfig-b023 a6a55d8
+2012-12-24 03:08:28 lkp-mb01 devel-lkp-mb01-i386-2012-12-24-02-52:79b62ed i386-randconfig-m043 79b62ed
+2012-12-24 03:49:24 lkp-mb01 hwmon:hwmon-staging:c23c4d3 i386-randconfig-m041 c23c4d3

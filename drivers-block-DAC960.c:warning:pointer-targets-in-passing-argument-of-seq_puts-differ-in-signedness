@@ -1,0 +1,3 @@
+drivers/block/DAC960.c:6450:3: warning: pointer targets in passing argument 2 of 'seq_puts' differ in signedness [-Wpointer-sign]
+
+2012-09-26 14:12:35 bee block:for-3.7:core:62ac665 x86_64-allyesconfig b87570f

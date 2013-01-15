@@ -1,0 +1,3 @@
+net/phonet/pn_dev.c:423:15: sparse: incompatible types in comparison expression (different address spaces)
+
+2013-01-09 13:11:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

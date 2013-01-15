@@ -1,0 +1,3 @@
+net/sched/sch_generic.c:678:2: warning: the comparison will always evaluate as 'true' for the address of 'noop_qdisc' will never be NULL [-Waddress]
+
+2012-10-02 00:40:48 hive balbi-usb:i2c-3.0.8:83f4686 x86_64-randconfig-h011 83f4686

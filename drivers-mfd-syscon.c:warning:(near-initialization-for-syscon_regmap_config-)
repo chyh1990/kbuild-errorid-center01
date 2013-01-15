@@ -1,0 +1,3 @@
+drivers/mfd/syscon.c:95:2: warning: (near initialization for 'syscon_regmap_config') [enabled by default]
+
+2012-10-14 16:48:05 lkp-mb01 devel-lkp-mb01-i386-2012-10-14-16-31:d0d636d i386-randconfig-m062 d0d636d

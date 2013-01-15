@@ -1,0 +1,23 @@
+ERROR: "x509_key_preparse" undefined!
+
+2012-10-30 04:04:24 kbuild modsign:devel-pekey:23ab624 x86_64-allmodconfig f5d4a3e
+2012-10-30 04:04:27 kbuild x86_64 email notified
+2012-10-30 04:23:55 snb devel-snb-i386-2012-10-30-04-00:1054629 i386-allmodconfig 1054629
+2012-10-30 05:25:03 snb devel-snb-arm-2012-10-30-04-19:65094d7 m68k-allmodconfig 65094d7
+2012-10-30 08:55:53 snb modsign:devel-pekey:08a07ab i386-allmodconfig 08a07ab
+2012-10-30 10:49:28 kbuild devel-kbuild-powerpc-2012-10-30-10-30:cd88286 powerpc-allmodconfig cd88286
+2012-10-30 11:57:38 lkp-mb01 devel-lkp-mb01-s390-2012-10-30-10-53:776fdd6 s390-allmodconfig 776fdd6
+2012-10-30 12:24:40 lkp-mb01 devel-lkp-mb01-i386-2012-10-30-11-52:6a08608 i386-randconfig-m101 6a08608
+2012-10-30 12:30:45 bee devel-bee-i386-2012-10-30-12-13:fffa968 i386-randconfig-b361 fffa968
+2012-10-30 23:54:02 kbuild modsign:devel-pekey:1b07c11 x86_64-allmodconfig 1b07c11
+2012-10-31 00:43:11 lkp-mb01 devel-lkp-mb01-s390-2012-10-31-00-18:e1dc3f1 s390-allmodconfig e1dc3f1
+2012-10-31 01:03:27 snb devel-snb-i386-2012-10-31-00-19:371a70b i386-allmodconfig 371a70b
+2012-10-31 01:04:12 snb devel-snb-arm-2012-10-31-00-02:8236002 m68k-allmodconfig 8236002
+2012-10-31 04:42:25 snb devel-snb-arm-2012-10-31-04-01:eb8da7b m68k-allmodconfig eb8da7b
+2012-10-31 04:56:26 kbuild devel-kbuild-x86_64-2012-10-31-04-49:7895e5a x86_64-allmodconfig 7895e5a
+2012-10-31 05:08:28 snb devel-snb-i386-2012-10-31-04-45:0e75c7a i386-allmodconfig 0e75c7a
+2012-10-31 05:12:33 kbuild devel-kbuild-powerpc-2012-10-31-04-53:8bf0cf5 powerpc-allmodconfig 8bf0cf5
+2012-10-31 05:30:04 lkp-mb01 devel-lkp-mb01-s390-2012-10-31-04-43:bf3beb4 s390-allmodconfig bf3beb4
+2012-11-06 08:36:35 kbuild modsign:devel-pekey:bbfeff4 x86_64-allmodconfig bbfeff4
+2012-12-13 03:49:57 snb devel-snb-arm-2012-12-13-03-33:b174f06 m68k-allmodconfig b174f06
+2012-12-13 04:51:31 lkp-mb01 devel-lkp-mb01-s390-2012-12-13-03-50:c5923df s390-allmodconfig c5923df

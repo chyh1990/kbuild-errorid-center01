@@ -1,0 +1,6 @@
+arch/x86/built-in.o:(.rodata+0x4b08): undefined reference to `compat_sched_rr_get_interval'
+
+2012-11-29 13:44:59 hive devel-hive-x86_64-2012-11-29-13-35:57aca97 x86_64-randconfig-h352 57aca97
+2012-11-29 13:44:37 bee devel-bee-x86_64-2012-11-29-13-33:a16a6e8 x86_64-allyesdebian a16a6e8
+2012-11-29 13:55:13 kbuild devel-kbuild-x86_64-2012-11-29-13-49:6ad5163 x86_64-allmodconfig 6ad5163
+2012-11-29 14:04:13 snb devel-snb-x86_64-2012-11-29-13-54:061c9e7 x86_64-randconfig-s360 061c9e7

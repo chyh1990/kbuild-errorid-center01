@@ -1,0 +1,3 @@
+drivers/char/tpm/tpm_i2c_infineon.c:591:18: sparse: cast to restricted __be32
+
+2012-09-09 14:25:42 snb next:akpm:d28e1f3 i386-allmodconfig 313e0e8

@@ -1,0 +1,5 @@
+nfs4proc.c:(.text+0x157ca4): undefined reference to `pnfs_put_layout_hdr'
+
+2012-09-20 06:50:57 kbuild nfs:testing:c5d13e1 i386-allyesconfig c5d13e1
+2012-09-20 07:14:19 kbuild i386 email notified
+2012-09-20 07:14:23 kbuild nfs:devel:c5d13e1 i386-allyesconfig c5d13e1

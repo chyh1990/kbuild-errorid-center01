@@ -1,0 +1,4 @@
+drivers/net/tun.c:258:8-15: WARNING opportunity for memdep_user
+
+2012-08-11 04:59:59 snb i386 /cc/kernel-tests/commit-list/wireless:for-davem:039aafb 66d1b9263a371abd15806c53f486f0645ef31a8f
+2012-08-11 05:00:00 snb i386 email notified

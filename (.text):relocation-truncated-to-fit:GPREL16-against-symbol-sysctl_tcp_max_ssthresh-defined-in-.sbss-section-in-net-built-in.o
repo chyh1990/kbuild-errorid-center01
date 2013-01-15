@@ -1,0 +1,9 @@
+(.text+0x81e0c): relocation truncated to fit: GPREL16 against symbol `sysctl_tcp_max_ssthresh' defined in .sbss section in net/built-in.o
+
+2012-09-16 03:46:43 lkp-mb01 wireless-next:for-davem:9316f0e alpha-defconfig 00545be
+2012-10-02 02:29:02 lkp-mb01 linus:master:08815bc alpha-defconfig 08815bc
+2012-10-02 02:48:25 lkp-mb01 linus:master:b3eda8d alpha-defconfig b3eda8d
+2012-10-02 03:16:13 lkp-mb01 linus:master:81f56e5 alpha-defconfig 81f56e5
+2012-10-02 03:27:13 lkp-mb01 tip:master:3d66e19 alpha-defconfig 3d66e19
+2012-10-02 04:24:13 lkp-mb01 tip:master:6a4fd66 alpha-defconfig 6a4fd66
+2012-10-02 15:17:25 lkp-mb01 tip:master:e029a27 alpha-defconfig e029a27

@@ -1,0 +1,3 @@
+drivers/usb/host/whci/asl.c:83:32: sparse: incorrect type in argument 1 (different base types)
+
+2013-01-09 13:13:42 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

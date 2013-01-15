@@ -1,0 +1,3 @@
+drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c:2319 cxgb_extension_ioctl() warn: check that 'edata.addr' doesn't leak information
+
+2013-01-09 13:26:21 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

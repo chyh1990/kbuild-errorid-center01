@@ -1,0 +1,3 @@
+sound/isa/sb/sb16_csp.c:752:22: sparse: restricted snd_pcm_format_t degrades to integer
+
+2013-01-09 13:16:19 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.cpuinit.text+0xbcdd): Section mismatch in reference from the function load_ucode_intel_ap() to the function .init.text:load_microcode()
+
+2012-12-01 08:32:28 kbuild tip:x86:microcode:16544f8 x86_64-allmodconfig 16544f8

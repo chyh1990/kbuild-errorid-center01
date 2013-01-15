@@ -1,0 +1,3 @@
+drivers/staging/iio/adc/max1363_core.c:688:3: warning: pointer targets in passing argument 2 of 'test_bit' differ in signedness [-Wpointer-sign]
+
+2012-09-26 07:14:19 bee staging:staging-next:9970eea m68k-allyesconfig 9970eea

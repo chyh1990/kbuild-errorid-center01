@@ -1,0 +1,4 @@
+drivers/char/xilinx_devcfg.c:36:23: fatal error: mach/slcr.h: No such file or directory
+
+2012-12-11 16:52:38 kbuild microblaze:petalinux-v12.12:8c5e475 x86_64-allmodconfig 226f690
+2012-12-19 20:38:00 kbuild microblaze:xilinx:next:f9d9809 x86_64-allmodconfig c350616

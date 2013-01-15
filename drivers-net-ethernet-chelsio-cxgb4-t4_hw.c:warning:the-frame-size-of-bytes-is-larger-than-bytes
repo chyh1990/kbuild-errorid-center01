@@ -1,0 +1,4 @@
+drivers/net/ethernet/chelsio/cxgb4/t4_hw.c:484:1: warning: the frame size of 2056 bytes is larger than 2048 bytes [-Wframe-larger-than=]
+
+2012-09-28 15:13:35 kbuild next:akpm:b97e42d x86_64-allmodconfig e69d2ac
+2012-09-28 15:26:24 kbuild x86_64 email notified

@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8962.c:2861:15: warning: 'fll_div.lambda' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:48:35 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

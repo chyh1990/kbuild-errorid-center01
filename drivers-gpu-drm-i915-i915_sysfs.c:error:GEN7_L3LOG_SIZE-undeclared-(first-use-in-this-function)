@@ -1,0 +1,5 @@
+drivers/gpu/drm/i915/i915_sysfs.c:105:16: error: 'GEN7_L3LOG_SIZE' undeclared (first use in this function)
+
+2012-09-29 18:55:12 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig f22af27
+2012-09-29 18:55:12 kbuild calxeda:ubuntu-quantal:c07f157 x86_64-allmodconfig f22af27 email notified
+2012-09-29 18:55:35 kbuild x86_64 email notified

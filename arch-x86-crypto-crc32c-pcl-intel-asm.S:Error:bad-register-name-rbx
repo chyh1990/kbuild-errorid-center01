@@ -1,0 +1,4 @@
+arch/x86/crypto/crc32c-pcl-intel-asm.S:92: Error: bad register name `%rbx'
+
+2012-09-27 14:08:55 snb cryptodev:master:11c8484 i386-allmodconfig 11c8484
+2012-09-27 15:24:16 kbuild devel-kbuild-i386-2012-09-27-15-15:de393f8 i386-allyesconfig de393f8

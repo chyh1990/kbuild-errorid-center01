@@ -1,0 +1,4 @@
+include/linux/proc_fs.h:233:13: error: 'proc_ns_inode' defined but not used [-Werror=unused-function]
+
+2012-08-19 16:52:31 hive userns:userns-always-map-user-v46:2715569 sh-allnoconfig fe46207
+2012-08-19 16:54:24 hive sh email notified

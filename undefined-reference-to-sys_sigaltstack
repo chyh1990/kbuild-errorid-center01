@@ -1,0 +1,3 @@
+(.data+0x3ec): undefined reference to `sys_sigaltstack'
+
+2012-12-23 12:15:48 lkp-mb01 signal:master:8fb00aa blackfin-BF533-EZKIT_defconfig 8fb00aa

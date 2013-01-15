@@ -1,0 +1,4 @@
+/usr/local/gcc-4.6.3-nolibc/mips-linux/bin/mips-linux-objdump: 'kernel/sched/.tmp_fair.o': No such file
+
+2012-09-29 04:48:12 bee aa:autonuma:c6047ec mips-allyesconfig 23fae39
+2012-09-29 04:48:59 bee mips email notified

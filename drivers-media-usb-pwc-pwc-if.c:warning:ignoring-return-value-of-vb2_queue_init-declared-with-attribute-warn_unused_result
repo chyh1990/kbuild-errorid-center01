@@ -1,0 +1,4 @@
+drivers/media/usb/pwc/pwc-if.c:1003:16: warning: ignoring return value of 'vb2_queue_init', declared with attribute warn_unused_result [-Wunused-result]
+
+2012-09-29 13:24:23 kbuild samsung:v4l-framedesc:fc4382b x86_64-allmodconfig 896f38f
+2012-09-29 13:24:25 kbuild x86_64 email notified

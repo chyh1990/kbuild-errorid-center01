@@ -1,0 +1,3 @@
+fs/aio.c:826:25: warning: unused variable 'batch_stack' [-Wunused-variable]
+
+2013-01-07 12:08:17 snb next:master:4d8b70d x86_64-randconfig-s599 4d8b70d

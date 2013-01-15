@@ -1,0 +1,13 @@
+fs/f2fs/acl.c:85:21: error: 'struct posix_acl_entry' has no member named 'e_id'
+
+2012-12-22 13:46:34 kbuild userns:userns-always-map-user-v80:9e75958 x86_64-allmodconfig e36fc01
+2013-01-10 09:28:25 snb renesas:next:40249b4 x86_64-randconfig-s619 40249b4
+2013-01-10 09:35:31 snb renesas:pfc4:924a4f6 x86_64-randconfig-s619 8459065
+2013-01-10 10:17:49 snb renesas:next:d3ed82d x86_64-randconfig-s619 d3ed82d
+2013-01-10 10:55:55 snb renesas:pfc4:a819895 x86_64-randconfig-s619 31330e5
+2013-01-10 12:10:01 snb renesas:soc3:357e817 x86_64-randconfig-s619 357e817
+2013-01-10 12:20:15 snb renesas:pfc3:acb43f7 x86_64-randconfig-s619 acb43f7
+2013-01-10 12:31:21 snb renesas:intc-of:332ed00 x86_64-randconfig-s619 284e0c5
+2013-01-10 12:33:38 snb renesas:soc2:5a8b6cc x86_64-randconfig-s619 5a8b6cc
+2013-01-10 13:27:29 snb renesas:sh-soc3:1f8232e x86_64-randconfig-s619 1f8232e
+2013-01-10 13:28:36 snb renesas:pfc2:db448ba x86_64-randconfig-s619 db448ba

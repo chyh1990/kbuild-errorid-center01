@@ -1,0 +1,3 @@
+arch/x86/kernel/hw_breakpoint.c:219:29: sparse: undefined identifier 'HW_BREAKPOINT_W'
+
+2012-11-06 06:25:12 snb devel-snb-i386-2012-11-06-06-03:38fd87e i386-allmodconfig 38fd87e

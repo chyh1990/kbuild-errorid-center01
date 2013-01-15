@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8983.c:410:2: warning: (near initialization for 'out4_mixer[0].name') [-Wpointer-sign]
+
+2012-09-25 21:07:33 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

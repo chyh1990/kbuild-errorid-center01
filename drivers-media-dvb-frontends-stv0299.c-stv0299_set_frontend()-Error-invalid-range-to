@@ -1,0 +1,3 @@
+drivers/media/dvb/frontends/stv0299.c:579 stv0299_set_frontend() Error invalid range 1 to 0
+
+2012-09-07 22:41:32 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

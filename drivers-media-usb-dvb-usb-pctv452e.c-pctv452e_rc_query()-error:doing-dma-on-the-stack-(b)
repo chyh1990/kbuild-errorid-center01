@@ -1,0 +1,3 @@
+drivers/media/usb/dvb-usb/pctv452e.c:554 pctv452e_rc_query() error: doing dma on the stack (b)
+
+2013-01-09 13:27:36 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

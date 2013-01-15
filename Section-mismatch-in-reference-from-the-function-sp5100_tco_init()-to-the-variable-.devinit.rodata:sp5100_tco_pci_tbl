@@ -1,0 +1,3 @@
+WARNING: drivers/watchdog/sp5100_tco.o(.text+0x3a6): Section mismatch in reference from the function sp5100_tco_init() to the variable .devinit.rodata:sp5100_tco_pci_tbl
+
+2012-11-29 04:40:13 kbuild devel-kbuild-x86_64-2012-11-29-04-31:6245273 x86_64-allmodconfig 6245273

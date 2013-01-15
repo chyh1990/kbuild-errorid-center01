@@ -1,0 +1,3 @@
+drivers/hwmon/w83793.c:60:1: warning: pointer targets in return differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:21 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

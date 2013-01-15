@@ -1,0 +1,4 @@
+fs/btrfs/delayed-ref.h:125:21: error: field 'trace' has incomplete type
+
+2012-08-10 16:17:02 kbuild i386 /cc/kernel-tests/commit-list/josef-btrfs:extent-history:7759db1 7759db1867be3d642b2411455902ed22dd6d1381
+2012-08-10 16:17:02 kbuild i386 email notified

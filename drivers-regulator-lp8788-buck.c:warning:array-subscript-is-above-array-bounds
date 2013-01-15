@@ -1,0 +1,3 @@
+drivers/regulator/lp8788-buck.c:489:63: warning: array subscript is above array bounds [-Warray-bounds]
+
+2013-01-09 12:32:04 inn linus:master:974b335 x86_64-randconfig-n363 974b335

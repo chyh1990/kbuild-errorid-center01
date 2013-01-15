@@ -1,0 +1,4 @@
+kernel/irq/manage.c:1455:8-28: ERROR: Threaded IRQ with no primary handler requested without IRQF_ONESHOT
+
+2012-08-13 04:27:28 snb i386 /cc/kernel-tests/commit-list/linus:master:21d2f8d 148311d2ade909a79afb85a853c7979eb499563f
+2012-08-13 04:28:04 snb i386 email notified

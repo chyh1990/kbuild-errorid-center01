@@ -1,0 +1,5 @@
+cdrom.c:(.text+0x1ff8ca0): relocation truncated to fit: R_PPC64_REL24 against symbol `_savegpr0_28' defined in .text.save.restore section in arch/powerpc/lib/built-in.o
+
+2012-09-27 19:23:06 bee arm-perf:irq:44a7333 powerpc-allyesconfig 44a7333
+2012-09-27 21:17:25 bee arm-perf:misc-patches:3da6c03 powerpc-allyesconfig 3da6c03
+2012-09-27 22:33:21 bee m68knommu:for-next:a255172 powerpc-allyesconfig 944c3d8

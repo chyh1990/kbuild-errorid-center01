@@ -1,0 +1,3 @@
+drivers/usb/serial/garmin_gps.c:258:3: warning: pointer targets in passing argument 4 of 'usb_serial_debug_data' differ in signedness [-Wpointer-sign]
+
+2012-09-26 06:42:27 bee usb:usb-next:655db79 x86_64-allyesconfig 655db79

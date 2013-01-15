@@ -1,0 +1,3 @@
+drivers/media/video/saa7164/saa7164-api.c:1383 saa7164_api_i2c_read() warn: should this be a bitwise op?
+
+2012-09-07 22:41:53 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

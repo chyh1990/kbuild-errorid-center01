@@ -1,0 +1,3 @@
+drivers/gpu/drm/vmwgfx/vmwgfx_ioctl.c:118 vmw_get_cap_3d_ioctl() warn: maybe return -EFAULT instead of the bytes remaining?
+
+2012-12-16 18:11:10 kbuild userns:userns-always-map-user-v77:f3032de i386-allyesconfig f3032de

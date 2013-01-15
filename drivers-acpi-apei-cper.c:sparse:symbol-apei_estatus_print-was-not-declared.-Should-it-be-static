@@ -1,0 +1,3 @@
+drivers/acpi/apei/cper.c:347:6: sparse: symbol 'apei_estatus_print' was not declared. Should it be static?
+
+2013-01-09 13:02:16 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

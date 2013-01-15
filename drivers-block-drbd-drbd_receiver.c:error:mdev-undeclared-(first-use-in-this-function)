@@ -1,0 +1,4 @@
+drivers/block/drbd/drbd_receiver.c:4652:10: error: 'mdev' undeclared (first use in this function)
+
+2012-11-14 13:48:00 lkp-mb01 next:master:ebdacea i386-randconfig-m012 ebdacea
+2012-11-14 14:23:56 lkp-mb01 next:akpm:b7c0f57 i386-randconfig-m012 b7c0f57

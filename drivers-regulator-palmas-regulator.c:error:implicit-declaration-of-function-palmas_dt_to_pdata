@@ -1,0 +1,3 @@
+drivers/regulator/palmas-regulator.c:733:3: error: implicit declaration of function 'palmas_dt_to_pdata' [-Werror=implicit-function-declaration]
+
+2012-09-04 22:25:35 kbuild omap-dss2:work:omap5-dt:73fc80a i386-randconfig-k906 4d5f448

@@ -1,0 +1,3 @@
+drivers/net/wireless/brcm80211/brcmsmac/phy/phy_n.c:25247 wlc_phy_a3_nphy() error: potential NULL dereference 'phy_a15'.
+
+2013-01-09 13:26:18 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

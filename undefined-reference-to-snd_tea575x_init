@@ -1,0 +1,44 @@
+radio-shark.c:(.text+0x2c9906): undefined reference to `snd_tea575x_init'
+
+2012-08-06 08:45:55 kbuild i386 /cc/kernel-tests/commit-list/signal:execve2:73b578f 0d7614f09c1ebdbaa1599a5aba7593f147bf96ee
+2012-08-26 16:33:50 hive tip:x86:bsp-hotplug:9d58a9d x86_64-randconfig-h802 fea7a08
+2012-09-18 14:56:31 bee yinghai:for-pci-root-bus-hotplug-part5:376f693 i386-randconfig-b031 376f693
+2012-09-18 20:10:37 bee yinghai:for-pci-res-alloc:aa23edc i386-randconfig-b031 376f693
+2012-09-24 09:54:54 snb rcu:bigrt.2012.09.20a:288b8bb x86_64-randconfig-s004 288b8bb
+2012-09-24 09:54:54 snb rcu:bigrt.2012.09.20a:288b8bb x86_64-randconfig-s004 288b8bb email notified
+2012-09-24 10:09:42 snb time:fortglx:3.7:time:60b087f x86_64-randconfig-s004 c66c777
+2012-10-07 17:14:38 snb linus:master:ed5062d x86_64-randconfig-s068 ed5062d
+2012-10-07 17:42:49 snb yinghai:for-x86-mm:edde656 x86_64-randconfig-s068 79a280a
+2012-10-07 18:08:52 snb aa:autonuma:e233303 x86_64-randconfig-s068 a0d271c
+2012-10-07 18:51:16 snb perf:perf:trace:cc71866 x86_64-randconfig-s068 1d787d3
+2012-10-07 19:09:26 snb net-next:master:7fe0b14 x86_64-randconfig-s068 7fe0b14
+2012-10-08 00:03:47 snb i2c:i2c-embedded:for-next:d3b64c5 x86_64-randconfig-s068 55d512e
+2012-10-08 02:03:12 snb perf:perf:trace:9814c54 x86_64-randconfig-s068 ae86912
+2012-10-08 03:47:02 snb net:master:9545f4e x86_64-randconfig-s068 9545f4e
+2012-10-08 05:29:09 snb drm-intel:drm-intel-next-queued:1a4bd9e x86_64-randconfig-s068 398b7a1
+2012-10-08 05:38:07 snb drm-intel:drm-intel-nightly:6c9cfeb x86_64-randconfig-s068 6c9cfeb
+2012-10-14 18:04:37 snb aa:autonuma:9f6454b x86_64-randconfig-s068 a0d271c
+2012-10-25 17:14:58 hive input:next:a6e8c0a x86_64-randconfig-h142 a6e8c0a
+2012-10-25 17:34:16 hive input:for-linus:88fd449 x86_64-randconfig-h142 88fd449
+2012-10-25 18:12:49 hive edac:master:24bef66 x86_64-randconfig-h142 24bef66
+2012-10-25 19:18:50 hive edac:linux_next:9875aa9 x86_64-randconfig-h142 9875aa9
+2012-10-25 20:28:14 hive mac80211:for-john:2ac64cd x86_64-randconfig-h142 2ac64cd
+2012-10-26 06:30:30 hive jbarnes-drm-intel:workarounds:060dc19 x86_64-randconfig-h142 060dc19
+2012-10-26 11:00:26 hive memcg:since-3.6:33f9548 x86_64-randconfig-h142 33f9548
+2012-10-26 15:16:02 hive edac:linux_next:5e75cbb x86_64-randconfig-h142 5e75cbb
+2012-10-26 22:48:47 hive btrfs:next:c37b2b6 x86_64-randconfig-h142 c37b2b6
+2012-10-26 23:56:18 hive yinghai:for-pci-split-pci-root-hp-2:525e7ff x86_64-randconfig-h142 525e7ff
+2012-10-27 04:45:30 hive jikos-block:for-jens:4a1996b x86_64-randconfig-h142 4a1996b
+2012-10-27 10:57:18 hive mac80211:master:badecb0 x86_64-randconfig-h142 badecb0
+2012-10-27 16:58:11 hive yinghai:for-pci-next-2:907bff3 x86_64-randconfig-h142 907bff3
+2012-10-27 20:20:11 hive kvm-ppc:kvm-ppc-next:4c3d168 x86_64-randconfig-h153 4c3d168
+2012-10-28 07:28:31 hive hid:for-3.7:upstream-fixes:631c20b x86_64-randconfig-h153 631c20b
+2012-10-28 14:39:59 hive kvm:next:8ca40a7 x86_64-randconfig-h153 8ca40a7
+2012-10-28 17:13:00 hive nf-next:nf_tables-experiments:869f261 x86_64-randconfig-h153 869f261
+2012-10-31 13:41:41 bee cgroup:review-cgroup-rmdir-updates:9b84932 i386-randconfig-b373 9b84932
+2012-10-31 14:25:19 bee glommer-memcg:kmemcg-slab:ea49d87 i386-randconfig-b373 ea49d87
+2012-10-31 16:08:23 bee hid:for-3.7:upstream-fixes:9d935b9 i386-randconfig-b373 9d935b9
+2012-11-07 17:27:38 snb mips-sjhill:linux-3.6-stable:d5207f4 x86_64-randconfig-s248 3ba06fd
+2012-11-07 19:28:11 snb memcg:since-3.6:049fcbc x86_64-randconfig-s248 049fcbc
+2012-11-07 21:00:00 snb mips-sjhill:linux-3.6-stable:9f2d6f6 x86_64-randconfig-s248 9f2d6f6
+2012-11-07 21:09:10 snb mips-sjhill:master:7f07077 x86_64-randconfig-s248 809cb6f

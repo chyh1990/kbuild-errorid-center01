@@ -1,0 +1,4 @@
+objdump: 'net/nfc/hci/.tmp_hcp.o': No such file
+
+2012-09-29 00:05:44 bee nfc:nfc-next:1ee6dfa x86_64-allyesconfig 05f9dfd
+2012-09-29 00:06:57 bee x86_64 email notified

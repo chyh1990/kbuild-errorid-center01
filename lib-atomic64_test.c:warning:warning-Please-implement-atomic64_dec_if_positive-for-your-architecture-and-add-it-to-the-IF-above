@@ -1,0 +1,3 @@
+lib/atomic64_test.c:132:2: warning: #warning Please implement atomic64_dec_if_positive for your architecture, and add it to the IF above [-Wcpp]
+
+2012-07-22 18:29:51 hive ia64 /cc/kernel-tests/commit-list/next:akpm:37e2ad4 5f4b07159ed9aa2e31be7dd7d70ba3bcf0965123

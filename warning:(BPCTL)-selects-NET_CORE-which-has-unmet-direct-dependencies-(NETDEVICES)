@@ -1,0 +1,3 @@
+warning: (BPCTL) selects NET_CORE which has unmet direct dependencies (NETDEVICES)
+
+2013-01-09 12:24:36 bee char-misc:char-misc-next:627ca75 i386-randconfig-x334 627ca75

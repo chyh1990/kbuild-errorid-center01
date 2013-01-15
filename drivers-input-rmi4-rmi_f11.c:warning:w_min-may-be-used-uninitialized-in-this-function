@@ -1,0 +1,4 @@
+drivers/input/rmi4/rmi_f11.c:1681:11: warning: 'w_min' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-28 14:21:51 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 29991cc
+2012-11-28 14:21:59 kbuild x86_64 email notified

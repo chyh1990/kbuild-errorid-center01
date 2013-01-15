@@ -1,0 +1,3 @@
+fs/jbd2/journal.c:1796:1: warning: 'jbd2_journal_set_features' uses dynamic stack allocation [enabled by default]
+
+2012-07-22 14:46:58 lkp-mb01 s390 /cc/kernel-tests/commit-list/mmc:mmc-next:dff46c7 0ee51a8c419305987461a7b63eeb98267bcdaf75

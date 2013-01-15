@@ -1,0 +1,3 @@
+drivers/scsi/qla2xxx/qla_gs.c:1356 qla2x00_fdmi_rhba() error: strcpy() 'ha->model_number' too large for 'eiter->a.model' (17 vs 16)
+
+2013-01-09 13:26:35 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

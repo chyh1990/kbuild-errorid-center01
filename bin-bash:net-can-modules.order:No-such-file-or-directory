@@ -1,0 +1,4 @@
+/bin/bash: net/can/modules.order: No such file or directory
+
+2012-09-10 14:37:57 snb signal:for-next:196ea2e x86_64-randconfig-s288 aef82f8
+2012-10-01 13:55:38 hive renesas:next:b681273 x86_64-randconfig-h004 b681273

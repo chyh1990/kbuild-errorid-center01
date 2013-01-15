@@ -1,0 +1,4 @@
+drivers/gpu/drm/drm_fb_helper.c:1247:1-8: alloc with no test, possible model on line 1252
+
+2012-08-16 01:30:24 snb drm-intel:drm-intel-next-queued:96594fc i386-allmodconfig 96594fc
+2012-08-16 01:30:27 snb i386 email notified

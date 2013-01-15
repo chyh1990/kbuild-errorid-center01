@@ -1,0 +1,3 @@
+drivers/gpu/drm/qxl/qxl_ioctl.c:247:1: warning: label 'out' defined but not used [-Wunused-label]
+
+2012-11-28 13:16:46 kbuild drm:qxl-kms-test:ad33fe4 x86_64-allmodconfig 7ada85c

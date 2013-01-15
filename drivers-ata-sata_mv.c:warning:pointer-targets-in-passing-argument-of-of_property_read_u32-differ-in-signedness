@@ -1,0 +1,3 @@
+drivers/ata/sata_mv.c:4056:3: warning: pointer targets in passing argument 3 of 'of_property_read_u32' differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:21 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

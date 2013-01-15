@@ -1,0 +1,4 @@
+drivers/usb/chipidea/../host/ehci.h:665:2: error: implicit declaration of function 'readl' [-Werror=implicit-function-declaration]
+
+2012-11-03 01:37:36 snb usb:usb-next:bc8d51e arm-imx_v6_v7_defconfig bc8d51e
+2012-11-03 02:20:11 kbuild devel-kbuild-powerpc-2012-11-03-01-38:bf3895f powerpc-allmodconfig bf3895f

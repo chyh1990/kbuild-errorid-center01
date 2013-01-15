@@ -1,0 +1,3 @@
+arch/x86/kernel/microcode_intel.c:112:5: sparse: symbol 'apply_microcode' was not declared. Should it be static?
+
+2012-12-01 09:37:35 snb devel-snb-i386-2012-12-01-08-52:9566b34 i386-allmodconfig 9566b34

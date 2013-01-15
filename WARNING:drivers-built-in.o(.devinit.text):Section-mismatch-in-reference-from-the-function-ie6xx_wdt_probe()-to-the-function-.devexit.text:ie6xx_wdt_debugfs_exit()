@@ -1,0 +1,3 @@
+WARNING: drivers/built-in.o(.devinit.text+0x1d7db8): Section mismatch in reference from the function ie6xx_wdt_probe() to the function .devexit.text:ie6xx_wdt_debugfs_exit()
+
+2012-07-27 11:08:00 bee i386 /cc/kernel-tests/commit-list/nfsd:nfsd-next:57c8b13 5559b50acdcdcad7e362882d3261bf934c9436f6

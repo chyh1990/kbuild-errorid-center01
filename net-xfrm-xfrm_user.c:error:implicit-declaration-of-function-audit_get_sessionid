@@ -1,0 +1,3 @@
+net/xfrm/xfrm_user.c:599:2: error: implicit declaration of function 'audit_get_sessionid' [-Werror=implicit-function-declaration]
+
+2012-09-26 15:12:09 bee next:akpm:dad0019 x86_64-lkp dad0019

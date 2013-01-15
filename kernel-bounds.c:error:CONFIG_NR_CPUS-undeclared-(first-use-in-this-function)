@@ -1,0 +1,10 @@
+kernel/bounds.c:21:2: error: 'CONFIG_NR_CPUS' undeclared (first use in this function)
+
+2012-11-13 23:26:14 hive devel-hive-mips-2012-11-13-23-25:6899ee1 mips-allmodconfig 6899ee1
+2012-11-13 23:28:42 hive devel-hive-ia64-2012-11-13-23-27:d59bd80 ia64-alldefconfig d59bd80
+2012-11-13 23:36:16 bee tip:numa:core:0eb2fb2 cris-allyesconfig 0eb2fb2
+2012-11-13 23:50:24 bee devel-bee-sparc64-2012-11-13-23-45:84ab534 powerpc-gamecube_defconfig 84ab534
+2012-11-13 23:51:19 hive tip:master:e7a4d72 ia64-alldefconfig e7a4d72
+2012-11-14 00:13:24 snb devel-snb-arm-2012-11-14-00-12:0c248ed arm-allnoconfig 0c248ed
+2012-11-14 00:43:10 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-14-00-36:8f45d0b blackfin-BF526-EZBRD_defconfig 8f45d0b
+2012-11-14 01:06:32 lkp-mb01 devel-lkp-mb01-s390-2012-11-14-01-01:9b6c22c alpha-defconfig 9b6c22c

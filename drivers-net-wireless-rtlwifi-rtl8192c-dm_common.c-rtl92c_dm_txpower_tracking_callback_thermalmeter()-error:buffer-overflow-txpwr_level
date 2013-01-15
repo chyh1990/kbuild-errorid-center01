@@ -1,0 +1,3 @@
+drivers/net/wireless/rtlwifi/rtl8192c/dm_common.c:891 rtl92c_dm_txpower_tracking_callback_thermalmeter() error: buffer overflow 'txpwr_level' 2 <= 2
+
+2013-01-09 13:28:04 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/net/wireless/mwifiex/cmdevt.c:176:2: warning: format '%lu' expects argument of type 'long unsigned int', but argument 5 has type '__kernel_suseconds_t' [-Wformat]
+
+2012-09-26 08:10:05 bee tip:x86:smap:e139e95 parisc-allyesconfig e139e95

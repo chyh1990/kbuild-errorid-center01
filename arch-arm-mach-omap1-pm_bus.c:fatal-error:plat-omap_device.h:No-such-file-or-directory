@@ -1,0 +1,3 @@
+arch/arm/mach-omap1/pm_bus.c:22:30: fatal error: plat/omap_device.h: No such file or directory
+
+2012-09-24 11:12:54 bee omap:devel-late:9cd68fa x86_64-allyesconfig 2b026d1

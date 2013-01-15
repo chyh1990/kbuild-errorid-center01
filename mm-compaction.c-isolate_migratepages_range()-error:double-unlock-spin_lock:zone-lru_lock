@@ -1,0 +1,3 @@
+mm/compaction.c:621 isolate_migratepages_range() error: double unlock 'spin_lock:&zone->lru_lock'
+
+2013-01-09 13:27:30 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

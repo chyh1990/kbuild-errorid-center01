@@ -1,0 +1,4 @@
+ERROR: "timekeeping_suspended" [fs/pstore/ramoops.ko] undefined!
+
+2012-11-06 05:28:58 bee devel-bee-i386-2012-11-06-05-23:1f675ab i386-randconfig-b636 1f675ab
+2012-11-06 05:39:28 lkp-mb01 kees:timekeeping:7e46f65 i386-randconfig-m143 7e46f65

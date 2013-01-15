@@ -1,0 +1,3 @@
+sound/soc/codecs/sn95031.c:886:29: sparse: symbol 'sn95031_codec' was not declared. Should it be static?
+
+2013-01-09 13:16:15 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

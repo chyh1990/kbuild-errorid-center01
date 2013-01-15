@@ -1,0 +1,4 @@
+arch/x86/kernel/apic/apic.c:2506:2: error: invalid use of undefined type 'struct resource'
+
+2012-09-17 18:14:39 kbuild aarch64:soc-armv8-model:69ed0a3 i386-allyesconfig 69ed0a3
+2012-09-17 18:30:47 kbuild mmc:mmc-next:282d9bf i386-allyesconfig 282d9bf

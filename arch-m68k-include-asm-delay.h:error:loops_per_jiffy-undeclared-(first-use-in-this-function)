@@ -1,0 +1,8 @@
+arch/m68k/include/asm/delay.h:67:24: error: 'loops_per_jiffy' undeclared (first use in this function)
+
+2012-11-19 14:51:02 bee arm-jcooper:mvebu:drivers:c662e80 m68k-allyesconfig 6227194
+2012-11-19 14:51:32 bee m68k email notified
+2012-11-19 17:35:40 bee arm-jcooper:mvebu:boards:fa8aa2d m68k-allyesconfig 025da3c
+2012-11-19 18:35:15 snb devel-snb-arm-2012-11-19-17-45:66cd9ae m68k-allmodconfig 66cd9ae
+2012-11-19 18:53:28 snb devel-snb-arm-2012-11-19-18-36:58a81e0 m68k-allmodconfig 58a81e0
+2012-11-22 16:10:00 bee arm-jcooper:mvebu:everything:4e76b1b m68k-allyesconfig 4135c7d

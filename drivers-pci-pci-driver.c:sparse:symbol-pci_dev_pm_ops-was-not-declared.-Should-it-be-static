@@ -1,0 +1,3 @@
+drivers/pci/pci-driver.c:1080:25: sparse: symbol 'pci_dev_pm_ops' was not declared. Should it be static?
+
+2013-01-09 12:49:04 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

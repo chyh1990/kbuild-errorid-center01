@@ -1,0 +1,9 @@
+drivers/tty/n_tty.c:1435:1: error: insn does not satisfy its constraints:
+
+2012-10-31 13:39:52 lkp-mb01 cgroup:review-cgroup-rmdir-updates:9b84932 h8300-defconfig 9b84932
+2012-10-31 15:14:21 lkp-mb01 glommer-memcg:kmemcg-slab:ea49d87 h8300-defconfig ea49d87
+2012-11-01 03:10:08 lkp-mb01 cgroup:review-cgroup-rmdir-updates:cb5d38f h8300-defconfig cb5d38f
+2012-11-01 15:21:56 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-15-04:66e4afb h8300-defconfig 66e4afb
+2012-11-01 15:49:26 lkp-mb01 cgroup:review-cgroup-rmdir-updates:d2fbc75 h8300-defconfig d2fbc75
+2012-11-01 17:06:06 lkp-mb01 stable:linux-3.6.y:d724b88 h8300-defconfig d724b88
+2012-11-01 19:14:11 lkp-mb01 next:master:2b1279e h8300-defconfig 2b1279e

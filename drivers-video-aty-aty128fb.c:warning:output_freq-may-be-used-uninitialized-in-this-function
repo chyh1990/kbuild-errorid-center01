@@ -1,0 +1,4 @@
+drivers/video/aty/aty128fb.c:1364:4: warning: 'output_freq' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-12 11:47:22 snb security:next:a40695e x86_64-randconfig-s304 51b743f
+2012-09-12 11:47:26 snb x86_64 email notified

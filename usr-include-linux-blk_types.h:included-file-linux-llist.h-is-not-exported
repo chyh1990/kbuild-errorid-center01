@@ -1,0 +1,3 @@
+usr/include/linux/blk_types.h:11: included file 'linux/llist.h' is not exported
+
+2012-10-03 08:27:59 kbuild block:aio-dio:9b74568 powerpc-allmodconfig 9b74568

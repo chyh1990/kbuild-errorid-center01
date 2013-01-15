@@ -1,0 +1,3 @@
+drivers/video/console/fbcon_ccw.c:31 ccw_update_attr() Error invalid range -511 to -1021
+
+2012-09-07 22:41:58 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

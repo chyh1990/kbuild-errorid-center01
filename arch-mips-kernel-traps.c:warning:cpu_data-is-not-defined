@@ -1,0 +1,4 @@
+arch/mips/kernel/traps.c:1822:6: warning: "cpu_data" is not defined [-Wundef]
+
+2012-11-13 16:14:19 bee mips-sjhill:mti-next:bfba8d5 mips-allyesconfig e9ebe29
+2012-11-13 16:14:42 bee mips email notified

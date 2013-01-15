@@ -1,0 +1,3 @@
+drivers/regulator/max1586.c:123:3: warning: (near initialization for 'max1586_reg[1].volt_table') [-Wpointer-sign]
+
+2012-09-25 17:03:57 bee mfd:for-next:eebfdc1 x86_64-allyesconfig 41569a1

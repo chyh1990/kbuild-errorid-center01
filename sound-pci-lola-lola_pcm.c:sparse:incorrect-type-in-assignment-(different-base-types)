@@ -1,0 +1,3 @@
+sound/pci/lola/lola_pcm.c:342:24: sparse: incorrect type in assignment (different base types)
+
+2013-01-09 12:55:24 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

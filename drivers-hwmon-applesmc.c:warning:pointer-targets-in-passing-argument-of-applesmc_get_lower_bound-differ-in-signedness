@@ -1,0 +1,3 @@
+drivers/hwmon/applesmc.c:410:2: warning: pointer targets in passing argument 1 of 'applesmc_get_lower_bound' differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:03:21 bee samsung:v4l-next:fa54a52 x86_64-allyesconfig 1cd2c27

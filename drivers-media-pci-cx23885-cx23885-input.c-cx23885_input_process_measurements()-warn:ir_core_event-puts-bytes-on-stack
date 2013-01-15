@@ -1,0 +1,3 @@
+drivers/media/pci/cx23885/cx23885-input.c:55 cx23885_input_process_measurements() warn: 'ir_core_event' puts 768 bytes on stack
+
+2013-01-09 13:27:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

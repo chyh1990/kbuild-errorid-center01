@@ -1,0 +1,3 @@
+drivers/platform/x86/wmi.c:235:2: warning: pointer targets in passing argument 1 of 'wmi_parse_guid' differ in signedness [-Wpointer-sign]
+
+2012-09-26 12:45:50 bee thermal:next:5d8d708 x86_64-allyesconfig f4a821c

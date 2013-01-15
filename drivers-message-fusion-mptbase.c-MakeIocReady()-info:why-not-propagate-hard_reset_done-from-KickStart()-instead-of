@@ -1,0 +1,3 @@
+drivers/message/fusion/mptbase.c:2974 MakeIocReady() info: why not propagate 'hard_reset_done' from KickStart() instead of -1?
+
+2012-09-11 23:43:21 kbuild sound-unstable:master:784eee3 i386-allyesconfig 432c641

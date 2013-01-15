@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/nouveau_prime.c:163:31: sparse: undefined identifier 'NOUVEAU_GEM_DOMAIN_GART'
+
+2012-08-07 17:32:27 snb i386 /cc/kernel-tests/commit-list/nouveau:master:088fba1 d41b4528714f130028c30df6a5b7b96df77505eb

@@ -1,0 +1,3 @@
+sound/soc/codecs/wm8996.c:2080:42: warning: 'fll_div.fll_loop_gain' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 12:48:36 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

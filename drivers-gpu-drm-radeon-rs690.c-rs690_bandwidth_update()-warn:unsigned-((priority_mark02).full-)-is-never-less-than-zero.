@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/rs690.c:522 rs690_bandwidth_update() warn: unsigned '((priority_mark02).full >> 12)' is never less than zero.
+
+2013-01-09 13:28:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

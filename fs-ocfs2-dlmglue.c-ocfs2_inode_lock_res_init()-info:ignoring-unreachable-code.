@@ -1,0 +1,3 @@
+fs/ocfs2/dlmglue.c:555 ocfs2_inode_lock_res_init() info: ignoring unreachable code.
+
+2012-09-07 22:42:05 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

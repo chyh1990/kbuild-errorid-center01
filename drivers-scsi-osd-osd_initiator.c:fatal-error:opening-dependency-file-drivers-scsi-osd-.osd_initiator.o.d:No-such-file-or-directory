@@ -1,0 +1,3 @@
+drivers/scsi/osd/osd_initiator.c:2067:1: fatal error: opening dependency file drivers/scsi/osd/.osd_initiator.o.d: No such file or directory
+
+2012-09-13 13:03:10 bee drm:drm-fixes:b655232 i386-randconfig-b008 5e1782d

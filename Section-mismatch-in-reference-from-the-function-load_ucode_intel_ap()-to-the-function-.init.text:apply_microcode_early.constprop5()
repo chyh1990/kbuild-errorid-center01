@@ -1,0 +1,3 @@
+WARNING: arch/x86/built-in.o(.cpuinit.text+0x2070): Section mismatch in reference from the function load_ucode_intel_ap() to the function .init.text:apply_microcode_early.isra.1.constprop.5()
+
+2012-12-01 08:49:58 lkp-mb01 tip:x86:microcode:16544f8 i386-randconfig-m065 16544f8

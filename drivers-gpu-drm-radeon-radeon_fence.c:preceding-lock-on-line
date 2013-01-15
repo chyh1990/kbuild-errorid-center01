@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_fence.c:289:3-9: preceding lock on line 336
+
+2012-09-17 07:17:52 snb linus:master:73f8be2 i386-allmodconfig dd383af

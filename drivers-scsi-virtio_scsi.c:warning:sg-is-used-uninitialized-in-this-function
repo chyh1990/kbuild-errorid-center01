@@ -1,0 +1,3 @@
+drivers/scsi/virtio_scsi.c:803:8: warning: 'sg' is used uninitialized in this function [-Wuninitialized]
+
+2012-09-18 12:38:38 bee remoteproc:for-next:a1a7e0a i386-randconfig-b031 a1a7e0a

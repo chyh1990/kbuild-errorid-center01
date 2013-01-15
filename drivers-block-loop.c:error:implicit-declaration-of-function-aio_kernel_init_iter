@@ -1,0 +1,4 @@
+drivers/block/loop.c:251:2: error: implicit declaration of function 'aio_kernel_init_iter' [-Werror=implicit-function-declaration]
+
+2012-10-18 00:06:25 bee shaggy:loop_v3:b8ee8b4 x86_64-randconfig-x269 9a9b1c6
+2012-10-18 03:13:14 bee shaggy:loop_v3:d6e6003 x86_64-randconfig-x269 c6aadd9

@@ -1,0 +1,3 @@
+fs/cifs/cifssmb.c:3686:26: warning: 'pSMB' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2013-01-09 13:26:05 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

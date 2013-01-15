@@ -1,0 +1,3 @@
+drivers/acpi/reboot.c:49:7: error: 'ACPI_ADR_SPACE_SYSTEM_IO' undeclared (first use in this function)
+
+2012-09-26 12:49:02 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c

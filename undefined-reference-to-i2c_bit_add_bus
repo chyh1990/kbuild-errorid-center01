@@ -1,0 +1,4 @@
+dm1105.c:(.devinit.text+0x2efcd): undefined reference to `i2c_bit_add_bus'
+
+2012-12-02 12:35:18 inn linus:master:3c46f3d x86_64-randconfig-n119 3c46f3d
+2012-12-03 09:53:48 inn linus:master:7e5530a x86_64-randconfig-n119 7e5530a

@@ -1,0 +1,3 @@
+include/scsi/osd_protocol.h:110:26: sparse: invalid modifier
+
+2013-01-09 13:07:02 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfa_ioc.c:3407:3-18: code aligned with following code on line 3409
+
+2012-09-20 16:45:53 snb scsi:for-next:cea6340 i386-allmodconfig dbcdf5c

@@ -1,0 +1,6 @@
+drivers/pinctrl/pinctrl-nomadik.c:1821:15: error: variable 'nmk_pinconf_ops' has initializer but incomplete type
+
+2012-10-20 18:17:12 snb pinctrl:nomadik-multiplatform:2e88a0f arm-prima2_defconfig 2e88a0f
+2012-10-20 18:17:13 snb arm email notified
+2012-10-29 06:45:35 snb devel-snb-arm-2012-10-29-06-19:8f0abc8 arm-prima2_defconfig 8f0abc8
+2013-01-07 18:04:05 snb devel-snb-arm-2013-01-07-18-02:cd10aa1 arm-prima2_defconfig cd10aa1

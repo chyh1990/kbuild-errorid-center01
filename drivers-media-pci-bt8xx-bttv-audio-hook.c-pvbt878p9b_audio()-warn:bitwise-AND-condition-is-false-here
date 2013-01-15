@@ -1,0 +1,3 @@
+drivers/media/pci/bt8xx/bttv-audio-hook.c:276 pvbt878p9b_audio() warn: bitwise AND condition is false here
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

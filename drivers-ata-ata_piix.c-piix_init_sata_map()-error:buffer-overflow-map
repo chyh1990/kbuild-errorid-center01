@@ -1,0 +1,3 @@
+drivers/ata/ata_piix.c:1341 piix_init_sata_map() error: buffer overflow 'map' 4 <= 4
+
+2013-01-09 13:26:26 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

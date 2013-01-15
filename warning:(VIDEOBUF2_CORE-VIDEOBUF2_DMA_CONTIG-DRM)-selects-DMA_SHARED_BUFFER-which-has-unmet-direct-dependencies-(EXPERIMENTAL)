@@ -1,0 +1,4 @@
+warning: (VIDEOBUF2_CORE && VIDEOBUF2_DMA_CONTIG && DRM) selects DMA_SHARED_BUFFER which has unmet direct dependencies (EXPERIMENTAL)
+
+2012-11-13 23:21:13 bee samsung:vb2-dmabuf-for-3.8-origen:1f59549 x86_64-randconfig-x610 67112a4
+2012-11-13 23:21:35 bee x86_64 email notified

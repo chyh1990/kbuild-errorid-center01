@@ -1,0 +1,3 @@
+drivers/misc/ti-st/st_core.c:508 st_register() warn: variable dereferenced before check 'new_proto' (see line 507)
+
+2012-09-07 22:41:10 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

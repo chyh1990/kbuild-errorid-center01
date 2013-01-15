@@ -1,0 +1,3 @@
+drivers/acpi/pci_link.c:56:12: warning: 'acpi_pci_link_add' used but never defined [enabled by default]
+
+2012-09-26 12:48:00 bee thermal:next:5d8d708 um-allyesconfig f4a821c

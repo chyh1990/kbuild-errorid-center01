@@ -1,0 +1,4 @@
+include/linux/quota.h:284: error: unknown field 'uid' specified in initializer
+
+2012-09-02 13:17:08 snb userns:userns-always-map-user-v52:3f025b0 avr32-atngw100_defconfig 3a77452
+2012-09-03 16:53:40 snb userns:userns-always-map-user-v53:abfd159 avr32-atngw100_defconfig 1729ac8

@@ -1,0 +1,3 @@
+rmi_i2c.c:(.text+0x12961e): undefined reference to `i2c_master_recv'
+
+2012-11-28 14:21:50 kbuild input:synaptics-rmi4:0af2538 x86_64-allmodconfig 29991cc

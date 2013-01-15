@@ -1,0 +1,5 @@
+drivers/block/rbd.c:2275:2: error: implicit declaration of function 'atomic64_cmpxchg' [-Werror=implicit-function-declaration]
+
+2012-09-01 22:49:54 snb slave-dma:next:b5f1433 m68k-allmodconfig b707c65
+2012-09-01 22:55:06 snb asoc:for-next:ba846b3 m68k-allmodconfig c921928
+2012-09-20 10:26:10 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

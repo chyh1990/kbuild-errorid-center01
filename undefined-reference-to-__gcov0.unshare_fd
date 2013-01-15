@@ -1,0 +1,3 @@
+fork.c:(.text+0x41): undefined reference to `__gcov0.unshare_fd'
+
+2013-01-15 16:12:27 ant yuanhan:kfifo:b2e699c i386-randconfig-a006 c825f15

@@ -1,0 +1,3 @@
+drivers/usb/core/hub.c:4708:63: sparse: no member 'children' in struct usb_device
+
+2012-12-05 10:52:54 snb devel-snb-i386-2012-12-05-10-40:afc9b98 i386-allmodconfig afc9b98

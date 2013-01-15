@@ -1,0 +1,3 @@
+sound/pci/echoaudio/layla20_dsp.c:291:40: sparse: invalid assignment: &=
+
+2013-01-09 13:18:48 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

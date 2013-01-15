@@ -1,0 +1,3 @@
+net/netrom/af_netrom.c:231:25: sparse: context imbalance in 'nr_find_next_circuit' - unexpected unlock
+
+2013-01-09 13:07:09 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

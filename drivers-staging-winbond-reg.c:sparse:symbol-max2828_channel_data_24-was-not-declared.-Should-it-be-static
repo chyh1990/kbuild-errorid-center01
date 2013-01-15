@@ -1,0 +1,3 @@
+drivers/staging/winbond/reg.c:148:5: sparse: symbol 'max2828_channel_data_24' was not declared. Should it be static?
+
+2013-01-09 13:00:54 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,4 @@
+drivers/base/firmware_class.c:1245:1: warning: no return statement in function returning non-void [-Wreturn-type]
+
+2012-08-17 05:12:00 snb driver-core:driver-core-next:1508d81 x86_64-randconfig-s110 1508d81
+2012-08-17 05:24:12 snb x86_64 email notified

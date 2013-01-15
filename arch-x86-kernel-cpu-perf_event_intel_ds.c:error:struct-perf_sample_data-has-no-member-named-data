@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_ds.c:622:7: error: 'struct perf_sample_data' has no member named 'data'
+
+2012-09-15 19:49:50 snb hle:hsw:pmu2:454c8f1 x86_64-randconfig-s321 5eaff40
+2012-09-15 19:49:51 snb x86_64 email notified

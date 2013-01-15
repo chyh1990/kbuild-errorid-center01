@@ -1,0 +1,4 @@
+drivers/usb/core/hub.c:1216:3: warning: 'flush_work_sync' is deprecated (declared at include/linux/workqueue.h:448) [-Wdeprecated-declarations]
+
+2012-10-23 02:49:24 bee usb:usb-linus:3b6054d x86_64-allyesdebian 3b6054d
+2012-10-23 02:49:26 bee x86_64 email notified

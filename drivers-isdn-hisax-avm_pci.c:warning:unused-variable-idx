@@ -1,0 +1,3 @@
+drivers/isdn/hisax/avm_pci.c:80:18: warning: unused variable 'idx' [-Wunused-variable]
+
+2012-09-20 10:26:12 snb asoc:for-next:7f0f58f m68k-allmodconfig c921928

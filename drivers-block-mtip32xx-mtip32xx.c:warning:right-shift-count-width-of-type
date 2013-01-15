@@ -1,0 +1,3 @@
+drivers/block/mtip32xx/mtip32xx.c:2472:2: warning: right shift count >= width of type [enabled by default]
+
+2012-11-08 05:09:43 bee devel-bee-i386-2012-11-08-04-54:df18db2 i386-randconfig-b640 df18db2

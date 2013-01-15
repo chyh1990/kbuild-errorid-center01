@@ -1,0 +1,3 @@
+drivers/gpu/drm/ttm/ttm_bo.c:1601:10: warning: passing argument 1 of 'drm_vma_unmap_mapping' from incompatible pointer type [enabled by default]
+
+2012-12-19 12:25:26 kbuild drm:drm-vma-manager:cf007b8 x86_64-allmodconfig 34149d6

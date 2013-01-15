@@ -1,0 +1,3 @@
+drivers/firmware/efivars.c:1007:5: sparse: symbol 'efivarfs_fill_super' was not declared. Should it be static?
+
+2012-11-15 14:40:24 snb tip:core:efi:5d6d578 i386-allmodconfig 5d6d578

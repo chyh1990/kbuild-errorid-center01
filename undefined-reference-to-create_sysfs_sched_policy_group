@@ -1,0 +1,4 @@
+(.init.text+0x4d52): undefined reference to `create_sysfs_sched_policy_group'
+
+2012-11-06 23:25:03 snb alexs:master:6109035 x86_64-randconfig-s231 4128245
+2012-11-07 00:00:18 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-06-23-31:c916c1f sh-allnoconfig c916c1f

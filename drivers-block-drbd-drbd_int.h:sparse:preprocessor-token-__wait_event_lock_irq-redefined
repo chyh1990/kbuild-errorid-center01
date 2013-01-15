@@ -1,0 +1,3 @@
+drivers/block/drbd/drbd_int.h:2339:9: sparse: preprocessor token __wait_event_lock_irq redefined
+
+2012-11-30 15:58:24 snb next:master:85924a0 i386-allmodconfig 85924a0

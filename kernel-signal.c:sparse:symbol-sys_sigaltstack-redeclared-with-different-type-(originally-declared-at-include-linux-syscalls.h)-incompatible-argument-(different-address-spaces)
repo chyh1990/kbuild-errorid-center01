@@ -1,0 +1,3 @@
+kernel/signal.c:3117:1: sparse: symbol 'sys_sigaltstack' redeclared with different type (originally declared at include/linux/syscalls.h:865) - incompatible argument 2 (different address spaces)
+
+2012-10-01 22:44:22 snb signal:master:3c33d2e i386-allmodconfig 3c33d2e

@@ -1,0 +1,3 @@
+crypto/tcrypt.c:180 test_cipher_speed() warn: 16384 is more than 255 (max '(*keysize + *b_size)' can be) so this is always the same.
+
+2012-09-07 22:42:15 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,7 @@
+(.text+0x8309c): relocation truncated to fit: GPREL16 against symbol `sysctl_tcp_nometrics_save' defined in .sbss section in net/built-in.o
+
+2012-09-07 10:17:33 lkp-mb01 can:for-davem:bbe660a alpha-defconfig 11ad714
+2012-09-16 03:46:43 lkp-mb01 wireless-next:for-davem:9316f0e alpha-defconfig 00545be
+2012-09-19 21:44:27 lkp-mb01 tip:master:11546aa alpha-defconfig 11546aa
+2012-09-20 05:14:54 lkp-mb01 tip:master:0ce2151 alpha-defconfig 0ce2151
+2012-09-20 22:56:19 lkp-mb01 tip:master:a1bca57 alpha-defconfig a1bca57

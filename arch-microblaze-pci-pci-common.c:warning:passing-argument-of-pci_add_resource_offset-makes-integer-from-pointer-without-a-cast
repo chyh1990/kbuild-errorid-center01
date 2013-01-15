@@ -1,0 +1,3 @@
+arch/microblaze/pci/pci-common.c:1436:2: warning: passing argument 3 of 'pci_add_resource_offset' makes integer from pointer without a cast [enabled by default]
+
+2013-01-04 02:28:49 snb devel-snb-arm-2013-01-04-01-21:31eda3e microblaze-mmu_defconfig 31eda3e

@@ -1,0 +1,3 @@
+drivers/video/matrox/matroxfb_maven.c:140:79: sparse: incorrect type in initializer (different base types)
+
+2012-10-18 19:26:28 snb balbi-usb:i2c-transferred-bytes-on-NACK:84461db i386-allmodconfig 84461db

@@ -1,0 +1,3 @@
+drivers/gpio/gpio-wm831x.c:217:13: warning: 'powerdomain' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-22 22:40:02 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s371 8afd519

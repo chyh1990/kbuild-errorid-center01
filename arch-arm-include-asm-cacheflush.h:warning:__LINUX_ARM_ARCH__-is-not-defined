@@ -1,0 +1,3 @@
+arch/arm/include/asm/cacheflush.h:194:7: warning: "__LINUX_ARM_ARCH__" is not defined [-Wundef]
+
+2012-09-17 18:45:38 inn internal-hle:hle35:spinlock:7a1f51f arm-allnoconfig 7a1f51f

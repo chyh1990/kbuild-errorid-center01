@@ -1,0 +1,3 @@
+WARNING: arch/x86/built-in.o(.text+0x3fc42): Section mismatch in reference from the function acpi_unmap_lsapic() to the function .cpuinit.text:numa_clear_node()
+
+2012-09-07 15:09:02 kbuild next:akpm:d28e1f3 x86_64-allmodconfig 671f93f

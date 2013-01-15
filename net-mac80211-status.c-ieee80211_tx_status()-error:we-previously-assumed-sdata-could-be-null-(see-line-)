@@ -1,0 +1,4 @@
+net/mac80211/status.c:547 ieee80211_tx_status() error: we previously assumed 'sdata' could be null (see line 539)
+
+2012-09-11 17:04:05 kbuild mac80211-next:wip:cd81c8b i386-allyesconfig cd81c8b
+2012-09-11 17:58:22 kbuild i386 email notified

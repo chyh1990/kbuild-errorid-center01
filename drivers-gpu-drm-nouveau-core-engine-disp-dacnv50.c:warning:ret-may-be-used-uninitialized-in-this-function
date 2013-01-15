@@ -1,0 +1,3 @@
+drivers/gpu/drm/nouveau/core/engine/disp/dacnv50.c:67:6: warning: 'ret' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-11-29 16:36:00 bee drm:drm-next:bd3b49f i386-randconfig-x139 ca06241

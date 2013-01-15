@@ -1,0 +1,3 @@
+drivers/scsi/bfa/bfad_im.c:936 bfad_im_check_if_make_lun_visible() error: potential NULL dereference 'lun_list'.
+
+2013-01-09 13:27:47 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

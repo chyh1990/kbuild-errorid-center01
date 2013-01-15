@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_display.c:8143 intel_modeset_stage_output_state() error: potential NULL dereference 'connector->new_encoder'.
+
+2013-01-09 13:27:26 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

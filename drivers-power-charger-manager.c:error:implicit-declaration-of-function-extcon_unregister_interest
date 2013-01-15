@@ -1,0 +1,12 @@
+drivers/power/charger-manager.c:1637:4: error: implicit declaration of function 'extcon_unregister_interest' [-Werror=implicit-function-declaration]
+
+2012-11-20 19:28:14 bee extcon:for-add-feature:3434725 i386-randconfig-b714 3434725
+2012-11-20 19:42:40 hive devel-hive-mips-2012-11-20-19-24:7c38a74 mips-allmodconfig 7c38a74
+2012-11-20 19:59:12 kbuild devel-kbuild-powerpc-2012-11-20-19-17:61d2630 powerpc-allmodconfig 61d2630
+2012-11-20 20:06:36 kbuild devel-kbuild-i386-2012-11-20-20-01:4afd228 i386-allyesconfig 4afd228
+2012-11-20 20:10:06 snb devel-snb-i386-2012-11-20-19-43:04f0a30 i386-allmodconfig 04f0a30
+2012-11-20 20:12:35 snb devel-snb-arm-2012-11-20-19-47:f7eed94 m68k-allmodconfig f7eed94
+2012-11-20 20:20:42 hive devel-hive-ia64-2012-11-20-19-43:490d097 ia64-allmodconfig 490d097
+2012-11-22 13:16:28 kbuild extcon:for-add-feature:460639f powerpc-allmodconfig 460639f
+2012-11-22 13:25:35 bee devel-bee-i386-2012-11-22-13-20:35c3e36 i386-randconfig-b730 35c3e36
+2012-11-22 13:26:53 snb devel-snb-x86_64-2012-11-22-13-19:5fc66f5 x86_64-randconfig-s326 5fc66f5

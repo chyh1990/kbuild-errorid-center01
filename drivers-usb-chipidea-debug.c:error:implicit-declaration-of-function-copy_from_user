@@ -1,0 +1,4 @@
+drivers/usb/chipidea/debug.c:92:2: error: implicit declaration of function 'copy_from_user' [-Werror=implicit-function-declaration]
+
+2012-11-25 06:36:39 inn internal-ashishki:ci-watup:56c5627 ia64-allmodconfig 56c5627
+2012-11-25 06:36:42 inn ia64 email notified

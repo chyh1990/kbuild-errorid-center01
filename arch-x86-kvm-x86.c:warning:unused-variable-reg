@@ -1,0 +1,4 @@
+arch/x86/kvm/x86.c:5717:11: warning: unused variable 'reg' [-Wunused-variable]
+
+2012-08-28 07:17:16 bee kvm:next:dd856ef x86_64-allyesdebian dd856ef
+2012-08-28 07:17:16 bee x86_64 email notified

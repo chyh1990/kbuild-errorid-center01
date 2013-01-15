@@ -1,0 +1,4 @@
+WARNING: arch/x86/built-in.o(.text+0x3fc3b): Section mismatch in reference from the function acpi_unmap_lsapic() to the variable .cpuinit.data:__apicid_to_node
+
+2012-09-07 15:09:02 kbuild next:akpm:d28e1f3 x86_64-allmodconfig 671f93f
+2012-09-07 15:09:03 kbuild x86_64 email notified

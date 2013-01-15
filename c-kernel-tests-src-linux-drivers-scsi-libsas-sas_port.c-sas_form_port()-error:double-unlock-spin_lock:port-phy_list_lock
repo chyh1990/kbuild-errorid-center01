@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/scsi/libsas/sas_port.c:172 sas_form_port() error: double unlock 'spin_lock:&port->phy_list_lock'
+
+2013-01-07 12:24:55 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

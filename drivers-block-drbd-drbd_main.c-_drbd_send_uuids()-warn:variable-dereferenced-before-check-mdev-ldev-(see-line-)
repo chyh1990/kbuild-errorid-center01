@@ -1,0 +1,3 @@
+drivers/block/drbd/drbd_main.c:2145 _drbd_send_uuids() warn: variable dereferenced before check 'mdev->ldev' (see line 2143)
+
+2012-10-03 22:04:12 kbuild drdb:for-jens:61e8114 i386-allyesconfig 61e8114

@@ -1,0 +1,3 @@
+drivers/media/pci/cx88/cx88-alsa.c:701:2: warning: (near initialization for 'snd_cx88_source_switch.name') [-Wpointer-sign]
+
+2012-09-26 23:19:06 bee samsung:v4l-next:01882ac x86_64-allyesconfig 24e527a

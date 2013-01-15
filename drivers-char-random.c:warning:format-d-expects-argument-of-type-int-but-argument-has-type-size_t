@@ -1,0 +1,4 @@
+drivers/char/random.c:827:3: warning: format '%d' expects argument of type 'int', but argument 7 has type 'size_t' [-Wformat]
+
+2012-10-25 14:51:34 bee random:dev:c5c1244 x86_64-allyesconfig be5b779
+2012-10-25 14:51:55 bee x86_64 email notified

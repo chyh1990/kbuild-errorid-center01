@@ -1,0 +1,3 @@
+include/linux/mm.h:1199:7: warning: pointer/integer type mismatch in conditional expression [enabled by default]
+
+2012-09-17 00:26:00 snb glommer-memcg:kmemcg-slab:a1fe65d tile-tilegx_defconfig a1fe65d

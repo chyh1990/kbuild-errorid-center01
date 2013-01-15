@@ -1,0 +1,3 @@
+drivers/video/aty/atyfb_base.c:2170:9: sparse: preprocessor token MAX_LEVEL redefined
+
+2012-09-10 19:46:51 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig f514de3

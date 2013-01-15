@@ -1,0 +1,3 @@
+include/linux/clkdev.h:15:24: fatal error: asm/clkdev.h: No such file or directory
+
+2012-09-24 11:12:54 bee omap:devel-late:9cd68fa x86_64-allyesconfig 2b026d1

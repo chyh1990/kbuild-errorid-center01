@@ -1,0 +1,3 @@
+arch/x86/lib/msr.c:9:14: sparse: incorrect type in assignment (different address spaces)
+
+2013-01-09 13:01:56 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,3 @@
+WARNING: drivers/net/ethernet/amd/built-in.o(.devinit.text+0x72f): Section mismatch in reference from the function depca_isa_probe() to the function .init.text:depca_common_init()
+
+2012-09-07 20:09:04 kbuild digsig:working:15c13a5 i386-allyesconfig fbbc456

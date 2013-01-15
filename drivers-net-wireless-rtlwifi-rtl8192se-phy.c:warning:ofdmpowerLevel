@@ -1,0 +1,3 @@
+drivers/net/wireless/rtlwifi/rtl8192se/phy.c:1268:23: warning: 'ofdmpowerLevel[0]' may be used uninitialized in this function [-Wuninitialized]
+
+2012-09-02 15:46:07 snb sound-unstable:topic:hda-cleanup:611fe0a x86_64-randconfig-s247 ac190c7

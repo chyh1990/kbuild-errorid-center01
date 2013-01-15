@@ -1,0 +1,3 @@
+fs/pstore/platform.c:175:30: sparse: not enough arguments for function write
+
+2012-11-13 06:06:06 snb devel-snb-i386-2012-11-13-05-46:da456bc i386-allmodconfig da456bc

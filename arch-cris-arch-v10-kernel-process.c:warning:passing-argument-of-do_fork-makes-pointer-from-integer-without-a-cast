@@ -1,0 +1,3 @@
+arch/cris/arch-v10/kernel/process.c:147:2: warning: passing argument 3 of 'do_fork' makes pointer from integer without a cast [enabled by default]
+
+2012-10-15 08:59:32 lkp-mb01 signal:arch-cris:b390891 cris-etrax-100lx_v2_defconfig b390891

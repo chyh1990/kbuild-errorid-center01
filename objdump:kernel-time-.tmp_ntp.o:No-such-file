@@ -1,0 +1,4 @@
+objdump: 'kernel/time/.tmp_ntp.o': No such file
+
+2012-09-29 06:58:46 bee time:fortglx:3.7:time:28f2b02 x86_64-randconfig-x075 28f2b02
+2012-09-29 06:58:49 bee x86_64 email notified

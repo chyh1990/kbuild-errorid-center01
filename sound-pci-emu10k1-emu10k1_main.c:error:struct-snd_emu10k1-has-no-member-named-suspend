@@ -1,0 +1,4 @@
+sound/pci/emu10k1/emu10k1_main.c:717:10: error: 'struct snd_emu10k1' has no member named 'suspend'
+
+2012-11-23 02:41:37 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-23-02-15:6728dc7 sh-sh7785lcr_32bit_defconfig 6728dc7
+2012-11-23 02:43:41 hive devel-hive-ia64-2012-11-23-02-16:b12d208 ia64-defconfig b12d208

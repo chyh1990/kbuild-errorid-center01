@@ -1,0 +1,4 @@
+net/ipv6/netfilter/nf_conntrack_l3proto_ipv6.c:231: warning: passing argument 4 of 'NF_HOOK_THRESH' discards qualifiers from pointer target type
+
+2012-09-07 00:06:56 snb can:master:bbe660a avr32-atngw100_defconfig 4cdd340
+2012-09-07 00:06:57 snb avr32 email notified

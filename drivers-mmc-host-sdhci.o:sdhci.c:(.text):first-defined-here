@@ -1,0 +1,3 @@
+drivers/mmc/host/sdhci.o:sdhci.c:(.text+0x7550): first defined here
+
+2012-11-08 04:33:19 bee mmc:mmc-next:a6a567a i386-randconfig-b646 a6a567a

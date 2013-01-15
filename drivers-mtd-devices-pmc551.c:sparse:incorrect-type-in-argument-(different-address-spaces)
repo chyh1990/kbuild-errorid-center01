@@ -1,0 +1,3 @@
+drivers/mtd/devices/pmc551.c:848:52: sparse: incorrect type in argument 2 (different address spaces)
+
+2013-01-09 12:49:51 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

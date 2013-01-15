@@ -1,0 +1,3 @@
+drivers/input/rmi4/rmi_driver.c:700:9: sparse: bad constant expression
+
+2012-11-28 14:31:58 snb input:synaptics-rmi4:0af2538 i386-allmodconfig 0af2538

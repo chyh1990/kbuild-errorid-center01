@@ -1,0 +1,3 @@
+drivers/dma/pch_dma.c:663 pd_prep_slave_sg() error: potential NULL dereference 'first'.
+
+2012-09-07 22:42:08 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

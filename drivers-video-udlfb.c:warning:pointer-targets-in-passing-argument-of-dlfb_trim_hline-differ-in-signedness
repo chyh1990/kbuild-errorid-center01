@@ -1,0 +1,3 @@
+drivers/video/udlfb.c:536:4: warning: pointer targets in passing argument 3 of 'dlfb_trim_hline' differ in signedness [-Wpointer-sign]
+
+2012-09-26 18:19:16 bee omap-dss2:master:e84dc1c x86_64-randconfig-x073 a6df3fd

@@ -1,0 +1,3 @@
+drivers/irqchip/irq-gic.c:794:1: error: 'gic_of_init' undeclared here (not in a function)
+
+2012-11-21 12:24:26 snb calxeda:gic-irqchip:6723be4 arm-marzen_defconfig 6723be4

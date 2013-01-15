@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/nouveau_abi16.c:63:4-10: preceding lock on line 44
+
+2012-08-27 13:42:47 snb nouveau:master:fc72098 i386-allmodconfig 24c7d48
+2012-08-27 13:46:33 snb i386 email notified

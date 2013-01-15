@@ -1,0 +1,3 @@
+arch/arm/mach-tegra/tegra30_clocks.c:405:2: warning: passing argument 2 of '__raw_writel' makes pointer from integer without a cast [enabled by default]
+
+2012-09-19 17:12:02 snb arm-platforms:kvm-cleanup:b3251da arm-tegra_defconfig b3251da

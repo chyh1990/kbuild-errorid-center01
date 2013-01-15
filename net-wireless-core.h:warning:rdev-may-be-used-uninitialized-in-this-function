@@ -1,0 +1,3 @@
+net/wireless/core.h:180:14: warning: 'rdev' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-30 13:35:03 lkp-mb01 i386 /cc/kernel-tests/commit-list/nf-next:nf_tables5:e9bf310 63b0a30e7b179d0937dd25b094116f4f5124f2ff

@@ -1,0 +1,4 @@
+drivers/gpu/drm/nouveau/core/subdev/therm/base.c:38:2: warning: enumeration value 'NOUVEAU_THERM_ATTR_FAN_MODE' not handled in switch [-Wswitch]
+
+2012-09-27 13:57:12 snb nouveau:master:301e77f x86_64-randconfig-s004 c4f52f2
+2012-09-27 13:57:13 snb x86_64 email notified

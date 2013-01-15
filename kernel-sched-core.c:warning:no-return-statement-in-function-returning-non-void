@@ -1,0 +1,4 @@
+kernel/sched/core.c:8084:1: warning: no return statement in function returning non-void [-Wreturn-type]
+
+2012-11-16 22:17:43 snb glommer-memcg:die-cpuacct:feb0b5d x86_64-randconfig-s286 feb0b5d
+2012-11-16 22:17:44 snb x86_64 email notified

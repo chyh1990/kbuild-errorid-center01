@@ -1,0 +1,3 @@
+drivers/mfd/ab3100-core.c:593:6: warning: variable 'err' set but not used [-Wunused-but-set-variable]
+
+2012-09-25 17:04:57 bee mfd:for-next:eebfdc1 x86_64-randconfig-x061 41569a1

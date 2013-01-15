@@ -1,0 +1,3 @@
+drivers/memstick/core/ms_block.c:794:39: sparse: incorrect type in assignment (different base types)
+
+2012-09-29 17:59:41 snb calxeda:defconfig:0ac7be3 i386-allmodconfig 0ac7be3

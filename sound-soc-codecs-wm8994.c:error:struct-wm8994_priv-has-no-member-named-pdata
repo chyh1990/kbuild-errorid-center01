@@ -1,0 +1,4 @@
+sound/soc/codecs/wm8994.c:3470:14: error: 'struct wm8994_priv' has no member named 'pdata'
+
+2012-11-23 20:51:54 snb devel-snb-i386-2012-11-23-20-34:726974a i386-allmodconfig 726974a
+2012-11-23 21:00:36 kbuild devel-kbuild-i386-2012-11-23-20-50:7ca31a2 i386-allyesconfig 7ca31a2

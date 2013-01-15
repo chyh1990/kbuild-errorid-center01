@@ -1,0 +1,3 @@
+drivers/net/wireless/iwlegacy/4965-rs.c:2485 il4965_rs_fill_link_cmd() error: buffer overflow 'lq_cmd->rs_table' 16 <= 16
+
+2013-01-09 13:27:53 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

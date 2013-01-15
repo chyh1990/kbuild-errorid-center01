@@ -1,0 +1,3 @@
+drivers/usb/gadget/file_storage.c:349:1: sparse: expression using sizeof bool
+
+2012-07-23 21:33:30 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

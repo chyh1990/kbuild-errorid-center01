@@ -1,0 +1,3 @@
+drivers/usb/atm/ueagle-atm.c:1086 uea_load_page_e4() error: we previously assumed 'sc->dsp_firm' could be null (see line 1083)
+
+2013-01-09 13:28:02 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

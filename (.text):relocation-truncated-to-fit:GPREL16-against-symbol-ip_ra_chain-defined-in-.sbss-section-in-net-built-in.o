@@ -1,0 +1,17 @@
+(.text+0x57788): relocation truncated to fit: GPREL16 against symbol `ip_ra_chain' defined in .sbss section in net/built-in.o
+
+2012-09-15 14:41:43 lkp-mb01 yinghai:master:156b34a alpha-defconfig e2bbf35
+2012-09-16 00:52:09 lkp-mb01 yinghai:for-pci-for-each-res-addon:9fd94f5 alpha-defconfig 9fd94f5
+2012-09-20 10:55:36 lkp-mb01 yinghai:for-pci-res-alloc:aa23edc alpha-defconfig aa23edc
+2012-10-02 04:52:38 lkp-mb01 linus:master:d9a8074 alpha-defconfig d9a8074
+2012-10-02 05:21:10 lkp-mb01 linus:master:15385df alpha-defconfig 15385df
+2012-10-02 06:31:33 lkp-mb01 kees:yama-stacked:b3b8ee4 alpha-defconfig b3b8ee4
+2012-10-02 06:35:29 lkp-mb01 kees:yama-extras:a1b8b56 alpha-defconfig a1b8b56
+2012-10-02 06:40:13 lkp-mb01 kees:yama:7c638e0 alpha-defconfig 7c638e0
+2012-10-02 06:50:16 lkp-mb01 kees:checkpatch:74d3267 alpha-defconfig 74d3267
+2012-10-02 06:54:03 lkp-mb01 kees:audit:0bd6e61 alpha-defconfig 0bd6e61
+2012-10-02 07:10:09 lkp-mb01 linus:master:797b9e5 alpha-defconfig 797b9e5
+2012-10-02 07:45:19 lkp-mb01 arm-soc:merge-part1-resolved:1ec48fe alpha-defconfig 1ec48fe
+2012-10-02 08:06:35 lkp-mb01 arm-soc:merge-part1-resolved:247adec alpha-defconfig 247adec
+2012-10-03 01:20:02 lkp-mb01 uapi:uapi-split:962fec2 alpha-defconfig 962fec2
+2012-10-03 05:17:16 lkp-mb01 xen:linux-next-resolution:b74efb2 alpha-defconfig b74efb2

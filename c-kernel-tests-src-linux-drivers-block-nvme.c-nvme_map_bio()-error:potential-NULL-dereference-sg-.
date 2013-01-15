@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/block/nvme.c:487 nvme_map_bio() error: potential NULL dereference 'sg'.
+
+2013-01-07 12:25:13 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

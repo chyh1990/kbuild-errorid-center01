@@ -1,0 +1,3 @@
+drivers/staging/csr/netdev.c:1549 send_ma_pkt_request() info: why not propagate 'protection' from uf_get_protection_bit_from_interfacemode() instead of (-1)?
+
+2012-12-15 21:57:40 kbuild tip:master:4572767 i386-allyesconfig 4572767

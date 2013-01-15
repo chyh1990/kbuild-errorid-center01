@@ -1,0 +1,3 @@
+kernel/rcutree.c:1131:74: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-09-21 02:48:43 kbuild rcu:rcu:next:d58ab77 x86_64-allmodconfig 5521169

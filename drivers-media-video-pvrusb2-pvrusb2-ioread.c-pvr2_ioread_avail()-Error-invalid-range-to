@@ -1,0 +1,3 @@
+drivers/media/video/pvrusb2/pvrusb2-ioread.c:394 pvr2_ioread_avail() Error invalid range 1 to 0
+
+2012-09-07 22:41:51 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

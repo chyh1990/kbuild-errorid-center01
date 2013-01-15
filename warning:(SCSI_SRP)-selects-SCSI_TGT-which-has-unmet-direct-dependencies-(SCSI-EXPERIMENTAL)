@@ -1,0 +1,3 @@
+warning: (SCSI_SRP) selects SCSI_TGT which has unmet direct dependencies (SCSI && EXPERIMENTAL)
+
+2013-01-09 12:24:16 bee char-misc:char-misc-next:627ca75 x86_64-randconfig-x907 627ca75

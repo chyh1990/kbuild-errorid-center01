@@ -1,0 +1,3 @@
+drivers/base/core.c:1805 device_move() error: we previously assumed 'new_parent' could be null (see line 1775)
+
+2013-01-09 13:27:37 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

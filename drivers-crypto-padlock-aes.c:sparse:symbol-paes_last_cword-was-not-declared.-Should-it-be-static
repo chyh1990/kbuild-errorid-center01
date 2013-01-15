@@ -1,0 +1,3 @@
+drivers/crypto/padlock-aes.c:69:8: sparse: symbol 'paes_last_cword' was not declared. Should it be static?
+
+2013-01-09 13:13:01 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

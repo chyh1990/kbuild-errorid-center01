@@ -1,0 +1,3 @@
+drivers/pci/search.c:85:2: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+
+2012-09-25 16:36:07 bee yinghai:for-pci-kill-pci-root-buses:95d0618 x86_64-allyesdebian 95d0618

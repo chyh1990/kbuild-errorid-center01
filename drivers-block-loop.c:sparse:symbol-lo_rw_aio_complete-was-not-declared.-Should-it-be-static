@@ -1,0 +1,3 @@
+drivers/block/loop.c:217:6: sparse: symbol 'lo_rw_aio_complete' was not declared. Should it be static?
+
+2012-10-18 03:11:27 snb shaggy:loop_v3:d6e6003 i386-allmodconfig d6e6003

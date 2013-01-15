@@ -1,0 +1,3 @@
+drivers/staging/rtl8187se/r8185b_init.c:860:4: sparse: symbol 'GetSupportedWirelessMode8185' was not declared. Should it be static?
+
+2013-01-09 12:52:30 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

@@ -1,0 +1,4 @@
+drivers/char/pcmcia/synclink_cs.c:2348:2-15: code aligned with following code on line 2350
+
+2012-08-14 09:05:03 snb i386 /cc/kernel-tests/commit-list/tty:tty-next:a342ca1 737586fe51e6d0031f83d781c0cb2f3abf8caada
+2012-08-14 09:05:05 snb i386 email notified

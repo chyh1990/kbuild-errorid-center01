@@ -1,0 +1,4 @@
+drivers/scsi/qla4xxx/ql4_os.c:1369 qla4xxx_conn_get_param() Error invalid range 4096 to -1
+
+2012-09-14 23:08:41 kbuild scsi:for-next:cef0af8 i386-allyesconfig cef0af8
+2012-09-15 02:52:35 kbuild i386 email notified

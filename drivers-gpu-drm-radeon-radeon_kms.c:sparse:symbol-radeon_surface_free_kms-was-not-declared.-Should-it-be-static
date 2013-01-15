@@ -1,0 +1,3 @@
+drivers/gpu/drm/radeon/radeon_kms.c:675:1: sparse: symbol 'radeon_surface_free_kms' was not declared. Should it be static?
+
+2013-01-09 13:11:07 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

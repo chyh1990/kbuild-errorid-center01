@@ -1,0 +1,3 @@
+callback_proc.c:(.text+0x18cf70): undefined reference to `.pnfs_get_layout_hdr'
+
+2012-09-20 11:27:51 bee nfs:testing:c5d13e1 powerpc-chroma_defconfig c5d13e1

@@ -1,0 +1,3 @@
+drivers/hid/hid-wiimote-debug.c:49:28: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:50:17 bee hid:upstream:4cc9834 x86_64-allyesconfig 4cc9834

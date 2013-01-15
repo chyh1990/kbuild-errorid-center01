@@ -1,0 +1,11 @@
+kernel/events/hw_breakpoint.c:90:9: error: 'TYPE_INST' undeclared (first use in this function)
+
+2012-11-06 05:45:06 bee uapi:perf-uapi:fbc49df i386-randconfig-b630 fbc49df
+2012-11-06 05:45:16 kbuild devel-kbuild-x86_64-2012-11-06-05-38:e46f314 x86_64-allmodconfig e46f314
+2012-11-06 05:53:26 hive devel-hive-x86_64-2012-11-06-05-42:9475e55 x86_64-randconfig-h221 9475e55
+2012-11-06 05:59:55 snb devel-snb-x86_64-2012-11-06-05-49:2040a7b x86_64-randconfig-s230 2040a7b
+2012-11-06 06:05:13 kbuild devel-kbuild-i386-2012-11-06-05-58:837d531 i386-allyesconfig 837d531
+2012-11-06 06:05:45 snb devel-snb-i386-2012-11-06-06-03:38fd87e i386-alldefconfig 38fd87e
+2012-11-06 06:10:28 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-06-05-56:e36fd1a sh-allnoconfig e36fd1a
+2012-11-06 06:19:40 kbuild devel-kbuild-powerpc-2012-11-06-06-09:dcd64df powerpc-allmodconfig dcd64df
+2012-11-06 06:24:04 snb devel-snb-arm-2012-11-06-06-03:8bd5ee1 arm-omap2plus_defconfig 8bd5ee1

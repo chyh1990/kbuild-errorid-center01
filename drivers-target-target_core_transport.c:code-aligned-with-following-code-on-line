@@ -1,0 +1,4 @@
+drivers/target/target_core_transport.c:2125:2-25: code aligned with following code on line 2130
+
+2012-09-06 23:08:19 snb can:master:bbe660a i386-allmodconfig ace1fe1
+2012-09-06 23:20:40 snb i386 email notified

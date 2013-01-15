@@ -1,0 +1,3 @@
+arch/x86/kernel/quirks.c:407:21: warning: 'val' may be used uninitialized in this function [-Wuninitialized]
+
+2012-09-22 22:40:19 snb remoteproc:for-next:ec4d02d x86_64-randconfig-s373 8afd519

@@ -1,0 +1,3 @@
+fs/jfs/jfs_dtree.c:4009 dtInsertEntry() error: potential NULL dereference 'lh'.
+
+2013-01-09 13:26:47 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

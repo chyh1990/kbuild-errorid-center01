@@ -1,0 +1,5 @@
+drivers/ata/libata-sff.c:569:3: error: implicit declaration of function 'iowrite16_rep' [-Werror=implicit-function-declaration]
+
+2012-11-11 06:43:45 bee apparmor:v3.6-aa2.8:663d5bb xtensa-allyesconfig a0d271c
+2012-11-19 11:29:54 bee m68k:m68k-v3.6:9f9e7e5 xtensa-allyesconfig a0d271c
+2012-11-23 04:53:47 bee logfs:master:3394661 xtensa-allyesconfig 5b716ac

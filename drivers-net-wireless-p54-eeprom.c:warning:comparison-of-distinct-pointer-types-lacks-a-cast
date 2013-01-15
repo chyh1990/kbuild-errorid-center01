@@ -1,0 +1,4 @@
+drivers/net/wireless/p54/eeprom.c:291:15: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+
+2012-08-11 14:55:26 kbuild powerpc /cc/kernel-tests/commit-list/wireless-testing:master:0eba6e6 9bc63816be9bf504414d350e605a4b30f857907d
+2012-08-11 14:55:27 kbuild powerpc email notified

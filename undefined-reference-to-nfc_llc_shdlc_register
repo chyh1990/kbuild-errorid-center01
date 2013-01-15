@@ -1,0 +1,4 @@
+(.text+0x100058): undefined reference to `nfc_llc_shdlc_register'
+
+2012-09-30 13:55:03 snb wl12xx:master:6710c55 x86_64-randconfig-s015 80faa59
+2012-09-30 13:57:48 snb x86_64 email notified

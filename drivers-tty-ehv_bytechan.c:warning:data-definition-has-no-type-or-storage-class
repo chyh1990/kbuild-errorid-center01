@@ -1,0 +1,3 @@
+drivers/tty/ehv_bytechan.c:362:1: warning: data definition has no type or storage class [enabled by default]
+
+2013-01-09 22:02:54 kbuild next:akpm:ef2dca2 powerpc-allmodconfig ef2dca2

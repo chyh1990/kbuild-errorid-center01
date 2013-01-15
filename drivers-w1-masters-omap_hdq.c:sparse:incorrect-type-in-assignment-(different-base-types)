@@ -1,0 +1,3 @@
+drivers/w1/masters/omap_hdq.c:242:15: sparse: incorrect type in assignment (different base types)
+
+2012-09-09 14:24:55 snb next:akpm:d28e1f3 i386-allmodconfig 313e0e8

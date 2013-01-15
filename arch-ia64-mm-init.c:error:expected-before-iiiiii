@@ -1,0 +1,3 @@
+arch/ia64/mm/init.c:722:2: error: expected ';' before 'iiiiii'
+
+2012-09-30 23:46:19 hive wfg:0day:e736ac7 ia64-alldefconfig e736ac7

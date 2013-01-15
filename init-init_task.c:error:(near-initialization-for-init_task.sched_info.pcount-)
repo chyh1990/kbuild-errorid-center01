@@ -1,0 +1,3 @@
+init/init_task.c:16:8: error: (near initialization for 'init_task.sched_info.pcount')
+
+2012-12-21 11:47:02 snb dynticks:3.7-nohz1:46209cd arm-tegra_defconfig 46209cd

@@ -1,0 +1,3 @@
+drivers/gpu/drm/drm_lock.c:357:5: warning: passing argument 1 of '__cmpxchg' discards 'volatile' qualifier from pointer target type [enabled by default]
+
+2013-01-09 12:49:19 lkp-mb01 pinchartl-fbdev:pinmux-dt:219523e s390-allmodconfig 219523e

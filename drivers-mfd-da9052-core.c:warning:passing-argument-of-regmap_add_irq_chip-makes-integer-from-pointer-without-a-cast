@@ -1,0 +1,3 @@
+drivers/mfd/da9052-core.c:794:7: warning: passing argument 5 of 'regmap_add_irq_chip' makes integer from pointer without a cast [enabled by default]
+
+2012-08-29 15:53:17 kbuild omap-dss2:work:omap5-dt:a57dfde i386-randconfig-k840 5bd8216

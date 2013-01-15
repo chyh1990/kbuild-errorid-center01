@@ -1,0 +1,3 @@
+fs/configfs/dir.c:1264 configfs_mkdir() error: potential NULL dereference 'item'.
+
+2012-09-07 22:41:18 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

@@ -1,0 +1,3 @@
+net/core/neighbour.c:66:12: warning: 'unres_qlen_max' defined but not used [-Wunused-variable]
+
+2012-12-06 05:36:36 snb devel-snb-x86_64-2012-12-06-05-28:afb0706 x86_64-randconfig-s410 afb0706

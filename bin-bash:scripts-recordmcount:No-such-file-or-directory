@@ -1,0 +1,35 @@
+/bin/bash: scripts/recordmcount: No such file or directory
+
+2012-09-25 10:48:56 bee cifs:for-next:1b35920 x86_64-allyesconfig 1d8c4c0
+2012-09-25 17:04:52 bee mfd:for-next:eebfdc1 x86_64-randconfig-x060 41569a1
+2012-09-25 17:04:52 bee mfd:for-next:eebfdc1 x86_64-randconfig-x060 41569a1 email notified
+2012-09-25 21:18:44 bee asoc:for-next:f76fe05 x86_64-randconfig-x066 2ef39e6
+2012-09-25 21:57:03 bee mfd:for-next:396f70b x86_64-randconfig-x060 8664fad
+2012-09-25 22:45:01 bee hid:logitech:a80fe5d x86_64-randconfig-x060 cead24c
+2012-09-25 23:08:28 bee samsung:v4l-next:fa54a52 x86_64-randconfig-x060 1cd2c27
+2012-09-25 23:23:08 bee samsung:v4l-framedesc:915ff0f x86_64-randconfig-x060 b2d699e
+2012-09-26 01:19:21 bee vexpress:for-tixy:381c556 x86_64-randconfig-x060 cf1a57e
+2012-09-26 02:00:27 bee hwmon:hwmon-staging:fed28da x86_64-randconfig-x060 34e3f7f
+2012-09-26 02:06:43 bee hwmon:hwmon-next:592758b x86_64-randconfig-x060 33fd2b8
+2012-09-26 03:39:30 bee m68k:m68k-queue:72a7119 x86_64-allyesconfig b9b4fd8
+2012-09-26 05:26:02 bee gpio:for-next:6b6fe01 x86_64-randconfig-x060 b1268d3
+2012-09-26 07:51:40 bee nf:master:82e6bfe x86_64-randconfig-x060 212ea99
+2012-09-26 11:52:35 bee samsung:extcon-for-next:5b2c89b x86_64-randconfig-x060 e902cae
+2012-09-26 12:49:01 bee thermal:next:5d8d708 x86_64-randconfig-x060 f4a821c
+2012-09-26 13:59:27 bee drm-intel:drm-intel-nightly:8101b08 x86_64-randconfig-x077 112c375
+2012-09-26 15:25:46 bee drm-intel:drm-intel-nightly:f1cf8e0 x86_64-randconfig-x077 cc769b6
+2012-09-26 18:13:55 bee drm-intel:drm-intel-fixes:f531dcb x86_64-randconfig-x077 199adf4
+2012-09-26 18:19:13 bee omap-dss2:master:e84dc1c x86_64-randconfig-x071 a6df3fd
+2012-09-26 18:38:55 bee ubi:linux-next:55393ba x86_64-randconfig-x077 95e6fb0
+2012-09-26 19:38:33 bee asoc:for-next:37ebd5b x86_64-randconfig-x071 d0e12f3
+2012-09-26 19:45:40 bee asoc:for-3.7:76dbd2a x86_64-randconfig-x071 8f6862d
+2012-09-26 20:29:14 bee drm-intel:drm-intel-next-queued:07d3dc1 x86_64-randconfig-x077 015b85a
+2012-09-26 20:46:08 bee drm-intel:drm-intel-next-queued:da131a4 x86_64-randconfig-x077 a477f4f
+2012-09-26 23:01:16 bee drm-intel:drm-intel-nightly:4cbf285 x86_64-randconfig-x077 3bcedbe
+2012-09-26 23:31:16 bee samsung:v4l-next:01882ac x86_64-randconfig-x071 24e527a
+2012-09-27 03:22:52 bee asoc:for-next:a1327eb x86_64-randconfig-x071 df36793
+2012-09-27 10:56:40 bee samsung:v4l-framedesc:4b99cb2 x86_64-randconfig-x071 0245322
+2012-09-27 19:27:32 bee arm-perf:irq:44a7333 x86_64-randconfig-x077 979570e
+2012-09-28 19:37:58 bee firewire:for-next:4d50c44 x86_64-randconfig-x077 979570e
+2012-09-28 23:45:37 bee drm-intel:drm-intel-nightly:15f22f5 x86_64-randconfig-x077 cc769b6
+2013-01-07 15:15:54 kbuild devel-kbuild-i386-2013-01-07-15-10:7d5cf05 i386-allyesconfig 7d5cf05

@@ -1,0 +1,3 @@
+drivers/uwb/i1480/dfu/phy.c:190:12: warning: 'phy_stat' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 18:18:33 snb memcg:since-3.5:8497a71 x86_64-randconfig-s342 8497a71

@@ -1,0 +1,3 @@
+kernel/irq/irqdomain.c:479 irq_create_of_mapping() error: we previously assumed 'controller' could be null (see line 465)
+
+2012-09-07 22:41:48 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

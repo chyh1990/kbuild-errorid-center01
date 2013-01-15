@@ -1,0 +1,3 @@
+net/irda/af_irda.c:596 irda_find_lsap_sel() warn: variable dereferenced before check 'self->ias_result' (see line 581)
+
+2013-01-09 13:28:07 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

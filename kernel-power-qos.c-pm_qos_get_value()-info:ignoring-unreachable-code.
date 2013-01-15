@@ -1,0 +1,4 @@
+kernel/power/qos.c:142 pm_qos_get_value() info: ignoring unreachable code.
+
+2012-09-08 17:01:52 kbuild pm:linux-next:66fccbe i386-allyesconfig 66fccbe
+2012-09-08 19:42:43 kbuild i386 email notified

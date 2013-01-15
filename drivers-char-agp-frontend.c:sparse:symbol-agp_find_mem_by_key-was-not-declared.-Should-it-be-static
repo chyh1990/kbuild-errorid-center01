@@ -1,0 +1,3 @@
+drivers/char/agp/frontend.c:48:19: sparse: symbol 'agp_find_mem_by_key' was not declared. Should it be static?
+
+2013-01-09 13:08:42 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

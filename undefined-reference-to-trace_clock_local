@@ -1,0 +1,23 @@
+rcutorture.c:(.text+0x530fd): undefined reference to `trace_clock_local'
+
+2012-11-17 02:55:58 snb devel-snb-x86_64-2012-11-17-02-49:65ebb91 x86_64-randconfig-s280 65ebb91
+2012-11-17 03:19:46 hive devel-hive-x86_64-2012-11-17-02-55:3cc6288 x86_64-randconfig-h274 3cc6288
+2012-11-17 03:45:41 bee devel-bee-i386-2012-11-17-02-49:65d3647 i386-randconfig-b696 65d3647
+2012-11-17 05:06:36 bee devel-bee-x86-2012-11-17-02-47:580a92e m68k-allyesconfig 580a92e
+2012-11-20 11:08:31 hive rcu:dev.2012.11.19a:7e01619 x86_64-randconfig-h295 7e01619
+2012-11-29 08:13:59 snb rcu:dev.2012.11.28a:ea73bd9 x86_64-randconfig-s363 96885f1
+2013-01-06 03:01:14 bee devel-bee-i386-2013-01-06-02-45:b28291e i386-randconfig-b012 b28291e
+2013-01-06 03:22:03 snb devel-snb-x86_64-2013-01-06-02-45:0c65a60 x86_64-randconfig-s594 0c65a60
+2013-01-07 12:08:13 snb next:master:4d8b70d x86_64-randconfig-s594 4d8b70d
+2013-01-07 12:16:12 bee next:akpm:e862d51 i386-randconfig-b012 e862d51
+2013-01-08 13:45:28 lkp-mb01 next:master:6477718 i386-randconfig-m125 6477718
+2013-01-08 14:17:59 lkp-mb01 next:akpm:736ca5e i386-randconfig-m125 736ca5e
+2013-01-10 14:43:55 snb next:master:62406ac x86_64-randconfig-s627 62406ac
+2013-01-10 15:03:12 snb next:akpm:3a95681 x86_64-randconfig-s627 1add0d9
+2013-01-11 02:57:12 snb devel-snb-x86_64-2013-01-11-02-48:3128284 x86_64-randconfig-s627 3128284
+2013-01-11 15:00:02 snb next:master:2184115 x86_64-randconfig-s639 2184115
+2013-01-11 15:47:14 snb next:akpm:40b6aaa x86_64-randconfig-s639 62d2a77
+2013-01-12 08:59:20 lkp-mb01 devel-lkp-mb01-i386-2013-01-12-08-27:02bf513 i386-randconfig-m154 02bf513
+2013-01-12 13:41:14 snb devel-snb-x86_64-2013-01-12-13-30:f199a2e x86_64-randconfig-s639 f199a2e
+2013-01-14 13:08:40 snb next:master:586a9ca x86_64-randconfig-s639 586a9ca
+2013-01-14 14:28:02 lkp-mb01 next:akpm:17e836d i386-randconfig-m004 17e836d

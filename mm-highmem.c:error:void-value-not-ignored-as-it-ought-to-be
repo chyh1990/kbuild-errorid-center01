@@ -1,0 +1,3 @@
+mm/highmem.c:157:8: error: void value not ignored as it ought to be
+
+2012-11-29 22:15:40 bee memcg:since-3.6:8695b91 i386-randconfig-b780 8695b91

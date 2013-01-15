@@ -1,0 +1,39 @@
+arch/tile/kernel/setup.c:69:57: error: 'start_kernel' undeclared here (not in a function)
+
+2012-07-26 13:24:48 snb tile /cc/kernel-tests/commit-list/bluetooth:master:8bd38a6 0cfe5d02871f5fe0e793824bc6729c456fe9fedc
+2012-07-26 23:12:02 snb tile /cc/kernel-tests/commit-list/mac80211-next:wip:7b0df97 354890fa6c9826aea1222bf115e61fa550d49ada
+2012-07-27 03:21:51 snb tile /cc/kernel-tests/commit-list/mac80211-next:wip:44d99c6 9fb9b664fd6ff099a4350f9381c20ad8b0283852
+2012-07-27 11:53:57 snb tile /cc/kernel-tests/commit-list/slave-dma:fixes_for-3.7:a2367db a2367db2ec5e7fc6fe93e221e0fcdee81b053daf
+2012-07-27 11:55:10 snb tile /cc/kernel-tests/commit-list/slave-dma:for-3.7:dbde5c2 dbde5c2934d10f87cc45ed9a9b95cac6f0c0fdd2
+2012-07-27 19:47:21 snb tile /cc/kernel-tests/commit-list/kvm:auto-next:1293872 f2a743473194a1ad44a85f8b63aeef9d63e5bf47
+2012-07-27 21:39:42 snb tile /cc/kernel-tests/commit-list/iwlwifi:master:56d65f7 1c8e11e117c28ef6b9591b489f2bbd38894ba811
+2012-07-28 04:06:15 snb tile /cc/kernel-tests/commit-list/iwlwifi:master:55a25e2 da0cabb8de68d9dba254810f65aa7146eb5f47b3
+2012-07-28 17:20:47 snb tile 149003ac317aec093300ea9ef9786b11ecbbabc6 /cc/kernel-tests/commit-list/mac80211-next:wip:ede063a
+2012-07-28 18:45:04 snb tile b1af9be5ef77898c05667bb9dbf3b180d91d3292 /cc/kernel-tests/commit-list/block:for-3.6:drivers:b1af9be
+2012-07-28 23:56:27 snb tile 5e31fc0815a4e2c72b1b495fe7a0d8f9bfb9e4b4 /cc/kernel-tests/commit-list/mac80211:master:5e31fc0
+2012-07-29 08:00:25 snb tile 96ee34be7a0965a117080a28b2c0cc6d4ee6adb1 /cc/kernel-tests/commit-list/xfs:for-next:824c313
+2012-07-29 10:42:48 snb tile 34a6dd7090a665e2ce7b17f6097361c9e11dfca4 /cc/kernel-tests/commit-list/rcu:rcu:smp:hotplug:34a6dd7
+2012-07-29 10:50:55 snb tile cf6f9b3b08b64041f52d3de758a6ec996dda2674 /cc/kernel-tests/commit-list/rcu:rcu:wqhotplug:cf6f9b3
+2012-07-29 12:32:43 snb tile c6234330e27e622cf90b92ac60e199d232e4c42f /cc/kernel-tests/commit-list/rcu:wqhotplugdev.2012.07.23a:9efec4d
+2012-07-29 23:04:35 snb tile 1fa850596dcbc1b147948c832eb770d96c78024e /cc/kernel-tests/commit-list/kbuild:misc:1fa8505
+2012-07-29 23:09:30 snb tile 1925a276afa78c305dacb7f2da11825bffecad44 /cc/kernel-tests/commit-list/kbuild:kconfig:67d34a6
+2012-07-29 23:23:15 snb tile 85b170eb0737292a92d39ce83d9be883e37c5a17 /cc/kernel-tests/commit-list/kbuild:for-next:85b170e
+2012-07-30 10:12:23 snb tile 2c59d9f21ca33d3f974f45ae1f730982a85bd908 /cc/kernel-tests/commit-list/nf-next:nf-nat2:2c59d9f
+2012-07-30 12:16:53 snb tile f2ecc5e453134a13c3b2b0f2cac52ab2d5c540d7 /cc/kernel-tests/commit-list/xfs:for-next:9a57fa8
+2012-07-30 21:02:08 snb tile 73a1180e140d45cb9ef5fbab103d3bbfc4c84606 /cc/kernel-tests/commit-list/slab:for-next:73a1180
+2012-07-30 21:37:21 snb tile cf49e2c322df08b350d4dd8230fe9e495d369567 /cc/kernel-tests/commit-list/nf-next:nf-nat3:b2969d4
+2012-07-31 10:57:39 snb tile 7da5bb5e148624cb31c7fb24bd6201ef97edc280 /cc/kernel-tests/commit-list/nf-next:nf-nat4:ac2a06a
+2012-08-01 10:44:47 snb tile 2fb2ca6f5b953192d5a94fcc778d9abba06462df /cc/kernel-tests/commit-list/floppy:upstream:2fb2ca6
+2012-08-04 00:26:11 snb tile 3aa569c3fedbd0d16041d08bf6e89b8c43aee650 /cc/kernel-tests/commit-list/wireless:master:d4e5979
+2012-08-13 02:33:44 snb tile fed57cd375ece6d271e45d9ad630c7de632e74b6 /cc/kernel-tests/commit-list/slave-dma:next:c87a9fc
+2012-08-19 17:53:08 snb ath6kl:master:e730483 tile-tilegx_defconfig 23604ad
+2012-08-19 20:55:42 snb arm-platforms:kvm-arm-v3.6-rc1-hyp-fixes-2:850ef8b tile-tilegx_defconfig 6734ef4
+2012-08-19 22:57:01 snb kvm-arm:selftest:9660a25 tile-tilegx_defconfig dbbc31c
+2012-08-25 05:04:46 snb wireless-next:for-davem:f20b621 tile-tilegx_defconfig 289e550
+2012-08-26 10:28:01 snb ath6kl:ath6kl-next:d9070af tile-tilegx_defconfig d5ef158
+2012-08-27 23:28:10 snb ath6kl:master:bbb2bf4 tile-tilegx_defconfig 83f25ab
+2012-09-02 04:32:33 snb ath6kl:master:005292c tile-tilegx_defconfig 7283481
+2012-09-16 04:03:30 snb wireless-next:for-davem:9316f0e tile-tilegx_defconfig 362b056
+2012-09-22 03:34:30 snb ath6kl:ath6kl-next:02d51eb tile-tilegx_defconfig 02d51eb
+2012-09-22 06:57:44 snb can:for-davem:cb8db89 tile-tilegx_defconfig 362b056
+2012-09-22 06:57:44 snb can:for-davem:cb8db89 tile-tilegx_defconfig 362b056 email notified

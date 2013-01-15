@@ -1,0 +1,3 @@
+drivers/i2c/busses/i2c-i801.c:857:17: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+
+2012-09-25 23:08:48 bee samsung:v4l-next:fa54a52 x86_64-randconfig-x068 1cd2c27

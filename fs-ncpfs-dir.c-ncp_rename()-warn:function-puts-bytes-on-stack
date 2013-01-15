@@ -1,0 +1,3 @@
+fs/ncpfs/dir.c:1141 ncp_rename() warn: function puts 528 bytes on stack
+
+2013-01-09 13:27:59 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

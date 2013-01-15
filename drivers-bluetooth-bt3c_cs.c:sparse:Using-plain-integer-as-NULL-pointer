@@ -1,0 +1,3 @@
+drivers/bluetooth/bt3c_cs.c:667:20: sparse: Using plain integer as NULL pointer
+
+2012-09-10 15:24:38 snb glommer-memcg:kmemcg-slab:b20a4ab i386-allmodconfig 3bc226b

@@ -1,0 +1,3 @@
+drivers/scsi/fcoe/fcoe.c:776 fcoe_fdmi_info() warn: 'fdmi' puts 896 bytes on stack
+
+2013-01-09 13:27:45 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

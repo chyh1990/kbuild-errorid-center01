@@ -1,0 +1,3 @@
+mm/memory.c:3101 check_stack_guard_page() warn: bitwise AND condition is false here
+
+2012-09-07 22:41:49 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

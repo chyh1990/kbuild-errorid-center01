@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/igb/igb_main.c:6782:19: warning: 'wake' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-07-25 19:31:40 hive ia64 /cc/kernel-tests/commit-list/tip:irq:urgent:dc9b229 dc9b229a58dc0dfed34272ff26c6d5fd17c674e0

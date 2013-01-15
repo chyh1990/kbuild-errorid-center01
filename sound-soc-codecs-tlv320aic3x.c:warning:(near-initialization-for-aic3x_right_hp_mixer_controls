@@ -1,0 +1,3 @@
+sound/soc/codecs/tlv320aic3x.c:462:2: warning: (near initialization for 'aic3x_right_hp_mixer_controls[0].name') [-Wpointer-sign]
+
+2012-09-25 21:05:42 bee asoc:for-next:f76fe05 x86_64-allyesconfig 2ef39e6

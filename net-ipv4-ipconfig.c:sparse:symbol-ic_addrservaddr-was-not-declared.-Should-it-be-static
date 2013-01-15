@@ -1,0 +1,3 @@
+net/ipv4/ipconfig.c:139:8: sparse: symbol 'ic_addrservaddr' was not declared. Should it be static?
+
+2013-01-07 16:16:49 snb devel-snb-i386-2013-01-07-16-04:257335c i386-allmodconfig 257335c

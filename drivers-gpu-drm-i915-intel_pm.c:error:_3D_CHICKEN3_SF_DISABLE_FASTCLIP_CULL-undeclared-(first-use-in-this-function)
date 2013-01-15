@@ -1,0 +1,3 @@
+drivers/gpu/drm/i915/intel_pm.c:3445:2: error: '_3D_CHICKEN3_SF_DISABLE_FASTCLIP_CULL' undeclared (first use in this function)
+
+2012-10-10 06:35:47 kbuild drm-intel:drm-intel-nightly:90adfd0 x86_64-allmodconfig 90adfd0

@@ -1,0 +1,3 @@
+zcache-main.c:(.text+0x7f9c8): undefined reference to `zcache_debugfs_init'
+
+2012-11-05 00:16:19 bee konrad-mm:devel:zcache.v3:1a303f5 i386-randconfig-b638 1a303f5

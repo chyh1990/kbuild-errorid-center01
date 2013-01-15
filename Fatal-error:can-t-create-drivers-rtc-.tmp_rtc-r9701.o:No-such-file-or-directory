@@ -1,0 +1,3 @@
+Fatal error: can't create drivers/rtc/.tmp_rtc-r9701.o: No such file or directory
+
+2012-10-01 13:56:23 hive renesas:next:b681273 x86_64-randconfig-h005 b681273

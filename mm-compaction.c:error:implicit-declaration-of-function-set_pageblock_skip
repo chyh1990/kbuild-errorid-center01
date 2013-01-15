@@ -1,0 +1,5 @@
+mm/compaction.c:115:3: error: implicit declaration of function 'set_pageblock_skip' [-Werror=implicit-function-declaration]
+
+2012-09-26 01:17:43 bee memcg:since-3.5:2f641f9 i386-randconfig-b083 2f641f9
+2012-09-26 17:24:22 bee memcg:since-3.5:66dc56c i386-randconfig-b083 66dc56c
+2012-09-30 06:02:53 bee calxeda:defconfig:0ac7be3 i386-randconfig-b083 0ac7be3

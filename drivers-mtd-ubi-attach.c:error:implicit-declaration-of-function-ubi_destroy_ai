@@ -1,0 +1,3 @@
+drivers/mtd/ubi/attach.c:1220:2: error: implicit declaration of function 'ubi_destroy_ai' [-Werror=implicit-function-declaration]
+
+2012-09-25 19:52:38 snb ubi2:ubi2:v18:f7fbc8a x86_64-randconfig-s002 4866acd

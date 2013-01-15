@@ -1,0 +1,4 @@
+make[2]: *** No rule to make target `modsign.pub', needed by `kernel/modsign-pubkey.o'.
+
+2012-08-16 09:21:48 bee modsign:modsign-rusty:9ed5e36 um-allyesconfig aab12f2
+2012-08-16 09:21:48 bee um email notified

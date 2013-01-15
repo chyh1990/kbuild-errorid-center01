@@ -1,0 +1,4 @@
+drivers/mfd/88pm860x-core.c:803:39: warning: assignment from incompatible pointer type [enabled by default]
+
+2012-09-21 06:47:55 snb battery:master:f1ade35 x86_64-randconfig-s362 a830d28
+2012-09-21 06:47:57 snb x86_64 email notified

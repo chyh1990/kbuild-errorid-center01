@@ -1,0 +1,3 @@
+drivers/power/ds2780_battery.c:662:5: warning: pointer targets in passing argument 2 of 'ds2780_write' differ in signedness [-Wpointer-sign]
+
+2012-09-26 11:54:00 bee samsung:charger-manager-for-next:9ea7889 x86_64-allyesconfig 9ea7889

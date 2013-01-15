@@ -1,0 +1,3 @@
+drivers/mtd/inftlmount.c:50 find_boot_record() warn: 'buf' puts 512 bytes on stack
+
+2013-01-09 13:26:48 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

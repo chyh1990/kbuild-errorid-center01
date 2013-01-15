@@ -1,0 +1,5 @@
+mm/truncate.c:596:17: error: 'const struct inode_operations' has no member named 'truncate'
+
+2012-12-21 07:30:03 bee vfs:for-jlayton:a1e960b x86_64-allyesconfig 5e89fcc
+2012-12-21 07:40:18 bee x86_64 email notified
+2012-12-21 08:35:00 snb vfs:for-linus:5d369b1 x86_64-randconfig-s520 5e89fcc

@@ -1,0 +1,4 @@
+drivers/watchdog/smsc37b787_wdt.c:575:2: error: implicit declaration of function 'release_region' [-Werror=implicit-function-declaration]
+
+2012-09-17 17:36:04 kbuild s390:for-linus:367faf0 i386-allyesconfig 367faf0
+2012-09-17 17:53:54 kbuild aarch64:upstream:85057ac i386-allyesconfig 85057ac

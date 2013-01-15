@@ -1,0 +1,4 @@
+warning: (DVB_USB_PCTV452E) selects TTPCI_EEPROM which has unmet direct dependencies (MEDIA_SUPPORT && DVB_CAPTURE_DRIVERS && DVB_CORE && PCI && I2C)
+
+2012-08-14 23:30:43 bee m68k /cc/kernel-tests/commit-list/samsung:v4l_samsung_for_v3.7:880d385 3785bc170f79ef04129731582b468c28e1326d6d
+2012-08-14 23:30:44 bee m68k email notified

@@ -1,0 +1,3 @@
+mm/memcontrol.c:6139 mem_cgroup_css_online() warn: variable dereferenced before check 'parent' (see line 6136)
+
+2013-01-11 00:48:16 kbuild devel-kbuild-i386-2013-01-11-00-03:c84bbdc i386-allyesconfig c84bbdc

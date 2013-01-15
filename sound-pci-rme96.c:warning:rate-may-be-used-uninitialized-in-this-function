@@ -1,0 +1,3 @@
+sound/pci/rme96.c:1721:13: warning: 'rate' may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+2012-09-18 18:16:41 bee yinghai:for-pci-res-alloc:aa23edc i386-randconfig-b032 aa23edc

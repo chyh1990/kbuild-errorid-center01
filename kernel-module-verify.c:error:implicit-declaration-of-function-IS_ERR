@@ -1,0 +1,4 @@
+kernel/module-verify.c:68:2: error: implicit declaration of function 'IS_ERR' [-Werror=implicit-function-declaration]
+
+2012-08-16 09:22:33 bee modsign:modsign-rusty:9ed5e36 cris-allyesconfig 580088f
+2012-08-16 09:22:33 bee cris email notified

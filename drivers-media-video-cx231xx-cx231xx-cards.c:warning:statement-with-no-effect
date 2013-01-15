@@ -1,0 +1,3 @@
+drivers/media/video/cx231xx/cx231xx-cards.c:846:2: warning: statement with no effect [-Wunused-value]
+
+2012-09-19 09:51:14 snb aa:autonuma25-MoF:0df1f89 x86_64-randconfig-s351 0df1f89

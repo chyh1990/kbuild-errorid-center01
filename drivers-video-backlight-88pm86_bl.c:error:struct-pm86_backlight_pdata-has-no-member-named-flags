@@ -1,0 +1,4 @@
+drivers/video/backlight/88pm860x_bl.c:242:22: error: 'struct pm860x_backlight_pdata' has no member named 'flags'
+
+2012-10-05 17:39:28 snb mfd:for-next-merge:b7ab22f i386-allmodconfig b7ab22f
+2012-10-05 19:08:34 bee devel-bee-i386-2012-10-05-18-53:fb64883 i386-randconfig-b138 fb64883

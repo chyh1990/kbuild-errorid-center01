@@ -1,0 +1,6 @@
+include/linux/acpi.h:444: error: expected ')' before 'addr'
+
+2012-09-28 11:57:19 snb devel-snb-arm-2012-09-28-11-28:9babed8 avr32-atngw100_defconfig 9babed8
+2012-09-28 13:23:17 snb devel-snb-arm-2012-09-28-13-06:22f8458 avr32-atngw100_defconfig 22f8458
+2012-09-28 14:04:09 snb devel-snb-arm-2012-09-28-13-52:b8870fc avr32-atngw100_defconfig b8870fc
+2012-09-28 14:53:37 snb devel-snb-arm-2012-09-28-14-11:6c67f41 avr32-atngw100_defconfig 6c67f41

@@ -1,0 +1,3 @@
+drivers/net/ethernet/mellanox/mlx4/en_cq.c:101:10: warning: pointer targets in passing argument 4 of 'mlx4_assign_eq' differ in signedness [-Wpointer-sign]
+
+2012-09-25 15:57:30 bee mac80211-next:for-john:64629b9 x86_64-allyesconfig 64629b9

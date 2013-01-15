@@ -1,0 +1,3 @@
+drivers/atm/iphase.c:2271:16: sparse: cast to restricted __le16
+
+2012-08-30 22:41:25 snb rcu:rcu:next:17da987 i386-allmodconfig c763ab1

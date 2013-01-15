@@ -1,0 +1,3 @@
+security/keys/request_key_auth.c:33:2: warning: (near initialization for 'key_type_request_key_auth') [enabled by default]
+
+2012-09-26 06:15:04 bee modsign:modsign-post-KS:37e779d x86_64-randconfig-x065 dfaabc4

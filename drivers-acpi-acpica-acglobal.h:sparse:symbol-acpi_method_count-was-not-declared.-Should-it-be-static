@@ -1,0 +1,3 @@
+drivers/acpi/acpica/acglobal.h:396:17: sparse: symbol 'acpi_method_count' was not declared. Should it be static?
+
+2013-01-11 21:13:16 snb devel-snb-i386-2013-01-11-20-44:9b0523a i386-allmodconfig 9b0523a

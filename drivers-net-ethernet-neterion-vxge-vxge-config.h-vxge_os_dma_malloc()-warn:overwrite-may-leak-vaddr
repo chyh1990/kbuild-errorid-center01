@@ -1,0 +1,3 @@
+drivers/net/ethernet/neterion/vxge/vxge-config.h:1932 vxge_os_dma_malloc() warn: overwrite may leak 'vaddr'
+
+2013-01-09 13:27:03 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

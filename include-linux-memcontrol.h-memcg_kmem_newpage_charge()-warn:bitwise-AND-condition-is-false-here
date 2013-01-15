@@ -1,0 +1,3 @@
+include/linux/memcontrol.h:494 memcg_kmem_newpage_charge() warn: bitwise AND condition is false here
+
+2012-09-13 17:17:49 kbuild glommer-memcg:kmemcg-slab:a1fe65d i386-allyesconfig a1fe65d

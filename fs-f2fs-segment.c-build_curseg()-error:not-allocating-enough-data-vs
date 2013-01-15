@@ -1,0 +1,3 @@
+fs/f2fs/segment.c:1463 build_curseg() error: not allocating enough data 4616 vs 4096
+
+2013-01-09 13:27:55 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

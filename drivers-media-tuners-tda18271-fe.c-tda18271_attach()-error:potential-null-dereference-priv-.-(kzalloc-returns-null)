@@ -1,0 +1,3 @@
+drivers/media/tuners/tda18271-fe.c:1280 tda18271_attach() error: potential null dereference 'priv'.  (kzalloc returns null)
+
+2013-01-09 13:27:50 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

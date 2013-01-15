@@ -1,0 +1,17 @@
+drivers/staging/media/easycap/easycap_main.c:2249:20: error: 'VM_RESERVED' undeclared (first use in this function)
+
+2012-09-07 22:41:07 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520
+2012-09-10 15:31:32 kbuild glommer-memcg:kmemcg-slab:b20a4ab i386-allyesconfig b20a4ab
+2012-09-10 15:46:01 kbuild glommer-memcg:kmemcg-stack:d9458f9 i386-allyesconfig d9458f9
+2012-09-14 00:06:31 hive memcg:since-3.5:d64f22e mips-allmodconfig ad48520
+2012-09-14 22:24:25 kbuild memcg:cleanups:memcg-sock-include:505b04e powerpc-allmodconfig 505b04e
+2012-09-18 18:07:34 kbuild memcg:since-3.5:8497a71 x86_64-allmodconfig 8497a71
+2012-09-18 20:47:14 kbuild glommer-memcg:kmemcg-slab:8c3300f i386-allyesconfig 8c3300f
+2012-09-18 20:53:38 kbuild glommer-memcg:kmemcg-stack:9875da3 i386-allyesconfig 9875da3
+2012-09-18 23:33:06 kbuild memcg:since-3.5:7f09675 x86_64-allmodconfig 7f09675
+2012-09-21 01:22:05 kbuild memcg:since-3.5:8acba30 x86_64-allmodconfig 8acba30
+2012-09-21 17:06:32 kbuild memcg:since-3.5:d9ffa14 x86_64-allmodconfig d9ffa14
+2012-09-21 21:21:39 kbuild memcg:since-3.5:51c6a68 x86_64-allmodconfig 51c6a68
+2012-09-27 17:42:07 snb memcg:since-3.5:a1e6f86 i386-allmodconfig a1e6f86
+2012-10-05 09:52:21 kbuild glommer-memcg:kmemcg-stack:5ef6493 x86_64-allmodconfig 973b07b
+2012-10-28 23:30:33 hive glommer-memcg:tmp-cache-free:c98470c mips-allmodconfig c98470c

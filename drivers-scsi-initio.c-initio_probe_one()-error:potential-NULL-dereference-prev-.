@@ -1,0 +1,3 @@
+drivers/scsi/initio.c:2910 initio_probe_one() error: potential NULL dereference 'prev'.
+
+2013-01-09 13:27:21 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+net/irda/irlmp.c:1878 irlmp_seq_hb_idx() warn: inconsistent returns spin_lock:&iter->hashbin->hb_spinlock: locked (1873) unlocked (1878)
+
+2013-01-09 13:27:38 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

@@ -1,0 +1,3 @@
+drivers/gpio/gpio-adp5520.c:30:8: warning: initialization from incompatible pointer type [enabled by default]
+
+2012-10-24 05:30:22 bee kgene-samsung:next:gpio-samsung:46064f1 parisc-allyesconfig 2b88ff4

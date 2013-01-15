@@ -1,0 +1,4 @@
+security/selinux/hooks.c:2129:7: warning: unused variable 'fd' [-Wunused-variable]
+
+2012-08-22 11:03:29 kbuild vfs:master:12faa32 x86_64-allmodconfig b527c5a
+2012-08-22 11:03:30 kbuild x86_64 email notified

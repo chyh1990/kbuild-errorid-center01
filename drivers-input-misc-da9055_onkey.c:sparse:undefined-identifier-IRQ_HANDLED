@@ -1,0 +1,3 @@
+drivers/input/misc/da9055_onkey.c:73:16: sparse: undefined identifier 'IRQ_HANDLED'
+
+2012-10-30 18:01:19 snb devel-snb-i386-2012-10-30-16-36:ce391ed i386-allmodconfig ce391ed

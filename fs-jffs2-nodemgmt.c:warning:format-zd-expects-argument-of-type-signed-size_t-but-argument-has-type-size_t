@@ -1,0 +1,3 @@
+fs/jffs2/nodemgmt.c:782:3: warning: format '%zd' expects argument of type 'signed size_t', but argument 3 has type 'size_t' [-Wformat]
+
+2013-01-09 22:38:27 snb next:master:0f7b07b mn10300-asb2364_defconfig 0f7b07b

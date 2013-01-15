@@ -1,0 +1,3 @@
+fs/hfsplus/attributes.c:64:5: warning: passing argument 3 of 'hfsplus_asc2uni' makes pointer from integer without a cast [enabled by default]
+
+2012-09-26 23:11:50 snb next:akpm:dad0019 x86_64-randconfig-s007 de44b61

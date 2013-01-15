@@ -1,0 +1,3 @@
+drivers/target/tcm_fc/tfc_sess.c:342:2: warning: pointer targets in passing argument 1 of 'ft_format_wwn' differ in signedness [-Wpointer-sign]
+
+2012-09-26 14:12:49 bee block:for-3.7:core:62ac665 x86_64-allyesconfig b87570f

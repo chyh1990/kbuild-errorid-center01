@@ -1,0 +1,4 @@
+net/ipv4/tcp.c:2282:3: error: implicit declaration of function 'inet_reset_saddr' [-Werror=implicit-function-declaration]
+
+2012-09-26 07:51:41 bee nf:master:82e6bfe x86_64-randconfig-x060 212ea99
+2012-09-26 07:52:17 bee x86_64 email notified

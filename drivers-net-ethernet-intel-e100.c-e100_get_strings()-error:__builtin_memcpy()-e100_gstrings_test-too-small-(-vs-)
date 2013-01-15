@@ -1,0 +1,3 @@
+drivers/net/ethernet/intel/e100.c:2729 e100_get_strings() error: __builtin_memcpy() '*e100_gstrings_test' too small (32 vs 160)
+
+2013-01-09 13:28:00 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

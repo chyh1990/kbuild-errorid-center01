@@ -1,0 +1,3 @@
+drivers/isdn/hisax/isar.c:433 isar_load_firmware() warn: maybe return -EFAULT instead of the bytes remaining?
+
+2013-01-09 13:27:40 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

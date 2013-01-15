@@ -1,0 +1,10 @@
+net/core/filter.c:793:3: error: (near initialization for 'decodes')
+
+2012-11-02 00:57:49 bee cr:crtools-v3.7-rc2:dcd5a94 x86_64-allyesdebian dcd5a94
+2012-11-02 01:01:38 snb devel-snb-x86_64-2012-11-02-00-54:1e1483c x86_64-randconfig-s200 1e1483c
+2012-11-02 01:20:12 lkp-mb01 devel-lkp-mb01-i386-2012-11-02-00-56:d39e211 i386-randconfig-m111 d39e211
+2012-11-02 01:50:51 bee devel-bee-sparc64-2012-11-02-01-19:1ee7046 powerpc-chroma_defconfig 1ee7046
+2012-11-02 02:10:03 lkp-mb01 devel-lkp-mb01-s390-2012-11-02-01-21:be277da alpha-defconfig be277da
+2012-11-02 02:11:54 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-02-01-21:a777659 blackfin-BF526-EZBRD_defconfig a777659
+2012-11-04 23:01:47 kbuild cr:crtools-v3.7-rc2:7568812 x86_64-allmodconfig dcd5a94
+2012-11-12 17:33:56 kbuild cr:crtools-v3.7-rc5:ad93155 x86_64-allmodconfig 70d58b3

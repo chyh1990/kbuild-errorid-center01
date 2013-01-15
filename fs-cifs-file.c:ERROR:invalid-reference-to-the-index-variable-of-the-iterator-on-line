@@ -1,0 +1,4 @@
+fs/cifs/file.c:3157:23-27: ERROR: invalid reference to the index variable of the iterator on line 3149
+
+2012-09-19 13:01:42 snb cifs:for-next:324b53b i386-allmodconfig a4a2391
+2012-09-19 13:01:43 snb i386 email notified

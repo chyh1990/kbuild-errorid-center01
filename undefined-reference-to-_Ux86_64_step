@@ -1,0 +1,3 @@
+tools/perf/util/unwind.c:531: undefined reference to `_Ux86_64_step'
+
+2012-08-12 02:15:21 bee i386 /cc/kernel-tests/commit-list/perf:perf:core:26d3302 71ad0f5e4e361c8bca864c7d09d14b64af6bc2fc

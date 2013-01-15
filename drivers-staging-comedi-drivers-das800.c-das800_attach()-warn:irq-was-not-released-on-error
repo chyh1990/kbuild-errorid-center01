@@ -1,0 +1,3 @@
+drivers/staging/comedi/drivers/das800.c:517 das800_attach() warn: 'irq' was not released on error
+
+2012-09-12 11:58:23 kbuild security:next:a40695e i386-allyesconfig a40695e

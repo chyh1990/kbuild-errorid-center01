@@ -1,0 +1,4 @@
+kernel/module.c:2455 copy_module_from_user() warn: maybe return -EFAULT instead of the bytes remaining?
+
+2012-09-12 08:35:47 kbuild integrity:next-ima-new-check-module-syscall:3167cf7 i386-allyesconfig 3167cf7
+2012-09-12 09:47:31 kbuild i386 email notified

@@ -1,0 +1,3 @@
+include/linux/of_dma.h:51: warning: 'of_dma_controller_register' defined but not used
+
+2012-11-29 02:08:50 snb devel-snb-arm-2012-11-29-01-57:bc2652b avr32-atngw100_defconfig bc2652b

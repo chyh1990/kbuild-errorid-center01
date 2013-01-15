@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/gpu/drm/vmwgfx/vmwgfx_drv.c:788 vmw_unlocked_ioctl() warn: buffer overflow 'vmw_ioctls' 21 <= 95
+
+2013-01-07 12:25:10 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

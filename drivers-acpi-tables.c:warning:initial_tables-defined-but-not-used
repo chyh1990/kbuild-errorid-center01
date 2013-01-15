@@ -1,0 +1,3 @@
+drivers/acpi/tables.c:43:31: warning: 'initial_tables' defined but not used [-Wunused-variable]
+
+2012-09-26 12:46:07 bee thermal:next:5d8d708 cris-allyesconfig f4a821c

@@ -1,0 +1,3 @@
+fs/jfs/inode.c:70 jfs_iget() error: buffer overflow 'JFS_IP(inode)->u.link._inline' 128 <= 255
+
+2013-01-09 13:28:08 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

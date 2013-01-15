@@ -1,0 +1,3 @@
+drivers/video/via/viafbdev.c:1634:4: warning: unused variable 'iga1_entry' [-Wunused-variable]
+
+2013-01-09 12:32:07 inn linus:master:974b335 x86_64-randconfig-n368 974b335

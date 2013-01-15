@@ -1,0 +1,3 @@
+drivers/staging/dgrp/dgrp_net_ops.c:229:15: sparse: incompatible types in conditional expression (different base types)
+
+2012-10-25 03:01:16 snb tty:tty-next:e1a9c17 i386-allmodconfig e1a9c17

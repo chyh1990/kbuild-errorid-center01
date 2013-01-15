@@ -1,0 +1,3 @@
+fs/btrfs/reada.c:677 reada_start_machine_dev() error: we previously assumed 'dev->reada_curr_zone' could be null (see line 663)
+
+2013-01-09 13:27:56 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

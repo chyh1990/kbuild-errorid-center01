@@ -1,0 +1,15 @@
+include/net/netns/packet.h:11:16: error: field 'sklist_lock' has incomplete type
+
+2012-08-23 22:13:47 bee batman:batman-adv:next:fa4f0af i386-randconfig-b873 0fa7fa9
+2012-08-23 22:13:48 bee i386 email notified
+2012-09-06 20:37:25 lkp-mb01 can:for-davem:bbe660a blackfin-BF533-EZKIT_defconfig 8de47de
+2012-09-08 04:13:11 snb wireless-next:for-davem:d679c53 x86_64-randconfig-s277 811927c
+2012-09-09 09:04:27 kbuild can:master:bbe660a powerpc-allmodconfig 5f2d04f
+2012-09-12 03:34:07 lkp-mb01 wireless-next:for-davem:280050c blackfin-BF533-EZKIT_defconfig fa4f0af
+2012-09-12 23:11:25 snb congwang:ipv6:a7bff5a avr32-atngw100_defconfig 811927c
+2012-09-13 18:53:55 lkp-mb01 can:master:1e3f168 i386-randconfig-m071 3713517
+2012-09-19 19:40:02 kbuild cr:crtools-3.6-rc5:36cd026 powerpc-defconfig 36cd026
+2012-09-19 23:03:11 bee cr:crtools-3.6-rc5:55828aa i386-randconfig-b041 55828aa
+2012-09-20 02:45:59 snb cr:crtools-3.6-rc5:0f5ec89 x86_64-randconfig-s354 0f5ec89
+2012-10-01 15:13:58 snb cr:crtools-3.6:5bdf2e4 arm-at91_dt_defconfig 5bdf2e4
+2012-10-01 17:01:32 snb devel-snb-x86_64-2012-10-01-16-53:1b7aefd x86_64-randconfig-s026 1b7aefd

@@ -1,0 +1,3 @@
+drivers/regulator/max77686.c:149:5: sparse: symbol 'max77686_enable' was not declared. Should it be static?
+
+2012-10-18 13:42:23 snb next:master:d646959 i386-allmodconfig d646959

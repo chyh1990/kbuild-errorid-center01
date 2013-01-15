@@ -1,0 +1,3 @@
+arch/x86/boot/pm.c:104:6: sparse: symbol 'go_to_protected_mode' redeclared with different type (originally declared at arch/x86/boot/boot.h:328) - different modifiers
+
+2012-07-23 21:34:26 snb i386 /cc/kernel-tests/commit-list/watchdog:master:0dd6e48 a6be1fcbc57f95bb47ef3c8e4ee3d83731b8f21e

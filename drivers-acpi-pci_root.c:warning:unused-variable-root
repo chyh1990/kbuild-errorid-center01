@@ -1,0 +1,4 @@
+drivers/acpi/pci_root.c:615:24: warning: unused variable 'root' [-Wunused-variable]
+
+2012-09-30 17:11:20 kbuild yinghai:for-pci-next:a25307a x86_64-allmodconfig fe369a4
+2012-09-30 17:11:20 kbuild x86_64 email notified

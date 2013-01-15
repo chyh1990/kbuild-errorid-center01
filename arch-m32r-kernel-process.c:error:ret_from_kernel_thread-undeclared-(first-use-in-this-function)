@@ -1,0 +1,5 @@
+arch/m32r/kernel/process.c:205:35: error: 'ret_from_kernel_thread' undeclared (first use in this function)
+
+2012-10-16 23:34:02 lkp-mb01 signal:arch-m32r:ad256c8 m32r-m32104ut_defconfig ad256c8
+2012-10-31 09:35:07 lkp-mb01 devel-lkp-mb01-blackfin-2012-10-31-09-21:6eac3f3 m32r-m32104ut_defconfig 6eac3f3
+2012-11-01 07:28:26 lkp-mb01 devel-lkp-mb01-blackfin-2012-11-01-06-45:04c11ef m32r-m32104ut_defconfig 04c11ef

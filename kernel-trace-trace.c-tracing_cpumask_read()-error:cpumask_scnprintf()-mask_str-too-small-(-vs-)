@@ -1,0 +1,3 @@
+kernel/trace/trace.c:2704 tracing_cpumask_read() error: cpumask_scnprintf() 'mask_str' too small (33 vs 1024)
+
+2013-01-09 13:27:27 kbuild next:akpm:ef2dca2 i386-allyesconfig ef2dca2

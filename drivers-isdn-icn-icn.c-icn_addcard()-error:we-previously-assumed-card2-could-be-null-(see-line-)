@@ -1,0 +1,3 @@
+drivers/isdn/icn/icn.c:1584 icn_addcard() error: we previously assumed 'card2' could be null (see line 1581)
+
+2012-09-07 22:42:12 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

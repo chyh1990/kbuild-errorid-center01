@@ -1,0 +1,4 @@
+drivers/pci/iov.c:632:2-11: code aligned with following code on line 634
+
+2012-09-22 05:36:20 snb pci:next:168ae6a i386-allmodconfig 168ae6a
+2012-09-22 05:49:22 snb i386 email notified

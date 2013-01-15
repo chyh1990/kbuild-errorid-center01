@@ -1,0 +1,3 @@
+net/ceph/messenger.c:174:6: sparse: symbol '_ceph_msgr_exit' was not declared. Should it be static?
+
+2013-01-09 13:11:58 snb next:akpm:ef2dca2 i386-allmodconfig ef2dca2

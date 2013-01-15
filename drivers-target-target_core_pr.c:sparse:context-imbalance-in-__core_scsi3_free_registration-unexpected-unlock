@@ -1,0 +1,3 @@
+drivers/target/target_core_pr.c:1299:28: sparse: context imbalance in '__core_scsi3_free_registration' - unexpected unlock
+
+2012-09-23 20:09:17 snb wfg:0day:ffa581c i386-allmodconfig ffa581c

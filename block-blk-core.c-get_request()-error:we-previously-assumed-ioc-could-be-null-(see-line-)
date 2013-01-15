@@ -1,0 +1,3 @@
+block/blk-core.c:984 get_request() error: we previously assumed 'ioc' could be null (see line 883)
+
+2012-09-07 22:42:19 kbuild memcg:since-3.5:ad48520 i386-allyesconfig ad48520

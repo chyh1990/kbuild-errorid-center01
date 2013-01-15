@@ -1,0 +1,3 @@
+drivers/acpi/custom_method.c:64:3: warning: pointer targets in passing argument 1 of 'acpi_install_method' differ in signedness [-Wpointer-sign]
+
+2012-09-26 12:45:48 bee thermal:next:5d8d708 x86_64-allyesconfig f4a821c

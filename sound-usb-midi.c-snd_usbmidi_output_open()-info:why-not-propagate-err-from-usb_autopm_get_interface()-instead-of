@@ -1,0 +1,3 @@
+sound/usb/midi.c:1080 snd_usbmidi_output_open() info: why not propagate 'err' from usb_autopm_get_interface() instead of -5?
+
+2012-09-12 11:56:59 kbuild security:next:a40695e i386-allyesconfig a40695e

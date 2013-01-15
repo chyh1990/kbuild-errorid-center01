@@ -1,0 +1,4 @@
+WARNING: vmlinux.o(.text+0x17fdfe): Section mismatch in reference from the function pcibios_add_device() to the variable .init.data:boot_params
+
+2012-09-08 14:11:10 lkp-mb01 pci:next:97ac9d1 i386-randconfig-m021 86153d6
+2012-09-08 14:11:12 lkp-mb01 i386 email notified

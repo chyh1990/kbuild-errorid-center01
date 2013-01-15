@@ -1,0 +1,3 @@
+drivers/scsi/qla4xxx/ql4_os.c:714 qla4xxx_ep_connect() error: __builtin_memcpy() 'dst_addr' too small (16 vs 28)
+
+2013-01-13 01:57:28 kbuild devel-kbuild-i386-2013-01-13-01-21:dcc4fce i386-allyesconfig dcc4fce

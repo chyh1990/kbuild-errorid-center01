@@ -1,0 +1,3 @@
+sound/soc/codecs/wm5102.c:690:1: warning: excess elements in struct initializer [enabled by default]
+
+2012-11-20 11:26:28 kbuild devel-kbuild-x86_64-2012-11-20-11-21:02fe63f x86_64-allmodconfig 02fe63f

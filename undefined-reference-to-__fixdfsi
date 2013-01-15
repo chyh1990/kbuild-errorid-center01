@@ -1,0 +1,4 @@
+(.text+0x2b4181): undefined reference to `__fixdfsi'
+
+2012-09-27 13:38:29 kbuild devel-kbuild-i386-2012-09-27-13-27:5d78ff1 i386-allyesconfig 5d78ff1
+2012-09-27 15:35:21 kbuild devel-kbuild-i386-2012-09-27-15-24:eaf248b i386-allyesconfig eaf248b

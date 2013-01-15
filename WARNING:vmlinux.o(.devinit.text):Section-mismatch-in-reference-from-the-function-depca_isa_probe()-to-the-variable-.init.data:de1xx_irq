@@ -1,0 +1,3 @@
+WARNING: vmlinux.o(.devinit.text+0x24d2f): Section mismatch in reference from the function depca_isa_probe() to the variable .init.data:de1xx_irq
+
+2012-08-05 13:43:16 bee i386 /dev/shm/linus:master:e7882d6 4cb38750d49010ae72e718d46605ac9ba5a851b4

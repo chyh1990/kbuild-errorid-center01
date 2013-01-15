@@ -1,0 +1,3 @@
+drivers/hid/hid-logitech-dj.c:266:2: warning: pointer targets in passing argument 1 of 'snprintf' differ in signedness [-Wpointer-sign]
+
+2012-09-25 21:50:17 bee hid:upstream:4cc9834 x86_64-allyesconfig 4cc9834

@@ -1,0 +1,3 @@
+fs/exec.c:786:2: warning: passing argument 1 of 'trace_open_exec' discards 'const' qualifier from pointer target type [enabled by default]
+
+2012-09-28 21:35:00 bee calxeda:ubuntu-quantal:c07f157 x86_64-allyesdebian c07f157

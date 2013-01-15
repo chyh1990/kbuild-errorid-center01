@@ -1,0 +1,3 @@
+/c/kernel-tests/src/linux/drivers/media/pci/saa7164/saa7164-cmd.c:88 saa7164_irq_dequeue() warn: 'tmp' puts 512 bytes on stack
+
+2013-01-07 12:25:15 kbuild next:akpm:e862d51 i386-allyesconfig e862d51

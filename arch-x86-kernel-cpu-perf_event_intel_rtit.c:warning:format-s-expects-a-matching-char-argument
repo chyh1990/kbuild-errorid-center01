@@ -1,0 +1,4 @@
+arch/x86/kernel/cpu/perf_event_intel_rtit.c:229:2: warning: format '%s' expects a matching 'char *' argument [-Wformat]
+
+2012-08-06 22:24:06 kbuild i386 /cc/kernel-tests/commit-list/ashishki:rtit-dummy:4d53916 63ae3de244839bebf8ed926258b3860567711866
+2012-08-06 22:24:07 kbuild i386 email notified
